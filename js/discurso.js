@@ -32,7 +32,8 @@ async function cargarDiscurso() {
             return;
         }
 
-        mostrarDiscurso(discurso);
+mostrarDiscurso(discurso);
+guardarUltimoDiscurso(discurso);
 
     } catch (error) {
         console.error("Error al cargar el discurso:", error);
@@ -420,4 +421,26 @@ function escaparHTML(texto) {
 
 function escaparAtributo(texto) {
     return escaparHTML(texto);
+}
+function guardarUltimoDiscurso(discurso) {
+    try {
+        const ultimoDiscurso = {
+            id: discurso.id,
+            titulo: discurso.titulo,
+            fecha: discurso.fecha,
+            lugar: discurso.lugar,
+            miniatura: obtenerImagen(discurso)
+        };
+
+        localStorage.setItem(
+            "ultimoDiscurso",
+            JSON.stringify(ultimoDiscurso)
+        );
+
+    } catch (error) {
+        console.error(
+            "No se pudo guardar el último discurso:",
+            error
+        );
+    }
 }

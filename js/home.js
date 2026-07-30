@@ -63,10 +63,11 @@ async function cargarHome() {
 
         const discursos = await respuesta.json();
 
-        crearHeroDinamico(discursos);
-        crearCarruselesPorColeccion(discursos);
-        crearCarruselUltimos(discursos);
-        prepararControlesCarrusel();
+            crearHeroDinamico(discursos);
+            crearContinuarViendo(discursos);
+            crearCarruselesPorColeccion(discursos);
+            crearCarruselUltimos(discursos);
+            prepararControlesCarrusel();
 
     } catch (error) {
         console.error("Error al cargar el home:", error);
@@ -75,7 +76,47 @@ async function cargarHome() {
     }
 }
 
+function crearContinuarViendo(discursos) {
+    const seccion = document.getElementById("seccion-continuar");
+    const contenedor = document.getElementById("carrusel-continuar");
 
+    if (!seccion || !contenedor) {
+        return;
+    }
+
+    let ultimoGuardado;
+
+    try {
+        ultimoGuardado = JSON.parse(
+            localStorage.getItem("ultimoDiscurso")
+        );
+    } catch (error) {
+        console.error(
+            "No se pudo leer el último discurso:",
+            error
+        );
+
+        localStorage.removeItem("ultimoDiscurso");
+        return;
+    }
+
+    if (!ultimoGuardado?.id) {
+        return;
+    }
+
+    const discursoCompleto = discursos.find(
+        discurso =>
+            String(discurso.id) ===
+            String(ultimoGuardado.id)
+    );
+
+    const discurso = discursoCompleto || ultimoGuardado;
+
+    contenedor.innerHTML = "";
+    contenedor.appendChild(crearTarjeta(discurso));
+
+    seccion.hidden = false;
+}
 function prepararControlesCarrusel() {
     const carruseles = document.querySelectorAll(
         ".carrusel-discursos"
