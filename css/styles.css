@@ -853,3 +853,20 @@ button:hover {
     }
 
 }
+html {
+    scroll-behavior: smooth;
+}
+#top,
+#explorar,
+#buscar-discursos {
+    scroll-margin-top: 90px;
+}
+.pagina-explorar {
+    padding-top: 110px;
+    min-height: 100vh;
+}
+
+.pagina-explorar h1 {
+    margin-bottom: 24px;
+    font-size: clamp(2rem, 4vw, 3.5rem);
+}
