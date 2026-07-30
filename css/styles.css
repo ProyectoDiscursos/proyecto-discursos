@@ -142,6 +142,15 @@ button:hover {
     display: flex;
     gap: 20px;
     overflow-x: auto;
+    overflow-y: hidden;
+    scroll-behavior: smooth;
+    scroll-snap-type: x proximity;
+    scrollbar-width: none;
+    padding: 8px 2px 14px;
+}
+
+.cards::-webkit-scrollbar {
+    display: none;
 }
 
 .card {
@@ -149,6 +158,7 @@ button:hover {
     width: 320px;
     cursor: pointer;
     transition: transform .3s;
+    scroll-snap-align: start;
 }
 
 .card:hover {
@@ -853,20 +863,100 @@ button:hover {
     }
 
 }
+
+/* =========================================================
+   NAVEGACIÓN GENERAL
+   ========================================================= */
+
 html {
     scroll-behavior: smooth;
 }
+
 #top,
 #explorar,
 #buscar-discursos {
     scroll-margin-top: 90px;
 }
+
+
+/* =========================================================
+   PÁGINA EXPLORAR
+   ========================================================= */
+
 .pagina-explorar {
-    padding-top: 110px;
+    width: 100%;
     min-height: 100vh;
+    padding: 110px 40px 60px;
+    overflow: visible;
+}
+
+.pagina-explorar #explorar {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: visible;
 }
 
 .pagina-explorar h1 {
-    margin-bottom: 24px;
+    margin: 0 0 28px;
     font-size: clamp(2rem, 4vw, 3.5rem);
+}
+
+.pagina-explorar .buscador-archivo {
+    width: 100%;
+    margin: 0 0 35px;
+}
+
+.pagina-explorar .grid-discursos {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 24px;
+    width: 100%;
+    height: auto;
+    max-height: none;
+    overflow: visible;
+    padding: 0;
+}
+
+.pagina-explorar .grid-discursos .card {
+    width: 100%;
+    min-width: 0;
+    max-width: none;
+    margin: 0;
+    overflow: visible;
+}
+
+.pagina-explorar .grid-discursos .card:hover {
+    transform: translateY(-5px);
+}
+
+
+/* =========================================================
+   RESPONSIVE GENERAL
+   ========================================================= */
+
+@media (max-width: 700px) {
+
+    .navbar {
+        height: 65px;
+        padding: 0 20px;
+    }
+
+    .logo {
+        font-size: 21px;
+    }
+
+    .navbar nav a {
+        margin-left: 14px;
+        font-size: 14px;
+    }
+
+    .pagina-explorar {
+        padding: 90px 18px 40px;
+    }
+
+    .pagina-explorar .grid-discursos {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
 }

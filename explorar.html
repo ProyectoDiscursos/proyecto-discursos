@@ -4,15 +4,26 @@
 <head>
 
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Explorar | Proyecto Discursos</title>
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Explorar | Proyecto Discursos</title>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
 
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
 
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap"
+        rel="stylesheet"
+    >
 
     <link rel="stylesheet" href="css/styles.css">
 
@@ -20,73 +31,80 @@
 
 <body>
 
-<header class="navbar" id="top">
+    <header class="navbar" id="top">
 
-    <a class="logo" href="index.html">
-        Proyecto Discursos
-    </a>
+        <a class="logo" href="index.html">
+            Proyecto Discursos
+        </a>
 
-    <nav>
-        <a href="index.html">Inicio</a>
-        <a href="explorar.html">Explorar</a>
-    </nav>
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="explorar.html">Explorar</a>
+        </nav>
 
-</header>
+    </header>
 
-<section class="row" id="explorar"></section>
+    <main class="pagina-explorar">
 
-<h1>Explorar el archivo</h1>
+        <section id="explorar">
 
-    <section class="buscador-archivo">
+            <h1>Explorar el archivo</h1>
 
-    <label for="buscar-discursos">
-        Buscar en el archivo
-    </label>
+            <section class="buscador-archivo">
 
-    <input
-        id="buscar-discursos"
-        type="search"
-        placeholder="Título, lugar, año, colección..."
-        autocomplete="off"
-    >
+                <label for="buscar-discursos">
+                    Buscar en el archivo
+                </label>
 
-    <p id="cantidad-resultados"></p>
+                <input
+                    id="buscar-discursos"
+                    type="search"
+                    placeholder="Título, lugar, año, colección..."
+                    autocomplete="off"
+                >
 
-    <div class="filtros-archivo">
+                <p id="cantidad-resultados"></p>
 
-        <select id="filtro-anio">
-            <option value="">Todos los años</option>
-        </select>
+                <div class="filtros-archivo">
 
-        <select id="filtro-coleccion">
-            <option value="">Todas las colecciones</option>
-        </select>
+                    <select id="filtro-anio">
+                        <option value="">Todos los años</option>
+                    </select>
 
-        <select id="filtro-estado">
-            <option value="">Todos los estados</option>
-        </select>
+                    <select id="filtro-coleccion">
+                        <option value="">Todas las colecciones</option>
+                    </select>
 
-        <select id="orden-discursos">
-            <option value="recientes">Más recientes</option>
-            <option value="antiguos">Más antiguos</option>
-            <option value="az">Título: A–Z</option>
-            <option value="za">Título: Z–A</option>
-        </select>
+                    <select id="filtro-estado">
+                        <option value="">Todos los estados</option>
+                    </select>
 
-        <button id="limpiar-filtros" type="button">
-            Limpiar filtros
-        </button>
+                    <select id="orden-discursos">
+                        <option value="recientes">Más recientes</option>
+                        <option value="antiguos">Más antiguos</option>
+                        <option value="az">Título: A–Z</option>
+                        <option value="za">Título: Z–A</option>
+                    </select>
 
-    </div>
+                    <button id="limpiar-filtros" type="button">
+                        Limpiar filtros
+                    </button>
 
-</section>
-    </section>
+                </div>
 
-    <div id="discursos" class="cards"></div>
+            </section>
 
-</section>
+            <div
+                id="discursos"
+                class="cards grid-discursos"
+            ></div>
 
-<script src="js/script.js"></script>
+        </section>
+
+    </main>
+
+    <script src="js/script.js"></script>
 
 </body>
+
 </html>
