@@ -960,3 +960,109 @@ html {
         gap: 20px;
     }
 }
+/* ========================================
+   CONTROLES DE LOS CARRUSELES
+======================================== */
+
+.carrusel-contenedor {
+    position: relative;
+    width: 100%;
+}
+
+.carrusel-discursos {
+    display: flex;
+    gap: 20px;
+
+    overflow-x: auto;
+    overflow-y: hidden;
+
+    scroll-behavior: smooth;
+    scroll-snap-type: x proximity;
+
+    padding: 10px 4px 18px;
+
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+}
+
+.carrusel-discursos::-webkit-scrollbar {
+    display: none;
+}
+
+.carrusel-discursos .card {
+    flex: 0 0 320px;
+    scroll-snap-align: start;
+}
+
+.boton-carrusel {
+    position: absolute;
+    top: 0;
+    bottom: 18px;
+
+    z-index: 10;
+
+    width: 58px;
+    border: 0;
+
+    color: white;
+    font-family: inherit;
+    font-size: 54px;
+    font-weight: 400;
+
+    cursor: pointer;
+
+    opacity: 0;
+    transition:
+        opacity 0.2s ease,
+        background 0.2s ease;
+}
+
+.carrusel-contenedor:hover .boton-carrusel:not(:disabled),
+.boton-carrusel:focus-visible {
+    opacity: 1;
+}
+
+.boton-carrusel-izquierda {
+    left: 0;
+
+    background: linear-gradient(
+        to right,
+        rgba(5, 8, 18, 0.95),
+        rgba(5, 8, 18, 0)
+    );
+}
+
+.boton-carrusel-derecha {
+    right: 0;
+
+    background: linear-gradient(
+        to left,
+        rgba(5, 8, 18, 0.95),
+        rgba(5, 8, 18, 0)
+    );
+}
+
+.boton-carrusel:disabled,
+.boton-carrusel[hidden] {
+    display: none;
+}
+
+.boton-carrusel span {
+    display: block;
+    transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+    .carrusel-discursos {
+        gap: 14px;
+        padding-right: 20px;
+    }
+
+    .carrusel-discursos .card {
+        flex-basis: min(82vw, 320px);
+    }
+
+    .boton-carrusel {
+        display: none;
+    }
+}

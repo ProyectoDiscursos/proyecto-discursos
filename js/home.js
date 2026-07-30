@@ -65,6 +65,7 @@ async function cargarHome() {
 
         crearCarruselesPorColeccion(discursos);
         crearCarruselUltimos(discursos);
+        prepararControlesCarrusel();
 
     } catch (error) {
         console.error("Error al cargar el home:", error);
@@ -72,6 +73,163 @@ async function cargarHome() {
         mostrarErrorEnCarruseles();
     }
 }
+
+
+function prepararControlesCarrusel() {
+    const carruseles = document.querySelectorAll(
+        ".carrusel-discursos"
+    );
+
+    carruseles.forEach(carrusel => {
+        if (carrusel.closest(".carrusel-contenedor")) {
+            return;
+        }
+
+        const contenedor = document.createElement("div");
+        contenedor.classList.add("carrusel-contenedor");
+
+        const botonIzquierda = crearBotonCarrusel(
+            "izquierda",
+            "‹",
+            "Desplazar hacia la izquierda"
+        );
+
+        const botonDerecha = crearBotonCarrusel(
+            "derecha",
+            "›",
+            "Desplazar hacia la derecha"
+        );
+
+        carrusel.parentNode.insertBefore(
+            contenedor,
+            carrusel
+        );
+
+        contenedor.appendChild(botonIzquierda);
+        contenedor.appendChild(carrusel);
+        contenedor.appendChild(botonDerecha);
+
+        botonIzquierda.addEventListener("click", () => {
+            desplazarCarrusel(carrusel, -1);
+        });
+
+        botonDerecha.addEventListener("click", () => {
+            desplazarCarrusel(carrusel, 1);
+        });
+
+        carrusel.addEventListener("scroll", () => {
+            actualizarBotonesCarrusel(
+                carrusel,
+                botonIzquierda,
+                botonDerecha
+            );
+        });
+
+        actualizarBotonesCarrusel(
+            carrusel,
+            botonIzquierda,
+            botonDerecha
+        );
+    });
+
+    window.addEventListener(
+        "resize",
+        actualizarTodosLosCarruseles
+    );
+}
+function crearBotonCarrusel(direccion, simbolo, etiqueta) {
+    const boton = document.createElement("button");
+
+    boton.type = "button";
+    boton.classList.add(
+        "boton-carrusel",
+        `boton-carrusel-${direccion}`
+    );
+
+    boton.innerHTML = `
+        <span aria-hidden="true">${simbolo}</span>
+    `;
+
+    boton.setAttribute("aria-label", etiqueta);
+
+    return boton;
+}
+
+
+function desplazarCarrusel(carrusel, direccion) {
+    const distancia = Math.max(
+        carrusel.clientWidth * 0.8,
+        320
+    );
+
+    carrusel.scrollBy({
+        left: direccion * distancia,
+        behavior: "smooth"
+    });
+}
+
+
+function actualizarBotonesCarrusel(
+    carrusel,
+    botonIzquierda,
+    botonDerecha
+) {
+    const margen = 5;
+
+    const estaAlInicio =
+        carrusel.scrollLeft <= margen;
+
+    const estaAlFinal =
+        carrusel.scrollLeft + carrusel.clientWidth >=
+        carrusel.scrollWidth - margen;
+
+    const tieneDesplazamiento =
+        carrusel.scrollWidth > carrusel.clientWidth + margen;
+
+    botonIzquierda.disabled =
+        !tieneDesplazamiento || estaAlInicio;
+
+    botonDerecha.disabled =
+        !tieneDesplazamiento || estaAlFinal;
+
+    botonIzquierda.hidden = !tieneDesplazamiento;
+    botonDerecha.hidden = !tieneDesplazamiento;
+}
+
+
+function actualizarTodosLosCarruseles() {
+    const contenedores = document.querySelectorAll(
+        ".carrusel-contenedor"
+    );
+
+    contenedores.forEach(contenedor => {
+        const carrusel = contenedor.querySelector(
+            ".carrusel-discursos"
+        );
+
+        const botonIzquierda = contenedor.querySelector(
+            ".boton-carrusel-izquierda"
+        );
+
+        const botonDerecha = contenedor.querySelector(
+            ".boton-carrusel-derecha"
+        );
+
+        if (
+            carrusel &&
+            botonIzquierda &&
+            botonDerecha
+        ) {
+            actualizarBotonesCarrusel(
+                carrusel,
+                botonIzquierda,
+                botonDerecha
+            );
+        }
+    });
+}
+        mostrarErrorEnCarruseles();
+
 
 
 function crearCarruselesPorColeccion(discursos) {
