@@ -904,3 +904,38 @@ html {
         gap: 20px;
     }
 }
+/* =========================================================
+   DISCURSOS RELACIONADOS
+   ========================================================= */
+
+.detalle-relacionados {
+    padding: 20px 70px 90px;
+    background: #080b0f;
+}
+
+.relacionados-bloque {
+    margin-bottom: 60px;
+}
+
+.relacionados-bloque:last-child {
+    margin-bottom: 0;
+}
+
+.relacionados-bloque h2 {
+    margin: 0 0 20px;
+
+    font-size: 30px;
+    font-weight: 800;
+
+    letter-spacing: -.03em;
+}
+
+@media (max-width:700px){
+
+    .detalle-relacionados{
+
+        padding:40px 22px 70px;
+
+    }
+
+}

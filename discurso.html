@@ -26,6 +26,7 @@
     >
 
     <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/home.css">
 
 </head>
 
@@ -45,19 +46,37 @@
 </header>
 
 
-<main id="ficha-discurso" class="ficha-discurso">
+<main>
 
-    <section class="detalle-cargando">
+    <div id="ficha-discurso" class="ficha-discurso">
 
-        <div class="cargando-circulo"></div>
+        <section class="detalle-cargando">
 
-        <p>Cargando discurso...</p>
+            <div class="cargando-circulo"></div>
+
+            <p>Cargando discurso...</p>
+
+        </section>
+
+    </div>
+
+    <section
+        id="relacionados"
+        class="detalle-relacionados"
+        hidden
+    >
+
+        <div class="detalle-contenedor">
+
+            <div id="relacionados-contenido"></div>
+
+        </div>
 
     </section>
 
 </main>
 
-
+<script src="js/componentes.js"></script>
 <script src="js/discurso.js"></script>
 
 </body>

@@ -34,6 +34,7 @@ async function cargarDiscurso() {
 
 mostrarDiscurso(discurso);
 guardarUltimoDiscurso(discurso);
+crearRelacionados(discurso, discursos);
 
     } catch (error) {
         console.error("Error al cargar el discurso:", error);
@@ -443,4 +444,124 @@ function guardarUltimoDiscurso(discurso) {
             error
         );
     }
+}
+function crearRelacionados(
+    discursoActual,
+    todosLosDiscursos
+) {
+    const seccion =
+        document.getElementById("relacionados");
+
+    const contenedor =
+        document.getElementById(
+            "relacionados-contenido"
+        );
+
+    if (!seccion || !contenedor) {
+        return;
+    }
+
+    contenedor.innerHTML = "";
+    seccion.hidden = true;
+
+    const colecciones = obtenerColecciones(
+        discursoActual.colecciones
+    );
+
+    if (colecciones.length === 0) {
+        return;
+    }
+
+    let hayContenido = false;
+
+    colecciones.forEach(nombreColeccion => {
+        const relacionados = todosLosDiscursos
+            .filter(discurso => {
+                if (
+                    String(discurso.id) ===
+                    String(discursoActual.id)
+                ) {
+                    return false;
+                }
+
+                const coleccionesDelDiscurso =
+                    obtenerColecciones(
+                        discurso.colecciones
+                    );
+
+                return coleccionesDelDiscurso.some(
+                    coleccion =>
+                        normalizarColeccion(coleccion) ===
+                        normalizarColeccion(
+                            nombreColeccion
+                        )
+                );
+            })
+            .sort((a, b) =>
+                String(b.fecha || "").localeCompare(
+                    String(a.fecha || "")
+                )
+            )
+            .slice(0, 12);
+
+        if (relacionados.length === 0) {
+            return;
+        }
+
+        hayContenido = true;
+
+        const bloque =
+            document.createElement("div");
+
+        bloque.className =
+            "relacionados-bloque";
+
+        const titulo =
+            document.createElement("h2");
+
+        titulo.textContent =
+            `Más de ${nombreColeccion}`;
+
+        const contenedorCarrusel =
+            document.createElement("div");
+
+        contenedorCarrusel.className =
+            "carrusel-contenedor";
+
+        const carrusel =
+            document.createElement("div");
+
+        carrusel.className =
+            "cards carrusel-discursos";
+
+        relacionados.forEach(discurso => {
+            carrusel.appendChild(
+                crearTarjeta(discurso)
+            );
+        });
+
+        contenedorCarrusel.appendChild(carrusel);
+
+        bloque.appendChild(titulo);
+        bloque.appendChild(contenedorCarrusel);
+
+        contenedor.appendChild(bloque);
+    });
+
+    if (!hayContenido) {
+        return;
+    }
+
+    seccion.hidden = false;
+
+    prepararControlesCarrusel();
+}
+
+
+function normalizarColeccion(texto) {
+    return String(texto || "")
+        .toLowerCase()
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .trim();
 }
