@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Proyecto Discursos</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body>
+
+<header class="navbar">
+
+    <div class="logo">
+        Proyecto Discursos
+    </div>
+
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Explorar</a>
+        <a href="#">Buscar</a>
+    </nav>
+
+</header>
+
+
+<section class="hero">
+
+    <div class="hero-content">
+
+        <h1>
+            Apertura del 131.º período de sesiones ordinarias
+        </h1>
+
+        <p>
+            1 de marzo de 2013
+        </p>
+
+        <p>
+            "Esta es la década ganada por todos los argentinos."
+        </p>
+
+        <button>
+            ▶ Reproducir
+        </button>
+
+    </div>
+
+</section>
+
+
+<section class="row">
+
+    <h2>Discursos destacados</h2>
+
+    <section class="buscador-archivo">
+
+    <label for="buscar-discursos">
+        Buscar en el archivo
+    </label>
+
+    <input
+        id="buscar-discursos"
+        type="search"
+        placeholder="Título, lugar, año, colección..."
+        autocomplete="off"
+    >
+
+    <p id="cantidad-resultados"></p>
+
+    <div class="filtros-archivo">
+
+        <select id="filtro-anio">
+            <option value="">Todos los años</option>
+        </select>
+
+        <select id="filtro-coleccion">
+            <option value="">Todas las colecciones</option>
+        </select>
+
+        <select id="filtro-estado">
+            <option value="">Todos los estados</option>
+        </select>
+
+        <select id="orden-discursos">
+            <option value="recientes">Más recientes</option>
+            <option value="antiguos">Más antiguos</option>
+            <option value="az">Título: A–Z</option>
+            <option value="za">Título: Z–A</option>
+        </select>
+
+        <button id="limpiar-filtros" type="button">
+            Limpiar filtros
+        </button>
+
+    </div>
+
+</section>
+    </section>
+
+    <div id="discursos" class="cards"></div>
+
+</section>
+
+<script src="js/script.js"></script>
+
+</body>
+</html>
