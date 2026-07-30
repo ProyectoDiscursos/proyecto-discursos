@@ -273,6 +273,11 @@ function actualizarTodosLosCarruseles() {
         mostrarErrorEnCarruseles();
 
 
+let discursosDelHero = [];
+let indiceHeroActual = 0;
+let intervaloHero = null;
+
+
 function crearHeroDinamico(discursos) {
     if (!Array.isArray(discursos) || discursos.length === 0) {
         return;
@@ -281,7 +286,7 @@ function crearHeroDinamico(discursos) {
     const discursosOrdenados = [...discursos]
         .sort(ordenarPorFechaDescendente);
 
-    const destacado = discursosOrdenados.find(discurso =>
+    const destacados = discursosOrdenados.filter(discurso =>
         perteneceAColeccion(
             discurso,
             [
@@ -291,11 +296,145 @@ function crearHeroDinamico(discursos) {
         )
     );
 
-    const discursoHero = destacado || discursosOrdenados[0];
+    discursosDelHero = destacados.length > 0
+        ? destacados
+        : discursosOrdenados.slice(0, 5);
 
-    mostrarHero(discursoHero);
+    indiceHeroActual = 0;
+
+    mostrarDiscursoHero(indiceHeroActual);
+    crearIndicadoresHero();
+    iniciarRotacionHero();
+    configurarPausaHero();
 }
 
+function mostrarDiscursoHero(indice) {
+    if (discursosDelHero.length === 0) {
+        return;
+    }
+
+    const hero = document.getElementById("hero-principal");
+
+    if (!hero) {
+        return;
+    }
+
+    indiceHeroActual =
+        (indice + discursosDelHero.length) %
+        discursosDelHero.length;
+
+    hero.classList.add("hero-cambiando");
+
+    window.setTimeout(() => {
+        mostrarHero(
+            discursosDelHero[indiceHeroActual]
+        );
+
+        actualizarIndicadoresHero();
+
+        hero.classList.remove("hero-cambiando");
+    }, 250);
+}
+
+
+function iniciarRotacionHero() {
+    detenerRotacionHero();
+
+    if (discursosDelHero.length <= 1) {
+        return;
+    }
+
+    intervaloHero = window.setInterval(() => {
+        mostrarDiscursoHero(indiceHeroActual + 1);
+    }, 10000);
+}
+
+
+function detenerRotacionHero() {
+    if (intervaloHero) {
+        window.clearInterval(intervaloHero);
+        intervaloHero = null;
+    }
+}
+
+
+function configurarPausaHero() {
+    const hero = document.getElementById("hero-principal");
+
+    if (!hero || hero.dataset.rotacionConfigurada === "true") {
+        return;
+    }
+
+    hero.dataset.rotacionConfigurada = "true";
+
+    hero.addEventListener("mouseenter", detenerRotacionHero);
+    hero.addEventListener("mouseleave", iniciarRotacionHero);
+
+    hero.addEventListener("focusin", detenerRotacionHero);
+    hero.addEventListener("focusout", iniciarRotacionHero);
+}
+
+
+function crearIndicadoresHero() {
+    const contenedor = document.getElementById(
+        "hero-indicadores"
+    );
+
+    if (!contenedor) {
+        return;
+    }
+
+    contenedor.innerHTML = "";
+
+    if (discursosDelHero.length <= 1) {
+        contenedor.hidden = true;
+        return;
+    }
+
+    contenedor.hidden = false;
+
+    discursosDelHero.forEach((discurso, indice) => {
+        const boton = document.createElement("button");
+
+        boton.type = "button";
+        boton.className = "hero-indicador";
+
+        boton.setAttribute(
+            "aria-label",
+            `Mostrar destacado ${indice + 1}: ${discurso.titulo}`
+        );
+
+        boton.addEventListener("click", () => {
+            mostrarDiscursoHero(indice);
+            iniciarRotacionHero();
+        });
+
+        contenedor.appendChild(boton);
+    });
+
+    actualizarIndicadoresHero();
+}
+
+
+function actualizarIndicadoresHero() {
+    const indicadores = document.querySelectorAll(
+        ".hero-indicador"
+    );
+
+    indicadores.forEach((indicador, indice) => {
+        const activo = indice === indiceHeroActual;
+
+        indicador.classList.toggle(
+            "hero-indicador-activo",
+            activo
+        );
+
+        indicador.setAttribute(
+            "aria-current",
+            activo ? "true" : "false"
+        );
+    });
+}
 
 function mostrarHero(discurso) {
     const hero = document.getElementById("hero-principal");
