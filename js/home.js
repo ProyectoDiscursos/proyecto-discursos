@@ -63,6 +63,7 @@ async function cargarHome() {
 
         const discursos = await respuesta.json();
 
+        crearHeroDinamico(discursos);
         crearCarruselesPorColeccion(discursos);
         crearCarruselUltimos(discursos);
         prepararControlesCarrusel();
@@ -231,7 +232,111 @@ function actualizarTodosLosCarruseles() {
         mostrarErrorEnCarruseles();
 
 
+function crearHeroDinamico(discursos) {
+    if (!Array.isArray(discursos) || discursos.length === 0) {
+        return;
+    }
 
+    const discursosOrdenados = [...discursos]
+        .sort(ordenarPorFechaDescendente);
+
+    const destacado = discursosOrdenados.find(discurso =>
+        perteneceAColeccion(
+            discurso,
+            [
+                "Discursos destacados",
+                "Destacados"
+            ]
+        )
+    );
+
+    const discursoHero = destacado || discursosOrdenados[0];
+
+    mostrarHero(discursoHero);
+}
+
+
+function mostrarHero(discurso) {
+    const hero = document.getElementById("hero-principal");
+    const fondo = document.getElementById("hero-fondo");
+    const titulo = document.getElementById("hero-titulo");
+    const datos = document.getElementById("hero-datos");
+    const slogan = document.getElementById("hero-slogan");
+    const descripcion = document.getElementById("hero-descripcion");
+    const enlace = document.getElementById("hero-enlace");
+
+    if (
+        !hero ||
+        !fondo ||
+        !titulo ||
+        !datos ||
+        !slogan ||
+        !descripcion ||
+        !enlace
+    ) {
+        return;
+    }
+
+    titulo.textContent =
+        discurso.titulo || "Discurso sin título";
+
+    const datosHero = [
+        formatearFecha(discurso.fecha),
+        discurso.lugar
+    ].filter(Boolean);
+
+    datos.textContent = datosHero.join(" · ");
+
+    const textoSlogan =
+        discurso.slogan ||
+        discurso.tagline ||
+        "";
+
+    slogan.textContent = textoSlogan;
+
+    const textoDescripcion =
+        discurso.descripcion ||
+        discurso.description ||
+        "";
+
+    descripcion.textContent = textoDescripcion;
+
+    slogan.hidden = !textoSlogan;
+    descripcion.hidden = !textoDescripcion;
+
+    if (discurso.id) {
+        enlace.href =
+            `discurso.html?id=${encodeURIComponent(discurso.id)}`;
+    }
+
+    const imagenHero =
+        discurso.miniatura ||
+        "images/miniaturas/sin-miniatura.jpg";
+
+    fondo.style.backgroundImage = `
+        linear-gradient(
+            90deg,
+            rgba(5, 8, 18, 0.98) 0%,
+            rgba(5, 8, 18, 0.82) 38%,
+            rgba(5, 8, 18, 0.35) 70%,
+            rgba(5, 8, 18, 0.55) 100%
+        ),
+        linear-gradient(
+            0deg,
+            rgba(5, 8, 18, 1) 0%,
+            rgba(5, 8, 18, 0) 45%
+        ),
+        url("${escaparURLCSS(imagenHero)}")
+    `;
+}
+
+
+function escaparURLCSS(url) {
+    return String(url || "")
+        .replaceAll("\\", "\\\\")
+        .replaceAll('"', '\\"')
+        .replaceAll("\n", "");
+}
 function crearCarruselesPorColeccion(discursos) {
     CONFIGURACION_CARRUSELES.forEach(configuracion => {
         const coincidencias = discursos

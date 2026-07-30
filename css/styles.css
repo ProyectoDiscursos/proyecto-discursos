@@ -1066,3 +1066,121 @@ html {
         display: none;
     }
 }
+/* ========================================
+   HERO DINÁMICO
+======================================== */
+
+.hero {
+    position: relative;
+    min-height: 620px;
+    display: flex;
+    align-items: flex-end;
+    overflow: hidden;
+    padding: 120px 6% 80px;
+    background: #050812;
+}
+
+.hero-fondo {
+    position: absolute;
+    inset: 0;
+    z-index: 0;
+
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    transform: scale(1.01);
+}
+
+.hero-content {
+    position: relative;
+    z-index: 1;
+
+    width: min(700px, 100%);
+}
+
+.hero-etiqueta {
+    margin: 0 0 12px;
+    color: #87cefa;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.hero-content h1 {
+    margin: 0;
+    max-width: 900px;
+
+    color: white;
+    font-size: clamp(36px, 5vw, 72px);
+    line-height: 1.02;
+}
+
+.hero-datos {
+    margin: 20px 0 0;
+    color: rgba(255, 255, 255, 0.78);
+    font-size: 16px;
+}
+
+.hero-slogan {
+    margin: 18px 0 0;
+    color: white;
+    font-size: clamp(20px, 2vw, 28px);
+    font-style: italic;
+    line-height: 1.35;
+}
+
+.hero-descripcion {
+    margin: 18px 0 0;
+    max-width: 650px;
+
+    color: rgba(255, 255, 255, 0.82);
+    font-size: 17px;
+    line-height: 1.6;
+
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.boton-hero {
+    display: inline-flex;
+    align-items: center;
+
+    margin-top: 28px;
+    padding: 14px 22px;
+
+    border-radius: 8px;
+    background: white;
+    color: #050812;
+
+    font-weight: 700;
+    text-decoration: none;
+
+    transition:
+        transform 0.2s ease,
+        background 0.2s ease;
+}
+
+.boton-hero:hover {
+    transform: translateY(-2px);
+    background: #dceeff;
+}
+
+@media (max-width: 768px) {
+    .hero {
+        min-height: 560px;
+        padding: 110px 24px 55px;
+    }
+
+    .hero-fondo {
+        background-position: center top;
+    }
+
+    .hero-descripcion {
+        font-size: 15px;
+        -webkit-line-clamp: 3;
+    }
+}
