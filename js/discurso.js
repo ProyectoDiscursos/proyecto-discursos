@@ -1,4 +1,8 @@
 const contenedorFicha = document.getElementById("ficha-discurso");
+let discursoActual = null;
+let transcripcionVisible = false;
+let transcripcionCargada = false;
+let textoTranscripcion = "";
 
 cargarDiscurso();
 
@@ -31,6 +35,8 @@ async function cargarDiscurso() {
             mostrarError("No se encontró el discurso solicitado.");
             return;
         }
+
+discursoActual = discurso;
 
 mostrarDiscurso(discurso);
 guardarUltimoDiscurso(discurso);
@@ -298,35 +304,33 @@ function mostrarDiscurso(discurso) {
 
             <h2>Transcripción</h2>
 
-            <button
-                id="boton-copiar-transcripcion"
-                class="boton-copiar-transcripcion"
-                type="button"
-                hidden
-            >
-                Copiar texto
-            </button>
+            <div class="transcripcion-botones">
 
-        </div>
+                <button
+                    id="boton-transcripcion"
+                    class="boton-reproducir"
+                    type="button"
+                >
+                    ▶ Mostrar
+                </button>
 
-        <div id="transcripcion-contenido">
-
-            <div class="transcripcion-pendiente">
-
-                <span class="transcripcion-icono">≡</span>
-
-                <div>
-                    <h3>Cargando transcripción…</h3>
-
-                    <p>
-                        El texto completo se mostrará
-                        en unos instantes.
-                    </p>
-                </div>
+                <button
+                    id="boton-copiar-transcripcion"
+                    class="boton-copiar-transcripcion"
+                    type="button"
+                    hidden
+                >
+                    Copiar texto
+                </button>
 
             </div>
 
         </div>
+
+        <div
+            id="transcripcion-contenido"
+            class="transcripcion-contenido"
+        ></div>
 
     </div>
 
@@ -336,8 +340,8 @@ function mostrarDiscurso(discurso) {
     `;
 
     configurarImagenAlternativa(imagen);
-    actualizarTituloPagina(discurso.titulo);
-    cargarTranscripcion(discurso);
+actualizarTituloPagina(discurso.titulo);
+configurarBotonTranscripcion();
 }
 
 
@@ -617,12 +621,19 @@ async function cargarTranscripcion(discurso) {
     );
 
     if (!contenedor) {
-        return;
+        return false;
+    }
+
+    if (botonCopiar) {
+        botonCopiar.hidden = true;
     }
 
     if (!discurso.tieneTranscripcion) {
-        mostrarTranscripcionNoDisponible(contenedor);
-        return;
+        mostrarTranscripcionNoDisponible(
+            contenedor
+        );
+
+        return true;
     }
 
     try {
@@ -635,16 +646,24 @@ async function cargarTranscripcion(discurso) {
 
         if (!respuesta.ok) {
             throw new Error(
-                `No se pudo cargar la transcripción: ${respuesta.status}`
+                `No se pudo cargar la transcripción: ${
+                    respuesta.status
+                }`
             );
         }
 
-        const texto = (await respuesta.text()).trim();
+        const texto =
+            (await respuesta.text()).trim();
 
         if (!texto) {
-            mostrarTranscripcionNoDisponible(contenedor);
-            return;
+            mostrarTranscripcionNoDisponible(
+                contenedor
+            );
+
+            return true;
         }
+
+        textoTranscripcion = texto;
 
         contenedor.innerHTML = `
             <article class="transcripcion-texto">
@@ -655,13 +674,15 @@ async function cargarTranscripcion(discurso) {
         if (botonCopiar) {
             botonCopiar.hidden = false;
 
-            botonCopiar.addEventListener("click", () => {
+            botonCopiar.onclick = () => {
                 copiarTranscripcion(
-                    texto,
+                    textoTranscripcion,
                     botonCopiar
                 );
-            });
+            };
         }
+
+        return true;
 
     } catch (error) {
         console.error(
@@ -672,19 +693,26 @@ async function cargarTranscripcion(discurso) {
         contenedor.innerHTML = `
             <div class="transcripcion-pendiente">
 
-                <span class="transcripcion-icono">!</span>
+                <span class="transcripcion-icono">
+                    !
+                </span>
 
                 <div>
-                    <h3>No se pudo cargar la transcripción</h3>
+                    <h3>
+                        No se pudo cargar la transcripción
+                    </h3>
 
                     <p>
-                        El texto existe en el archivo,
-                        pero ocurrió un problema al abrirlo.
+                        Ocurrió un problema al abrir
+                        el archivo. Podés cerrar esta
+                        sección e intentarlo nuevamente.
                     </p>
                 </div>
 
             </div>
         `;
+
+        return false;
     }
 }
 
@@ -762,4 +790,71 @@ async function copiarTranscripcion(
             boton.textContent = textoOriginal;
         }, 2000);
     }
+}
+function configurarBotonTranscripcion() {
+    const boton = document.getElementById(
+        "boton-transcripcion"
+    );
+
+    if (!boton) {
+        return;
+    }
+
+    boton.addEventListener(
+        "click",
+        alternarTranscripcion
+    );
+}
+async function alternarTranscripcion() {
+    const boton = document.getElementById(
+        "boton-transcripcion"
+    );
+
+    const contenedor = document.getElementById(
+        "transcripcion-contenido"
+    );
+
+    if (
+        !boton ||
+        !contenedor ||
+        !discursoActual
+    ) {
+        return;
+    }
+
+    if (transcripcionVisible) {
+        contenedor.classList.remove(
+    "transcripcion-contenido-visible"
+);
+
+        boton.textContent =
+            "▶ Mostrar";
+
+        transcripcionVisible = false;
+        return;
+    }
+
+    if (!transcripcionCargada) {
+        boton.disabled = true;
+        boton.textContent =
+            "Cargando transcripción…";
+
+        const resultado =
+            await cargarTranscripcion(
+                discursoActual
+            );
+
+        transcripcionCargada = resultado;
+
+        boton.disabled = false;
+    }
+
+    contenedor.classList.add(
+    "transcripcion-contenido-visible"
+);
+
+    boton.textContent =
+        "▼ Ocultar";
+
+    transcripcionVisible = true;
 }
