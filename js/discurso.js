@@ -81,14 +81,22 @@ function mostrarDiscurso(discurso) {
         : "";
 
     const etiquetasColecciones = colecciones
-        .map(coleccion => {
-            return `
-                <span class="detalle-chip">
-                    ${escaparHTML(coleccion)}
-                </span>
-            `;
-        })
-        .join("");
+    .map(coleccion => {
+        const enlaceColeccion =
+            `coleccion.html?nombre=${
+                encodeURIComponent(coleccion)
+            }`;
+
+        return `
+            <a
+                class="detalle-chip detalle-chip-enlace"
+                href="${enlaceColeccion}"
+            >
+                ${escaparHTML(coleccion)}
+            </a>
+        `;
+    })
+    .join("");
 
     const botonVideo = discurso.video
         ? `
@@ -517,10 +525,23 @@ function crearRelacionados(
             "relacionados-bloque";
 
         const titulo =
-            document.createElement("h2");
+    document.createElement("h2");
 
-        titulo.textContent =
-            `Más de ${nombreColeccion}`;
+const enlaceTitulo =
+    document.createElement("a");
+
+enlaceTitulo.className =
+    "relacionados-titulo-enlace";
+
+enlaceTitulo.href =
+    `coleccion.html?nombre=${
+        encodeURIComponent(nombreColeccion)
+    }`;
+
+enlaceTitulo.textContent =
+    `Más de ${nombreColeccion} →`;
+
+titulo.appendChild(enlaceTitulo);
 
         const contenedorCarrusel =
             document.createElement("div");
