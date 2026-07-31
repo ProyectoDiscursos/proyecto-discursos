@@ -1,0 +1,33 @@
+# Declaraciones de la Presidenta en El Calafate
+
+Lugar: El Calafate, Santa Cruz
+Fecha: 13/08/2010
+ID: CFK-20100813-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.-....del pueblo y además, también el hecho de ser un importante atractivo turístico requiere una logística en materia de salud que tiene que ver con eso, con que se desplazan grandes masas que llegan en avión, en colectivos y demás, así que va a ser un hospital modelo, como todos los hospitales que hemos hecho en la provincia de Santa Cruz. En verdad este hospital lo hemos ampliado durante la gestión de Kirchner en la gobernación y creo que luego tuvo una ampliación, pero no es un hospital nuevo como el que hemos hecho en Caleta Olivia o en Las Heras o en el propio Río Gallegos con lo cual vamos a tener un hospital modelo. Estamos muy contentos y además estamos muy contentos con el crecimiento que ha tenido El Calafate y toda la explosión turística que hemos tenido. La semana pasada amigos míos estuvieron en las Cataratas del Iguazú y me dijeron que era impresionante la cantidad de gente que estaba entrando. Bueno, vieron lo que está entrando en los centros invernales de turismo por día, que vienen a esquiar a nuestros centros invernales. Así que estamos muy contentos realmente y cuando llego acá a mí se me remueven cosas, estaría hablando una hora, por eso hablé de los glaciares. Ninguno de ustedes creo que era periodista en ese momento, vos sí pero sos de El Calafate, yo me refiero a periodistas nacionales y no estaba ninguno. La verdad que recorrí el país dando conferencias en universidades, en sindicatos, en asociaciones con el tema de nuestros glaciares y uno de los ejes fundamentales de nuestra defensa era precisamente que los glaciares, los campos de hielo eran las reservas dulces más importantes del mundo. Por eso, cuando a mí me hablan del tema de glaciares, la verdad...
+
+PERIODISTA.- Que apoyó su tesis con la publicación de un libro, de un trabajo.
+
+PRESIDENTA.- Claro, además hice un libro y también discutí mucho en el Congreso por eso. Los glaciares son tan importantes para nosotros porque nosotros los conocemos y vivimos acá. Yo me acuerdo que me paraba frente al glaciar Perito Moreno y hacía propaganda para que la gente realmente se concientizara, y recuerdo que muchísimos, sobre todo los sectores denominados progresistas, digo así entre comillas, tenían dudas frente a los planteos nuestros porque decían que eran planteos xenófobos o ultranacionalistas.
+
+PERIODISTA.- El tema de los bloques de hielo.
+
+PRESIDENTA.- Claro, el tema que hicimos con los bloques de hielo en Capital Federal y me recorrí el país. Recordaba a un diputado, por ahí debe estar la grabación, que por esa defensa que hicimos me comparó con el general Menéndez. En realidad todos ustedes saben que mi suegra es de origen chileno y la verdad que los vivimos en Santa Cruz sabemos que la unidad entre Chile y Argentina no tenía absolutamente nada que ver, porque la mitad de los vivimos o son de origen chileno o tienen parientes, es una cosa muy mezclada en Santa Cruz.
+
+PERIODISTA.- ¿Cómo está el tema de la demarcación, Cristina, ahora?
+
+PRESIDENTA.- Se está trabajando en Cancillería sobre el tema. La verdad que yo había votado negativamente también en aquella oportunidad porque faltaba la etapa de demarcación que era lo que había dado origen. Pero están trabajando en Cancillería, van a trabajar bien.
+
+PERIODISTA.- Tiene media sanción en Diputados la ley de Protección de Glaciares.
+
+PRESIDENTA.- Yo ya dije que no la iba a vetar, creo que las provincias representadas en el Senado y el pueblo representado en la Cámara de Diputados deben decidir qué es lo que quieren hacer. En realidad uno de los temas por los cuales habíamos vetado la ley anterior tenía que ver esencialmente con un informe de la Cancillería que nos obligaba a hacer inventario, por ejemplo, en la zona donde como dijo tu colega, que es de acá y lo sabe, todavía no está demarcada. Por lo tanto, como todavía no está demarcada, no está fijado técnica, política y legalmente el límite entre la República Argentina y la hermana República de Chile, lo cual puede generar todo un conflicto diplomático de pretender ir a la zona y comenzar a inventariar glaciares en una zona que todavía no está demarcada. Esa fue una de las principales objeciones que nos hizo la Cancillería. Y luego, diputados, senadores y gobernadores de las provincias cordilleranas que nos pidieron también que vetáramos. Todo esto está en el decreto de veto que oportunamente hice, pero decir que a nosotros no nos interesa la preservación de los glaciares, cuando todos los que hoy hablan casi me criticaban cuando yo los defendía, la verdad que es olvidarse muy pronto de la historia.
+
+PERIODISTA.- (Pregunta sobre la relación con Uruguay)
+
+PRESIDENTA.- Lo importante es que hemos logrado acuerdos sustentables y lógicos, expresados en la sentencia, basados en el derecho entre ambos países. Pero fundamentalmente basado en la voluntad y el deseo de acordar, porque para poder ponerse de acuerdo no basta uno, tienen que poner las dos personas, las dos partes, la voluntad. Y cuando tuvimos voluntad lo pudimos hacer. La verdad que estoy muy contenta por lo que hemos logrado en el MERCOSUR con el Código Aduanero después de años y años, y estoy feliz porque son pasos que uno va dando, y cuando se va dando un paso adelante significa que avanzaste un poquito más. ¿Qué falta? Claro, siempre va a faltar, porque además hablaría mal de una sociedad que llega hasta un punto y dice bueno, basta, al contrario, siempre hay más. Es la lógica, cuando subís un peldaño de la escalera querés subir al siguiente, siempre es así y la vida es una escalera interminable.
+
+PERIODISTA.- ¿Cuándo se inicia la represa?
+
+PRESIDENTA.- Estaríamos firmando el contrato de adjudicación, de acuerdo con lo que me dijeron, entre 60 y 90 días más, firmado el contrato comienza la obra.

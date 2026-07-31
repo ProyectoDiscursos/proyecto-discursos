@@ -1,0 +1,23 @@
+# Declaraciones a la prensa en Mar del Plata, Buenos Aires
+
+Lugar: Buenos Aires, General Pueyrredón, Mar del Plata
+Fecha: 04/12/2009
+ID: CFK-20091204-03
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- Se van apaciguando las críticas que siempre tuvo la oposición sobre esto.
+
+PRESIDENTA.- Yo decía ayer en La Matanza que hemos hecho un giro de 180 grados en lo que es protección y seguridad social. Ya no vinculada a lo que pueda conseguirle un político a tal o cual persona, sino que el derecho que esa persona tiene ante la ANSES, una administración absolutamente transparente, con su tarjeta para poder cobrar. Y además con el convenio que hemos hecho con supermercados y demás hemos repotenciado esto, que va a permitir un ingreso más que importante. Así que creo que hemos sacado clientes de la política como digo yo, y los hemos devuelto a donde verdaderamente hoy deben estar, en los supermercados, en las verdulerías, en las carnicerías. Además, también la reforma política que para nosotros es muy importante porque por primera vez en la República Argentina, en toda su historia, fundamentalmente en los últimos 23, 25 años de democracia, la sociedad va a poder entrar a los partidos políticos y va a haber una participación y democratización de los mismos, que es clave en el proceso de institucionalidad del país y calidad institucional.
+
+PERIODISTA.- ¿A qué se debe esa disfonía?
+
+PRESIDENTA.- Esta disfonía se debe a que estoy trabajando mucho, además el sábado y domingo que habitualmente descanso con mi voz, este fin de semana no descansé porque estuve en el Vaticano y en la Cumbre Iberoamericana.
+
+Estamos muy contentos porque estamos firmando la escritura 3.000, por lo de las cooperativas de trabajo, por la asignación universal. Por todas estas cosas, por todas las obras que hoy el Intendente no quiso enumerar pero que van a visitar por la tarde con el Gobernador.
+
+Además contentos porque vamos a venir en noviembre del año que viene a la Cumbre Iberoamericana, espero que Mar del Plata esté más linda que nunca porque le hice una propaganda bárbara. Allá en Europa dije que era una maravilla, así que por favor espero que la tengan hermosa.
+
+PERIODISTA.- ¿Cómo vivió lo de ayer, lo de Néstor?
+
+PRESIDENTA.- ¿Lo de diputado? Extraño, porque siempre lo vi como ejecutivo, pero es una actividad más. Gracias.

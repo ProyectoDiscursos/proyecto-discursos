@@ -1,0 +1,45 @@
+# Declaraciones a los periodistas
+
+Lugar: Casa de Gobierno
+Fecha: 27/07/2012
+ID: CFK-20120727-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- Acabo de saludar a los 40 jóvenes argentinos que, sobre un total de 800 postulantes, obtuvieron la beca en esta oportunidad para la Getulio Vargas, van a estudiar en Brasil; son todas las carreras duras, ciencias duras, ingenieros en agronomía, ingenieros mecánicos, ingenieros industriales, ingenieros en informática, así que bueno...chicos muy jóvenes, además muy federal el tema, mendocinos, misioneros, 19 provincias, así que realmente estamos muy contentos, los chicos estaban muy contentos. Estuvimos también con el embajador de Brasil, el lunes estamos viajando, el lunes por la noche..., a la tarde nos vamos a reunir con la AFA acá en el Salón de las Mujeres del Bicentenario.
+
+PERIODISTA.- ¿Con qué motivo?
+
+PRESIDENTA.- Ya te vas a enterar.
+
+PERIODISTA.- ¿Por el Fútbol para todos?
+
+PRESIDENTA.- No, ya está Fútbol para todos, es otra cosa, ya se van a enterar. El lunes por la noche estamos yendo a Brasil, finalmente en lugar de Río Dilma invitó para Brasilia así que estamos viajando el lunes a la 6 de la tarde creo, para la reunión que comienza el martes a la mañana y que se va a desarrollar durante todo el día, para el ingreso formal de la República Bolivariana de Venezuela al MERCOSUR, así que estamos muy contentos y allí estaremos.
+
+PERIODISTA.- ¿Se va a ver con Mujica?
+
+PRESIDENTA.- Sí, seguramente va a estar Pepe, allí como siempre.
+
+PERIODISTA.- ¿Van a hablar del tema del dragado?
+
+PRESIDENTA.- Me parece que el comunicado de la Cancillería fue lo suficientemente elocuente como para que yo le agregue ninguna otra palabra más, así que es una cuestión que está en ese ámbito y allí va a seguir. Muchas gracias, hasta luego.
+
+PERIODISTA.- ¿Puedo preguntarle sobre Eva Perón, Presidenta?
+
+PRESIDENTA.- ¿Qué me querés preguntar sobre Eva Perón? Mirá cómo volví, mirá como me atrajo. Es un gancho.
+
+PERIODISTA.- Le quiero preguntar por su discurso.
+
+PRESIDENTA.- ¿Qué pasó con el discurso?
+
+PERIODISTA.- Le quiero preguntar, para los momentos que vienen, por el desarrollo, por las tensiones...
+
+PRESIDENTA.- Era sobre Eva Perón, me engañaste, me trajiste engañada.
+
+PERIODISTA.- No, por el discurso que usted dio en José C. Paz. En un momento que puede haber tensiones es necesario consensos, la política está muy tensa.
+
+PRESIDENTA.- Yo no creo que la política está muy tensa, algunos políticos están muy tensos. Pero yo no veo tanta tensión, me parece que hay mucha tensión en algunos políticos, puede haberla en algunos medios también pero no veo tensión política. En una sociedad que ha determinado las responsabilidades de todos y cada uno de nosotros en elecciones libres y democráticas cada uno tiene un rol que cumplir. Además ha sido muy contundente el pronunciamiento de la ciudadanía respecto de las responsabilidades de cada uno y no puede haber tensiones. Hay tensiones en todo caso en el mundo, muy fuertes, obviamente los factores exógenos se transmiten al mundo, pero no tanto de la política sino fundamentalmente creo de la economía. En la política podríamos hablar de que tuvimos que evacuar a 25 argentinos de Siria, que nos pidieron evacuación, y mañana seguramente vamos a evacuar a otros 25 más. Este es un foco de tensión política muy fuerte.
+
+PERIODISTA.- ¿En lo sindical?
+
+PRESIDENTA.- No, tampoco, yo creo que todo se dirime en el marco de lo establecido por el derecho estatutario, por lo que establece el derecho laboral en la Argentina. Los trabajadores eligen democráticamente a sus representantes y es una cuestión de los trabajadores. De la misma manera que los ciudadanos cuando hay elecciones eligen quién va a ser presidente, quién va a ser legislador, quién va a ser intendente, quién va a ser gobernador, los trabajadores eligen quién va a ser Secretario General de la CGT, los cuerpos directivos y demás. Me parece que no hay que mezclar las cosas y que cada uno debe conservarse en su ámbito porque son distintas las representaciones, una es una representación sectorial y la otra es una representación política en democracia, es una representación general del conjunto de la sociedad argentina, de los 40 millones. Así que no veo por qué tengamos que confundir nada, cada uno en su lugar y cada maestrito con su librito. Gracias.

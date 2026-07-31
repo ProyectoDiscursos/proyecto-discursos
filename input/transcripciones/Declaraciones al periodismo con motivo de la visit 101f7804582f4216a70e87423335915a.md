@@ -1,0 +1,15 @@
+# Declaraciones al periodismo con motivo de la visita del presidente electo de Perú, Ollanta Humala
+
+Lugar: Casa de Gobierno
+Fecha: 14/06/2011
+ID: CFK-20110614-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- Presidenta, ¿va a ir a la transmisión de mando de Perú?
+
+PRESIDENTA.- Bueno, no sé cuando es, pero tengo que ver, me encantaría, si es que puedo allí estaré.
+
+PERIODISTA.- La esperamos con mucho gusto.
+
+PRESIDENTA.- Ay, gracias, saben que yo tengo un amor muy especial por Perú, por lo que Perú hizo durante nuestra guerra de las Malvinas, que puso sus aviones, sus pilotos a disposición nuestra, ustedes saben que yo he reconocido al Presidente Belaúnde Terry, en el propio Parlamente peruano, en mi última visita al Perú, así que sí me encantaría estar, (inaudible, fuera de micrófono). La verdad que queremos mucho, mucho al Perú, además hay una comunidad muy importante en nuestro país, como se vio en las últimas elecciones, que fueron a votar masivamente, así que bueno, si podemos allí estaremos. Estamos muy contentos de tener al Presidente y a Nadine, a los dos. Gracias chicos, gracias.

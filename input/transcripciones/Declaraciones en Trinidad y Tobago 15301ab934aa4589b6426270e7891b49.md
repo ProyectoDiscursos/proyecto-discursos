@@ -1,0 +1,103 @@
+# Declaraciones en Trinidad y Tobago
+
+Lugar: Puerto España, Trinidad y Tobago
+Fecha: 18/04/2009
+ID: CFK-20090418-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- Presidenta, ¿cómo está su madre?
+
+PRESIDENTA.- Bien, anoche hablé y la noté un poquito como desorientada, producto del accidente. Pero hoy hablé a la mañana con ella y estaba muy bien, ya quería irse, no puede con su genio. Le habían hecho todos los análisis y, bueno, faltaban algunos más pero todos le habían dado bien. Anoche me quedé mal pero, bueno, hoy hablé muy tempranito ni bien me levanté con ella y estaba muy bien. Aparte me di cuenta por la voz exactamente como estaba. Está bien.
+
+PERIODISTA.- Presidenta: antes de volver a hablar del resumen que hizo, usted va a tener una reunión con el presidente del BID. Puntualmente, ¿para qué es?
+
+PRESIDENTA.- Después que la tenga les digo. No me parece correcto hablar de una reunión con alguien cuando todavía no la he tenido y no sé qué es lo que esa persona espera que se comunique de la reunión también. Entonces, me parece que, cuando es de a dos, uno tiene que escuchar también al otro para poder respetar su modo de comunicación.
+
+PERIODISTA.- Volviendo al tema de UNASUR. Usted dijo que Obama pidió propuestas consistentes por parte de la región y que...
+
+PRESIDENTA.- No, más que nada...Porque se desarrolló una muy buena reunión, yo digo inédita. Porque yo me acuerdo por ejemplo de la reunión de la Cumbre de las Américas en Monterrey, en México, que creo que fue la primera a la que asistí acompañando al entonces presidente Kirchner, y me acuerdo que cuando él estaba hablando, se había discutido mucho en aquella Cumbre de la posibilidad de un Plan Marshall, se acuerdan, para toda la América latina y cuando Kirchner hizo mención en su discurso en el Plenario, me acuerdo que Bush se quitó los auriculares y los tiró con fuerza contra el escritorio. Lo cual ojo, uno puede no estar de acuerdo, pero tenés que escucharlo al otro aunque no estés de acuerdo. Hoy fue totalmente diferente la reunión, fue una reunión muy cálida donde cada uno de los presidentes hablaba y él contestaba puntualmente cuando ese presidente o esa presidenta terminaba de hablar, lo hizo con mucha calidez y yo creo que también lo hizo con mucha sinceridad. El planteo general lo podíamos definir de todos los presidentes en que el cambio en el relacionamiento, lo que definí ayer como un nuevo orden regional, requiere una actitud diferente de no injerencia de los Estados Unidos en los asuntos internos de cada país. Concretamente presidentes relataron allí lo que no constituye la historia de décadas, sino que constituye el doloroso presente de injerencias en procesos internos de esos países. Él aseguró que eso iba a cambiar, que durante su gobierno no iba a ser así. Pero también manifestó que hace tres meses que es presidente, lo cual también es rigurosamente cierto. Yo creo que, en definitiva, ese reclamo, más el levantamiento del embargo a Cuba, más el tratamiento de igualdad y paridad con todos los mandatarios, fue muy bien receptado. Lo que yo creo, lo que fue un poco mi intervención del final, es la necesidad de construir confianza, porque, en definitiva, nosotros no tenemos prevenciones o prejuicios hacia Estados Unidos porque tengamos algo contra los Estados Unidos. Las prevenciones vienen de toda la historia de lo que ha pasado y lo que aún pasa. Nos tocó escuchar, y ustedes lo saben, el relato de Evo Morales cuando hubo el intento de golpe institucional y finalmente, la UNASUR, lo trató en la reunión en La Moneda. Entonces, no estamos hablando de historias de hace 30 años, estamos hablando de cosas con una rigurosa y trágica actualidad. En base a eso, es que dijimos que lo que necesitamos es construir confianza y la construcción de la confianza se hace, no solamente con intenciones y discursos, sino con medidas y decisiones concretas. También hablamos del problema de la migración porque algunos presidentes plantearon el problema de la migración y fue allí donde él habló de planteos consistentes y coherentes, precisamente, cuando fue el tema de la migración, porque, por un lado, se refirió a algún presidente que había reclamado contra el capitalismo como un modelo agotado, pero, al mismo tiempo, quieren ir a Estados Unidos donde estaría el capitalismo, lo cual revela también un planteo inteligente por parte de Obama en cuanto a la necesidad de tener planteos consistentes y coherentes. Yo creo que con respecto al problema migratorio, y así se lo planteé al Presidente, nosotros no tenemos el problema de ciudadanos que migren a los Estados Unidos en la forma que lo hacen las economías centroamericanas o, por ejemplo, la economía mexicana, no se debe a que quieren abandonar su país, sino que, precisamente, van a buscar en Estados Unidos condiciones de vida que no encuentran en sus países. Entonces, me parece que una solución estructural para el problema migratorio y que tiene Estados Unidos, porque él planteó también las necesidades que le demanda su propia sociedad respecto a los migrantes, es que creen que quitan trabajo a los propios estadounidenses o que les crean problemas. También dije que debía ser una ayuda económica a toda la región de manera tal que los países pudieran desarrollarse y de esa manera no expulsaran gente hacia Estados Unidos, que esa era una solución estructural y definitiva al problema migratorio porque los muros nunca han detenido a nadie. Desde Adriano, en la época del Imperio Romano, hasta acá, pasando por la Muralla China, todos sabemos que son, en definitiva, muros de estupidez y de ignorancia histórica.
+
+PERIODISTA.- ¿Cuál fue la respuesta de él respecto de esta idea?
+
+PRESIDENTA.- Escuchó muy atentamente. Creo que estamos en un momento, tal cual se lo planteamos Lula y yo, en donde él ha sido un producto del cambio. Yo lo dije también anoche en el discurso: uno puede ser producto del cambio, el tema es hacerse cargo luego de esa demanda y ser sujeto del cambio. Son dos cosas diferentes: se puede ser producto y quedarse en producto del cambio nada más. Creo que el gran desafío que tiene él, histórico y personal, es convertirse de producto del cambio, que sin lugar a duda lo es y con creces, en sujeto del cambio. Creo que él lo sabe, es un hombre inteligente. Porque vamos, alguien que llegó a donde llegó en las condiciones de él, revela que tiene aptitudes y competencias superiores al resto de los comunes.
+
+PERIODISTA.- La confianza siempre se crea de dos vías.
+
+PRESIDENTA.- Obviamente.
+
+PERIODISTA.- ¿Qué van a aportar los países latinoamericanos en esta relación nueva de confianza con Estados Unidos?
+
+PRESIDENTA.- Lo estamos demostrando en los hechos de que nos hemos sentado a dialogar, pudiendo países como Bolivia tener reclamos muy fuertes por todo lo que le ha pasado. Si vos fueras un presidente como Chávez que lo quisieron destituir, lo llevaron preso, casi lo matan y el único gobierno del mundo que reconoció a ese gobierno payasesco fue el gobierno de Estados Unidos, porque fue el único, e igualmente se sienta a hablar con el presidente de Estados Unidos, está revelando que hay actitudes que no son de pelea por pelea, sino que queremos conciliar. Lo que pasa es que para poder querer conciliar y hacer una agenda de conciliación, es necesario que la otra parte admita. Yo también planteé, porque él habló en un momento del tema de la coherencia, el tema del liderazgo responsable. ¿Qué es esto? Una cosa que nosotros venimos diciendo desde hace mucho tiempo. Estados Unidos es, inocultablemente, le guste a quien le guste, la primera potencia del mundo, pero además ustedes buscaron ser potencia del mundo y tienen un poder económico, militar, tecnológico y además económico que son el 25 por ciento del PBI y eso los coloca en el lugar de la primera potencia del mundo y ustedes buscaron ese lugar. Esto exige que ese liderazgo que ustedes buscaron sea un liderazgo responsable, porque el liderazgo que hizo el presidente Bush durante dos períodos fue de absoluta irresponsabilidad para la política internacional y para la propia política interna; convirtió a Estados Unidos en un país más inseguro en términos de terrorismo internacional y se produjo, durante su gestión, la debacle económica más importante que se recuerde desde el año 1930. Quiere decir que, más allá de las intenciones del presidente Bush, lo cierto es que sus políticas fracasaron y colocaron, no solamente a Estados Unidos, sino a las economías de todo el mundo y a las sociedades de todo el mundo, en un estado de debilidad. Entonces, qué es lo que nosotros esperábamos, le dije también de Estados Unidos, un liderazgo responsable y no es la primera vez que lo decimos.
+
+PERIODISTA.- ¿Qué le ha dicho?
+
+PRESIDENTA.- Escuchó muy atentamente y dijo que él iba a seguir trabajando fuertemente en esto que le estábamos planteando todos los presidentes. También, al final de mi intervención, le deseé suerte, que es una parte importante.
+
+PERIODISTA.- ¿Qué objetivos concretos deberían cumplirse para sentirse satisfecha de esta Cumbre, que se plasmen?
+
+PRESIDENTA.- Creo que una de las cosas en la que vamos a trabajar tiene que ver un poco con la reunión que yo voy a tener más tarde, que ustedes me preguntaban, con el titular del BID, que fue lo que también planteé ayer. Nosotros necesitamos que se doten de fondos y se recapitalice. Él dijo que se va a estudiar la recapitalización, ustedes lo escucharon anoche. Creo que el estudio tiene que ser muy breve y la decisión tiene que ser muy rápida.
+
+PERIODISTA.- ¿Quién la tiene que estudiar?
+
+PRESIDENTA.- Estados Unidos, porque es el que fondea. Si fuera por Luis Moreno, director del BID ya estaría, esto es obvio y nosotros necesitamos precisamente planes en materia de infraestructura, de educación, de salud y de capacitación laboral que son las líneas fundamentales que puede dar el BID para poder hacer frente a lo que constituye una emergencia que no provocó la región, sino que al contrario, la región que exhibía tasas de crecimiento como nunca en toda su historia, se ve afectada por una crisis absolutamente exógena que proviene precisamente de Wall Street o de la principal economía del mundo.
+
+PERIODISTA.- Ayer Chávez le dijo a Obama: "quiero ser tu amigo". ¿Usted quiere ser amiga?
+
+PRESIDENTA.- Yo ya le dije en la primera carta que le mandé, que podía contar...
+
+PERIODISTA.- ¿Quiere ser amiga de Barack Obama?
+
+PRESIDENTA.- Es una pregunta....ella quiere un titular para mañana. Ella quiere poner: "Cristina dijo que quiere ser amiga de Obama". Yo quiero que no hagamos titulares; quiero que hagamos políticas consistentes, que puedan ser vividas por la sociedad como que tienen resultados para ella. Las declaraciones nuestras muchas veces parecen altisonantes y rimbombantes, pero no le cambian la vida a nadie. Más que declaraciones y titulares, quiero que a la gente la pueda ayudar a tener un mejoramiento en toda la América.
+
+PERIODISTA.- ¿Obama habló de algo concreto del levantamiento del embargo a Cuba?
+
+PRESIDENTA.- Sí.
+
+PERIODISTA.- ¿Hubo alguna respuesta concreta de Obama?
+
+PRESIDENTA.- Él lo dijo ayer públicamente. Estados Unidos va a cambiar la política que tuvo hasta ahora hacia Cuba; no solamente él lo dijo, sino la propia Secretaria de Estado, Hillary Clinton que reconoció el fracaso de la política que hasta ahora se había llevado a cabo. Yo recuerdo muy bien, durante la campaña interna inclusive del partido Demócrata, que fueron las cosas que más me llamaron la atención y me empezó a hacer mirar a Obama de una manera diferente, fue cuando le preguntaron acerca de si él hablaría con Chávez o con Castro, no sé si ustedes recuerdan, y dijo que sí, que él hablaría, porque si están hablando con los rusos que fueron enemigos declarados durante décadas de guerra fría, cómo no iba a hablar ahora con Chávez o con Castro. Y además también dijo, me acuerdo muy bien, que cuando uno tiene un adversario, la peor manera en todo caso de enfrentarlo, es negarlo y no hablarle e intentar una relación diferente. Creo sinceramente que hoy no sé qué se firmará finalmente, si no se firmará el documento, pero me parece que en la Cumbre de las Américas el presidente de los Estados Unidos diga que va a iniciar una nueva etapa en la relación con Cuba, me parece que ya esto solo justifica esta Cumbre, porque realmente esto, imaginen y hagan ustedes un ejercicio, no hace 30 años, sino fue el año pasado. También le dije que no lo consideraba responsable de lo que pasaba, porque, varios colaboradores suyos asintieron también, porque durante la reunión del G-20, no importa quienes, hubo dos mandatarios extranjeros importantes de Europa que le dijeron que la crisis había sido culpa de Estados Unidos y que la crisis había empezado con la caída de Lehman Brothers. La verdad es que es rigurosamente cierto esto, pero esos mismos mandatarios cuando estuvieron con Bush en noviembre, no le dijeron absolutamente nada a Bush y yo se lo recordé hoy a Obama. Se sonrió y se sonrieron varios colaboradores de él que asentían con la cabeza. Esto, porque yo salí con el tema de que sabíamos que hacía tres meses que estaba y que yo no iba a hacer lo que habían hecho otros mandatarios, que en la primera reunión del G-20 que fue él, le reclamaron a Estados Unidos como responsable de la crisis cuando ni siquiera cuando cayó Lehman Brothers, había sido electo Obama, no habían sido las elecciones en los Estados Unidos y cuando estuvieron en noviembre en Washington con Bush, no solamente no le dijeron nada sino que lo trataron casi como un amigo de toda la vida. Esas son las cosas en las que uno tiene que tener consistencia y coherencia en los reclamos también. Son tres meses y es un presidente que tiene el desafío de ser sujeto del cambio, como les dije recién.
+
+PERIODISTA.- Más allá de las demandas generales de la región, ¿cuáles son las expectativas suyas concretas de la Argentina?
+
+PRESIDENTA.- Estábamos en eso, porque yo me quedé ahí, me pongo a hablar, me voy con otro tema y me olvido. Era el tema del BID que creo que es importantísimo, la otra cuestión es la necesidad de entender que los funcionarios de la Administración del gobierno de Estados Unidos no pueden opinar sobre todas y cada una de las políticas internas de cada país como si se tratara de países subordinados. Yo opinaría sobre una política exterior como miembro de la comunidad internacional. Cuando un país tiene una política exterior, puede opinar, o cuando un país está violando derechos humanos, obviamente todo el mundo tiene derecho a opinar. Pero sobre cuestiones que muchas veces son de política interna, decisiones de países soberanos que se toman con los sistemas que esos países tienen con sus Parlamentos, con su Justicia, en fin, con todo lo que es el sistema democrático de cada país, me parece que la manifestación de algunos funcionarios lo único que hace es muchas veces crear esos prejuicios contra las distintas administraciones.
+
+PERIODISTA.- ¿Qué informes de organismos, por ejemplo?
+
+PRESIDENTA.- No, no me refiero a eso, me refiero muchas veces a declaraciones, porque eso también lo planteó Lula, de un funcionario sobre tal presidente, sobre tal cosa con declaraciones que por allí son agresivas o agraviantes o descalificadoras para tal o cual presidente, entonces, todo eso no contribuye a crear un clima diferente en la relación de las Américas. Eso lo planteó Lula, yo se lo planteé, también lo ratifiqué como que era algo que pensábamos en toda la región. Creo que fue una muy buena reunión, impensable, democrática.
+
+PERIODISTA.- ¿Por qué impensable?
+
+PRESIDENTA.- Impensable, me refiero con Estados Unidos no con él; impensable que con un gobierno de Estados Unidos nos pudiéramos reunir mandatarios de la región de las características además de estos mandatarios de la región. Convengamos que en la década de los ´90 se podían haber reunido como de hecho se reunieron fantásticamente sin ningún tipo de problemas; me refiero a mandatarios con perfiles tan diferentes como Evo, como Lula, como Hugo Chávez, en fin, y todos, con mucho respeto pero también con mucha decisión comunicarle lo que era nuestras impresiones y él contestarlas con la misma humildad con que nosotros hicimos los planteos. Creo que fue una reunión de muy buen tono, creo que constituye un adelanto importante en las relaciones de la región y espero que todo esto pueda traducirse en resultados concretos que es lo que todos quieren.
+
+PERIODISTA.- ¿Tiene que haber reformas en el BID en cuanto a la flexibilización de acceso al crédito?
+
+PRESIDENTA.- En realidad, el tema de las condicionalidades, fundamentalmente, más que en el BID, está dado, todos sabemos, en el Fondo Monetario Internacional, lo que no quita que puedan ser replanteadas políticas del BID, del Banco Mundial o de lo que fuera. Pero me parece que para mí la clave en materia internacional, está en el Fondo Monetario. Es más, ayer creo que el Primer Ministro de Belice fue el que planteó que Bretton Woods estaba agotado y que habría que tener otro organismo internacional. Ustedes saben lo que nosotros pensamos del Fondo, las reformas que hemos reclamado históricamente, espero que se puedan llevar a cabo, pero uno siempre tiene dudas con una burocracia tan aceitada y tan estructurada desde décadas y décadas.
+
+PERIODISTA.- Presidenta: ahora el Fondo Monetario tiene líneas flexibles no introducidas en los países, son las nuevas líneas que lanzaron después del G-20. ¿Las conoce esas líneas?
+
+PRESIDENTA.- Todavía no las conocemos, todavía no hemos visto exactamente de qué se trata.
+
+PERIODISTA.- México ya tiene una.
+
+PRESIDENTA.- No, lo de México es otra cosa. El tema México es así: la Reserva Federal de los Estados Unidos hizo un sistema de swap con algunos países como Brasil y México en el Continente y creo que con Indonesia y otros países en el Asia. Eso es otra cosa, no tiene nada que ver; es un auxilio que hace la Reserva Federal para ayudar a respaldar un determinado signo monetario, en este caso el peso mexicano, ante eventuales corridas que puede haber.
+
+PERIODISTA.- Pero hay un crédito del Fondo Monetario.
+
+PRESIDENTA.- Lo desconozco, tendría que verlo, no puedo opinar sobre lo que no sé, creía que hacía referencia a los swaps.
+
+PERIODISTA.- ¿El presidente Obama dio alguna respuesta concreta en la reunión de hoy sobre el tema del BID y los reclamos para la recapitalización del BID y para generar esta confianza y este planteo?
+
+PRESIDENTA.- Habló bastante pero no recuerdo el tema del BID; creo que fundamentalmente...
+
+PERIODISTA.- Y de las diferencias.
+
+PRESIDENTA.- Eso sí, eso lo respondió muy concretamente en la primera intervención que fue la del presidente Evo Morales. Obama dijo que en su Administración eso no iba a pasar. También dijo que hace tres meses que está y que obviamente no habían tomado todo el control de la administración pero está seguro de que en su administración no iba a pasar. Creo que fue una aproximación, creo que fue una reunión de aproximación. Si tuviera que definirlo fue una reunión de aproximación, de conocimiento y creo que, en definitiva, de empezar a construir una confianza y una relación diferente.
+
+PERIODISTA.- ¿Puede haber una visita oficial de Obama a Argentina?
+
+PRESIDENTA.- No sé. Ella quiere un titular, ella insiste con el titular.
+
+PERIODISTA.- ¿Habló del tema del terrorismo, narcotráfico?
+
+PRESIDENTA.- Sí, se charló. Ustedes vieron que cuando ayer el Presidente hizo su intervención, se acuerdan que yo había dicho que los verdaderos enemigos que teníamos que combatir eran la exclusión social, la concentración obscena de la riqueza, el narcotráfico y el terrorismo internacional, pero que estos dos fenómenos tenían directa vinculación o desarrollo precisamente con la existencia de pobreza. Cuando él hace su intervención, hace mención a esta relación entre narcotráfico, entre terrorismo internacional y condiciones de pobreza en el mundo; él también habló hoy de esa lucha que tenemos que desarrollar fuertemente y que tiene que ver con todo lo que está pasando en el mundo. Toda la reunión más que en torno a cuestiones concretas de tal o cual medida, giró en torno a qué es lo que queremos como relacionamiento y qué es lo que él también quiere como relacionamiento en la región. Creo que, reitero, fue una muy buena reunión. Gracias.

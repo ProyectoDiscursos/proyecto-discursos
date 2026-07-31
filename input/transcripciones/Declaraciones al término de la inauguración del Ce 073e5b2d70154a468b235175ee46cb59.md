@@ -1,0 +1,25 @@
+# Declaraciones al término de la inauguración del Centro de Documentación Rápida
+
+Lugar: Buenos Aires, Merlo
+Fecha: 22/06/2010
+ID: CFK-20100622-03
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.-.... ......tal día a tal hora, tendrá que esperar unos minutos y se lo hacen. Todo tiene que tender a no complicarle la vida a la gente. Creo que uno de los ejes de la política es solucionar los problemas del país y darle respuesta a los problemas cotidianos. Desde los grandes problemas macroeconómicos que puede tener un país y que es imprescindible que sean bien abordados, porque si no es abordado lo grande finalmente lo chico termina volando por los aires, hasta lo cotidiano, hasta la cosa pequeña como puede ser la obtención del documento, nada más ni nada menos que la obtención del documento de identidad. Hay que tener en cuenta que uno de los problemas que teníamos en materia de asignación universal por hijo, es la cantidad de chiquitos indocumentados, sin documentos, y ahora se está haciendo una campaña muy fuerte yendo a los sectores geográficos donde hay mayor vulnerabilidad social.
+
+PERIODISTA.- El que no tiene documentos no existe.
+
+PRESIDENTA.- Claro, el que no tiene documentos no existe, obviamente no sos sujeto de derecho, no te pudo reconocer absolutamente ningún derecho, teóricamente ni siquiera podrías ir a la escuela, porque no te pueden inscribir. Por eso es muy importante.
+
+PERIODISTA.- ¿El 9 de Julio será como el 25 de Mayo?
+
+PRESIDENTA.- El 25 de Mayo fue el Bicentenario y la verdad que vamos a ir el 9 de Julio a Tucumán, como lo hacemos todos los años con mucho cariño, a ver grandes actos y festivales. Pero el 25 de Mayo cumplimos los 200 años más lindos de la historia. Yo no me voy a cansar de agradecerle a Dios el haber tenido la suerte, la inmensa suerte, de ser la Presidenta del Bicentenario y además poder haber hecho lo que hicimos todos juntos. Fue una cosa histórica, realmente estoy muy feliz.
+
+PERIODISTA.- ¿Por qué se eligió Merlo para instalar este Centro?
+
+PRESIDENTE.- Porque va a ser en Merlo, en la zona oeste, pregúntenle a él que les va a decir cuál va a ser el próximo en la provincia de Buenos Aires.
+
+PERIODISTA.- Presidenta: un saludito para la radio de Merlo.
+
+PRESIDENTA.- Qué te voy a decir, lo que le dije recién a todos los pibes que como vos, de tu misma edad, son la generación del Bicentenario. Yo digo que hay dos generaciones del Bicentenario, la que tiene la responsabilidad de dirigir el país, y la que va a tener la responsabilidad de seguir en la construcción de esta sociedad de un país más justo, más igualitario, que nos contenga a todos. Ustedes son los del Bicentenario, de ustedes es la responsabilidad de los próximos 100 años. Gracias.

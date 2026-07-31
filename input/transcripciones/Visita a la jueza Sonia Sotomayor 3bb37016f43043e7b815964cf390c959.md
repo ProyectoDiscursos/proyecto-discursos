@@ -1,0 +1,29 @@
+# Visita a la jueza Sonia Sotomayor
+
+Lugar: Estados Unidos, Washington
+Fecha: 12/02/2010
+ID: CFK-20100212-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- Cómo fue su reunión con la Jueza.
+
+PRESIDENTA.- La reunión fue excelente. La jueza Sotomayor es una persona muy especial. El hecho de haber sido la primera mujer latina que accede a este cargo tan importante, pero además con una cabeza importante, como digo yo, muy cálida en sus afectos. Ya nos anunció que viene a Buenos Aires en el 2011; va a ir acompañada de su mamá y del esposo de su mamá que es argentino, de Buenos Aires, así que ya la invitamos al sur, a la Patagonia, pero va a conocer todo. Trajimos de obsequio un libro de Aldo Sessa sobre Argentina; nos pusimos a abrir las fotos y justo abrí - fue coincidencia- con las Cataratas y la segunda que abrí fue Glaciares, así que estaba muy entusiasmada.
+Estuvimos hablando de lo que significa el sistema judicial americano y sobre todo la experiencia que ella tuvo durante su nominación.
+Ustedes saben que ella es neoyorkina, vivía ahí y una de las cosas que decía era cómo ha perdido anonimato. Nos contaba el episodio de anoche de ir un restaurante, se acercó uno de los mozos que era ecuatoriano y le pidió que le firmara su camisa. Bueno, cómo vivió toda su experiencia, como la experiencia de la Corte, obviamente un lugar muy importante, Además hablamos cosas que son parte de una charla privada.
+
+PERIODISTA.- ¿Se habló de la realidad argentina?
+
+PRESIDENTA.- Sí y además le interesaba mucho cómo es ser presidente mujer obviamente, porque ella hablaba de su papel en la Corte pero decía que es un papel limitado porque en definitiva está lo que ha sido la jurisprudencia. Me habló maravillas del juez Stevens que es el juez que acaba de presentar su renuncia y que realmente es una memoria viviente de la Corte; nos habló muy bien de lo que él es y cómo funcionaba en la Corte donde se acordaba de todo y de que cuando alguien iba a hacer un fallo decía: "no, no se puede hacer esto porque en tal año, en tal fecha..."
+
+PERIODISTA.- ¿Pero usted qué le contó de cómo es ser presidente?
+
+PRESIDENTA.- Ella ya sabía que es más difícil, porque obviamente uno debe articular intereses que normalmente esto no sucede en la Justicia, pero sí habló de un intercambio que hay siempre entre los poderes aquí en los Estados Unidos, que ellos consultan también con el Poder Legislativo, con el Poder Ejecutivo porque son parte de un mismo Estado y de un mismo país, sin que eso signifique que van a hacer lo que dice uno ni tampoco que ellos van a decir que otro haga lo que ellos dicen. En ese sentido tienen una visión de la división de los poderes como realmente es; son divisiones de poderes de un Estado pero el Estado es uno solo.
+
+PERIODISTA.- ¿Le llegó a hacer alguna consulta sobre algún tema en particular?
+
+PRESIDENTA.- No, fue todo muy referido a los cambios que también ella ha experimentado en su vida, a lo que fue la experiencia de su nominación como primera mujer latina; está también muy interesada con el tema de cómo es el rol de una presidenta mujer y de las resistencias que hay y fundamentalmente también de lo que las sociedades tienen por allí en cuanto al tema del cambio, que es un fenómeno que no es ubicable en uno u otro país sino en todos, porque en definitiva siempre piensa el que va a cambiar aún cuando ese cambio sea para bien, que tal vez le afecte en algo de lo que tiene, por eso genera resistencia. Pero la verdad que fue una charla estupenda, además ella ya me conocía mucho a través de Héctor, porque ha trabado una amistad con el embajador Timerman, es una persona muy cálida y quiere visitar la Argentina, ya nos dijo que va a ir el año que viene. En realidad tenía pensado ir en el momento que se produjo su nominación y por eso no pudo ir, porque obviamente todo lo que ello conllevó le impidió realizar ese viaje. La verdad que me agradeció mucho el tiempo que compartimos este domingo, pero para mí fue muy interesante. También estuvimos hablando porque estaba Zannini, yo lo cargué a Zannini cuando lo presenté, este es el secretario Legal y Técnico, la verdad que es muy estudioso de los fallos de la Corte americana y siempre nos habla, porque en el caso Madison..., en tal otro caso... Kirchner lo carga siempre, cuando le conté eso se rió mucho de la anécdota.
+
+PERIODISTA.- Mañana empieza la Cumbre, ¿cuál es su expectativa?
+
+PRESIDENTA.- Mañana en realidad es la cena, la Cumbre empieza con una cena. En cuanto a la expectativa vamos a ver cómo se desarrolla, ustedes escucharon mi parecer en lo que fue mi intervención en la Cámara de Comercio cuando hubo una pregunta acerca de la cuestión nuclear. En ese sentido la Argentina tiene un papel muy claro, muy histórico en materia de empleo de la energía nuclear, así que vamos a hablar desde un lugar que me parece cómodo para la Argentina, porque no es que hablamos de pacifismo entre comillas porque no tenemos capacidad de desarrollo nuclear, al contrario, somos un país con un fuerte desarrollo en materia nuclear pero fundamentalmente abocado al aspecto científico y tecnológico, esencialmente energético y medicinal. Así que vamos a escuchar las exposiciones, vamos a intercambiar opiniones y seguramente vamos a llegar a conclusiones en las cuales podamos sentirnos reflejados si no todos por lo menos la mayor parte de los 44 países que intervienen en este encuentro. Gracias.

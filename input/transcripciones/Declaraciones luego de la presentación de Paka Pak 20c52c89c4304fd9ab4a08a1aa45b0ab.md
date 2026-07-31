@@ -1,0 +1,25 @@
+# Declaraciones luego de la presentación de Paka Paka
+
+Lugar: Residencia Presidencial de Olivos
+Fecha: 17/09/2010
+ID: CFK-20100917-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- Tiene que ver con lo educativo, con el entretenimiento, con lo cultural. Las series que se hicieron por ejemplo para la televisión pública, el otro día estaba viendo encuestas de otros países y el tema de las entrevistas con los presidentes latinoamericanos en la televisión pública había tenido y tiene un éxito extraordinario, lo piden de todos los países. Así que lo que se hace con calidad la gente lo toma realmente y estamos muy contentos con eso.
+
+PERIODISTA.- ¿Esto es parte de la Ley de Medios?
+
+PRESIDENTA.- Esto es parte de la Ley de Medios. Una de las exigencias que tenía precisamente la Coalición Democrática cuando formularon el programa era que hubiera educación para chicos. Yo me acuerdo cuando me junté con todos ellos fue precisamente por el tema de un canal para chicos, y aquí el canal va a tener una programación de 2 a 6 años y de 6 a 12 años, porque después de los 13 años miran otras cosas.
+
+PERIODISTA.- ¿Todos los operadores van a tener obligación de emitir la señal?
+
+PRESIDENTA.- Claro, sí, tienen obligación. Como también es obligación tener contenido nacional y locales también, que no solamente tengan trabajo en un solo lugar del país sino que tengan producciones locales y trabajo todos los argentinos en todas partes, este ha sido entre otros uno de los ejes de la Ley de Medios. Corresponde que sea la señal pública, en este caso la televisión pública que comience en primer término a dar cumplimiento a esta Ley de Servicios de Medios Audiovisuales, con esta señal lo estamos haciendo, en realidad con todo el formato que hoy estamos teniendo de una televisión al servicio de la comunidad y de la educación.
+
+PERIODISTA.- ¿Qué opina de lo que está pasando en educación en la Capital?
+
+PRESIDENTA.- Ya di mi opinión, creo que la instrucción pública, la educación pública para nosotros..., yo quiero hablar de lo que hacemos nosotros, no de lo que hacen los demás, siempre digo que cuando alguien habla demasiado de lo que hacen o no hacen los demás es porque no tiene para contar cosas que hace uno, así que en este caso nosotros estamos trabajando muy fuerte, en todo el tema del desarrollo de la educación pública, desde los presupuestos, desde las netbooks, desde la construcción de escuelas, desde las señales educativas, desde el mejoramiento a las universidades, que hemos quintuplicado su presupuesto; desde la creación del Ministerio de Ciencia y Tecnología que también está directamente vinculado con la instrucción pública; desde la Asignación Universal por Hijo, que también es un refuerzo para la equidad y para la escuela pública. Podría seguir hablando mucho, la Ley de Financiamiento Educativo, por primera vez en la República Argentina 6.47 del Producto Bruto Interno está dedicado íntegramente a la educación, como nunca en toda la historia. Dejémoslo ahí, estamos rodeados de chicos, vamos a hablar de las cosas positivas, de las cosas que se hacen bien. De las cosas que se hacen mal hablen ustedes los periodistas, que además les encanta.
+
+PERIODISTA.- ¿Viaja a Washington?
+
+PRESIDENTA.- No, a Nueva York. Mañana me voy a Chile y el miércoles a Nueva York. El jueves es la iniciación de la Asamblea, tenemos el almuerzo con el secretario general Ban Ki-moon, el viernes a la mañana hablo yo y luego el martes asume la Argentina la presidencia por primera vez del G-77, un gran honor para la Argentina. Es la primera vez que vamos a estar en dos grupos tan importantes, formando parte de uno como el G - 20 y que alguien integrante del G - 20 presida el G-77, un gran honor para todos los argentinos.

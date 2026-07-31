@@ -1,0 +1,16 @@
+# Arribo a Moscú para la Visita Oficial a Rusia
+
+Lugar: Moscú, Rusia
+Fecha: 21/04/2015
+ID: CFK-20150421-01
+Estado audiovisual: 🎥 Video disponible
+Verificado: No
+Video: "D:\Nueva carpeta\OneDrive\Jellyfin\2015\CFK-20150421-01.mp4"
+
+PERIODISTA.- ¿Cómo está Presidenta, cómo le va, somos de televisión pública?
+
+PRESIDENTA.- Bien, muy bien, estamos muy contentos de estar aquí en la Federación Rusa – invitada por el Gobierno de la Federación - y mañana comienza nuestra actividad y tenemos una agenda muy intensa. Estamos muy contentos de estar acá, nos recibió el sol, sabíamos que hasta ayer estuvo nevando copiosamente.
+
+PERIODISTA.- ¿Hasta hoy salió el Sol?
+
+PRESIDENTA.- Y bueno es una metáfora eso de que llegué yo y salió el Sol, pero bueno no importa no hacía mucho frío, para una patagónica eso no es nada, estamos acostumbrados a soportar también temperaturas bajo cero, un poco que la nieve no nos asusta, al contrario, me siento como en casa. Muchas gracias.

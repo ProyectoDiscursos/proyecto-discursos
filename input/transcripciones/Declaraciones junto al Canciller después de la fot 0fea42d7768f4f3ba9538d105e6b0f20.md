@@ -1,0 +1,99 @@
+# Declaraciones junto al Canciller después de la foto de Familia en el Hotel Miragem
+
+Lugar: Estoril, Portugal
+Fecha: 30/11/2009
+ID: CFK-20091130-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- Bueno, se está tratando de elaborar una declaración conjunta, donde por supuesto las diferencias, que son de público y notorio conocimiento, se refieren puntualmente a la cuestión de Honduras, en la cual hay posiciones que son diferencias y estimo que se firmará un acuerdo, o eventualmente una declaración de presidencia, que es la fórmula que por ejemplo se adoptó en la Cumbre de las Américas, en Trinidad y Tobago, cuando todos los presidentes no lograron consensuar una única fórmula. Cuando esto sucede también hay fórmulas que permitan traducir a la Cumbre de otra manera, en este caso sería a través de una declaración de su presidente, lo cual en términos diplomáticos - me explicaba el Canciller - permite que los presidentes que tenemos posiciones diferentes, en uno u otro sentido, lo puedan expresar en forma más cómoda, por así decirlo.
+
+PERIODISTA.- Presidenta, ¿qué países comparten la posición de Argentina?
+
+PRESIDENTA.- Muchos, entre ellos Brasil, Ecuador, Paraguay, Uruguay, hay muchos. También hay otros que ustedes saben son Panamá; MERCOSUR tiene una posición uniforme; España también creo. Chile, también.
+
+PERIODISTA.- ¿Si no hay un acuerdo ahí, hay algún documento?
+
+PRESIDENTA.- Hay una declaración de presidencia, que es una fórmula que se adopta diplomáticamente en los encuentros multilaterales, en donde - al no haber un acuerdo entre todas las partes que conforman el acuerdo multilateral- se expresan a través de una declaración de la presidencia que da flexibilidad en cuanto a que los otros presidentes, o presidentas, o jefes de delegaciones, cancilleres, etc. puedan manifestar su opinión. Eso no es tampoco nada tumultuoso ni grave, ha sucedido muchas veces, en natural en un mundo donde no todos piensan lo mismo y donde hay posiciones divergentes.
+
+PERIODISTA.- ¿Presidenta nos puede dar detalles de su reunión con Zapatero?
+
+PRESIDENTA.- Fue una excelente reunión, ustedes saben que la Argentina asume la presidencia del MERCOSUR y de los países de América latina y el Caribe para el próximo encuentro con la Unión Europea, y que lo mismo hace España, va a ser el presidente José Luís Rodríguez Zapatero en ese sentido. La reunión tiene lugar en Madrid a partir del 18 de mayo, si mal no recuerdo, ¿Canciller es así? El 18 de mayo y bueno ver la posibilidad de llegar finalmente a un acuerdo que viene trabajándose desde hace mucho tiempo, que tiene la edad del MERCOSUR además, recién lo charlábamos con la señora vicepresidenta y con el presidente del Gobierno español. El MERCOSUR tiene exactamente 23 años y son 23 años que no se ha podido firmar un acuerdo, así que estamos trabajando entre los dos países.
+
+PERIODISTA.- Presidenta, ¿cuándo se podrá alcanzar ese acuerdo,  qué objetivos se han puesto?
+
+PRESIDENTA.- Más que objetivos un cronograma, de hecho el 18 de mayo en la reunión esa es digamos el punto límite, la fecha límite para llegar a un acuerdo. Así que están todas las actitudes y toda la predisposición de todas las partes para poder abordar ese acuerdo y llegar a un acuerdo y en eso estamos trabajando. Además también compartimos impresiones acerca de la realización de la Cumbre y también un pedido explícito del presidente José Luís Rodríguez Zapatero - con el cual coincido totalmente - en el sentido de que las reuniones multilaterales, los encuentros tengan menos grado por allí de formalidad, de solemnidad, si se me permite el término, y poder abordar una rica discusión política.
+
+Nos pasó una anécdota, que es bueno contarlo, que nos sucedió durante el almuerzo donde hubo una discusión muy buena, no una discusión, sino un intercambio realmente bueno. Será que cuando uno está sentado en una mesa almorzando, y en una sobremesa, es como que hay una actitud más amical, como una actitud donde no pesa tanto la investidura de cada uno, sino que realmente uno comienza...no es que en otro momento no diga lo que piensa, yo normalmente lo digo en todos lados, pero es también que las situaciones y los ámbitos siempre generan una mayor flexibilidad y poder de comunicación entre los presidentes y presidentas. Y realmente habíamos llegado a un intercambio en que estábamos abordando otro tema, que no tenía que ver expresamente ni con la cuestión del encuentro, sino con la situación del Medio Oriente a partir de las visitas que ha habido en nuestra región, en América del Sur, de presidentes y autoridades del Oriente próximo y realmente se dio una charla muy valorada por todos, más allá de las posiciones, y propusimos seguir esa charla para no acabarla ahí con el Presidente José Luís Rodríguez Zapatero, pero los diplomáticos pudieron más y nos llevaron a ese salón cerrado; estábamos sentados en una mesa muy agradable mirando el mar y realmente teníamos una muy buena, muy buena discusión política realmente, de las mejores que he tenido.
+
+PERIODISTA.- ¿Estaban todos los presidentes ahí?
+
+PRESIDENTA.- Todos, todos los presidentes, menos Alan García, que todavía no había llegado porque él llegó luego.
+
+PERIODISTA.- ¿Cuándo fue esa charla?
+
+PRESIDENTA.- Hoy, al mediodía en el almuerzo, que en realidad ya fue casi un té porque eran después de las tres o las cuatro de la tarde. Pero realmente fue muy buena, de todas las multilaterales en que he asistido como Presidenta o acompañando a Kirchner no recuerdo así un nivel de compenetración y de intercambio fluido, de fluidez muy buena. A punto tal que con el Presidente José Luís Rodríguez Zapatero propusimos seguir lo que iba a ser la reunión reservada allí mismo porque era donde estábamos los presidentes, pero fracasamos en el intento porque el Cuerpo Diplomático tenía armado otro escenario que era un lugar muy cerrado con micrófonos.
+
+Yo siempre digo que cuando los políticos, en general, ven los micrófonos o las cámaras de televisión es como si hubiera una transformación, como que hay tal vez una dureza o una estructuración, más que dureza; sería la palabra correcta una estructuración más fuerte en la actitud y en la propia respuesta.
+
+Pero la verdad que también tuvimos una muy buena reunión luego porque muchos querían prolongarla, inclusive, pero había que sacar la Foto de Familia y cumplir los términos.
+
+Pero quería decirte que en la reunión bilateral que mantuvimos con el Presidente Rodríguez Zapatero, como Argentina va a ser responsable en la próxima Cumbre, la vigésima para ser más exacta, que bueno porque estaba pensando que son 20 con 200, o sea XX, 200; XX Cumbre Iberoamericana y 200 años de Argentina, así que va a ser bueno jugar con estas efemérides.
+
+José Luís Rodríguez Zapatero me decía: "bueno, si pudiéramos lograr en la Cumbre una reformulación", digamos más política, donde la discusión política sea por allí no formal, sino también de un abordaje muy similar al que estábamos consiguiendo, alcanzamos un muy buen clima, a pesar de las posiciones diferentes en esta última reservada de los presidentes.
+
+PERIODISTA.-  ¿Presidenta, respecto a la reunión con Rodríguez Zapatero se abordó otros temas, usted puede analizar como están las relaciones Argentina- España cuál es el balance que hace?
+
+PRESIDENTA.- Optimas, las relaciones entre ambos gobiernos es óptima como siempre lo ha sido, tenemos con el Gobierno que preside Rodríguez Zapatero una relación cimentada no solamente en una cuestión de bilateralidad, no solamente en una cuestión de intereses económicos - hay grandes inversiones de España en la Argentina - tenemos una misma visión en muchos problemas que exceden la relación bilateral,  que es una mirada más sobre el mundo que también nos ha ayudado a cimentar la relación. Es una relación, como en toda las cosas no solamente de la diplomacia y de la política se cimenta no solamente en lazos comerciales o en lazos históricos. Alguien también puede venir de una familia y llevarse mal con un familiar, pese a que se conocen desde hace mucho tiempo.
+
+Creo que a los lazos históricos de lo que constituye nuestro vínculo con España - te podría hablar de mis tres abuelos españoles, por ejemplo - se une una visión común en muchos aspectos de la política, de las relaciones internacionales, de la relación que tiene que tener la política con la sociedad, de para qué sirve la política, de cuáles deben ser los objetivos que un gobernante debe tener. Entonces creo que esto también ha contribuido conjuntamente con todo el resto: nuestras tradiciones, nuestra historia en común, nuestras relaciones comerciales a cimentar una relación que siempre fue óptima.
+
+PERIODISTA.- Presidenta, algunos de los accionistas de la empresa Repsol están promoviendo una desinversión en la Argentina y se llegó a hablar de una nacionalización de la empresa. ¿Este tema se abordó en la reunión?
+
+PRESIDENTA.- En lo absoluto, en lo absoluto, no se tocó ningún otro tema que no sea exactamente el que les dije.  No es que esté ocultando nada, lo tengo al Embajador de testigo, le van a creer porque si dice otra cosa va a decir "me echa", pero es cierto, es rigurosamente cierto y seguramente lo van a poder corroborar también con España. Ningún otro tema que no sea exactamente los que mencioné y los comentarios que luego hicimos sobre la reunión que habíamos mantenido inclusive con los otros presidentes y presidentas referidos ya a esta cuestión.
+
+PERIODISTA.- A su entender, Presidenta, ¿cuáles son los puntos que faltarían para alcanzar ese acuerdo, digamos, con la Unión Europea?
+
+PRESIDENTA.- Yo creo que en materia de integración y cooperación son dos capítulos que creo que están muy bien; el capítulo, como todos ustedes saben, es el capítulo comercial en el cual siempre son, por un lado, la parte agrícola desde el lado europeo, si se me permite, y la parte de manufacturas industriales, servicios o compras de gobierno del otro lado, que son los otros tres grandes rubros, digamos, aquí está Alfredo Charadías, si no me equivoco son esos los grandes rubros y en el aspecto comercial. Así que, yo creo que nosotros en materia de servicios tenemos una amplitud que lo dice la propia comprobación empírica del grado de inversión extranjera que hay en materia de servicios en la República Argentina, lo mismo en materia de compras gubernamentales. Así que, bueno, estamos abordando la cuestión del capítulo industrial, el capítulo agrícola que sería, digamos, de un lado y del otro, los que presentan mayor grado de dificultades. En síntesis es eso, no quiero tampoco adelantar más porque no...
+
+PERIODISTA.- De todas maneras, señora, si me permite, yo estuve con Chacho Álvarez, presidente de la Comisión de Representantes del MERCOSUR y acababa de hablar con Moratinos, está en una nota que hice yo, está el problema que sigue siendo muy amplia la brecha entre la mezquindad europea con las barreras comerciales y nuestros reclamos y parece que hubiera poco tiempo para llegar a poder firmar un acuerdo.
+
+PRESIDENTA.- Yo creo que ahí tendríamos que crear e imaginar también mecanismos de adaptación competitiva, por ejemplo, en los distintos sectores fijando términos o plazos para la terminación de los mismos y la verificación al cabo de esos plazos que se hayan cumplido los objetivos que fijaron los propios mecanismos de adaptación competitiva. Se me ocurre y digo esto como un instrumento, no es que diga que tiene que ser así. Ustedes me dicen de las dificultades y yo les propongo frente a las dificultades lo que puede ser una solución para abordar y superar esas dificultades. A lo mejor viene alguien con una idea mucho mejor que la que tengo yo y entonces es mejor. Creo que tenemos que empezar al revés, es decir, por las cosas que estamos de acuerdo, porque si empezamos por las que estamos en desacuerdo, es un método donde normalmente no se puede avanzar. Entonces, el método sería: comenzar a examinar e ir cerrando dentro del capítulo comercial aquellos sectores en los cuales tenemos acuerdos o tenemos diferencias mínimas superables de algún modo y dejar para lo último aquellas partes del capítulo comercial en las cuales tenemos más dificultades. Porque si no, siempre basado en el capítulo agrícola para Europa o en el capítulo industrial para América del Sur, Caribe, etcétera, estamos entonces ante problemas que no podemos superarlos. Yo creo que si nosotros cerramos integración, cooperación y en el capítulo comercial cerramos servicios y compras de gobiernos y nos quedan esos dos capítulos, va a ser mucho más fácil poder llegar a un acuerdo o, por lo menos, reducir al mínimo las diferencias. Normalmente, cuando en todo tipo de negociación se reducen al mínimo las diferencias, hay muchas más posibilidades -así lo indican las estadísticas al menos- de saldar esas diferencias que si desde el principio nos atrancamos en las diferencias.
+
+PERIODISTA.- El tema de los subsidios agrícolas cómo a su modo de ver podría sortearse, subsidios agrícolas de parte de la Unión Europea.
+
+PRESIDENTA.- Podría ser desde mecanismos de adaptación competitiva, compensaciones. Nosotros, por ejemplo, hemos tenido una política de compensaciones para los sectores que tenían bajo precio como el sector de la leche. Ahí nosotros hemos, por ejemplo, en un momento de la producción lechera que teníamos problemas, hemos con un mecanismo de compensación evitar el cierre de tambos y poder proteger al sector. Ahí podríamos acordar que si de este lado se hace eso, también se podría hacer del otro. En fin, un sinnúmero de cuestiones que no me gustaría precisar porque si no después van a salir a decir tal cosa o tal otra. Son ejemplos, quiero que quede claro que todo lo que estoy diciendo no son ni propuestas ni decisiones ni nada, son ejemplos para poder...Porque si no, ustedes se van y dicen, ya veo la crónica de mañana "se van a poner de acuerdo pero no explicó cómo". Doy ejemplos, pero también quiero que quede en claro eso, que son ejemplos.
+
+PERIODISTA.- Le propongo eso...
+
+PRESIDENTA.- No, si yo no le voy a escribir el artículo. Además, usted lo escribe y se lo corrigen allá en Buenos Aires.
+
+PERIODISTA.- No, yo soy Juan Carlos Algañaráz, no es tan fácil que me lo corrijan.
+
+PERIODISTA.- Presidenta: mañana se va a conocer el documento final de la Cumbre. El permanente reclamo argentino sobre la soberanía argentina en Malvinas, ¿va a estar incluido?
+
+PRESIDENTA.- Sí, va a estar incluido.
+
+TAIANA.- En realidad es una declaración aparte. Es un documento que tiene una declaración, un plan de acción y hay algunas declaraciones particulares. Una declaración particular es la de Malvinas; otra declaración particular, veremos si sale como declaración de los presidentes, es la cuestión Honduras. Hay un proyecto de Declaración que insiste en la necesidad de aumentar hasta duplicar el capital del BID.
+
+PRESIDENTA.- Sí, eso es una cosa que estamos impulsando fuertemente. Ustedes saben que lo he manifestado también en la reunión del G-20 en Pittsburgh. Nosotros creemos que debe incrementarse la capacidad prestable del Banco Interamericano de Desarrollo porque se ha procedido de la misma manera con el Banco de Asia y realmente el Banco Interamericano de Desarrollo es el único instrumento de carácter multilateral específico para la región que ha cumplido un rol muy importante en materia de planes de infraestructura, en materia de planes sociales. Por ejemplo, el Plan Familias en la República Argentina se financiaba a través del Banco Interamericano de Desarrollo, los mismos planes para el sector agrícola, por ejemplo, el PROSAP, que es un programa muy importante en materia de tecnificación del agro con electricidad, caminos, etcétera también cuenta con financiamiento del BID. Así que, en ese sentido estamos impulsando fuertemente todos los países una recapitalización del Banco Interamericano de Desarrollo y espero que eso pueda salir.
+
+PERIODISTA.- Presidenta: la vuelvo un segundo al tema Honduras. Evidentemente, las posiciones de los países que no concuerdan con Argentina y Brasil también concuerdan a su vez con la posición del Departamento de Estado e incluso, la Secretaria de Estado, Hillary Clinton, ha dicho que estas elecciones han sido un paso aunque falta algo más. Quería saber cuál era su posición personal sobre esas declaraciones de Hillary Clinton.
+
+PRESIDENTA.- Yo no pienso comentar las declaraciones del Departamento de Estado porque tengo las mías. En todo caso pídale a Hillary Clinton qué opina de mis declaraciones. No tengo por qué opinar sobre las declaraciones...Todo Departamento de Estado, todo país tiene derecho a asumir una postura respecto...Yo creo que es la posición que hemos tenido muchísimos países y lo he dicho públicamente. También lo he sostenido el otro día en la cuestión de Medio Oriente, creo que el rol de Estados Unidos podría haber sido de mayor fuerza, de mayor...Y esto no significa injerencia, esto significa el peso específico que tiene un país que sigue teniendo un liderazgo a nivel mundial indiscutible más allá de lo que a cada uno le parezca.
+
+PERIODISTA.- Presidenta: permítame que vuelva sobre el tema YPF. Si bien no se trató en la reunión bilateral, ¿cuál sería la postura del Gobierno respecto...?
+
+PRESIDENTA.- No es un tema que haya discutido en esta Cumbre. Me parece que íbamos a charlar sobre los temas de la Cumbre y no tengo nada que opinar al respecto.
+
+PERIODISTA.- Hay un tema que a mí me interesa particularmente, y es el tema del tratado MERCOSUR con la Unión Europea porque creo que si se logra firmar, va a ser un éxito diplomático fabuloso, no solo para Argentina sino también para España. Entonces, quería una valoración suya de lo que ha sido la reunión de hoy de cancilleres sobre justamente la evolución, la negociación, lo que se está haciendo del tratado entre MERCOSUR y Europa. ¿Cómo valora usted el resultado de la reunión de hoy?
+
+PRESIDENTA.- Por los comentarios que tengo del canciller Moratinos y del Canciller de Argentina, y aquí el señor Charadías asiente con su cabeza también, nuestro hombre de la Cancillería, experto en negociaciones multilaterales en esta materia, ustedes saben que él también es negociador en Doha, que ha sido buena y lo que falta ahora es fijar exactamente el cronograma de los próximos encuentros para poder llegar a tiempo al 18 de mayo.
+
+TAIANA.- El proceso sigue siendo muy positivo.
+
+PERIODISTA.- O sea que la fecha que se pusieron como objetivo de máxima para llegar a un acuerdo es esa fecha...
+
+PRESIDENTA.- El 18 de mayo, no; en esa fecha tiene lugar la reunión. El 18 de mayo es la fecha que fijaron todos los países para el encuentro en Madrid que, por esas raras casualidades de la vida, yo lo comentaba con el Presidente y con la Vicepresidenta de España, el 18 de mayo empieza la Semana de Mayo. El 18 de mayo, cuenta la tradición, que French y Beruti repartieron las escarapelas celestes y blancas. En realidad, ustedes saben que repartían las escarapelas con los colores borbónicos porque todavía no existían las escarapelas celestes y blancas y estaba el planteo de los rioplatenses respecto de la ocupación napoleónica y que, por lo tanto, debíamos independizarnos como la hermana mayor. Esta fue la teoría jurídica que plantearon los patriotas más tarde en el Cabildo del 22 de mayo. Pero el 18 de mayo precisamente, que es el día de la reunión, empieza justamente nuestra Semana de Mayo.
+
+TAIANA.- El 18 de mayo se celebra la Cumbre América del Sur-Caribe-Unión Europea y la Presidenta es la presidenta de esa Cumbre por el lado de América latina y España es la presidenta de la Unión Europea también en la Cumbre. Simultáneamente, la Presidenta va a presidir el MERCOSUR y España también preside la Unión Europea. Entonces, la idea es que en esa Cumbre tratar de arribar con la posibilidad de finalizar ahí y cerrar con las dos presidencias esa discusión.

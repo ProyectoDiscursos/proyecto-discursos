@@ -1,0 +1,421 @@
+# Segunda parte de la entrevista a la Presidenta con el periodista Jorge Rial
+
+Lugar: Residencia Presidencial de Olivos
+Fecha: 07/10/2013
+ID: CFK-20131007-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- Le voy a hacer una pregunta porque se armó revuelo en las últimas semanas. ¿A qué fue a Seychelles?
+
+PRESIDENTA.- No... Lo explicó Parrilli.
+
+PERIODISTA.- Pero aprovecho porque la tengo acá.
+
+PRESIDENTA.- Es que yo no fui a Seychelles. Yo fui a hacer una gira pero kilométrica que empezó en Cuba cuando fui a visitar a mi amigo Chávez, que todavía estaba vivo, mirá vos. Ahí está la famosa foto donde almuerzo con Fidel y con Raúl y donde la señora de Fidel Castro, Clarín "forever", siempre Clarín, la confunde con Beatriz Paglieri. ¿Te acordás epígrafe de la foto? Fidel, Cristina, faltó que a Raúl Castro l dijeran Moreno nada más, viste. Y a la esposa de Fidel, que es la que me mandó el otro día junto con Fidel, el ajuar del nene, un ajuar muy lindo del nene, la confunden con Beatriz Paglieri. De ahí, fui creo, a Emiratos; de Emiratos fui, me parece, a Indonesia; de Indonesia fui a Vietnam, y después de Vitnam, todo esto con escalas también, obviamente, y de Vietnam hicimos escala en Seychelles unas 13 horas, que había que hacer escala en Seychelles porque los pilotos necesitaban dormir las 8 horas reglamentarias, llegamos a escala a África en otra ciudad que ahí no tuvo que haber 8 horas, porque ahí había cambio de tripulación, entonces al haber cambio de tripulación...
+
+PERIODISTA.- Había mucho más...
+
+PRESIDENTA.- No, no...O sea, cargaba combustible y chau, te fuiste. En Seychelles tuvimos que estar 13 horas para las 8 horas reglamentarias que tenían que estar los pilotos durmiendo porque no había cambio de tripulación. Y además esto es así, porque lo hicimos en un vuelo, en una compañía inglesa que me acuerdo que me enojé muchísimo porque de la escala africana, teníamos que estar aquí en 8 horas e hicieron todo un cambio de vuelo y tardamos 12 horas y yo me enojé muchísimo porque no habían cumplimentado...Me pidieron disculpas y todo lo demás, y le dije a Parrili, "Parrili no los confrontes más porque realmente no cumplieron con lo prometido". Digamos 8 ó 9 horas, bueno...no importa.
+
+PERIODISTA.- ¿Por qué tanto misterio alrededor de esa parada?
+
+PRESIDENTA.- No, no fue ningún misterio. ¿Pero por qué misterio? Está publicado...¿A vos te parece que puede haber misterio de algo que se publica en el Boletín Oficial?
+
+PERIODISTA.- No, pero pregunto por qué tanto misterio, más allá del Boletín Oficial, se pudo haber armado todo eso...
+
+PRESIDENTA.- Y preguntáselo a quién armó el escándalo mediático. Vos sabés, vos sós periodista.
+
+PERIODISTA.- Sí.
+
+PRESIDENTA.- ¿Cuántos escándalos mediáticos armaste con una cosita así?
+
+PERIODISTA.- Y con menos también.
+
+PRESIDENTA.- Con una cosita así, Jorge.
+
+PERIODISTA.- Menos, con una cassette. No, ya sé.
+
+PRESIDENTA.- Con una manito en el corazón, por una cosita así chiquitita... Pero es el trabajo de ustedes, está bien, yo no me quejo. Ahora, yo creo que también el trabajo debería tener una ética y límites. Todos tenemos que tener límites y éticos.
+
+PERIODISTA.- Eso, puntualmente, fue pasar un límite.
+
+PRESIDENTA.- Absolutamente. Eso y muchas cosas más, no importa, no vamos a venir, pero el caso ya es...Una cosa que había sido publicada hacía meses atrás, además en el Boletín Oficial. ¿Cómo puede haber algo secreto que se publica en el Boletín Oficial? Es algo absurdo, no, no sé...Bueno, creo que el comunicado de la Secretaría General, más toda la documentación que se acompañó, la de la empresa, el propio Boletín Oficial.
+
+PERIODISTA.- Ese día reaccionaron rapidísimo, me acuerdo.
+
+PRESIDENTA.- Y sí, porque realmente uno...ya cuando trasponen los límites y entonces vas del absurdo a decir: una escala secreta, qué fueron a hacer. Y resulta que está publicado en el Boletín Oficial y demás, yo ya dije...buen... Ya me parece que...Si tenés que salir a aclarar todo todos los días y vivís aclarando, tampoco podés vivir aclarando el absurdo todos los días...Es como si hubiera salido a aclarar yo lo de las calzas. Imaginate, se armó una polémica con las calzas y resulta ser que yo había ido con calzas a 20 mil actos, y en el único acto en que se les ocurrió decir que tenía calzas, fue en el de las piletas de Ezeiza. ¿Para qué? Para que no se supiera lo que habíamos hecho, para tapar, para tapar esa obra increíble de las piletas de Ezeiza. Jorge, recuperamos una obra icónica, un ícono del peronismo en los años 50, una obra que se inauguró en enero del año 50, que la inauguró Perón. Fijate vos qué cosa ¿no?... En febrero del 50 nacía Kirchner, un mes después y ahí Perón inauguraba ese centro de recreación al que debe de haber ido, no sé, media Argentina. Recibo mails de gente, en Twitter. Yo tengo 60 años y estuve ahí cuando tenía 20, en la inauguración, qué sé yo, cosas así. Recuperamos eso, armamos un polo industrial que es el Parque Industrial N° 315 con bloquera, hormigonera, viveros, de ahí van a salir paneles para hacer viviendas en el programa de mujeres "Ellas hacen", hicimos un centro de convenciones para 3.000 personas, centros de alojamiento para más de 1.000 personas, cocinas, 550 parrillas, recuperamos 433 hectáreas de las 1.300 hectáreas que es todo el predio, un lugar donde van 100 mil personas cada fin de semana. Este año vamos a inaugurar la reapertura de las dos piletas, la tercera no porque está muy deteriorada. Y entonces ¿qué había que hacer?
+
+PERIODISTA.- Hablamos de las calzas.
+
+PRESIDENTA.- Hablamos de las calzas. De las calzas, hasta me dijeron que hicieron una cumbia.
+
+PERIODISTA.- Sí, la escuché.
+
+PRESIDENTA.- Es linda, yo no la escuché todavía, dicen que es linda. O sea, vos sabés de una cosita así...
+
+PERIODISTA.- Sí, conozco.
+
+PRESIDENTA.- Pero me parece que hay límites, yo creo que todos tienen que tener límites también.
+
+PERIODISTA.- Ya tiene en la cabeza quién puede suceder, quién puede seguir con este proyecto del kirchnerismo, o todavía no está pensando en eso.
+
+PRESIDENTA.- ¡Qué preguntita!
+
+PERIODISTA.- Porque, a ver. Uno de afuera lo ve a Scioli como, además se ha hecho una transfusión del kirchnerismo impresionante Scioli, porque era medio dudoso, ¿no?
+
+PRESIDENTA.- ¿Y cómo es la transfusión de kirchnerismo?
+
+PERIODISTA.- Un día golpeó la mesa y dijo: "No se puede estar medio embarazado, o se está o no se está".
+
+PRESIDENTA.- Bueno...Eso no es ser kirchnerista, eso es ser realista.
+
+PERIODISTA.- No, pero lo que digo era...
+
+PRESIDENTA.- Para decir eso no hace falta ser kirchnerista.
+
+PERIODISTA.- Pero, Presidenta, había sido muy criticado, me acuerdo. Yo he hecho notas en la radio con Mariotto, Kunkel, Conti, que la misma Di Tulio dijo: "Hay que salir a bancar los trapos"
+
+PRESIDENTA.- Hay que aguantar los trapos, una frase, la verdad, de Juliana muy linda. A mí me gustó mucho esa frase que a mí no se me hubiera ocurrido.
+
+PERIODISTA.- ¿Recuperó la confianza de Scioli?
+
+PRESIDENTA.- Nunca la perdí.
+
+PERIODISTA.- ¿Nunca la perdió? ¿Siempre confió en él?
+
+PRESIDENTA.- Nunca la perdí.
+
+PERIODISTA.- Pero hubo algún cortocircuito.
+
+PRESIDENTA.- ¿Vos viste el programa anterior mío? ¿Salió la parte esa que yo digo que como mujer yo siempre soy muy desconfiada? Bueno, yo desconfío de todo el mundo, así que...
+
+PERIODISTA.- ¿Ah sí?
+
+PRESIDENTA.- Sí, salvo mi hijo, mi hija. Todo el mundo desconfía de todo el mundo, Jorge.
+
+PERIODISTA.- ¿Pero alguna vez desconfió de Daniel?
+
+PRESIDENTA.- Yo lo que creo -y esto que me decís vos- falta mucho para el 2015. Me parece que además, esto que el dedo mío va a decidir quien va a ser...No, no, los dedos míos son los dedos de una mujer y...
+
+PERIODISTA.- Pero todos dicen que el kirchnerismo es usted, Cristina. Yo no sé si a dedo, pero...
+
+PRESIDENTA.- Yo creo que el kirchnerismo es algo más que una persona, sino sería muy fácil. Me parece que el kirchnerismo...Esta es la diferencia tal vez con otros espacios políticos que lideraron el peronismo. Pero te dieran una persona y que entonces a partir de que esa persona pierde vigencia o realiza una mala gestión...No, no, yo creo que el kirchnerismo es algo más que una persona. Yo creo que el kirchnerismo es una construcción política muy fuerte que abreva fundamentalmente en el peronismo, pero que también incorpora a sectores que no lo son ni lo van a ser, pero se sienten identificados con un modelo y una cosmovisión del país, que se sienten identificados, por ejemplo, con lo que dije en Naciones Unidas, que es capaz de pararse y decir esas cosas. El kirchnerismo es un Kirchner que se para en la Cumbre de las Américas en el 2005 y le dice a George Bush "no al ALCA". Con una mano en el corazón, ¿cuántos en este país se pueden parar frente a George Bush y decirle "no al ALCA"?. Yo creo que hay algunos que lo veían a Bush y se hacían pis encima, qué querés que te diga.
+
+PERIODISTA.- Por eso le pregunto, ¿quién puede llevar adelante...?
+
+.
+
+PRESIDENTA.- No, no me quieras sacar cosas...
+
+PERIODISTA.- No, pero pregunto, ¿ese modelo...?
+
+PRESIDENTA.- No, no seas intruso. Esto no es "Intrusos".
+
+PERIODISTA.- No soy intruso.
+
+PRESIDENTA.- Sí, sí.
+
+PERIODISTA.- No, no.
+
+PRESIDENTA.- Si estás en un programa de intrusos.
+
+PERIODISTA.- No, no estoy hablando de amor ni de nada; estoy hablando de política.
+
+PRESIDENTA.- Y en Intrusos a veces hacés política también.
+
+PERIODISTA.- Yo hago todas las mañanas en la radio política, todas las mañanas.
+
+PRESIDENTA.- Toda tu vida hacés política todo el día, toda la gente.
+
+PERIODISTA.- Sí, todos hacemos política, obviamente.
+
+PRESIDENTA.- Sí, todos.
+
+PERIODISTA.- Obviamente.
+
+PRESIDENTA.- Entonces digo que el kirchnerismo no es una persona, porque entonces el kirchnerismo hubiera sido Néstor y hubiera sido yo. El kirchnerismo es algo más, el kirchnerismo es como un modelo de construcción que ha generado en una década logros impensables. El otro día ahí a tu colega Hernán Brienza, que además es historiador y que además es peronista y que además fue criado en un hogar de peronistas, me dijo algo que para mí es el mejor elogio que puedo sentir, porque yo me siento una militante peronista. Y me dijo: "Para mí el kirchnerismo es lo que mis viejos me contaron que fue el peronismo". Para mí eso es el kirchnerismo.
+
+PERIODISTA.- O sea, recuperó esas raíces.
+
+PRESIDENTA.- Recuperó esa raíz. Obviamente, no puede ser el peronismo de los años 50, primero, porque es otro el mundo, porque es otro el país, porque ni Kirchner es Perón ni yo soy Evita, ni los argentinos son como los de esa época. El mundo cambia y uno cambia con el mundo. Había un famoso italiano, líder italiano de la posguerra que decía: "Uno siempre cambia con las épocas, a no ser que sea tan importante como para cambiar la época". Me parece que kirchner fue tan importante que cambió la época, sin lugar a dudas.
+
+PERIODISTA.- Presidenta, ¿alguna vez realmente pensó en la re-reelección?
+
+PRESIDENTA.- No, como tampoco pensé en este lugar que estoy ocupando ahora.
+
+PERIODISTA.- En ser Presidenta.
+
+PRESIDENTA.- Mirá, yo cuando se fue Néstor ese día en Calafate, no hablo de cuando vino acá, yo no lo quería traer acá, quería llevarlo de Calafate a Gallegos y un amigo, que se lo agradezco porque yo ya había decidido que lo llevaba directamente a Gallegos, me dijo: "Usted no puede hacer eso". "¿El qué no puedo hacer yo?", dije. "Llevarlo a Gallegos, usted tiene que llevarlo a Buenos Aires, porque él es del pueblo y la gente tiene derecho a verlo, tiene derecho a despedirlo...". Bueno, yo no quería, estaba empacada. Y después de hablarme un largo rato, me convencieron de traerlo acá. Pero los que estuvieron ese día ahí acompañándome en esa cosa íntima, muy íntima, en el comedor de mi casa de Calafate, se deben acordar que, antes de las cosas esas que pasan, que son definitivas cuando ya ves más a una persona, yo le prometí a él que lo iba a hacer quedar bien. Y la verdad que me maté en ese primer gobierno para hacer un buen gobierno. Y después pensaba...Me costó mucho decidirme, viste que no fue enseguida, fue casi sobre el filo. Lo pensé mucho, mucho, mucho. Es más, debe haber crónicas de feroces y feos opositores que decían: "No, si no va a ir a la reelección, se va a ir a disfrutar, no sé qué, de las mieles de no sé qué". Dudaban mucho de que. Y yo dudé mucho y lo consulté con mis hijos también, con Máximo y Florencia. Los dos me dieron absoluta libertad obviamente para que yo decidiera, aunque debo decir que Florencia me dijo: "Vos hacés lo que quieras, mamá, pero para mí te tenés que volver a presentar". Florencia es terrible, es Kirchner con polleras, tiene una personalidad muy fuerte. Máximo también tiene una personalidad muy fuerte pero es más parecido a mí. Florencia es más parecida al padre, sí, sí. Y la verdad que me costó decidirme y si me preguntás qué fue lo que me decidió... Vos te acordás que, inclusive, un 1° de marzo había salido un titular, vos que la mencionás a Diana no sé, de eterna o no sé qué cosa, y Clarín le puso un titular grande de que como yo era eterna, que esto y que lo otro, y que yo dije una cosa así como que "no se hagan los rulos". Y lo decía en serio que se hicieron los rulos.
+
+PERIODISTA.- Y me lo dijo a mí.
+
+PRESIDENTA.- Te lo dije a vos.
+
+PERIODISTA.- No, ella a mí me lo contó y después salió.
+
+PRESIDENTA.- ¡Ah! Cuántas cosas que te dicen a vos che, eh, le sacás cosas a la gente. Tendrías que trabajar de psicólogo a lo mejor.
+
+PERIODISTA.- Tal vez lo sea, en vez de...
+
+PRESIDENTA.- Y bueno, y la verdad que cuando dije que no se hagan los rulos lo dije en serio que no se hagan los rulos, porque vos no sabés lo duro que es esto, todo el mundo cree... A ver, si estás acá adentro jugando al golf y le dejás el gobierno a otro y vas de viaje en viaje y de fiesta en fiesta. ¿Vos me viste a mí en alguna fiesta, en algún lado? En ningún lado, ni a Néstor ni a mí, nos gusta. No había cosa mejor que llegar después de laburar, yo lo empezaba a llamar a las 10 de la noche, "¿cuándo venís, cuándo venís?", y después al revés, me hacía él lo mismo, "¿Cuándo venís?". Nosotros siempre, siempre cenamos y almorzamos juntos, acá, en Gallegos, salvo cuando yo viajaba a Buenos Aires cuando era diputada. Si no había un imponderable de viaje o de ausencia, nosotros comíamos juntos. Era el momento de mayor placer, acompañados siempre por algún amigo, pero era el momento en que hablábamos, discutíamos, lo que había pasado, lo que iba a pasar, lo que pensábamos hacer. Eran momentos de mucho placer de estar solos o con amigos. Viste que hay otros que les encanta ir a fiestas y aparecer, mostrarse en esta revista, que en la otra, que tal cosa. Nosotros no somos así. Entonces, la nuestra no es una vida –digamos- de los placeres o de las mieles del poder, por decir algo. Él se levantaba a las 7 de la mañana, saltaba de la cama, pasaba por la ducha, 7 y media tomaba el helicóptero y 8 menos cuarto estaba en la Casa de Gobierno. Al único que nunca pudo llegar antes, fue con Aníbal Fernández.
+
+PERIODISTA.- Él iba primero.
+
+PRESIDENTA.- No, no, lo intentó mil veces y Aníbal lo mataba siempre y llegaba primero Aníbal. Pero el segundo que llegaba a Casa de Gobierno, era Néstor Kirchner, primero Aníbal y después él. Y yo, a las 7 y media de la mañana estoy leyendo todos los diarios, llamando por teléfono, bueno...pueden dar fe mis colaboradores, a las 7 y media y a la noche cuando me vuelvo de Gobierno soy capaz de llamarte a las 12 y media ó 1 de la noche porque me olvidé algo. Hay algún funcionario estoy viendo de costado que se está riendo. Pero es así, no es fácil. ¡Ojo! No me quejo, porque...
+
+PERIODISTA.- Tenía vocación para esto.
+
+PRESIDENTA.- No es obligación, es como cuando vos tenés el sacrificio también de ensayar, de estudiar, de preparar el programa, de laburar, es lo que te gusta, pero no es lo que otros hacen.
+
+PERIODISTA.- Presidenta, ahora, no todas son mieles, no todo está bien. Cuando uno pasó una elección como estas PASO, ¿cómo la tomó? Después hubo lo del Impuesto a las Ganancias, ahora estaban hablando del tema de los menores. ¿Todo esto se hizo por el resultado?
+
+PRESIDENTA.- Primero que hubo una primera elección de las PASOS y el resultado somos la primera fuerza del país, porque las elecciones son en todo el país, desde La Quiaca hasta Ushuaia, primera cosa.
+
+PERIODISTA.- Pero en Buenos Aires...
+
+PRESIDENTA.- En Buenos Aires, y sí...en el 2009 también De Narváez ganó las elecciones. Me parece que reducir todo a una elección intermedia...Pero te digo, en las PASO seguimos siendo y somos la primera fuerza electoral del país por el número de votos.
+
+PERIODISTA.- ¿Duele que haya sido, primero, un tipo como Massa que teóricamente es del palo?
+
+PRESIDENTA.- No, no es del "palo", es opositor.
+
+PERIODISTA.- No, bueno pero venía del kirchnerismo, ¿era del "palo" o no era del palo?
+
+PRESIDENTA.- No, es opositor.
+
+PERIODISTA.- Ahora, pero digo...
+
+PRESIDENTA.- Si no es opositor yo soy la Mona Lisa, viste, y estoy en el Museo del Louvre y no soy la Mona Lisa, estoy acá. No, los que son del kirchnerismo o del "palo", como te gusta decir a vos, están dentro del "palo". No quiero hablar de los demás, no me gusta. Este no es un espacio en el que yo hable de los demás.
+
+PERIODISTA.- No, están bien, pero yo pregunto eso...
+
+PRESIDENTA.- Sí que quede muy claro el lugar en que esté cada uno, sí.
+
+PERIODISTA.- O sea, ¿no es del "palo"?
+
+PRESIDENTA.- No, obviamente, claro, no por decisión mía, por decisión de ser opositor al Gobierno, es un opositor al Gobierno. A ver, es como Margarita Stolbizer, como Ricardo Alfonsín, como De Narváez. Es opositor al Gobierno y tiene todo el derecho de ser opositor al Gobierno como cualquier otro, sin lugar a dudas. Es opositor a mi Gobierno, sí, sin lugar a dudas, como lo es De Narváez y como lo es Margarita, como lo es Macri, como lo es tanta gente, tantos dirigentes.
+
+PERIODISTA.- ¿Cuál es su relación con Macri? Se pelean seguido, ¿no?
+
+PRESIDENTA.- No, no, ¿cuándo nos peleamos?
+
+PERIODISTA.- Hay pelea...
+
+PRESIDENTA.- Hay discusiones, bueno, sí...
+
+PERIODISTA.- Un día le regaló un bandoneón, tuvo un buen gesto. ¿Dónde está ese bandoneón?
+
+PRESIDENTA.- Bueno...Lo tengo guardado, es un lindo regalo...
+
+PERIODISTA.- En la baulera, atrás de la máquina de correr.
+
+PRESIDENTA.- No, los regalos son regalos, no, los regalos son regalos Y, además, la verdad que de todos los opositores, te diría que Macri...¿Por qué te ponés la mano así?
+
+PERIODISTA.- Porque me va a agarrar...
+
+PRESIDENTA.- ¿Un ataque al corazón?
+
+PERIODISTA.- Yo tengo un stent. ¿Qué va a decir, a ver?
+
+PRESIDENTA.- ¿Tenés un stent en serio?
+
+PERIODISTA.- Sí.
+
+PRESIDENTA.- ¿Cuándo te lo pusieron? Disculpame...
+
+PERIODISTA.- Hace como cuatro años. Por eso, con lo que me diga de Macri...Por ahí me quedó acá.
+
+PRESIDENTA.- Por ahí te quedás acá. A Macri, yo le reconozco una inmensa virtud: dice lo que piensa, dice el modelo de país que le gustaría, que no es el mío, evidentemente. Pero no se disfraza diciendo...Macri te dice: "Yo privatizaría Aerolíneas Argentinas, yo privatizaría YPF". Te dice lo que piensa, no es de los que después te dicen: "Si diría lo que iba a hacer, no me votan". El tipo dice lo que piensa. Es un modelo diametralmente opuesto al...
+
+PERIODISTA.- ¡Qué malos deben ser los otros para que reivindique a Macri, digo, ¿no?!
+
+PRESIDENTA.- No, no, yo no lo estoy reivindicando a Macri; estoy diciendo las cosas que a mí me parece. A mí me gusta la gente que dice lo que piensa. O sea, no es que me gusta la gente que dice lo que yo pienso, me gusta la gente que dice lo que piensa, que es sincera, que no se disfraza para sacar votos o se disfraza de algo, "bueno, no, me gusta esto pero, en realidad, yo corregiría lo malo y dejaría lo bueno" y no explicás cómo es. Esto es como con Perón, lo corrían por las cosas que hacía mal, pero en realidad lo que querían tumbar era lo que había hecho bien y muy bien. Entonces, ¿qué es lo que valoro de Macri? Que Macri es como es. Te dice: "Yo privatizaría Aerolíneas Argentinas, lo de YPF es un desastre". Y bueno, a mí me gusta, no comparto nada, obviamente, no comparto su ideología, de ningún modo. Creo que es un modelo de los 90 remozado. Pero bueno, pero lo dice. A parte, él era amigo de los 90, él era un hombre de los 90, sin lugar a dudas. Y creo que estaba de acuerdo con esas políticas de los 90. Y no me parece mal que esté de acuerdo con las políticas de los 90; me parecería horrible que dijera que es revolucionario y que está de acuerdo con el Che o que, en realidad, de Cristina lo único que no le gusta es esto o aquello, pero el resto está todo bien. Esas cosas son las que le hacen mal a la política. Yo creo...
+
+PERIODISTA.- Me sale en los subtítulos cuando usted dice eso y dice "Sergio Massa" en el subtítulo.
+
+PRESIDENTA.- No, no, yo no subtítulo, querido, el zócalo dejalo para TN, que hace unos zócalos fantásticos.
+
+PERIODISTA.- La patria zocalera.
+
+PRESIDENTA.- La patria zocalera, sí, sin lugar a dudas, sí, la patria zocalera. O la patria que te parten la pantalla. En la crisis del campo, terrible.
+
+PERIODISTA.- ¿Se acuerda cuándo dijo que la soja era un pastito, era un yuyo? ¿Se arrepiente de eso?
+
+PRESIDENTA.- No, no, lo dije, en realidad, porque lo comparé con el tema de lo resistente que son los yuyos. A punto tal de que con el glifosato no le hace nada. Tiran glifosato y matan cualquier cosa. Lo dije como una metáfora. Obviamente, Clarín y todos los mediáticos de eso hicieron oh, oh...un escándalo.
+
+PERIODISTA.- ¿No lee Clarín no, me parece?
+
+PRESIDENTA.- Sí, leo todo, sí, después me tomo un protector gástrico. Pero...
+
+PERIODISTA.- ¿Canal 13 ve?
+
+PRESIDENTA.- No, en realidad, no. Por televisión te voy a decir lo que veo: veo películas, que me encantan, o sea que soy una cinéfila fanática; veo algún que otro noticiero; veo muchos noticieros de afuera, porque para enterarme de lo que pasa en el mundo, no puedo ver ningún noticiero nacional. Es el único país...voy afuera y en todos los países están los noticieros donde pasan las cosas locales pero pasan lo que pasa en el mundo ¿Vos te diste cuenta, Jorge, que los noticieros, vos sos de América...? Pero probá: mirá los noticieros...
+
+PERIODISTA.- Se ve poco internacional.
+
+PRESIDENTA.- No hay nada internacional. ¿Sabés por qué no hay nada internacional?
+
+PERIODISTA.- ¿Por?
+
+PRESIDENTA.- Porque sino los argentinos se darían cuenta en el país que viven.
+
+PERIODISTA.- Ah...
+
+PRESIDENTA.- Por eso.
+
+PERIODISTA.- No quieren la comparación.
+
+PRESIDENTA. Por eso no pasan nada de lo que pasa afuera. Vos mirá: yo tengo DirecTV, que el otro día sé que me sacaron unas solicitadas los de Clarín diciendo que yo tengo DirecTV y...Yo tengo DirecTV, pero de DirecTV tengo: desde Telesur, pasando por CNN, pasando por Fox, pasando por el canal de noticias La Nación de Colombia, que es excelente, que es bastante oficialista. O sea, todos los noticieros de Italia, o sea, yo puedo ver las noticias de todo el mundo, tengo la televisión española, que es excelente. Y vos ves en todos los noticieros del mundo, una parte de todos los noticieros, si no es un 25 por ciento como mínimo, un 30, dedicado a internacionales. Todos los noticieros de acá, son de lo que pasa acá y nada más que acá. Inclusive, de lo que pasa a la vuelta, no sé, de los choques. Yo nunca vi que, por ejemplo, en España, hubiera un noticiero donde dicen "en tal ruta chocó un auto con un camión", salvo que haya habido muertes o haya sido un accidente grande que sí que lo pasan. Acá, como gran...por ahí te ponen "urgente" o con placa roja "último momento" y en la Panamericana se atravesó un camión y está cortada. Vos decís, cualquiera que pone "urgente", en cualquier país del mundo, es un accidente, muertos, una desgracia, una catástrofe. Yo digo que hay una estrategia, un modus operandi muy claro, mediático, tendiente a ocultar a la opinión pública argentina lo que es el mundo, lo que pasa en el mundo, lo que está pasando en el mundo, lo que está pasando en Europa. Vos sos un tipo que viaja, vos sabés lo que está pasando en Italia, en España, en Portugal, en Grecia, en el propio Estados Unidos. Yo nunca vi tanta gente dormir en la calle como ahora estas veces que he ido a Nueva York. Siempre había homeless en la puerta de alguna iglesia, venían del Ejército de Salvación a la noche y les alcanzaban...Pero ahora, es impresionante.
+
+PERIODISTA.- Lo que pasa que por ahí es difícil decirle a la gente, hablarle del exterior a la gente que aquí le decimos que se puede comer por 6 pesos. ¿Usted cree realmente que se puede comer por 6 pesos?
+
+PRESIDENTA.- Eso no es así y es una distorsión que fue explicada absolutamente por el INDEC. Nunca se dijo eso. Eso está como el día que sacaron eso que en el comedor de empleados de la Casa de Gobierno se come por 3 pesos. Pero no es que lo que comen salga 3 pesos. Simplemente es un acuerdo con el sindicato como hay...como debe haber en América. En América debe haber un comedor de empleados...¿No hay un comedor de empleados en América?
+
+PERIODISTA.- No, tenemos una máquina de café nada más.
+
+PRESIDENTA.- Bueno, che, decile a Vila y a Manzano que aflojen un poco y a De Nárvaez que hagan un convenio...El SATSAID no tiene ningún convenio...
+
+PERIODISTA.- Huy, me metí en un kilombo me parece...
+
+PRESIDENTA.- Nosotros tenemos convenio, bueno muchachos, a ver, acá yo soy la secretaria general del gremio. Nosotros tenemos un convenio con UPCN donde en las condiciones laborales...como lo tienen muchísimas empresas. La UOM, por ejemplo, tiene convenio, los empleados de SIDERAR, si mal no recuerdo, o de muchas empresas tienen sus comedores y es gratis o pagan mínimo...
+
+PERIODISTA.- Quiero seguir trabajando en América yo.
+
+PRESIDENTA.- Y, bueno, querido. Ah, bancatelá.
+
+PERIODISTA.- Me va a dejar sin trabajo...
+
+PRESIDENTA.- No, vos sin trabajo no te vas a quedar, no me jodas...No te vas a quedar sin trabajo. Porque sos bueno no te vas a quedar sin trabajo, porque sos bueno, porque medís bien de rating. Porque vos sabés que ustedes son los locos del rating, si medís mal, morís.
+
+PERIODISTA.- Y sí. Bueno, pero los políticos de los votos. Si no tienen votos, mueren también. Todos dependemos de un numerito.
+
+PRESIDENTA.- Obviamente, pero te digo, bueno, hicieron un escándalo, que "comen por 3 pesos", la gente se indignaba. No, era un comedor que, además, lo hicimos todo nuevo porque el que tenían era un sucucho, infame, indigno de que la gente comiera ahí. Hicimos una cosa muy linda en plena Casa de Gobierno donde, de acuerdo con el convenio colectivo que tiene firmado el Estado como patrón con UPCN, que es el gremio que agrupa a todos los estatales, tiene ese comedor, como tienen muchísimos gremios...Otros tienen viandas, viáticos, qué sé yo. Camioneros tiene 200 pesos de viáticos; los petroleros tienen 300 pesos de viáticos para comer. Tampoco necesitás 300 pesos de viáticos para comer por día. Esta claro. Y bueno, tienen 300 pesos de viáticos por comida. Evidentemente, son reglas que son, de acuerdo a como las mires, las distorsionas para un lado o para el otro. Pero nadie dijo eso. Leete bien el informe del INDEC y te vas a dar cuenta.
+
+PERIODISTA.- Pancho Ibáñez decía que todo tiene que ver con todo. Recién habló de los camioneros, ¿qué pasó con Moyano?
+
+PRESIDENTA.- Ah, qué sé yo.
+
+PERIODISTA.- Antes era kirchnerista...
+
+PRESIDENTA.- No sé, yo sigo siendo la misma Cristina de siempre.
+
+PERIODISTA.- ¿Pero pasó algo?
+
+PRESIDENTA.- Con calzas, ahora...
+
+PERIODISTA.- Usted habló de las calzas.
+
+PRESIDENTA.- No sé, qué sé yo que le pasó. Porque yo estoy en el mismo lugar de siempre...
+
+PERIODISTA.- Él se corrió.
+
+PRESIDENTA.- Yo no quiero hablar por los demás, a mí no me gusta, digamos, hacer comentarios sobre los demás o abrir la boca diciendo algo de los demás. Yo me acuerdo de una 9 de Julio repleta, festejando un 1º de mayo los trabajadores y vos también, seguramente, la mayor movilización de los últimos tiempos un 1º de mayo diciendo que nuestro Gobierno era el mejor de toda la historia. Bueno, no sé qué habrá pasado después que cambió. Pero no es una cosa que te pueda responder yo. Me parece que es una pregunta para otro interlocutor.
+
+PERIODISTA.- Pero es la primera vez que la tengo a usted, que es la otra parte. Se la he preguntado a Moyano muchas veces.
+
+PRESIDENTA.- No va a ser la última tampoco. Él te la debe de haber contestado, a lo mejor, qué sé yo, no sé.
+
+PERIODISTA.- Bueno, él lo que dice es que con Néstor era diferente la charla. Lo dicen muchos, eh, muchos dicen "con Néstor...", intendentes y todo.
+
+PRESIDENTA.- Sí, para los hombres con una mujer siempre...
+
+PERIODISTA.- Ahí viene la parte de la misa.
+
+PRESIDENTA.- Y, pero sí. A ver, no es lo mismo con un hombre que con una mujer, sobre todo, en las relaciones de poder. Por ahí es más agradable para otras cosas. Seguramente es mucho más agradable para otras cosas entre un hombre y una mujer, pero para las relaciones de poder, sobre todo de los hombres en el peronismo, y sobre todo en una sociedad que es un tanto machista, no podemos. A ver, ¿convenimos que somos un poco machistas los argentinos e, inclusive las mujeres también?
+
+PERIODISTA.- Pero tenemos una Presidenta, tan machista no somos, eh, hemos votado una mujer. O sea, tan machistas no somos.
+
+PRESIDENTA.- Es cierto también. Pero el tema de la relación de poder entre hombre y mujer es más difícil. Por ahí con Néstor hablaban de cosas que conmigo...Claro, a ver, con Néstor hablaban de fútbol, conmigo de fútbol no podés hablar porque no entiendo una pepa, porque no me gusta; con Néstor hablarían de las cosas que ni quiero pensarlas tampoco...
+
+PERIODISTA.- De mujeres...
+
+PRESIDENTA. Y seguro. Si todos ustedes cuando se juntan hablan de mujeres...
+
+PERIODISTA.- Acá estamos hablando de otra gente...
+
+PRESIDENTA.- No, vos porque Loly te va a mirar seguro, pero cuando no estás con Loly, no quiero estar peleada con Loly que es divina...A este lo matan.
+
+PERIODISTA.- Me rajan de América, me peleo con mi pareja...A qué vine acá.
+
+PRESIDENTA.- Pero cuando no estabas con Loly, huy, ahora tu exmujer me mata ahora, pero, ¿no hablabas de mujeres?
+
+PERIODISTA.- Sí, todo el tiempo. Está bien, hablamos de mujeres, de fútbol y de política. ¿Ustedes no hablan de hombres?
+
+PRESIDENTA.- De política, yo de hombres de qué, de hombres no, ¿con mujeres? No tengo...En realidad, siempre mi relación, como han sido mis relaciones también muy de militantes, muy de política...
+
+PERIODISTA.- Siempre era eso. ¿Tiene amigas?
+
+PRESIDENTA.- Sí, tengo amigas, pocas, mi hermana, es una gran amiga, gran, yo diría mi gran amiga, con la cual peleamos también mucho, mi gran amiga, sí, pero tengo también amigos.
+
+PERIODISTA.- ¿Y amigos del campeón? Digo, que se juntaron ahora, al ser Presidenta calculo que debe haber muchos que...el "sí cristinismo" hay.
+
+PRESIDENTA.- No, no existe el "sí cristinismo" porque es una cosa que me revienta particularmente, a mí me gusta que me discutan. ¿Vos no te das cuenta que a mí me gusta que me discutan?
+
+PERIODISTA.- Sí, ya veo, ¿pero alguien se atreve a discutirle? De verdad. Yo le discuto acá porque me voy ahora, a mí qué me importa.
+
+PRESIDENTA.- Y además no dependes de mí. No estás a tiro de decretos, a tiro de firmas.
+
+PERIODISTA.- Por eso, yo me voy de acá y dije chau, la deje...
+
+PRESIDENTA.- Mirá porque me revienta, que me den la razón del loco, me enferma. A mí me gusta que me discutan, que me debatan. Néstor en ese sentido era un poquito...le gustaba...
+
+PERIODISTA.- Le gustaba más la sobadita de lomo.
+
+PRESIDENTA.- No, él era discutidor pero por ahí se enojaba...Yo lo criticaba mucho. La que más lo criticaba era yo y se enojaba un montonazo. Porque por ahí cuando no me gustaba algo, se lo decía y por ahí él "pero a vos nunca te gusta lo que yo digo". A mí me ponía muy nerviosa mirarlo a él por televisión en los discursos". Te cuento un secreto, bueno, no es un secreto porque lo conté varias veces: a mí me ponía muy nerviosa cuando él...yo no lo miraba por televisión cuando...porque siempre tenía miedo de lo que iba a decir, porque Néstor era imprevisible, podía largarte cualquier cosa, cualquier verdura en cualquier lado y vos te agarrabas y decía "qué va a decir". Vos sabés que me ponía mucho más nerviosa cuando habla él que cuando hablaba yo y al él conmigo le pasaba lo mismo: se ponía más nervioso cuando hablaba yo que cuando hablaba él. Era tal vez una cosa...Es más, me molesta más cuando lo critican a él que cuando me critican a mí y a él le molestaba y le dolía mucho más. Por eso creo que debe haber sufrido horrores cuando fui Presidenta. Le molestaban mucho más las cosas que decían de mí, por eso de la protección y de su gran amor -yo fui su gran amor y él fue el mío-, creo que le molestaba mucho más que me criticaran a mí que a él y viceversa, a mí me molesta también mucho más. Y entonces, bueno, yo era muy de criticarlo a él. Por ahí, decirle, "vos estuviste en esto, te equivocaste,...". Cuando fue su lanzamiento como gobernador, que fue para mí un hito, él era intendente...La Intendencia de Río Gallegos está, la Intendencia, la plaza y enfrente hay un colegio que se llama Ladvocat, que tiene un gimnasio enorme, y en ese gimnasio se hizo el lanzamiento de campaña. La única que no fui al lanzamiento de campaña, fui yo. Eso te lo puede contar el Topo Devoto, que fue el que nos hizo los afiches y todo lo demás. Yo no fui, quedé sola en la Municipalidad, ni el cafetero quedó porque se fueron todos y además puse una radio y un televisor bien alto para no escuchar nada porque tenía miedo o que se equivocara o que dijera algo que lo hiciera perder votos y perder qué sé yo, arruinara...no sé, me ponía muy nerviosa. Fue un hombre que desde que lo conocí, nunca me aburrió y me siguió poniendo nerviosa hasta el último día.
+
+PERIODISTA.- Cuando digo "los amigos del campeón", suena mucho de –una palabra muy de los 70 voy a usar- el entorno, que poca gente tiene acceso a usted, que escucha poca gente.
+
+PRESIDENTA.- Escucho a todo el mundo, te lo pueden decir mis ministros, por ahí no estoy de acuerdo con algunas cosas que dicen, discuto, hago reuniones. Lo que pasa es que no hago reuniones filmadas por televisión y para que todo el mundo las vea. Porque además, yo me acuerdo, que siempre criticaban a Néstor que no hacía las famosas reuniones de Gabinete. ¿Vos te acordás de las famosas reuniones de Gabinete de otros gobiernos donde después decían que tal cosa y había dicho tal otra? Y había unos líos que se la pasaban explicando qué había pasado en la reunión de Gabinete y que tal no había dicho que tal de tal cosa y que tal otra no habían dicho. Y era todo un escándalo y un conventillo infernal donde lo importante pasaba cerca y era qué había pasado en la reunión de Gabinete y no lo que hacía el Gobierno. ¿Y sabés qué? En nuestro Gobierno, lo importante no son las reuniones de Gabinete, son las cosas que hemos hecho como gobierno, tanto en el de él como en el mío. Así que, todas esas críticas me parecen tan chiquitas, tan pequeñas, tan mediocres. Entorno, ¿qué es el entorno? Creo que...sí, amigos todo el mundo tiene, gente de confianza todo el mundo tiene. Vos tenés amigos de confianza, colaboradores tuyos ¿y no es entorno?
+
+PERIODISTA.- No.
+
+PRESIDENTA.- Y bueno.
+
+PERIODISTA.- ¿Y qué pasa cuando constantemente intentan relacionar a su Gobierno y al de Néstor también, con la corrupción? Hablan de enriquecimiento ilícito.
+
+PRESIDENTA.- Eso, mirá pocas personas deben haber sido tan investigadas como Néstor y yo. Hay causas, pero además, lo más gracioso de todo es que normalmente todas las denuncias de corrupción eran porque se le descubría una cuenta en Suiza a alguien, acordate de Salinas de Gortari cuando le encontraron una cuenta en Suiza en tal parte, acordate de Angeloz cuando le encontraron propiedades que nunca había declarado. Lo más gracioso de todo es que las denuncias que nos hacen a nosotros, son sobre nuestras declaraciones juradas presentadas ante la Oficina de Corrupción y ante la AFIP, o sea sobre cosas que declaramos nosotros, no es que te descubrieron una cuenta en Suiza que vos no conocías y entonces... o te descubrieron tal propiedad que no la habías declarado o te encontraron una mansión que vivías y no sabían que eran tuya.
+
+PERIODISTA.- Pero cuando aparece un tipo diciendo yo llevaba una valija, se la ponía Néstor y se lo contó...
+
+PRESIDENTA.- Eso es un modus operandi de los últimos tiempos, de testigos o de testimonios mediáticos que después se desdicen en sede judicial. Todos y cada uno de los que fueron y dijeron, bueno, me parece que vos fuiste inclusive en algún programa tuyo...
+
+PERIODISTA.- Fariña.
+
+PRESIDENTA.- Gente que dijo una cosa en un programa y al otro día va y dice otra; gente que dice una cosa, al otro día va al Juzgado, niega todo, dice que es mentira y que lo llevaron con tal y fulanita, el político lo llevó, o tal política lo llevó. Y todo esto fue en los últimos tiempos el modus operandi. ¿Desde cuándo? ¿Vos te diste cuenta desde cuándo? Desde cuando el tema del atesoramiento del dólar. Antes las denuncias como tenían que ver, en el caso Skanska, acordate, estuvieron un año con el caso Skanska. Néstor se pasó un año entero diciendo, "es un asunto entre privados, son facturas truchas que los propios ejecutivos presentan a las empresas", y terminó siendo lo que decía él. ¿Alguien se acuerda del caso Skanska que tiene nombre de yogurt como digo yo?, Bueno, no quedó en nada. ¿En qué quedó? En que eran privados. ¿Y quién era el juez que procesó al funcionario que nosotros cesamos y que finalmente terminó absuelto? Montenegro, actual ministro de Seguridad de Macri. ¿Y el fiscal quién era? Stornelli. Me parece que hay también una suerte de utilización de la Justicia, la verdad, bastante fea.
+
+PERIODISTA.-¿Está enojada con la Justicia?
+
+PRESIDENTA.- No, yo no estoy enojada con nadie.
+
+PERIODISTA. ¿Por qué antes la Corte...?
+
+PRESIDENTA.- No, no, vamos por parte. Yo creo que la Justicia tiene como poder del Estado tiene una deuda grande con la sociedad. Creo que ha habido una democratización muy fuerte del Poder Ejecutivo. Creo que nadie duda de que quien toma las decisiones en el Poder Ejecutivo a partir de la presidencia de Néstor Kirchner es el presidente. Nadie piensa que viene un banquero, que viene un empresario de un monopolio y le dice "usted tiene que hacer tal cosa para favorecerme a mí". En eso creo que no hay duda. Se puede estar o no de acuerdo con la política, se puede o no estar de acuerdo con el gobierno, pero nadie duda de que....Lo mismo pasó con –digamos- el Poder Legislativo. El Poder Legislativo, vos fijate, acordate que decían que yo iba a vetar tantas leyes. Bueno, ¿cuántas leyes lleva vetadas Macri? Más de 100, y yo creo que debo haber vetado 3, 4, 5 leyes y me decían que iba a ser "Vetina" en lugar de Cristina. Creo que empezaron a mutar cuando este tema de lo que vos me preguntabas hoy el tema del atesoramiento de los dólares. Entonces empezaron a crear el tema de los dólares. Antes era la corrupción de Skanska o de que había habido coimas o que había habido esto. Cuando comenzó el tema del dólar, empezaron con montañas de dólares. ¿Por qué? Porque yo creo que es un modus operandi para también irritar a la gente, crear la sensación de que "mirá estos tienen montañas de dólares, y vos no podés comprar dólares para atesorar". Podés viajar sí, porque vas con la tarjeta y, como te contaba recién. Vi en Nueva York, cuando salí del Sant Regis, después de verla a Dilma, muchísimos argentinos, bueno, "vamos Cristina" me decían, "hola qué tal", de vacaciones, en Rusia lo mismo. Vos viajás. Miami me dicen que parece una sucursal...
+
+PERIODISTA.- Cuando dice "vos viajás" me da miedo.
+
+PRESIDENTA.- ¿Por qué?
+
+PERIODISTA.- Porque viajo muy poquito.
+
+PRESIDENTA.- Bueno, no, me refiero a que sabés cuántos argentinos viajan.
+
+PERIODISTA.- Sí, digo, porque siempre abajo...
+
+PRESIDENTA.- Además lo veo por las cuentas de Turismo que sale en dólares y demás.
+
+PERIODISTA.- ¿Qué pasó con esta Corte Suprema?
+
+PRESIDENTA.- No, te voy a decir lo de la Justicia. Creo que está en deuda porque creo que es un poder...El tema de la democratización de la Justicia... El otro día leía un artículo de un diario opositor que decía, "el Consejo de la Magistratura paralizado". Y fue, precisamente, uno de los diarios que más estuvo en contra de la democratización de la Justicia. Y la aparición también de sectores de la Justicia, porque sería injusta que yo generalizara. Creo que hay, como en todas partes buenos y malos jueces, pero creo que hay una demanda de la sociedad. Lo que nos está pasando por ahí, me cuenta Berni, gente que entra 3 ó 4 veces por año y la largan y vuelve a delinquir, entonces parece como que entra por una puerta y sale por la otra, la puerta giratoria. Y es mentira que no haya instrumentos o que no haya leyes para hacerlo, porque cada juez, y esto te lo digo como abogada, Jorge, puede denegar la excarcelación aún cuando el delito sea excarcelable si considera que la persona es peligrosa para el resto de la sociedad. Entonces ¿qué pasa cuando de repente excarcelaciones y demás? Y qué sé yo. O jueces demasiado laxos u otras cosas.
+
+PERIODISTA.- Esas otras cosas, ¿qué puede ser? ¿Corrupción ahí también?
+
+PRESIDENTA- ¿Vos crees que la corrupción es algo de lo público únicamente?
+
+PERIODISTA.- No, en lo privado la hay, por Dios.
+
+PRESIDENTA.- Vos sabés que cuando se empezó el operativo "Mani Pulite" en Italia, el fiscal Di Pietro, que vino a dar una conferencia muy interesante acá hace unos cuantos años, él contó que cuando comenzó la investigación, empezó con el prejuicio y estaba convencido de que la corrupción se originaba en la política, que eran los políticos. Y, finalmente, cuando siguió investigando y terminaba el hilo, dice que el hilo siempre terminaba en un privado que era el que había empezado. El tema y, obviamente, para poder hacer el negocio había cooptado, corrompido, como mejor te guste ponerle el nombre, a un legislador o a un juez o a un ministro o a un presidente para obtener el beneficio. Pero que siempre, a diferencia de lo que él creía cuando empezó con el operativo "Mani Pulite", todo empezaba en el sector privado. Porque en definitiva, si vos analizás, ¿quiénes son los que realmente terminan beneficiados? El político termina, bueno, con enriquecimiento ilícito. Pero el negocio, finalmente, ¿quién lo hizo, un privado o el político? Un privado. Entonces, vamos a hablar en serio de la corrupción. Porque siempre se habla de lo que aparece de lo político, pero no de lo que está detrás de lo político. Entonces, yo creo que hay que empezar a hablar en serio en la Argentina de todo y ver la fotografía, más que la fotografía la película completa.
+
+PERIODISTA.- Presidenta, gracias.
+
+PRESIDENTA.- No, gracias a vos.

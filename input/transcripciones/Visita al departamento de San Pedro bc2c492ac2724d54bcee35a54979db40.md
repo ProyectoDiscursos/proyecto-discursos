@@ -1,0 +1,59 @@
+# Visita al departamento de San Pedro
+
+Lugar: Misiones, San Pedro
+Fecha: 09/09/2009
+ID: CFK-20090909-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.-  ¿Estuvo en las casas dañadas?
+
+PRESIDENTA.- Sí, estuve en las casas dañadas, en la Iglesia, en el colegio que se destruyó con el jardín de infantes, sí, estuvimos viendo.
+
+PERIODISTA.-  ¿Y la ayuda del Gobierno?
+
+PRESIDENTA.- Yo acabo de crear unas resoluciones que entregué al Gobernador, donde se le va a entregar todo lo que corresponda, todo lo que está decomisado, eso en lo inmediato. Pese a todo eso la Gobernación junto con los equipos que mandamos desde Buenos Aires han resuelto muy bien la emergencia, provee a toda la gente de coberturas...
+
+PERIODISTA.-  ¿En una forma directa...?
+
+PRESIDENTA.- Eso lo vamos a implementar junto con el Gobernador, por suerte las casas que se van a reconstruir van a ser de madera para dar una solución rápida, allí hay gente de los cascos seleccionando ropa, está intervenida toda la gente que tiene problemas de salud que está en los hospitales de Posadas, en El Dorado. Y además trabajar no solamente para reconstruir las casas, porque una de las cosas que un escuchaba y charlaba con las víctimas era no solamente la reconstrucción de la casa y de los enseres de la casa, sino también de la economía familiar, porque cada una de estas familias tenía su economía familiar, sus chanchos, sus vacas, sus gallinas, sus pollos, viven de la agricultura familiar.
+
+PERIODISTA.-  Esto ocurre en el mismo año que lo de Tartagal, en el mismo año otra tragedia natural tan importante.
+
+PRESIDENTA.- Son tragedias inevitables, en este caso sorprendente porque nunca había sucedido una cosa así acá, un tornado de estas características. Me explicaba la gente de gendarmería que han hecho un desarrollo que el fenómeno se produjo como entre dos divisorias de agua, entre los ríos, y en la ruta natural, una divisoria de agua es cuando los ríos tienen pendiente para un lado y pendiente para el otro, hay una ruta en el medio, como una suerte de encajonamiento, que favoreció el desplazamiento del fenómeno por esa ruta, como si fuera un vector del fenómeno. Si uno recorre el lugar ve que como si se hubiera desplazado por el medio hasta los costados de cada lado de la ruta. También fuimos con otra chiquita de 18 años que me decía que a 100 metros de la casa había pasado este fenómeno y no les había pasado nada. Son las características de estos fenómenos de tornados.
+
+PERIODISTA.-  Presidenta, usted hablaba de las economías familiares, nosotros estuvimos con muchas de estas personas, y ellas se preguntan por el mientras tanto, cómo van a ir haciendo durante este tiempo para recuperar esos pocos animales que tenían.
+
+PRESIDENTA.- Vamos a trabajar conjuntamente con el Gobernador, de hecho se cubrió muy bien la emergencia, esto es lo importante, lo que es la contención psicológica, estuvimos allí con psicólogas del Servicio Penitenciario, con chicas de Bomberos que están convertidas en verdaderas nodrizas y mamás de los chiquitos, dándoles contención. Así que el tiempo que demanda reconstruir la casa y lo de los animales, son los tiempos naturales y lógicos.
+
+PERIODISTA.-  ¿Las primeras medidas a tomar de aquí en mas?
+
+PRESIDENTA.- No se pueden hacerr en un segundo, van a demandar un tiempo.
+
+PERIODISTA.-  ¿Queda el Ministro de Salud aquí, el Secretario de Obras Públicas?
+
+PRESIDENTA.- No, ellos ya tomaron notas aquí desde ayer de todo lo que se requiere, ahora lo importante es hacerlo, y vamos a hacer con Maurice porque es una persona muy comprometida con la comunidad de su provincia, como el Intendente también aquí con su comunidad. Trabajamos muy bien en la emergencia, por lo pronto han logrado cubrir a todos los animales muertos para evitar cualquier tipo de peste, con las dificultades que significa trabajar abajo de la lluvia, porque a partir del fenómeno la lluvia fue persistente y no ha dejado de caer, vinimos desde Iguazú todo el camino lloviendo en forma permanente y muy fuerte, pero las mismas máquinas ya estaban trabajando con todos los árboles caídos y demás paras retornar no al paisaje habitual, porque volaron montes enteros, pero también se construyeron dos cabs, que son centros de atención primaria que es muy importante, que también vamos a reconstruir a la brevedad. También vimos otros que se estaban construyendo cuando veníamos para aquí en la misma zona. Así que, vamos a poner empeño para poder hacerlo.
+
+PERIODISTA.- ¿De cuántas familias se trata?
+
+PRESIDENTA.- Me informaba ayer el Secretario que casas destruidas eran 100, y me lo confirma acá el Gobernador. Luego hay otras que sufrieron distintos deterioros. Pero también es cierto que vamos a tener que ayudar a aquellas que no sufrieron deterioros, pero que al lado de las casas que por allí se reconstruyan van a estar más lindas o más nuevas y entonces no es justo que haya esas diferencias. Así que, estuvimos charlando con el Gobernador de tratar de emparejar la situación de todos, de los que tuvieron los daños y perdieron todo como esa casita donde murieron los tres chiquitos, los Santos.
+
+PERIODISTA.- ¿Fue todo imprevisible, Presidenta, o algo quizás se podría haber hecho antes en cuanto al tema infraestructura? ¿Qué notó usted?
+
+PRESIDENTA.- Un tornado es imprevisible, si tuviéramos la fórmula para preverlo...
+
+PERIODISTA.- Presidenta: usted recién hablo de Leandro Santos...
+
+PRESIDENTA.- Estuve con él y sus dos hermanos, y tiene otro hermanito que están operándolo en Posadas. Él lo que quiere es ir con ese hermanito a Posadas, ya le dimos ropa, porque tenían solo la ropa que tenían puesta, ellos perdieron todo, vamos a lograr que le den de la ropa que trajimos acá a él y la hermana, la hermana que estaba en el Paraguay se va a ir a la casa de los parientes y él pidió irse con su hermanito. También es conmovedora la historia de Darío Maciel que vino con nosotros en el avión, él perdió a su mamá y vino a hacerse cargo de sus seis hermanitos que hoy los tenía una vecina. Pero Leandro lo que quiere desesperadamente es ir a ver a su hermanito y va ir con su otro hermano a Posadas a verlo que lo han operado, y su hermana se va a la casa de otros parientes a El Dorado. El me pedía por las vacas porque tenían unas vacas de las cuales vivían, una economía absolutamente familiar. Muy conmovedor todo.
+
+PERIODISTA.- ¿Usted va a seguir personalmente esos casos?
+
+PRESIDENTA.- Todos, porque creo que es importante ayudarlo al Gobernador, que además es muy trabajador y está muy comprometido, para que pueda hacer las cosas lo más rápido posible. La verdad que la historia de la familia Dos Santos es una historia impresionante.
+
+PERIODISTA.- ¿Además de lo que perdieron, le pidieron otras cosas?
+
+PRESIDENTA.- No. Gente que no tiene nada, al contrario, lo único que piden son las dos o tres vacas que tenían, además con un cariño y un afecto. Es gente que no tiene nada y por eso cuánto deberíamos aprender todos.
+
+PERIODISTA.- ¿Eso qué lectura le implica?
+
+PRESIDENTA.- Yo no hago lecturas, háganla ustedes que para eso son periodistas y son suficientemente inteligentes.

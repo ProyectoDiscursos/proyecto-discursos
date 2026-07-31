@@ -1,0 +1,13 @@
+# Declaraciones a la prensa en la presentación de dos nuevos aviones para Aerolíneas Argentinas
+
+Lugar: Capital Federal
+Fecha: 06/08/2009
+ID: CFK-20090806-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.-  ...Ampliar dos nuevos aviones más a la flota, lo que significa profundizar la conectividad en el país, que fue el gran problema que tuvimos cuando debimos hacernos cargo de la empresa, yo no me canso de repetir, pero siempre es bueno decirlo, al momento de hacernos cargo de la empresa, cuando remitimos el proyecto desde el Poder Ejecutivo al Parlamento ya el Estado estaba pagando los sueldos de Aerolíneas Argentinas porque la empresa privada no los podía pagar, ya estábamos pagando también el combustible. El otro día me había olvidado también de ese detalle, hacía mucho tiempo, inclusive durante mucho tiempo se pagaba el combustible a una empresa privada, con lo cual evidentemente no hubo más remedio que hacerse cargo de la empresa, estábamos pagando salario y los insumos básicos para el funcionamiento, lo cierto era que no nos hubiera gustado que esto sucediera, que hubiera sido exitoso el proceso de privatización, pero no lo fue, fue calamitoso y por sobre todas las cosas las consecuencias las paga el país profundo, como digo yo, porque en definitiva el que vive aquí, en Capital Federal, por allí tiene que viajar al interior para ver a un familiar o por cuestiones comerciales, pero los que vivimos en el interior es un instrumento de transformación y de transporte permanente.
+
+PERIODISTA.- ¿Esto tiene que ver con el crecimiento?
+
+PRESIDENTA.- Tiene que ver, además también con el desarrollo turístico. Yo me acuerdo en la anterior Semana Santa, no en esta, creo que fue la anterior, la del 2008, si mal no recuerdo, que hubo un gran conflicto, una perdida muy grande para todo el sector de la industria hotelera. Yo el otro día viajé, ya hace unos meses, a Tierra del Fuego, para inaugurar la ampliación del aeropuerto de Tierra del Fuego y allí la Gobernadora, el Intendente de Tierra del Fuego, el propio concesionario decían de la importancia de haber regularizado la situación de Aerolíneas Argentinas porque obviamente es el instrumento de conectividad para todo el interior del país y sobre todo para aquellas plazas en las cuales no hay rentabilidad, es fácil encontrar líneas de transporte por ahí para ir a lugares donde la tarifa es en dólares o es muy rentable, pero no es lo mismo cuando se requiere el transporte para otros lugares del país donde no hay tanta rentabilidad.

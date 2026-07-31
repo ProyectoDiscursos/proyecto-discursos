@@ -1,0 +1,15 @@
+# Declaraciones a la prensa en Iguazú, Misiones
+
+Lugar: Misiones, Puerto Iguazú
+Fecha: 25/05/2009
+ID: CFK-20090525-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- Presidenta, ¿Qué les espera a los argentinos después de este escenario?
+
+PRESIDENTA.- Hacía tanto tiempo que no pasaba tanto calor pero la verdad es que me encantó estar acá, en Misiones, además, me decía Maurice de la suerte de los 200 milímetros de lluvia y de los 300 que le cayeron a Gildo allá en Formosa. Así que, con mucha fuerza, con mucha esperanza. ¿Qué tenemos que esperar los argentinos? Los argentinos no tenemos que esperar, los argentinos tenemos que hacer, hacer las cosas que hemos venido haciendo en estos últimos años que nos han permitido tener una Argentina mucho más fortalecida. Yo me acuerdo lo que pasó durante el Tequila, que fue la crisis mexicana, llegamos al 18 por ciento de desocupación, año 1995. Después vino el efecto Caipirinha, que fue en el '99, si mal no recuerdo, donde se produjo la gran devaluación brasilera que también casi nos noquea y adonde llegamos también a dos dígitos, 17, 18 por ciento de desocupación y eran crisis absolutamente regionales y focalizadas. Vos imaginate que hoy, esta crisis absolutamente global, donde en España se ha disparado a casi el 20 por ciento de desocupación, donde Irlanda, por ejemplo, que era uno de los modelos que siempre nos planteaban, se destruyó y la desocupación creció el 106 por ciento, y que nosotros hayamos podido sostener el nivel de generación de empleo, el nivel de ocupación, habla de lo acertado del camino encontrado. Yo creo que tenemos que seguir profundizando allí en estos tiempos.
+
+PERIODISTA.- Usted dijo que no hay que pedirle nada a nadie, Presidenta.
+
+PRESIDENTA.- Lo que siempre hay que pedir es trabajo, esfuerzo. Pero, a ver, decime: en tu vida personal, en tu vida familiar, ¿alguien te regaló algo en la vida? No, siempre lo que cada uno de ustedes consiguió lo hizo con su trabajo, con su esfuerzo y, bueno, eso es lo que precisamente tiene que hacer en todo caso el Estado: crear las condiciones macroeconómicas en un modelo de acumulación que permita que cada argentino tenga al menos la misma igualdad de oportunidades, esa es la Argentina con la que sueño.

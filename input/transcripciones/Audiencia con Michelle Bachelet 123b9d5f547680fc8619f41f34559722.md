@@ -1,0 +1,17 @@
+# Audiencia con Michelle Bachelet
+
+Lugar: Santiago
+Fecha: 10/03/2014
+ID: CFK-20140310-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+Hola, qué tal, cómo les va, primero lo saludo a ellos, que me están saludando. Muy buenas tardes a todos y a todas, los trabajadores de prensa, nacionales chilenos y extranjeros que han venido a esta asunción, como les dije a sus colegas, ni bien llegué estamos muy contentos de estar aquí, en la hermana República de Chile, en la asunción de un nuevo gobierno democrático y despidiendo a otro gobierno democrático. Esto es muy importante para países como el nuestro, como Argentina, como Chile, que sufrieron dictaduras tan terribles y períodos donde los pueblos no podían expresarse y además esto contribuyó a un retroceso económico y social muy importante durante aquellas décadas.
+
+Recién hablábamos con la Presidenta Michelle y bueno el gran desafío es seguir profundizando la integración, me acuerdo cuando ambas firmamos el Tratado de Maipú, vamos a retomar los acuerdos que rubricamos en Maipú para profundizar esa integración, que no solamente es política, sino que también tiene y viene a expresarse en lo físico, la integración física entre ambos países que siempre han estado geográficamente separados por una cordillera y creo que es importante la conectividad en un mundo tan globalizado, que exige salidas de un país con el Atlántico y de otro para el Pacífico y todo lo que eso significaría en adelanto, en crecimiento. Ambas también coincidimos en la necesidad de profundizar en temas de ciencia y tecnología, de investigación y desarrollo; en fin tenemos un lenguaje muy común porque con Michelle hemos compartido muchos momentos y ambas coincidimos también en la necesidad de que la región siga acentuando los procesos de integración, independientemente de los distintos gobiernos que podrán tener orientaciones diferentes, pero lo importante es eso: respetar la voluntad de los pueblos, respetar los programas de gobierno, respetar las democracias y que bueno todo siga así, porque precisamente este ha sido un período de crecimiento económico y social muy importante para toda la región y se hizo, precisamente, en el marco de respeto a las instituciones democráticas y, fundamentalmente también, al progreso económico y social de nuestros pueblos.
+
+Así que, nada, seguramente mañana vamos a compartir con todos ustedes y los otros presidentes y presidentas que van a llegar, la ceremonia de asunción. Me tocó estar en la primera ceremonia de asunción de Michelle y ahora voy a estar en su segunda asunción en Valparaíso.
+
+Así que, estamos muy pero muy contentos de acompañar y bueno, nos vemos mañana.
+
+Muchas gracias y buenas tardes.

@@ -1,0 +1,10 @@
+# Audiencia con el mandatario marroquí Abas el Farsi
+
+Lugar: Estados Unidos, Nueva York
+Fecha: 25/09/2008
+ID: CFK-20080925-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- Buenas noches. Estuvimos conversando con el Primer Ministro acerca de los problemas que hoy tiene el mundo, y creemos que ambos países y los países de la liga árabe, del Magreb podemos contribuir fundamentalmente a la construcción de un mundo que tenga más paz y mejor convivencia. También hablamos acerca de algunas cuestiones que me recordaba sobre su Majestad cuando la guerra de Malvinas.
+Tuvimos un encuentro fantástico que pensamos profundizar cuando visitemos en noviembre Marruecos. Muchas gracias.

@@ -1,0 +1,11 @@
+# Visita al Centro Islámico
+
+Lugar: Capital Federal
+Fecha: 29/04/2009
+ID: CFK-20090429-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- El 22 de diciembre recibimos a los representantes de distintos centros islámicos del país y quedamos en que durante el mes de abril íbamos a hacer este almuerzo, en el cual iban a convocar a todos los centros islámicos de toda la República Argentina para encontrarnos y celebrar, celebrar el hecho de vivir en un país en donde podemos convivir con todos los credos, todas las religiones y en absoluta paz.
+
+Muchas gracias.

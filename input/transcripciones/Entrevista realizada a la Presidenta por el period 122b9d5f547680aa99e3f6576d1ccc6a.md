@@ -1,0 +1,367 @@
+# Entrevista realizada a la Presidenta por el periodista Jorge Rial
+
+Lugar: Residencia Presidencial de Olivos
+Fecha: 30/09/2013
+ID: CFK-20130930-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- Y más tranquila, más descansada tal vez.
+
+PERIODISTA.- Está con las polémicas calzas, Presidenta, disculpe, estaba pispiando desde acá un poco, disculpe.
+
+PRESIDENTA.- La verdad, no son polémicas, son calzas. No, no, no, vamos por parte: primero, me he puesto en infinidad de actos calzas, están registradas las crónicas, con botas hasta acá, tal vez un poco más larga la remera y nunca había pasado nada. Mirá, si mal no recuerdo, en el acto donde vinieron los chicos de Jujuy, estaba con calzas, pero en varios más que está en las crónicas. Es más, en el que...no sé qué dije también...bueno, un montón. Lo que pasa que mi impresión, y lo dije en el Twitter, en mi cuenta de Twitter, es que en realidad hablaban de las calzas para ocultar lo que estábamos inaugurando, que era la rehabilitación de todo el centro de recreación de las piletas de Ezeiza, de los bosques de Ezeiza, único en el peronismo. Vos sabés que Perón inauguró eso en enero del 50; Kirchner nació el 25 de febrero del 50. Eso lo descubrí después que dije el discurso, porque ya lo había dicho en el discurso, pero es impresionante. Eso fue durante generaciones gente que lo disfrutaba y la verdad que la reconstrucción que hizo Alicia de las 1.300 hectáreas de bosques, ya hemos recuperado 400 y pico, piletas, se construyó un centro de convenciones para más de 3.000 personas, un polo productivo que es el Parque Industrial N° 315 con hormigonera, con bloquera, de ahí van a salir todos los premoldeados para hacer casas y para hacer pavimento articulado, vivero que produce 30.000 plantas por año. Alicia plantó más de 1 millón de árboles en esas 400 hectáreas. De las 3 piletas inmensas que son como lagunas, recuperamos 2, la tercera creo que por deficiencias estructurales por el paso del tiempo, bueno, no se puede...Yo creo que en realidad era tan monumental la obra, es tan monumental lo que hizo el peronismo y nosotros lo recuperamos, lo reconstruimos, estaba abandonado, destruido; 550 parrillas. Me contaron que los fines de semana van más de 100.000 personas ahí, a disfrutar con la familia. Entonces, me parece que para no hablar de eso, pusieron en las versiones digitales de dos diarios el tema de las calzas y ahí se armó la polémica.
+
+PERIODISTA.- A que uno era Clarín.
+
+PRESIDENTA.- Acertaste, y a que el otro era Nación.
+
+PERIODISTA.- Era La Nación, algo sabía.
+
+PRESIDENTA.- ¿Viste, qué cosa no?
+
+PERIODISTA.- Presidenta, hablando de Clarín ¿usted cree, como creen muchos y lo dicen abiertamente, que pueden querer, no sé si un golpe, desestabilizar, que no termine usted su mandato?
+
+PRESIDENTA.- ¿El círculo rojo?
+
+PERIODISTA.- Pongámosle ese nombre que le puso Macri.
+
+PRESIDENTA.- Que no lo dije yo.
+
+PERIODISTA.- No, no lo dijo Macri.
+
+PRESIDENTA.- Lo dijo Macri.
+
+PERIODISTA.- ¿Usted cree realmente eso?
+
+PRESIDENTA.- Sí, de Clarín y de Magnetto creo cualquier cosa.
+
+PERIODISTA.- ¿Sí?
+
+PRESIDENTA.- Sí, sí.
+
+PERIODISTA.- ¿Qué pueda esperar o buscar que usted no llegue..?
+
+PRESIDENTA.- De hecho, creo que algo de eso intentaron en la crisis del 2008. Cuando fue la cuestión con las patronales agropecuarias, más allá de la conflictividad, creo que tuvo un desarrollo mediático impresionante. Vos imaginate que cualquier otro sector político, social o económico, hubiera cortado caminos, hubiera quemado campos, hubiera tirado hectolitros de leche, miles y miles de litros de leche cuando hay gente que necesita eso para comer. Imaginate que cualquier otro hubiera hecho eso ¿Qué hubieran hecho algunos medios? Obviamente lo hubieran crucificado, lo hubieran condenado; no, no solamente no lo condenaban, sino que impulsaban, lo fomentaban, le daban la razón. Y bueno, creo que sí, que se intentó; hubo un claro intento destituyente, sin lugar a dudas.
+
+PERIODISTA.- En ese momento hubo uno. ¿Hubo otro después que ganó las elecciones...?
+
+PRESIDENTA.- ¿Con la corrida bancaria?
+
+PERIODISTA.- ¿Es cuando pone el cepo?
+
+PRESIDENTA.- Creo que hubo un intento de imponerle condiciones a un gobierno que había ganado con el 54, casi el 55 por ciento. Está claro, 5 mil millones de dólares, una corrida bancaria que obviamente la hicieron...Eso no lo hacen ni 2 ni 3 personas; entonces creo que sí, que hay intentos muy claros por parte de sectores económicos, financieros, de imponer condiciones, de retrotraernos un poco a lo que fue, yo diría, la década de los 90, fundamentalmente un modelo que generó pingües ganancias para muy pocos, también en sectores de afuera obviamente, a la Argentina le conviene una Argentina endeudada, le conviene una Argentina que siempre esté debiendo y sea la constante bicicleta financiera, que todo se conjugue con devaluaciones que cada tanto esas devaluaciones implican formidables transferencias de ingresos de los sectores asalariados a los sectores más pequeños y pudientes de la sociedad, mano de obra barata, dos dígitos de desocupación, de modo tal...Yo me acuerdo cuando se discutió la flexibilización laboral, las dos flexibilizaciones laborales, una la de Erman González y otra la famosa de los sobornos del Senado.
+
+PERIODISTA.- La Banelco.
+
+PRESIDENTA.- Sí, la Banelco; que yo decía, en realidad qué es lo que se quiere hacer, porque la flexibilización laboral está. Cuando vos tenés un 20 ó un 25 por ciento de desocupación, no necesitás de ninguna ley para flexibilizar el mercado laboral, porque la gente trabaja de cualquier manera y en cualquier condición de trabajo. Entonces yo creo, y se lo contesté así el otro día al juez que me mandó un oficio, porque viste que está el juicio en estos momentos, yo en ese momento era diputada, yo voté en contra en las dos flexibilizaciones, en la de Erman González, cuando mi partido era gobierno, y después también en la de De la Rúa cuando mi partido no era gobierno y mutó de impulsar la flexibilización laboral a flexibilizar y los que antes habían sido opositores ahora estaban de acuerdo. Yo me mantuve siempre en lo mismo. Así que, creo que en realidad ahí lo que se intentaba dar eran señales. Y lo que quieren los sectores económicos, es imponer condiciones al poder político.
+
+PERIODISTA.- ¿Lo sintió en ese momento?
+
+PRESIDENTA.- Siempre lo siento.
+
+PERIODISTA.- Pero en ese momento, específicamente...
+
+PRESIDENTA.- Siempre, siempre.
+
+PERIODISTA.- La salida fue lo que llamamos "cepo".
+
+PRESIDENTA.- No, en realidad no hay ningún cepo. Yo no te lo voy a modificar porque en realidad...Acabo de venir de Nueva York, no sabés la cantidad...y vos viajás mucho, no sabés la cantidad de argentinos que me encontré en Nueva York. Cuando salí del hotel de Dilma, que no estaba en el Bronx precisamente, estaba en la Quinta Avenida, el Saint Regis, estaba alojada Dilma, la cantidad de argentinos pero de muy buena onda, estaban afuera saludándome. En Rusia, cuando fui a Rusia, la chica que nos pusieron los rusos cuando fui a recorrer las iglesias y los lugares históricos, rusos, vi gente, argentinos que me saludaban cuando veían la banderita argentina que me saludaban; "cepo" no hay de ninguna manera, de hecho si no podrían salir al exterior.
+
+PERIODISTA.- ¿Cómo fue lo que hizo para frenar, lo que usted sentía que podía ser un gol?
+
+PRESIDENTA.- Vos tenés unas 300 formas de mandar dólares en el Mercado Único de Cambios que es el que controla el Banco Central: dólar para importación, dólar para turismo, dólar para pagos de servicios, dólar para regalías y dólar para atesoramiento. ¿Qué es el dólar para atesoramiento? Es el dólar por el cual vos no tenés ninguna razón para tenerlo; no es porque tenés que comprar insumos para la importación, no es porque tengas que viajar.
+
+PERIODISTA.- Para tenerlo.
+
+PRESIDENTA.- Para tenerlo. Bueno, esto significaba... Cuando Néstor llegó al gobierno, que era el momento de crisis, vos tenías una suma de 100.000 dólares para poder hacer esto mensual. Después, producto de que había tanta malaria y comenzaron a ingresar los dólares, se subió a 500.000, porque si no la moneda se sobre valuaba y entonces esto no le convenía a la economía. Después, como todavía la gente no tenía el poder adquisitivo que hoy tiene, porque en fin, recién empezaban algunos a tener trabajo, los que tenían trabajo al mejorar un poco el salario, se llegó a 2 millones de dólares por mes para atesoramiento. O sea, vos podías comprar 2 millones de dólares por mes sin decir para qué. Yo te invito, Jorge, a que vayas a cualquier país del mundo y preguntes en dónde se puede comprar 2 millones de dólares por mes sin decir para qué. Solamente Argentina. ¿Por qué?
+
+PERIODISTA.- En ese momento sintió que había un movimiento como para desestabilizar.
+
+PRESIDENTA.- Sí, un movimiento como para desestabilizar y para provocar una devaluación porque evidentemente, hay sectores que tienen posiciones en dólares, fundamentalmente los bancos, banqueros más que bancos...
+
+PERIODISTA.- Sí, banqueros.
+
+PRESIDENTA.- Banqueros, más que bancos.
+
+PERIODISTA.- Y los tiene identificados además.
+
+PRESIDENTA.- Y, digamos...
+
+PERIODISTA.- ¿Algunos eran amigos, no, de este Gobierno?
+
+PRESIDENTA.- No, los banqueros no son amigos ni enemigos, son banqueros.
+
+PERIODISTA.- De nadie, son banqueros.
+
+PRESIDENTA.- Son banqueros, los banqueros no son amigos ni enemigos, son banqueros.
+
+PERIODISTA.- Vuelvo al 2008. Cuenta la leyendo, la tengo aquí y se lo quiero preguntar, que después de lo del campo, de la crisis, del voto no positivo de Cobos, ¿en algún momento Néstor Kirchner llamó a parte del gabinete y le dijo de renunciar, de irse?
+
+PRESIDENTA.- A parte del gabinete no lo podía haber llamado nunca, porque no era presidente.
+
+PERIODISTA.- No, no, si lo llamó informalmente, digamos. ¿Pero hubo un momento donde él sintió que se tenían que ir?
+
+PRESIDENTA.- Hubo un momento en donde él sintió que se había equivocado en la designación o en la elección de quién era mi compañero de fórmula y creo que sintió un peso específico muy grande, porque no me voy a olvidar nunca, me dijo...Él tenía hacia a mí, más allá de nuestra relación de militantes, de compañeros, él, como muchos hombres o tal vez como pocos no sé, fue mi hombre así que...él tenía hacia mí una cosa muy instintiva de protección, siempre me protegió. Yo me enojaba con eso, porque le decía, no me trates así como si fuera una nena, que me quieras proteger, porque yo no soy una nena; él siempre tendía a protegerme. Me acuerdo que esa madrugada me dijo, "siento que no voy a poder protegerte más". Sí, eso me dijo.
+
+PERIODISTA.- ¿Eso?
+
+PRESIDENTA.- Sí, eso me dijo. Y él creo que lo sintió siempre como una carga, el tema de esa elección desafortunada de compañero de fórmula. Creo que después se le pasó, porque era un hombre que por ahí se enojaba pero después se recuperaba enseguida porque era optimista por naturaleza. Mirá, me acuerdo cuando nos incendiaron el estudio. A nosotros nos colocaron una bomba en 1980 en el estudio, que afortunadamente no explotó por esas cosas milagrosas, pero en el año 82 en pleno conflicto de Malvinas, cuando Río Gallegos era todo verde prácticamente porque ahí estaba instalado el comando estratégico sobre Malvinas, nos incendiaron el estudio. El estudio quedó, prácticamente una parte, sobre todo la de mi oficina y la de nuestro socio en ruinas. Yo estaba en Buenos Aires y cuando el viernes a la noche hablo por teléfono, bueno...mañana voy, me dice, "bueno venite porque pasó tal cosa". Yo no lo podía creer. Y llegué al otro día, me fui al estudio inmediatamente, y vos sabés que él estaba parado en medio de las ruinas, literalmente, con otro compañero, todavía salía humo de algunas partes, se sentía el olor a kerosén, porque fue un incendio intencional, y estaba reconstruyendo el estudio, dando instrucciones a los carpinteros, las secretarias estaban recogiendo los libros, limpiando lo que había podido salvarse del incendio. Era un hombre que solamente podía derrumbarlo, físicamente al menos, la muerte, porque podía tener un mal momento pero se levantaba enseguida con una fuerza...
+
+PERIODISTA.- ¿Qué pasó ese día, cuando le dijo "no te puedo proteger?
+
+PRESIDENTA.- Le dije no te hagas problema, luego nos dormimos, al otro día nos levantamos, fue un día mucho más difícil. En realidad fue el mismo día porque eso fue a la madrugada, todo el mismo día porque ese 17 de julio murió su mejor amigo, que además era nuestro testigo de casamiento, Cacho Vázquez. Así que debe haber sido uno de los días más duros de su vida y de mi vida, porque verlo a él derrumbado para mí era muy fuerte, porque él para mí era la imagen de la fortaleza y de la protección, yo sentía que al lado de él no me podía pasar nada. La verdad que si quería protegerme y darme la sensación de que era "el hombre" lo logró plenamente, porque siempre tuve al lado de él la sensación de que nada podía pasar.
+
+PERIODISTA.- No la perdió ni siquiera en ese momento que le dijo no te puedo proteger.
+
+PRESIDENTA.- No, ni siquiera en ese momento de debilidad de él me sentí desprotegida.
+
+PERIODISTA.- ¿Ahora quién la protege?
+
+PRESIDENTA.- Qué pregunta, creo que él desde algún lado, soy muy creyente, creo que los seres que me quisieron y ya no están, me protejo también un poco yo en lo que puedo, me protege en cierta medida la gente que me tiene mucho afecto y me quiere, y me da mucha fuerza cuando está al lado mío, me dicen "no afloje, no importa lo que digan". Es como que vos misma te das fuerza, el recuerdo de él, la memoria de él, lo que tengo que hacer en nombre de él.
+
+PERIODISTA.- Está siempre presente.
+
+PRESIDENTA.- Omnipresente. Son 35 años, pero no 35 años..., a ver, conozco gente que hace muchísimos años que vive junta, pero son 35 años de vivir permanentemente al lado. Yo estuve 6 meses de novia con él nada más, al mes y medio me dijo "nos casamos", tardamos unos meses y nos casamos. Me acuerdo que mi viejo no lo quería mucho.
+
+PERIODISTA.- ¿Por?
+
+PRESIDENTA.- Papá era antiperonista.
+
+PERIODISTA.- ¿Antiperonista o gorila?
+
+PRESIDENTA.- Era gorilongui, gorilongui y además toda aquella época de los 70, toda esa juventud...
+
+PERIODISTA.- Qué antecedente, papá gorila y votó al peronismo por izquierda dijo el otro día.
+
+PRESIDENTA.- Pero mamá peronista, perdón, mamá peronista y sindicalista. Se divorciaron después.
+
+PERIODISTA.- Qué menjunje, lo que habrán sido esos almuerzos.
+
+PRESIDENTA.- No se podía hablar de política.
+
+PERIODISTA.- Estaba prohibido.
+
+PRESIDENTA.- No, no estaba prohibido, se hablaba y nos peleábamos, pero me refiero a que cuando le dije a papá que me casaba, un día que me llevaba en el auto a la facultad, me dijo "¿vos estás segura de lo que vas a hacer? Le digo: "¿a qué te referís?" "A eso de que te vas a casar" -me dice- "mirá que esto no es como los vestidos que tenés en el placard y cuando no te gusta uno pum lo revoleás, esto es otra cosa." "Ya sé que es otra cosa papá" – le digo. El medio que..., me acuerdo que el primer día que cayó en casa, con esas camperas verdes que se usaban en ese momento, tenía el pelo relargo, anteojos, parecía salido del Mayo Francés, me encantaba, me fascinaba.
+
+PERIODISTA.- Era Cohn-Bendit.
+
+PRESIDENTA.- Sí, era Cohn- Bendit, Daniel Rojo (riendo). Me acuerdo que papá le preguntó a mamá: "¿este bajó del monte?" Qué se yo, no sé, después en el casamiento cantaron la marcha peronista, era como que medio se le atragantaba, pero ya te digo, siempre sentí que él me protegía, y siempre quiso hacerlo.
+
+PERIODISTA.- Aprovecho que estamos hablando de Néstor Kirchner para preguntarle algo, no demasiado agradable, pero esa última noche de Néstor se habló mucho de una llamada, de una discusión con Moyano.
+
+PRESIDENTA.- No nada, jamás.
+
+PERIODISTA.- Se lo pregunto porque realmente sería bueno que se aclare.
+
+PRESIDENTA.- Ciencia ficción, absoluta, no se peleó con nadie. Te cuento algo: estábamos mirando televisión esa noche, y lo podés corroborar si buscás la programación del día. El no largaba el control, como todos los hombres nunca largaba el control del televisor. No sé si a vos te pasa lo mismo.
+
+PERIODISTA.- A mí también. El control remoto es del hombre.
+
+PRESIDENTA.- No, no, eso es de un machismo, odio eso. Vos sabés que nos dormíamos y yo trataba de sacarle...
+
+PERIODISTA.- ¿El se dormía con el control en la mano?
+
+PRESIDENTA.- Se dormía con el control en la mano y lo mantenía, y cuando yo intentaba sacárselo despacito, "te estoy mirando" - me decía. "Néstor, estabas roncando, que mirando". A veces se dormía en el sillón también, la siesta o a la noche, con el control, y cuando vos intentabas sacárselo se despertaba. Esa noche, que fue la última noche que estuvimos, estábamos viendo televisión. Estábamos sentados como siempre, él en una punta del sillón y yo en otra, en El Calafate, y estaba zappineando. Aparece el gordo D'Elía en un programa de esos de cable, de esos programas que hay por miles de cables, nos quedamos mirando y justo estaba la discusión que si la fórmula iba a ser Néstor o iba a ser yo, que si yo repetía o repetía Néstor. Entonces al gordo le preguntan: "¿quién te gusta más, Néstor o Cristina?" "No, para mí es lo mismo" – dice salomónico. "No, pero decime quién te gusta más". El periodista fue insistente: "si tuvieras que elegir Cristina o Néstor, ¿quién?" El gordo dice: "yo te voy a contestar lo que te diría Néstor. Néstor decía yo era un 4 en la facultad, Cristina era un 10". Cuando el gordo dice eso, Néstor lo mira y entre dientes dice "gordo traidor". Y me dio tanta ternura que hice una cosa.., después mi sobrina y mi sobrino que estaban conmigo me dijeron que nunca había hecho eso. Fijate lo que son las cosas. Yo no tenía..., ambos éramos así, no nos gustaba en público hacer muestras de cariño, sí tomarnos una mano pero no darnos un beso, era algo no convenido pero aceptado tácitamente por ambos, nunca lo hacíamos en público. Cuando digo en público, no en público acá, ni siquiera en un encuentro familiar. Pero me dio tanta ternura cómo lo dijo que yo salté –era un sillón largo de cuero- y le di un beso en la boca. El me dijo: "aunque midas 80 puntos voy a ser yo". (Riendo)
+
+PERIODISTA.- Ah, duro.
+
+PRESIDENTA.- Sí, me dijo eso. Después con el tiempo, con todo lo que pasó, Patricio mi sobrino me decía " vos sabés que yo nunca te vi hacer eso con Néstor". Y fue el último beso que le di, esa noche.
+
+PERIODISTA.- Por lo menos tiene ese recuerdo, de ese último beso.
+
+PRESIDENTA.- Sí, mirá qué cosa rara, ¿no?
+
+PERIODISTA.- Por algo tendrá que haber sido.
+
+PRESIDENTA.- Sí.
+
+PERIODISTA.- Usted cree en el destino.
+
+PRESIDENTA.- Absolutamente, soy bastante..., en ese sentido soy medio musulmana, viste que el Corán tiene al destino como una..., sí creo en los destinos de las personas. Y creo también en lo que uno aporta o no aporta a ese destino, no creo que las cosas tampoco son porque sí, pero creo en el destino. En ese aspecto, en el de cuando te llaman de arriba, no cuando se deciden las cosas.
+
+PERIODISTA.- ¿El dio la vida por la política como dicen, o sea, se lo llevó la política?
+
+PRESIDENTA.- No tengas duda. Vos no sabés lo que yo lo peleé para que no fuera a ese bendito acto de la juventud en el Luna Park. El acto estaba previsto para que hablara él, los chicos había ideado la figura del Nestornauta y él iba a hablar. Después obviamente no iba a hablar pero tampoco era conveniente que fuera. "Yo voy a ir" – me dice. "No vayas"- le digo. "No voy a hablar" – dijo. "Néstor, las emociones". Y si vos ves los registros de las cámaras de ese día lo ves a él conmocionado. Le hizo muy mal.
+
+PERIODISTA.- Porque además se había juntado con el asesinato del chico Ferreyra.
+
+PRESIDENTA.- Fue terrible para él, lo del chico Ferreyra para él fue terrible porque se imaginó un Kosteki - Santillán.
+
+PERIODISTA.- Veía eso.
+
+PRESIDENTA.- No es que lo veía, me lo dijo, nos quieren armar un Kosteki –Santillán. Estaba desesperado, él salió desesperado. No me voy a olvidar nunca de eso, él salió desesperado a buscar quién había sido, y eso lo pueden corroborar las propias autoridades judiciales. Yo estaba en la Casa de Gobierno. Eso pasó a la mañana, a la tarde él estaba desencajado, literalmente desencajado. Le dije "calmate Néstor". "No, porque..." Muy mal estaba, como él se solía poner cuando se ponía mal mal, desencajado. A la tarde me fui como siempre a Casa de Gobierno y a eso de las 8 y media de la noche, más o menos, me llama y me dice: "lo tenemos, lo encontramos, encontramos al tipo, sabemos quién es, encontramos a un tipo que me trajeron de Quilmes que lo conoce, que estuvo, que esto y el otro, llamalo a Julio" Era Julio Alak del Ministerio de Justicia. Lo llamo y le digo "Julio, andate para Olivos". Ahí se pusieron en contacto con esta persona, estuvieron en un bar cerca de acá, la persona vino acá, y después se armó todo para llevarlo a la Justicia. Y primero yo creo que en la Justicia pensaron que era algo medio armado como para encontrar a alguien, pero se comprobó que era cierto y la verdad que debo reconocer que así como critico a la Justicia también tengo que levantarla, Julio se quedó como ministro de Justicia, junto con la Secretaria y con todos los chicos del juzgado trabajando hasta la madrugada para hacer todas las órdenes de allanamiento, la detención, en fin. Obviamente lo hicieron las autoridades judiciales. Pero él estaba conmocionado, ese caso lo conmocionó, porque a él lo conmocionó mucho lo de Kosteki y Santillán. Fue muy conmocionante par la sociedad, vos acordate, no era solamente dos muertes, acordate cómo tituló Clarín, "por la crisis hay 2 muertos" y, además, hay un editorial que es peor que ese titular, de La Nación, donde se levanta la labor de la Policía de la Provincia de Buenos Aires, con una editorial absolutamente laudatorio de cómo había actuado la Policía en ese momento. Vos te acordás que se cortaban permanentemente los puentes...
+
+PERIODISTA.- Me acuerdo perfecto.
+
+PRESIDENTA.- Bueno, además de toda esa cosa de piquetes, de crisis, una cosa laudatoria. Y vos leías ese artículo, esa editorial, yo no sé si no era de un día martes esa editorial o miércoles, creo que sí, y veías las fotos que ese fotógrafo...
+
+PERIODISTA.- De Clarín...
+
+PRESIDENTA.- De Clarín, pero un freelance que le vendía las fotos a Clarín, un freelance. ¿A mí sabés qué foto me quedó grabada, que no me la puedo sacar de la cabeza? La de los pies levantados para que se...después me explicaron, yo no sabía, que es la técnica para que alguien se desangre y se muera más rápidamente.
+
+PERIODISTA.- Se apuraban los muertos.
+
+PRESIDENTA.- A mí me pareció tan brutal, tan brutal y yo creo que a él le quedaron esas imágenes grabadas y todo lo que eso desató. Y eso se le juntó con todo lo que había vivido en la juventud. Porque, a ver, no era que nosotros veníamos de una historia de Blanca Nieves y los 7 Enanitos, de Disney World donde la política es todo papelito picado, matraca y feliz cumpleaños. Veníamos de una época dramática que había vivido la Argentina fea, muy. Porque había desaparecido una generación y un poco más...
+
+PERIODISTA.- Sí, más.
+
+PRESIDENTA.- Más de una generación, nos faltaron 2 o 3 generaciones...
+
+PERIODISTA.- Nos criamos sin eso.
+
+PRESIDENTA.- Y se notó en la frivolidad también.
+
+PERIODISTA.- Sí, como hablábamos al principio.
+
+PRESIDENTA.- Cuando hablábamos al principio que el director no grabó y le paso la factura, señor director, se perdió una conversación de sola frivolidad extraordinaria. Bueno, todo eso se notó. Y me parece que en ese momento a él se le vino en un minuto todo eso, lo que había vivido. Te voy a contar algo que a él no le gustaría que lo contara pero...: él durante mucho tiempo, de noche, gritaba, soñaba o gritaba o se levantaba sonámbulo de la cama, de las épocas que le había tocado vivir en los 70. Eso fue durante mucho tiempo, mucho, te diría que hasta que fue gobernador en el año 91, sí, desde que nos casamos nosotros en 1975, sí. Se ve que lo impactó mucho, lo impactó mucho todo y son cosas que te quedan adentro, ¿no?, que te quedan adentro, que no las procesás o las procesás como podés. Y bueno, y eso lo había conmovido, lo había conmovido mucho. Máximo dijo que la bala que mató a Mariano, rosó el corazón del padre. Estoy segura, sí, estoy segura, convencida que fue así. Era un hombre que vivía muy intensamente las cosas, no había forma de que no las viviera intensamente. Yo a veces le decía "pará, no te hagás tanta malasangre, no te hagás tanto problema". Yo también soy de por ahí subirme a la moto, pero de repente por ahí...Florencia siempre me dice eso, "papá no se distraía, mamá, papá nunca se permitió una distracción, vos sí te distraés, vos cuando te ponés a mirar –no sé- un vestido o las rosas o estás mirando un cuadro, colgando esto, mirando una revista de decoración y te distraés, mirás una película y te distraés, hablás conmigo y te distraés, pero papá no se permitió una distracción, mámá, papá vivía..." Ella, ella que es muy perceptiva y que además lo adoraba a su padre.
+
+PERIODISTA.- Presidenta, recién dijo algo, "estoy muy subida arriba de la moto".
+
+PRESIDENTA.- No, a veces me subo arriba de la moto.
+
+PERIODISTA.- Pero, ¿qué le pasa cuando ve a un periodista como Nelson Castro haciendo un diagnóstico de la televisión?
+
+PRESIDENTA.- No sé porque no lo veo.
+
+PERIODISTA.- No, pero cuando se enteró.
+
+PRESIDENTA.- Me dijeron que le habla a la televisión, ¿es cierto? Yo te pregunto, no lo veo y por eso te pregunto a vos.
+
+PERIODISTA.- Habló a cámara...
+
+PRESIDENTA.- No, pero me cuentan que hace como que me habla a mí a la televisión...
+
+PERIODISTA.- Claro, hizo un diagnóstico...
+
+PRESIDENTA.- No, no, pero escuchá lo que te digo...
+
+PERIODISTA.- Hace como una editorial hablándole a usted.
+
+PRESIDENTA.- Hace como que vos me estás...así como estamos hablando voy y yo, pero no soy yo. Y me parece que el que necesita psicólogo es él.
+
+PERIODISTA.- Pero cuando habla de eso, que se metan...Con Brienza la otra vez habló cuando le decían "yegua", disculpe la palabra...
+
+PRESIDENTA.- Y puta, sí.
+
+PERIODISTA.- Y que también la dignostiquen a la distancia.
+
+PRESIDENTA.- A Néstor le diagnosticaron...Mirá, cuando Néstor era el candidato a gobernador, fijate vos, él murió del corazón y yo toda la vida pensé que como su padre había muerto de cáncer de colon y viste que en los hombres es hereditario el tema del cáncer de colon...
+
+PERIODISTA.- 20 por ciento de posibilidad de tenerlo...
+
+PRESIDENTA.- Un poquito más. El papá de él murió de cáncer de colon, una cosa muy traumática también para él porque él adoraba a su padre. Él hasta el último día...Mi suegro murió un 1º de febrero del 81. A él hasta el último día, cuando hablaba de su padre, se le llenaban los ojos de lágrimas. Era una relación tan impresionante. Vos sabés que el padre me tenía celos a mí a veces. Y, porque por ahí Néstor estaba más tiempo conmigo, le dedicaba más tiempo y por ahí se ponía medio celoso conmigo. Era muy celosa de la madre también, era un hombre muy posesivo, un matrimonio impresionante el de mis suegros...
+
+PERIODISTA.- Eran Montescos y Capuletos...
+
+PRESIDENTA.- No, no, era una familia espectacular. Mis padres que eran separados, para mí el modelo, el modelo de familia y el modelo de pareja, eran mis suegros, fueron mis suegros. Él con ella, impresionante, la celaba como si fuera una chica de 20 años, pero no con otros hombres, sino con los nietos, con los hijos y un amor profundo por su hijo. Pero estamos hablando de lo que dicen cuando se enfermó...
+
+PERIODISTA.- Diagnosticaron...
+
+PRESIDENTA.- A él le diagnosticaron que se moría, él estaba enfermo de cáncer cuando fue candidato en el 95, cuando fue candidato a gobernador en el 99. Había un diputado de la oposición, de buena onda lo hacía, pero había un diputado de la oposición que por la radio, por radio de acá de Buenos Aires, un día lo escuché yo y no lo podía creer,
+
+PERIODISTA.- ¿No recuerda el nombre?
+
+PRESIDENTA.- Bueno, era muy pintoresco, radical, buen tipo, le diagnosticaba que tenía que tomarse su propio pis como un remedio, te juro, está grabado, está grabado, radio de Buenos Aires, me acuerdo yendo al Congreso y poniendo la radio y escuchándolo y diciéndole "Néstor tendrías que tomar...", hacer lo que él...porque él lo hacía para curarse. Esperate, ya me voy a acordar...el loco...ay, no me puedo acordar, era radical, pero buen tipo, eh, rebuen tipo. Y le recomendaba, que él lo hacía todas las mañanas en ayunas, hacía pis y se tomaba el pis y se lo recomendaba hacer a Néstor porque la oposición decía que Néstor estaba enfermo de cáncer. Y la verdad que él tenía un control siempre muy severo de colon y demás porque toda la vida pensamos que si tenía algún problema de salud, podía ser por ese lado y vos fijate...bueno, lo que hablamos hace un rato, el destino, el destino y murió.
+
+PERIODISTA.- Recién cuando hablaba de lo que había pasado con Ferreyra y con Kosteki y Santillán,...de Clarín, me llama la atención la memoria que tiene con Clarín, fechas, editoriales...
+
+PRESIDENTA.- Con todo, no con Clarín...
+
+PERIODISTA.- Pero con Clarín sobre todo...
+
+PRESIDENTA.- No, no, con todo tengo muy buena memoria, Jorge, memoria de elefante. Te cuento algo de la facultad que me pasaba: yo leía las materias una sola vez, empezaba, terminaba, iba y rendía. Había veces que me acordaba dónde lo había leído, en qué página estaba, en qué lugar estaba y no me podía acordar lo que decía. Tengo mucha memoria fotográfica, por eso no es con Clarín, tengo memoria en serio, tengo mucha memoria...
+
+PERIODISTA.- Cuando leo Clarín, que digamos que es un monstruo, un monstruo...
+
+PRESIDENTA.- Vos lo dijiste eso...
+
+PERIODISTA.- Sí, sí, lo es. Ahora, este monstruo final, tiene la firma de Néstor Kirchner abajo cuando fusionó Cablevisión y...¿No se sienten un poco creadores de este Frankenstein que hoy trata de devorárselos?
+
+PRESIDENTA.- La firma de Kirchner solo no, eh, hay una firma del Jefe de Gabinete también ahí...
+
+PERIODISTA.- De Alberto...
+
+PRESIDENTA.- Y me parece que fue uno de los que lo impulsó. Siempre fui muy crítica...
+
+PERIODISTA.- ¿Alberto fue quien lo impulsó?
+
+PRESIDENTA.- Yo siempre fui muy crítica de la relación...
+
+PERIODISTA.- Me contaron que no le gustó eso a usted. Usted estaba en contra.
+
+PRESIDENTA.- No, sí.
+
+PERIODISTA.- Pero no pudo hacer nada. ¿Y por qué no lo hizo? ¿Pero es verdad que lo hizo para...?
+
+PRESIDENTA.- No pude hacer nada, no. Directamente, a ver, esta idea de que Néstor hacía lo que yo decía o yo hacía lo que decía Néstor, no fue así.
+
+PERIODISTA.- No había un doble comando.
+
+PRESIDENTA.- No, nunca lo hubo. Hubo lo que pocas veces debe haber habido en una pareja: una identidad muy fuerte, muy, muy fuerte. Nosotros desde que nos conocimos, estudiábamos juntos, trabajábamos juntos y estábamos juntos y, además, yo lo miraba a él y sabía lo que pensaba y él me miraba a mí y sabía lo que yo pensaba. Es más, nos pasaba que cuando estábamos separados y yo decía, por ejemplo, a un secretario mío "llamálo a Néstor" o él me llamaba a mí y venía el secretario cuando yo lo llamaba para decirle "llamalo", venía "la llama el doctor". Pero además, lo peor de todo era que cuando me hablaba, me hablaba por la razón o el motivo por el cual yo lo había llamado. Teníamos...
+
+PERIODISTA.- Ahora, cuando él hace esa fusión, ¿es verdad que lo hace para protegerla, como para hacer un acuerdo con Clarín y protegerla a usted?
+
+PRESIDENTA.- No sé, él lo debe de haber hecho porque entendía que estaba bien hecho, él no está acá para preguntarle.
+
+PERIODISTA.- Se lo pregunto a usted porque estaba ahí, tal vez se lo dijo, tal vez usted lo sabía...
+
+PRESIDENTA.- No, yo creo...yo he tenido discusiones acerca, no solamente de eso, de muchas...Nosotros discutíamos muchísimo, pero discutíamos de siempre. Si yo te cuento lo que fue la discusión de la interna del peronismo del año 89, cuando estábamos entre Cafiero y Menem, casi nos matamos.
+
+PERIODISTA.- ¿Nunca estuvieron separados?
+
+PRESIDENTA.- ¿Separados de qué?
+
+PERIODISTA.- Separados, se separó un día, se tiraron cosas, se fue un día, dos, tres días...
+
+PRESIDENTA.- No, que nos peleamos sí, no, nunca...
+
+PERIODISTA.- Nunca nadie se rajó...
+
+PRESIDENTA.- No, nunca...
+
+PERIODISTA.- El control remoto...
+
+PRESIDENTA.- El otro no se lo hubiera permitido, le hubiera cerrado la puerta. No, pelearnos, sí, nuestras peleas eran memorables, memorables. Los que las han presenciado, dicen que eran memorables. Mi hermana, por ejemplo,...
+
+PERIODISTA.- ¿Se tiraban cosas?
+
+PRESIDENTA.- No, no, eso no...
+
+PERIODISTA.- Un plato alguna vez.
+
+PRESIDENTA.- No que cuestan plata los platos. No, aparte podrías herir a alguien. Mi hermana se acuerda de algunas peleas cuando recién estábamos casados. Los días sábado, en nuestra casa de City Bell eran días de limpieza, ¿no?, entonces los dos colaborábamos en la limpieza de la casa, abríamos todas las ventanas y demás. Y mi hermana venía el fin de semana a hablar con nosotros, a estar con nosotros y comerse un asado. Inclusive, no sé por qué razón, los sábados con todas las ventanas abiertas, se armaban unas trifulcas, unas peleas y decía "ustedes esperan el sábado para pelearse cuando están todas las ventanas abiertas y se enteran todos los vecinos". Pero sí, nos peleábamos mucho. Yo te comentaba la interna del 89...
+
+PERIODISTA.- Se peleaba ahí también.
+
+PRESIDENTA.- Y sí, porque él quería estar con Cafiero y yo con Menem.
+
+PERIODISTA.- ¿Con Menem?
+
+PRESIDENTA.- Sí, a mí me encantaba. Sí, lo confieso...
+
+PERIODISTA.- ¿Le encantaba Menem?
+
+PRESIDENTA.- Ojo, año 89...
+
+PERIODISTA.- El de las patillas.
+
+PRESIDENTA.- Sí, el del hombre del interior, profundo.
+
+PERIODISTA.- ¿Pero fue menemista?
+
+PRESIDENTA.- No, no, estábamos en la interna...
+
+PERIODISTA.- Me acuerdo.
+
+PRESIDENTA.- Estoy hablando de la interna entre Antonio Cafiero, y bueno a mí me gustaba porque hablaba del trabajo, era carismático, nadie podía decir que no fuera carismático, se acordaba de cada una de las personas. A Río Turbio, por ejemplo, fue 3 veces, a Río Turbio, un pueblito perdido en Santa Cruz en el límite. Y Néstor me acuerdo que fue con otro compañero cuando estábamos decidiendo la organización allá en el Sur, estaba diciendo por quién...a él le gustaba Cafiero porque además al lado de Cafiero estaban todos los compañeros, digamos, que había militado con nosotros en los años 70...
+
+PERIODISTA.- Era la renovación además...
+
+PRESIDENTA.- Era la renovación, en fin, ¿no? Y me acuerdo que vino acá a Buenos Aires y se entrevistó con él, mira, si mal no recuerdo, en el Hotel Bauen, él se alojaba creo que en el Hotel Bauen, y volvió con este compañero y me dijo: "Yo voy con Cafiero". Entonces, se armó una gran discusión interna, había otros compañeros que...Bueno, estaba dividida la cosa, unos querían ir con Menem, otros Cafiero, una gran discusión interna, finalmente, orgánicamente, se decidió ir con Cafiero y yo que soy miembro de una generación que hace de la orgánica un culto, saludo uno, saludo dos, y vamos con Cafiero obviamente, ¿no? Y fuimos con Antonio y vos fijate qué curioso: toda la dirigencia peronista de renovación, Arturo Puricelli a la cabeza, y otros, habíamos hecho una elección interna para elegir las autoridades del distrito, un mes antes de la interna general donde se decidía quién era el candidato a presidente por el peronismo, un mes antes, ganamos nosotros pero por muerte, mayoría y minoría, y los dirigentes que estaban con él, con el otro candidato, con quien fue después presidente, digamos que eran candidatos que no tenían muy buena prensa, eran medio impresentables. Sin embargo, nos barrieron en la interna, pero nos barrieron literalmente, la gente iba sola a las unidades básicas a preguntar dónde hay que ir a votar. Un fenómeno muy impresionante.
+
+PERIODISTA.- Presidente, ¿la puedo traer un poquito más para acá?
+
+PRESIDENTA.- Sí.
+
+PERIODISTA.- Le voy a hacer una pregunta porque se armó revuelo en las últimas semanas. ¿A qué fue a las Seychelles?

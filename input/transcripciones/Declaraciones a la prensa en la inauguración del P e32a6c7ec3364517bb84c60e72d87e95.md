@@ -1,0 +1,47 @@
+# Declaraciones a la prensa en la inauguración del Parque Industrial de La Matanza
+
+Lugar: Buenos Aires, La Matanza
+Fecha: 07/04/2009
+ID: CFK-20090407-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- ¿Cuál es la importancia de esta inauguración?
+
+PRESIDENTA.- Es importante porque apuesta a la confianza del sector productivo, del sector comercial al crecimiento de la Argentina, que por otra parte creo que es lógico porque en definitiva cuando tambalea el sector externo, apoyarse en el mercado interno parece más que una muy buena idea, pero para poder hacer esto es necesario que entendamos que hemos tenido un mercado interno que ha sido muy fuerte, muy sólido y es lo que permite hoy seguir creciendo. Fijate vos que la recaudación en el mundo se cae de a dos dígitos y nosotros crecemos de a dos dígitos en la recaudación, y eso es producto del mercado interno.
+
+PERIODISTA.- Que es un poco la idea de Londres, ¿verdad?
+
+PRESIDENTA.- Afianzando fundamentalmente la idea de que no podía subsistir durante mucho tiempo, como no subsistió en la Argentina, la acumulación económica basada en la producción del dinero por sí mismo. Cuando el dinero no pasa por el circuito de la producción de los bienes o de los servicios no se reproduce a sí mismo.
+
+PERIODISTA.- Un mensaje para los vecinos del municipio de La Matanza.
+
+PRESIDENTA.- Ahora me voy a visitar las cooperativas de agua, que son un instrumento muy importante en el desarrollo de La Matanza, sobre todo para lo que ha sido una de las demandas más importantes de la región, el agua potable, y al mismo tiempo que damos agua potable y servicio damos trabajo a la gente. Las dos cosas, calidad de vida y trabajo, que además están íntima y profundamente vinculadas.
+
+PERIODISTA.- (Inaudible)
+
+El Parque Industrial, lo acaba de decir el propio presidente del Parque, esta es la primera etapa, que son 66 hectáreas, va a generar muchísimos puestos de trabajo, junto a la Ruta Nacional N° 3, y realmente en un mundo que se viene cayendo a pedazos el hecho puntual de que aquí en La Matanza, que llegó a tener un 30 por ciento de desocupación, podamos estar hoy asistiendo a la apertura de este espacio industrial, este espacio de generar trabajo y agregar valor a los productos, que es la otra clave del crecimiento, creemos que es muy importante y es una señal muy fuerte. Como lo fue también ayer el tema de la recaudación. En un mundo donde todas las recaudaciones se caen hemos aumentado dos dígitos respecto del mismo mes del año anterior.
+
+PERIODISTA.- ¿Quiere decir que el país está blindado?
+
+PRESIDENTA.- Blindado no está nadie porque sería una arrogancia y una necedad decirlo, pero sí estamos mucho mejor parados, mucho más sólidos. Está claro que el crecimiento de la recaudación se debió fundamentalmente al mercado interno. Siempre me pregunto qué hubiera pasado si hubiéramos hecho caso a lo que nos decían los gurúes nacionales e internacionales, ustedes los habrán escuchado y los deben haber reproducido también en los años 2007 y 2008, ¿se acuerdan no?, enfriar la economía, que tuvo un crecimiento tan rápido..., si nosotros hubiéramos enfriado y planchado la economía como se nos proponía, como decían inclusive muchos de quienes son candidatos ahora, ¿cómo estaría la Argentina hoy si además de la caída del sector externo, producto de la crisis internacional, tuviéramos un mercado interno no sólido y no con la participación en el PBI que alcanzaron los trabajadores durante el año 2008?
+
+PERIODISTA.- ¿Cómo fue la reunión del G-21?
+
+PRESIDENTA.- Del G-20, que fue G-22 en realidad porque se agregaron los países de Africa y de Asia, tenés razón, muy bien, el periodista corrigió y está muy bien.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- Eso es lo que deberían decir ustedes como periodistas, ese es el rol que tienen. A mí me gustaría que pudiéramos debatir, los que nos están de acuerdo con el modelo, cuál es el modelo que quieren. El modelo que nosotros sostenemos es éste que ha generado trabajo para los argentinos, crecimiento para los industriales, para los comerciantes, para la sociedad, para los jubilados que han podido acceder a una jubilación. ¿Cuál es el modelo alternativo? Porque yo lo que escucho es comentar acerca de si el color del pelo de la Presidenta, si el zapato o la cartera de la Presidenta. Es fantástico por ahí para lograr dos minutos de rating pero en realidad el debate sobre las ideas me gustaría que sea un modelo alternativo a éste, que es crecimiento, que es trabajo, que es además lo único que nos va a dar seguridad. Que nadie piense que lo que da seguridad es agarrar a palos a todo el mundo, lo que da seguridad es que la gente tenga trabajo y cada vez mejor trabajo, y que funcionen las instituciones que tienen que funcionar, la policía, la justicia, etcétera.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- ¿Por qué la Argentina hoy sigue siendo competitiva como antes? Por el desacople que tenemos de las tarifas internacionales, el desacople que tenemos en materia de combustibles, el tipo de cambio competitivo, características propias además de nuestro país en la producción de determinadas materias primas que nos hacen muy competitivos. También la calidad de nuestros recursos humanos, no te olvides que uno de los sectores en que más hemos crecido ha sido el software, la informática, eso es recurso humano puro. El otro día me tocó inaugurar una sede en los estudios de M TV que trasladaron toda la operación que hacían en Miami a la República Argentina. Acá hacen los contenidos, acá emplean cientos de personas, estuvimos en el edificio. Eso es un ejemplo de calidad de los recursos humanos argentinos y de nuestros creativos, y así se los puedo dar en numerosas actividades.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- Yo no digo que no critiquen porque seguramente siempre hay algo que criticar, lo que es importante es que además la crítica sea a la política y se diga cuál es la política alternativa a esa crítica, porque siempre escucho eslóganes o cosas de campaña. Yo recuerdo otras experiencias fallidas que hemos tenido los argentinos con eslóganes y títulos que nadie explicaba y cuando llegaron al gobierno fracasaron estrepitosamente porque en realidad no había una idea alternativa sino la oposición por la oposición misma. Es más, terminaron haciendo más de lo mismo y pasó lo que pasó en la Argentina en el año 2001. Lo que propongo, e inclusive en esto ustedes los periodistas pueden y deben cumplir un rol muy importante, es preguntar, de la misma manera que nos preguntan a nosotros, a los gobernantes o al justicialismo si se quiere emplear ese término, con la misma profundidad, con la misma insistencia, con la misma perseverancia, les pregunten a todos acerca de cuál es el modelo alternativo. Si está mal esto, ¿qué se hace, un modelo desregulador? Por ejemplo pregunto dónde están los políticos argentinos, aquellos partidos políticos o espacios políticos que reclamaban que el Estado intervenía, que había que desregular, que lo ideal era la no intervención del Estado en la economía, que los mercados resolvían todo. ¿Dónde están esas viudas del Consenso de Washington como digo yo, que se ha derrumbado? Creo, frente a estas cuestiones, modelo de acumulación productivo, regulación del Estado, porque si el Estado no está presente pasa lo que pasó en el mundo...,
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- Se los dije, yo se los dije hubiera dicho, pero lo real que tenemos que preguntarnos es cuál es el modelo de país, no con eslóganes de campaña sino con políticas concretas. Nosotros proponemos este modelo que presupone un fuerte rol del Estado, articulando con el mercado, pero todos hemos visto en el mundo que el mercado desregulado, que el Estado no interviniendo, que el Estado dejando hacer lo que el mercado quiere, le ha ido muy mal al mundo y a la economía mundial. Por eso digo que este modelo nuestro, no porque sea de mi partido político o de mi gobierno o de mi sector, nuestro porque está pensado por argentinos y para argentinos, que es lo que tenemos que hacer, pensar los argentinos para y por los argentinos, sin clichés ni eslóganes que muchas veces nos venden de afuera y que poco tienen que ver con la realidad. Muchas veces se recurre a la anécdota en la crítica, o a la banalidad, porque tal vez no se pueden explicar realmente cuáles son las políticas de fondo, porque si se explicaran a mucha gente no le gustaría. Entonces es mejor andar por la superficie, sobrevolar por la superficie, para no ir a la profundidad, porque cuando uno va a la profundidad y comienza a discutir en serio punto a punto las políticas, los logros, me parece que no he escuchado nada alternativo nada alternativo a este modelo que venimos proponiendo nosotros. Gracias.

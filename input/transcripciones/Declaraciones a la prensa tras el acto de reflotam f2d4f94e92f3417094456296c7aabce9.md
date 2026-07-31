@@ -1,0 +1,29 @@
+# Declaraciones a la prensa tras el acto de reflotamiento y extracción de buques en el Riachuelo
+
+Lugar: Capital Federal
+Fecha: 15/07/2009
+ID: CFK-20090715-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- Todo lo que se produzca por efecto de la chatarra va a ser donado al hospital Garraham. Quise estar presente, porque es una obra de mucha visibilidad. Como lo señalaba el Secretario, fueron 200 años de abandono. Creo que con la construcción de la ACUMAR (Autoridad de Cuenca Matanza-Riachuelo) que hicimos legislativamente -yo era senadora en ese entonces- más el financiamiento, más el financiamiento que hemos obtenido del Banco Mundial, uno de los préstamos más importantes para el saneamiento de la Cuenca, estamos ante un momento muy positivo en lo que hace a medio ambiente y lo que hace a la cuestión del Riachuelo. Me acuerdo cuando sancionamos AYSA en el Congreso, tuve que estudiar la historia de lo que había sido el saneamiento. Desde la época de Mitre, desde la época de la fiebre amarilla, se venía hablando ya del saneamiento del Riachuelo y realmente nunca se llevó adelante. Así que estamos muy contentos y lo importante era darle mucha visibilidad a una gestión como esta que creo es estructural en la vida de la ciudad, en la vida de todo lo que es la Cuenca, porque no solamente abarca la Ciudad sino también a muchos municipios que están rodeando esto y que las condiciones medio ambientales han sido deplorables durante décadas y décadas.
+
+PERIODISTA.- ¿Cuál es la situación actual sobre la gripe A?
+
+PRESIDENTA.- Sobre la gripe A habla el Ministro de Salud que es el que sabe, que es el médico.
+
+PERIODISTA.- Las medidas que se toman son importantes.
+
+PRESIDENTA.- Las manos me las lavo siempre con agua y jabón. Desde chiquita me dijeron los médicos que el agua y jabón es lo más sano que hay.
+
+PERIODISTA.- ¿Saluda con un beso?
+
+PRESIDENTA.- Sí, me saludo con un beso con la gente que me encuentro en la calle. Durante toda la campaña, ustedes me vieron, creo que me besé y me abracé con medio país, porque además naturalmente es así.
+
+PERIODISTA.- La Argentina está segunda en el ranking.
+
+PRESIDENTA.- Creo que la Argentina está segunda en el ranking, porque es la que cuenta realmente todas las cifras.
+
+PERIODISTA.- ¿Usted cree que otros países adulteran las cifras?
+
+PRESIDENTA.- No, no me haga decir cosas que no he dicho. Simplemente remítanse a la información que en este sentido da el Ministro de Salud, en su área y que además de ser un especialista, está rodeado de especialistas. Ustedes saben que se ha rodeado de académicos, de los principales infectólogos del país, de todo lo que es científico y de los que saben. Creo que, además, se está trabajando en este sentido muy bien. Si tenemos en cuenta que morían 4.000 personas por año de las enfermedades del tipo Influenza, las famosas ETI, es apresurado hacer diagnósticos de si somos el primero, el segundo o el tercer país. No me gustan esos ranking. Gracias.

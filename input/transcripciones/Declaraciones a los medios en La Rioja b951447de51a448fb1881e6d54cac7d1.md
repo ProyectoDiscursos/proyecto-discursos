@@ -1,0 +1,33 @@
+# Declaraciones a los medios en La Rioja
+
+Lugar: Famatina, La Rioja
+Fecha: 04/08/2010
+ID: CFK-20100804-04
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- He sentido el cariño, ayer cuando salí del hotel, a la noche, que fuimos a comer con el Gobernador, hoy a la mañana, en todas partes. Bueno vieron lo que fue el tema del algarrobo y Angelelli casi nos matan ahí cuando tiraban de un lado y del otro, pero la verdad que fue muy emotivo todo y siempre es muy emotivo ver el afecto y el cariño de la gente.
+
+PERIODISTA.- Doctora, la inclusión de la informática en la escuela pública es un paso importante.
+
+PRESIDENTA.- Es un paso fundamental porque, como decíamos con Beder, antes era el analfabeto que no sabía leer ni escribir, ahora el analfabetismo es de carácter digital, sobre todo en un mundo que se va a manejar de esta forma. Así que hoy haber participado en este acto de entrega simbólica a un grupo de chicos, pero que en los próximos días todos los chicos de La Rioja van a tener su computadora la verdad que nos llena de alegría; además es muy coincidente recordar en ese marco a Monseñor Angelelli porque su compromiso era muy real, muy de todos los días, no era un compromiso de decir una homilía y después irte a comer o a apoyar las políticas que muchas veces son las que causan la pobreza. Lo de él era muy comprometido y tan comprometido era que le pasó lo que le pasó: fue asesinado; por fortuna ahora - aparentemente - se va a reabrir su causa y creo que es algo emblemático para todos los argentinos. Yo siempre me pregunto, frente a personajes como Angelelli, como Evita, dónde estarían ahora cuando hay por cosas por hacer    y eso es lo que me da y me reafirma la certeza de que estamos en el camino acertado. Con diferencias o sin ellas estoy segura que estarían apoyando un proceso democràtico, plural, diverso que ha permitido que millones de argentinos vuelvan a recuperar su trabajo.
+
+PERIODISTA.- Las repercusiones de juzgados federales en el país donde se están radicando casos de lesa humanidad, ¿usted considera que se va a llegar  conocerse, en algún momento,  la verdad de la muerte del Monseñor Angelelli, aunque hay gente que dice todo lo contrario?
+
+PRESIDENTA.- Yo creo que está muy claro inclusive, creo que va a declarar el Padre Pinto, que creo que estaba en el acto y era la persona que estaba junto a él cuando fue el accidente. Sí claro yo creo que ya no hay argentino de buena fe que pueda dudar de eso, entonces creo que los que hicieron eso, como los que hicieron otras cosas merecen ser enjuiciados con todas las garantías que ofrece nuestra Constitución porque tienen derecho a defensa y todo el debido proceso, todo lo que ellos no le dieron ni a los miles de argentinos que desaparecieron, o que fueron torturados o encarcelados. En fin creo que ese es el verdadero concepto de los derechos humanos en ese momento, y hoy estos derechos humanos que tienen que ver con la calidad de vida de los argentinos.
+
+PERIODISTA.- ¿Presidenta usted hizo referencia también a la literatura riojana también hablando de lo que vivieron en su momento los caudillos?
+
+PRESIDENTA.-Sí es un libro precioso, lo leí este fin de semana que tuve un fin de semana libre para mí porque habían coincidido muchos fines de semana también con compromisos oficiales. Y ahora tengo muy poco tiempo para leer mis libros, que tanto me gustan. Pero me leí "Los coroneles de Mitre", de Ricardo Mercado Luna, donde se relata lo que fue la muerte, el asesinato del Chacho Peñaloza por parte de los coroneles de Mitre. También relata cómo un coronel colombiano había traído un instrumento de tortura, al que denominaban el cepo colombiano, y con el cual mataban y torturaban. La verdad que es un libro de una lectura obligada para conocer relatos y verdades que están ocultas en la historia argentina porque hay una historiografía oficial que cuenta otra cosa. Por eso digo que los que mataron al Chacho Peñaloza fueron de la misma línea histórica de los que mataron a Angelelli. Me pareció eso, sobre todo cuando Ricardo Mercado Luna  - no sé si vos te leíste el libro - en la última parte él estuvo preso, sin causa, y él cuenta al final de su libro que el entonces coronel Malagamba, de acá, le iba a decir los motivos por los cuáles estuvo preso, porque en realidad nunca supo por qué estuvo preso y nunca ese coronel se lo dijo, sino que se acerca otro oficial de menor graduación y le dice que en realidad él estuvo preso por haber escrito "Los coroneles de Mitre", por haber ofendido con ese libro. Es impresionante, así termina el libro, así termina el relato de Mercado Luna y realmente me pareció una obra muy ilustrativa que debiera ser - no sé si ya a lo mejor sí- repartido en todos los colegios porque eso también es historia de La Rioja.
+
+PERIODISTA.- ¿Cómo sigue su agenda Presidenta?
+
+PRESIDENTA.- Ahora me voy para Buenos Aires, está sesionando el Consejo de Salario Mínimo, Vital y Móvil, así que bueno a seguir con la tarea también que tenemos por delante, seguramente tendré reuniones - a la tarde - con el Ministro de Trabajo.
+
+PERIODISTA.- Un saludo para los riojanos, unas palabras para los riojanos.
+
+PRESIDENTA. - Con lo último que me queda de voz un saludo para todos los oyentes de Radio Provincia La Rioja, en un día muy especial porque en diez días más todos los chicos de La Rioja van a tener su computadora en su escuela y además es un día muy especial porque estamos recordando la memoria de ese gigante que fue Monseñor Angelelli, que realmente es un ejemplo, una bandera para todos los argentinos. Es una cosa que conmueve, ese cuadro que me regalaron donde él está atendiendo una larga mesa, en un comedor es muy hermoso.
+
+PERIODISTA.- Presidenta, ¿está contenta con su visita que hizo a San Juan?
+
+PRESIDENTA.- Muy contenta en San Juan, muy contenta en La Rioja, estamos muy contentos realmente porque fue una muy buena reunión del MERCOSUR. Gracias.

@@ -1,0 +1,36 @@
+# Declaraciones a la prensa tras la firma de acuerdos con la República de Chile
+
+Lugar: Chile, Santiago
+Fecha: 16/03/2012
+ID: CFK-20120316-02
+Estado audiovisual: 🎥 Video disponible
+Verificado: No
+Video: "D:\Nueva carpeta\OneDrive\Jellyfin\2012\CFK-20120316-02.mp4"
+
+FERNÁNDEZ.- Muy buenos días a todos y a todas; señor Presidente, querido Sebastián: quiero decirte a ti y a todo el pueblo chileno que me he sentido realmente muy bienvenida a este queridísimo país, no solamente por la gratísima experiencia de la cena, que anoche compartimos con Cecilia y con dirigentes de todos los partidos políticos, con empresarios y con la comitiva que me acompañó, sino también hoy en la calle. A mí la calle, particularmente, es un lugar que me interesa mucho, porque me interesa mucho palpar el afecto y el cariño y lo he podido ver cuando estuve haciendo la ofrenda al General O’Higgins, más tarde al General San Martín, la gente en la calle, transeúntes que habían parado su marcha para saludar, otros que seguían caminando y saludando, tal vez con mucha más intensidad – debo decirlo –que en otras oportunidades que me ha tocado visitar Chile. Siento como que las cosas van mejorando cada vez, van cambiando y cada vez más nos miramos entre nosotros como verdaderos compatriotas de esta Patria Grande.
+
+Yo quiero agradecerle sinceramente a todo el pueblo chileno, a los chicos de la escuela de la Argentina, que estaban aquí y que me recibieron con tanto afecto y cariño, con los cuales nos sacamos fotos y con todos los chilenos que nos sacábamos fotos y saludaban, sinceramente a mí esas cosas me conmueven mucho y quiero agradecérselas de corazón.
+
+En cuanto a la integración, los acuerdos que hemos firmado, que por supuesto no van a ser los últimos ni los primeros, sino que son una larga marcha, que vamos construyendo muy minuciosamente en todos los caminos de la integración: desde los transplantes de órganos, que en nuestro país han alcanzado, el año pasado, yo lo decía antes de ayer en un acto en la Argentina, el año pasado hubo un transplante de órganos cada siete horas – Sebastián – en la República Argentina. Eso se debe a que hemos montado una red de hospitales, pero además también que hemos sancionado una Ley del Donante Presunto, que costó mucha discusión, opiniones encontradas pero que finalmente nos ha permitido ser hoy el país de Latinoamérica con más cantidad de transplantes en los hospitales; que puede parece un hecho científico, pero el transplante  es igual a una vida, a la posibilidad de una persona de seguir viendo.
+
+El acuerdo, que hemos hecho para la habilitación de títulos, en materia educativa, el adelanto de nuevos pasos y yo lo que creo que es un hecho fundamental, sinceramente, y que es un mecanismo por debajo de los presidentes, vinculados a gobernadores argentinos e intendentes de las regiones chilenas, que son vecinas  que tienen que ver con lo cotidiano. Porque un Presidente, o una Presidenta, por mayor compenetración con el trabajo obviamente deben conducir la totalidad de un pueblo, la totalidad de un país y por lo tanto no están y no pueden estarlo - por una cuestión fáctica y hasta geográfica - en la cosa pequeña, en la cosa cotidiana, que realmente está mal que diga que es pequeña, en la cosa cotidiana porque las cosas grandes se conforman de cosas cotidianas y de cosas pequeñas que van sumando y hacen la posibilidad de integración una realidad. Y son precisamente – y yo quiero con esto felicitar a nuestros gobernadores y gobernadores argentinas y a nuestros – y digo nuestros porque lo siento como nuestros – intendentes e intendentas de las distintas regiones de Chile por el esfuerzo diario, cotidiano, permanente en el proceso de integración.
+
+Este Presidente y esta Presidenta, no podrían llevar adelante un proceso de integración si no tuvieran como base de sustentación la permanente comunicación, el esfuerzo, la pasión y la pelea que también hay muchas veces, porque acá se hermanan y se entrecruzan los intereses entre gobernadores argentinos, sus pares chilenos, intendentes, que por ahí pelean con otros gobernadores y otros intendentes y ahí vemos como, entonces, la integración no es una cuestión de nacionalidades, sino de pueblos, de necesidades y de representaciones políticas que cada uno de ellos tienen y tienen la necesidad de llevar adelante el mandato de sus pueblos.
+
+Por eso, creo que quedan muchas cosas por hacer y, es cierto, la responsabilidad del presente y del futuro es de nosotros. Y creo que hemos dado un salto cualitativo muy importante, porque creo que en los próximos meses, no quiero decir años, vamos a tener que tomar decisiones muy importantes en materia de conectividad, en materia también de conectividad energética, no solamente conectividad física que nos permita aunar esfuerzos pero, fundamentalmente, utilizar con mayor eficiencia, con mayor inteligencia los recursos energéticos de uno y otro país.
+
+Tenemos el orgullo, demás, de constituir el Primer Ente Binacional Minero, como lo decía anoche, que es realmente una rara avis en el mundo porque no se había podido lograr y lo hemos hecho.
+
+Así que, creo que lo que hicieron San Martín, Bernardo O’Higgins en épocas mucho más difíciles y con maneras un poco más fuertes de las que estamos haciendo hoy, nos compromete a nosotros en el esfuerzo de llevar adelante todos estos proyectos, muchos de los cuales ya se están concretando y otros estoy absolutamente convencida de que los vamos a concretar porque tenemos mucha pasión por hacer las cosas.
+
+Muchas veces alguien piensa que si alguien piensa diferente a otro en determinadas cuestiones, es imposible que puedan llevar adelante cosas. Pero las cosas que tienen que ver con las necesidades de nuestros pueblos en materia de geografía, en materia de energía, en materia de conectividad, no conocen de diferencia de ideas. Simplemente es poner manos a la tarea, trabajar mancomunadamente y lograr acuerdos que sirvan a ambas partes.
+
+Esta es una de las claves de cualquier entendimiento y de cualquier integración: que lo que hagamos, le sirva a los dos países. Y yo estoy segura que esto va a ser así porque, además, también tenemos embajadores en ambas partes que casi nosotros podríamos decir que uno es argentino y el nuestro, un poquito más, me parece que se ha ido la mano Ginés, porque acá ya te reconocen como chileno prácticamente y te quieren nacionalizar.
+
+Pero realmente esa es la necesidad de un Cuerpo Diplomático también altamente politizado. Y cuando digo “altamente politizado”, no lo hago desde  el punto de vista partidario, sino que ven a la relación entre los países, no como una cuestión sujeta a protocolos de formalidad o a protocolos de buenos modales, que por cierto siempre hay que tenerlos, sino a intereses concretos y comunes que satisfacer.
+
+Así que, para finalizar, agradecer una vez más a Sebastián, a Cecilia, a todos sus colaboradores por el afecto, el cariño, atención y el respeto con que hemos sido recibidos y un afecto grandísimo y un abrazo enorme a todo el pueblo chileno y a su afecto y a su cariño.
+
+Especialmente también a muchas de sus mujeres que me dijeron cosas muy lindas y también a chicos con los cuales me crucé y me gritaron “Las Malvinas son argentinas”.
+
+Muchas gracias. (APLAUSOS)

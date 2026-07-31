@@ -1,0 +1,9 @@
+# Declaraciones a los medios luego almuerzo en honor primer ministro de Vietnam
+
+Lugar: Cancillería
+Fecha: 16/04/2010
+ID: CFK-20100416-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.-  (...) es una visita muy importante. Las cifras lo ameritan, además hemos crecido un 331 por ciento, acumulados en estos años de intercambio comercial con la República Socialista de Vietnam; hemos firmado un importante convenio entre una empresa argentina, como IMPSA Y PETROVIETNAM, que va a significar una inversión muy importante. Así que estamos muy contentos, además nos ha invitado el primer ministro, tenemos que combinar ahora con las Cancillerías para visitar Vietnam, en noviembre porque ustedes saben que en noviembre el G-20 se reúne en Corea del Sur, así que estamos allí cerquita. El ha sido un héroe de guerra y vamos a visitar Vietnam porque queremos seguir profundizando la relación. Gracias chicos, gracias.

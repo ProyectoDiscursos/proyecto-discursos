@@ -1,0 +1,32 @@
+# Recorrida por la zona afectada por la inundación en La Plata
+
+Lugar: Buenos Aires, La Plata
+Fecha: 03/04/2013
+ID: CFK-20130403-01
+Estado audiovisual: 🎥 Video disponible
+Verificado: No
+Video: "D:\Nueva carpeta\OneDrive\Jellyfin\2013\CFK-20130403-01.mp4"
+
+PRESIDENTA.- (…) como tantísimos vecinos de todas partes, no tiene luz, no tiene gas, no tiene teléfono, pero no se quiere ir de la casa, porque el agua le llegó a la puerta, pero el agua le entró también por arriba porque tiene una gotera en el techo. Así que tiene miedo que vuelva a llover y por eso no se quiere ir de la casa porque dice que si le entra una gotera de vuelta se la va arruinar todo.
+
+PERIODISTA.- Presidenta, ¿qué impresión se lleva?
+
+PRESIDENTA.- No, no, mira yo tengo 60 años y viví en esa barrio desde los siete u ocho años, en la misma casa. Mi vieja vive en la misma casa de toda la vida, tuvo un yerno presidente y una hija presidenta y mi hermana vive en la misma casa y mi vieja vive en la misma casa y no tienen luz ni agua como cualquier otro vecino. ¡Qué pasa? Yo me acuerdo, cuando era chica, tendría 12 ó 13 años, cuando no estaba todavía entubado el Arroyo de El Gato, que hubo una inundación brutal y se nos inundó la casa. O sea yo sé lo que es una casa inundada porque a nosotros se nos inundó la casa, yo era muy chica y entró el agua. Me acuerdo que era una madrugada, porque aparte lo terrible de todo es cuando el agua entra de madrugada porque estás – digamos – indefenso, creo que no teníamos ni teléfono ni siquiera y entonces me acuerdo que sacábamos el agua de la inundación. Como hay un natural declive de la calle hacía el Arroyo de El Gato la calle 8 y 9 siempre se inunda. Ahora, en esta oportunidad,  el agua, a mi mamá, le llegó hasta la puerta de la casa. Desbordó el Arroyo de El Gato.
+
+PERIODISTA.- ¿En qué está colaborando el gobierno nacional?
+
+PRESIDENTA.- Bueno, estamos colaborando,  por lo pronto, Berni está sin dormir no solamente acá, sino empezó temprano, ayer, en el barrio Mitre, detrás del Dot, ahora estamos trayendo un Unimog del Ejército, estamos trayendo los ranchos para las raciones de comida caliente, vamos a traer también las potabilizadoras de agua, que hemos utilizado – por ejemplo – cuando se produjo el episodio de los volcanes en el sur y cuando se produjo, también, el episodio de Salta. Se acuerdan cuando tuvimos también, en Salta, el problema del desmoronamiento, que también viajé, que yo justo venía de España, pero realmente inundaciones fuertes cuando ha habido fenómenos de mucha lluvia se han producido.
+
+Y en aquel entonces además, te digo más, había mayor capacidad de absorción porque no había tanta construcción; de la cuadra de mamá creo que la única casa que debe tener todavía jardín es la de mi vieja, pero viste que ahora todo el mundo construye. Y está bueno que construyan, pero la verdad que por eso digo que es un fenómeno, tal vez, sin precedentes para los que son más jóvenes o no se acuerdan, pero yo me acuerdo habernos inundado terriblemente; yo tenía doce o trece años, lo que no quita…
+
+PERIODISTA.- Nos dicen que hay 40 personas que han fallecido.
+
+PRESIDENTA.- Bueno, fundamentalmente lo que están tratando, están trabajando muy fuertemente, me acaba de informar el Gobernador y el ministro Casal también, que están trabajando en la identificación de las personas, porque lo primero que hay que hacer es obviamente la tarea humanitaria de lograr identificar a las personas para….
+
+PERIODISTA.- ¿Qué le dice la gente?
+
+PRESIDENTA.- No, la gente pedía mucho que… la gente lo que tiene temor – más allá de lo que perdió, que es material y que te da una bronca porque estuviste ahorrando y tenías tu buen televisor y tu buena heladera y demás… El Gobernador va a hacer anuncios al respeto, la gente lo que tiene miedo, ahora a la noche, me decían varios vecinos ahí del barrio, que vieron caras extrañas y tienen el temor de la seguridad. Entonces estuvimos hablando con el ministro Casal para que, por favor, exista mucha vigilancia, mucha presencia policial. Y también las personas que estén habilitadas para entregar agua, para entregar cosas que vayan identificados con pecheras para no tener ningún problema y poder acceder todos a las cosas que necesitan.
+
+PERIODISTA.- ¿Qué se necesita?
+
+PRESIDENTA.- Lo que se necesita fundamentalmente son colchones, lo que se necesita es agua. Me hablaba una chica que ella se tiene que dializar y le faltaba agua y se había dializado. Así que bueno, a trabajar, que es lo que hay que hacer. Gracias, chicos.

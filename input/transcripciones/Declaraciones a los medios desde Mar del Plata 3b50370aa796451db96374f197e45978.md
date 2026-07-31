@@ -1,0 +1,29 @@
+# Declaraciones a los medios desde Mar del Plata
+
+Lugar: Buenos Aires, General Pueyrredón, Mar del Plata
+Fecha: 26/02/2010
+ID: CFK-20100226-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- (...) Estamos muy contentos de haber podido disfrutar este día, que es muy simbólico, muy representativo de la unidad latinoamericana que ha alcanzado niveles por lo menos hasta ahora nunca visto y que nos ha visto a nosotros, la República Argentina, nuevamente como un protagonista fuerte, junto a los otros países de la región, que es lo que siempre quisimos, esta es nuestra casa: Latinoamérica.
+
+PERIODISTA.- ¿Presidenta, va a estar el lunes con el Presidente Mujica, en su asunción?
+
+PRESIDENTA.- Sí vamos a estar en la asunción de Pepe, el querido Pepe, quiero verlo cuando Lucia, su esposa, que es la senadora más votada y por eso va a tener que entregarle la banda, o le toma juramento. Creo que Lucia, su esposa le toma juramento, así que bueno yo lo quiero mucho a los dos, tanto a Pepe como a Lucia, así que quiero ir a disfrutar de ese momento.
+
+PERIODISTA.- ¿Será este año el de la Integración Latinoamericana?
+
+PRESIDENTA.- Absolutamente, si señor.
+
+PERIODISTA.- ¿Continuará con Chile la buena relación, señora Presidenta con el nuevo gobierno?
+
+PRESIDENTA.- Claro que sí porque hay múltiples intereses, identidades históricas, hay políticas de Estado que van más allá de quien es o no presidente, sobre todo en gobiernos democráticos y populares. Yo decía, hoy, acabamos de inaugurar una importante tienda en Buenos Aires de capitales chilenos.
+
+**NUEVAS DECLARACIONES A LOS MEDIOS DE LA PRESIDENTA DE LA NACIÓN CRISTINA FERNÁNDEZ, EN MAR DEL PLATA.**
+
+PRESIDENTA.- Aquí compartiendo con mi querida amiga Michelle Bachelet su última visita como Presidenta de la República Argentina, pero no va a ser su última visita porque es una gran amiga, porque además tiene afectos aquí muy grandes y va a volver como amiga. Además agradeciendo todo el apoyo que hemos recibido en el último encuentro de países latinoamericanos, en Cancún, el apoyo absoluto a nuestro reclamo sobre Islas Malvinas, pero además una defensa muy fuerte de toda la región sobre sus recursos naturales, porque no estamos hablando únicamente de cuestiones que por ahí suena, tal vez, demasiado inasible como pueden ser conceptos de soberanía y demás, estamos hablando de los que nos están robando, en realidad, que son nuestros recursos naturales no renovables, como el petróleo. Por eso yo planteé muy claramente que esto que estaba pasando como último enclave colonial Inglaterra pretende soberanía a 14 mil kilómetros de distancia, lo cual realmente no resiste ningún análisis ni histórico, ni geográfico, ni jurídico y además saquea nuestros recursos naturales no renovables. Yo lo planteé tambièn a la región como un espejo en donde se mirarán todos los países. Todos sabemos que el siglo XXI va a ser un siglo de grandes disputas, sobre todo en materia de recursos naturales renovables y no renovables, que no solamente son el petróleo, pueden ser el agua y otras cosas. Por eso creo que la defensa que se hizo, más allá de la solidaridad latinoamericana, tiene también que ver con un ejercicio de autodefensa de todos y cada uno de los países latinoamericanos. Por eso lo agradecí, una vez más, hoy, con el paso simbólico de las nueve naves insignias de las armadas de los nueves países, de los cuales cinco de ellos cumplen también, junto con nosotros, este año 2010, los doscientos años y realmente agradecer el acompañamiento que hemos tenido.
+
+PERIODISTA.- Presidenta, tambièn YPF va a intentar....?
+
+PRESIDENTA.- YPF va también a... ustedes saben que hay una plataforma que ya vino que yo estuve en la plataforma, el año pasado, así que estamos muy contentos con esta decisión que ya creo ha tomado YPF-Repsol y que es también una muestra de confianza en el país. Gracias.

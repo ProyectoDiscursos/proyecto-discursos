@@ -1,0 +1,23 @@
+# Declaraciones a los medios al término del acto de inauguración del hospital de rehabilitación de Malvinas Argentinas
+
+Lugar: Buenos Aires, Malvinas Argentinas
+Fecha: 05/04/2010
+ID: CFK-20100405-02
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA: (...) me olvidé de decir que es el número 14 que ya venimos inaugurando de pasos a nivel que estaban siendo demandados desde hace muchísimo tiempo, en este caso una inversión muy importante de 45 millones de pesos y el hospital que vimos hoy de rehabilitación, que es realmente fantástico y que realmente convierten a Malvinas Argentinas- como ya dije - en la capital de la salud pública.
+
+Pero estoy muy contenta por los datos de la economía también, yo venía para acá, ahora voy a anunciar la recaudación de este mes, que es el mes de marzo, que pasó, de 28.510 millones de pesos, que hace un 31 por ciento más que el año pasado, y además también el aumento de los autos patentados: 56.493 autos, contra 44.000 del año 2008, que había sido el año top en materia de autos. Realmente estamos también muy bien en materia de ventas de autos usados, esto revela un segmento de la población, que vuelve a tener poder adquisitivo y obviamente revela también un fuerte repunte de la actividad automotriz que además genera puestos de trabajo, desarrolla el sector autopartista.
+
+PERIODISTA.- ¿En contra de otros pronósticos Presidenta?
+
+PRESIDENTA.- Una Semana Santa que explotó realmente el país porque todos lo vimos y ahora creo que me va a decir también una muy buena noticia el ministro del Interior que tuvimos debido a los grandes operativos que hicimos en materia de seguridad vial, una notable reducción en las víctimas, respecto de la Semana Santa del año anterior. Bueno hubo un operativo grandísimo, ustedes saben que se montó en materia de seguridad vial, con la Agencia Vial Federal y realmente estamos viendo resultados. Así que bueno, a mí la verdad que cuando yo veo resultados, uno se rompe el alma tratando de hacer las cosas lo mejor posible pero cuando uno ve resultados que además se traducen en un mejor hospital, en un paso a nivel que va a evitar episodios como el que vivimos esta madrugada, con la ambulancia del SAME, que fue terrible, pero además que también mejoran la situación de la gente, porque me explicaban que tenían que hacer largas colas esperando y eso también provocaba problemas con la seguridad. Y además también los datos de la economía fuerte, me acaban de decir recién - antes de venir para acá - que el riesgo país parece ser que perforó la barrera de los 600 y llegó a 588, así que bueno...
+
+PERIODISTA.- ¿En contra de algunos pronósticos que algunos daban, Presidenta?
+
+PRESIDENTA.- En realidad, venimos en contra de los pronósticos desde el año 2003, porque si fueran por los pronósticos del año 2003 a la fecha ya estaríamos en los quintos infiernos, pero realmente... Yo creo que es lo que dije en el Mensaje a la Asamblea Legislativa cuando hablé del país real y del país virtual o mediático que a algunos no le gustó pero bueno la verdad es así.
+
+PERIODISTA.- (No se escucha, fuera de micrófono)
+
+Él me escucha de Barrio El Cuadrado... bueno Barrio El Cuadrado, a portarse bien que el Intendente dijo que le está haciendo mucho pavimento, que le puso aquel hospital, así que espera que nos habitantes, que los vecinos de Barrio El Cuadrado le respondan bien, así que El Cuadrado, me escuchan a portarse bien. Gracias.

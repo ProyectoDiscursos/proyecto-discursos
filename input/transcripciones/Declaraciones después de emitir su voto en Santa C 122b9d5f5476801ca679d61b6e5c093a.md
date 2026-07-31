@@ -1,0 +1,95 @@
+# Declaraciones después de emitir su voto en Santa Cruz
+
+Lugar: Río Gallegos, Santa Cruz
+Fecha: 11/08/2013
+ID: CFK-20131108-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- Néstor Iván, divino, acostumbrándose al frío patagónico, porque entró, le gusta el frío, así que..
+
+PERIODISTA.- ¿Cuándo llegó?
+
+PRESIDENTA.- Llegó conmigo, lo traje yo, entramos juntos a la casa, a la que era la casa de Néstor y mía, donde habíamos vivido hasta que él fue gobernador y nos mudamos a la residencia del gobernador, así que fue una emoción muy grande y una sensación muy particular. Está muy lindo, bueno, soy la abuela también, si no te elogia la abuela, quién te elogia, pero la verdad que es lindo en serio.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- No lo voy a decir, no lo voy a decir porque....bueno...nada.
+
+PERIODISTA.- ¿Cómo sigue su vida ahora?
+
+PRESIDENTA.- Ahora vuelvo a casa, después voy a la casa de Máximo a darle un beso a Néstor Iván antes de irme y luego parto para Buenos Aires. Recién acabo de hablar con el Ministro del Interior, se están desarrollando en todo el país con muchísima normalidad todas las elecciones, y la verdad que con el nuevo padrón que algunas voces agoreras lechucescas de las que nunca faltan, decían que iba a haber demoras, que esto, que lo otro. Nada, al contrario, todo muy bien.
+
+PERIODISTA.- ¿Tiene un sentimiento similar al de otras elecciones en este lugar, doctora?
+
+PRESIDENTA.- Mis sentimientos después de todas las cosas y las experiencias que uno ha vivido, son siempre diferentes, siempre cambiantes, pero siempre sensaciones muy lindas. Por empezar estamos atravesando las segundas PASO desde que se reglamentó la reforma política. Esto ha sido un salto cualitativo importantísimo, porque ustedes vieron tanto en la anterior para las presidenciales como para estas que son parlamentarias, ha habido una participación de las fuerzas políticas absolutamente igualitarias y gratuitas en materia publicitaria, sobre todo a través de medios visuales y orales que son fundamentales en la época de la comunicación, lo cual garantiza un acceso por parte de todos los partidos políticos, cualquiera sea su volumen como partido, a la opinión pública. Este es un paso en la democratización de la política muy grande y estamos muy contentos realmente de que se haya llevado a cabo y que se haya llevado a cabo por segunda vez con total normalidad. Debemos recordar además, que esta es la primera parte de las PASOS. Me pregunta la señorita de C5N a la que yo le tengo el micrófono, si tengo a título de movilera alguna cábala.
+
+PRESIDENTA.- No, no, ninguna.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- No, esto me lo puse.
+
+PERIODISTA. ¿Asado hoy va a comer?
+
+PRESIDENTA.- No, Néstor comía asado en un taller mecánico el día anterior al mediodía. Yo no, no, me levanté e hice lo que hago todos los días, querida. Me levanté, me arreglé ahora para ir a votar, todos los demás días para ir a trabajar. Pero nada en particular, nada en especial.
+
+PERIODISTA.- ¿Cómo está su ánimo luego de las denuncias...?
+
+PRESIDENTA.- Denuncias vengo escuchando desde 20 años. Primero, que en Santa Cruz denuncias vengo escuchando desde la intendencia de Néstor Kirchner en 1987 pasando por las tres gobernaciones, luego por la presidencia de él, luego por la primera presidencia mía y por la tercera presidencia. Denuncias vengo escuchando desde hace décadas, pero en definitiva yo creo que todas esas denuncias que se hicieron, vos no sós de Santa Cruz, vos tampoco sós de Santa Cruz, pero algunos santacruceños sí se acuerdan, hay denuncias que luego son todas denuncias para las épocas electorales y que luego quedan absolutamente en nada. Yo vi la parte más fea de la política, creo que hay que ganar más que con denuncias con propuestas y fundamentalmente con gestión y con gobierno, por lo menos es lo que siempre me enseñó él y es lo que siempre hicimos en Santa Cruz.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- No, no, no hablé. Hoy hablé con el Jefe de Gabinete, hablé con el Ministro del Interior por razones obvias de organización, de responsabilidad institucional de que todo esté muy bien en el país. Esta es la primera parte, porque ahora vamos rumbo al 27 de octubre. Esta es la primera PASO, así que muchas gracias.
+
+PERIODISTA.- ¿Qué le gustaría decirle a la gente?
+
+PRESIDENTA.- No quiero caer en ninguna frase remanida, porque este año cumplimos 30 años de democracia, que no es poca cosa. Yo tengo 60, o sea que la mitad de mi vida viví en democracia; una buena parte de mi vida no fue en democracia, o sea mis otros 30 años no fueron en democracia. Fijáte vos qué casualidad, mis otros 30 años salvo un breve interregno entre 1973 y 1976, no fue en democracia. Tenés una Presidenta que la mitad de la vida la vivió no en democracia y la otra mitad en democracia. Por eso creo que todos los que tienen de 30 años para abajo, deben sentirse muy tranquilos, muy seguros porque no hay mejor instrumento ni mejor forma que la democracia.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- Muy bien como siempre, con mucho cariño, con mucho afecto y ahora cumpliendo, terminé con mi función de movilera...
+
+PERIODISTA.- ¿El Frente para la Victoria...?
+
+PRESIDENTA.- El Frente para la Victoria es un movimiento político, una fuerza política que hoy gobierna el país y que está presente en 23 distritos nacionales. Es la única fuerza política que está presente en 23 distritos nacionales.
+
+PERIODISTA.- Pero le duele...
+
+PRESIDENTA.- No, ya no duele. No, dolores son otros.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- Nada, no sé, qué le voy a....me puse a llorar. No le dije nada porque venía con Rocío, su mamá la traía despierta, porque viste es todo despierto ahora por suerte.
+
+PERIODISTA.- ¿Y Florencia?
+
+PRESIDENTA.- Florencia debe andar con su hermano para ir a votar juntos seguramente, así que estaban muy contentos los dos. Máximo se había quedado cuidando al bebé mientras Rocío iba a votar, así que ahora quedó oficiando de padre. Una vez que termine de atender a su bebé y vuelva Rocío que ya votó y se lo deja, porque no se lo dejan a nadie que no sean ninguno de los dos.
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- No, no. Máximo vuelve conmigo y Rocío por supuesto como corresponde a toda mamá, se queda con su... Es algo maravilloso, ser abuela es una sensación absolutamente diferente a cualquier otra.
+
+PERIODISTA.- ¿Lo malcría mucho?
+
+PRESIDENTA.- Yo no soy malcriadora, pero creo que las circunstancias tan particulares que uno le tocó o le toca vivir todos los días, la verdad que es un bálsamo, es una alegría, es una caricia al alma.
+
+PERIODISTA.- ¿Y el Papa?
+
+PRESIDENTA.- El Papa me mató. La verdad que el Papa me mató, porque cuando yo estaba parada, vino un señor muy grandote con un inmenso presente dorado con papel envuelto, con un gran moño, pensé que le traían un regalo al Papa. ¿Qué ibas a pensar? Estaba yo, Dilma, Evo, Danilo, el Vicepresidente del Uruguay, y cuando veo que agarra el Papa el paquete y se da vuelta y me dice, para usted. ¡Mirá vos!, para la abuela, "aunque usted es una abuela muy joven", me dijo...Son dos zapatitos de cuero con mediecitas.
+
+PERIODISTA.- ¿Son grandes?
+
+PRESIDENTA.- Son grandes todavía. Además, son los únicos zapatitos de todos los que le regalaron que los tengo en la cajita porque los pienso conservar hasta la cajita, como un recuerdo. Bueno, nada...fue una cosa...
+
+PERIODISTA.- (Inaudible)
+
+PRESIDENTA.- Sí los vi en Kirchner y Roca, fue muy lindo
+
+PERIODISTA.- Se ve que está emocionada.
+
+PRESIDENTA.- Y se mezclan muchas cosas. Mirá, no quiero hablar mucho para no empezar a lagrimear. Me están haciendo señas, me hace cuernitos, me hace cositas, por favor la gente de C5N que la pongan a esta movilera en órbita por Dios, que le están faltando el respeto a la Presidenta. No, no, no, la verdad que encantadora. Muchas gracias a todos y a todas, porque sé que se vinieron desde el Norte, bien sureña, desde el Norte, nosotros le decimos desde el Norte a los que vienen de la Capital. Cuando estoy en la Capital digo el Norte y cuando estamos con gente de Jujuy, como cuando vino Eyen y toda su comitiva a Tecnópolis. Nada, agradecerles a todos y a todas y que vengan aquí.
+
+PERIODISTA.- ¿Dónde termina?
+
+PRESIDENTA.- La jornada la termino como siempre en Buenos Aires. Gracias chicos, muchas gracias.

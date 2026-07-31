@@ -1,0 +1,12 @@
+# Visita al Museo El Moudjahid
+
+Lugar: Argel, Argelia
+Fecha: 17/11/2008
+ID: CFK-20081117-03
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- ¿Qué le pareció esta visita al Museo?
+PRESIDENTA.- Es la historia de las luchas por la independencia desde 1830 hasta que se constituye la República Argelina en 1962 que, dicho sea de paso, nuestro país fue uno de los primeros en reconocerlo como también uno de los primeros en plantear en el seno de las Naciones Unidas la cuestión argelina, cuando estaba la lucha por la liberación nacional. El Museo está muy logrado, en realidad está logrado porque representa fielmente lo que fue la ocupación y la rebeldía del pueblo argelino por lograr su independencia y fundamentalmente, lo que fue la constitución del Frente de Liberación Nacional que hoy en la coalición de gobierno es el partido mayoritario. Fue un ejemplo para todo el mundo. Yo le comentaba recién a la guía que nos acompañaba y que también nos explicó toda la evolución de este proceso histórico, que una de mis primeras lecturas en la universidad como la de tantísimos argentinos en aquellas épocas de vendavales -como digo- de los años ´60 y ´70 fue Los condenados de la Tierra de Frantz Fanon. Frantz Fanon fue, como ustedes saben, un médico que integraba el Frente de Liberación Nacional y que quizás el que universalizó lo que significaba la relación entre colono y colonizador; él en ese fantástico libro, que más que un libro es un testimonio, un documento histórico, revelaba la relación que inclusive se producía entre torturados y torturadores que se encontraban muchas veces en el mismo hospital. Es un libro que fue clave en aquellos años, en la época y explica realmente la relación que había entre el colono y el colonizador aquí en Argelia. Lo explica no solamente desde el punto de vista político sino también hasta casi se podría decirse, científico-biológico.
+PERIODISTA.- Presidenta: ¿130 años de lucha es un ejemplo para muchos oprimidos del mundo?
+PRESIDENTA.- Claro que sí. Todas las historias de liberación e independencia son un ejemplo. Hoy tal vez enfrentamos otros desafíos que no es la de la constitución de las naciones que caracterizó fundamentalmente al siglo XX y que se produjo luego de la primera y segunda guerra mundial, pero es una parte importante que explica muchas de las cosas que hoy suceden en el mundo. Es otra etapa, ya no estamos en la etapa de las constituciones de los estados nacionales y las independencias, sino a partir de otros problemas y de otras independencias.Gracias.

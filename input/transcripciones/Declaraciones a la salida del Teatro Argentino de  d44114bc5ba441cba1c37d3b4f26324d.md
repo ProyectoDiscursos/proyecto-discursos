@@ -1,0 +1,15 @@
+# Declaraciones a la salida del Teatro Argentino de La Plata
+
+Lugar: Buenos Aires, La Plata
+Fecha: 18/03/2009
+ID: CFK-20090318-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- (Fuera de audio)... para poner a la Argentina a tono con el salto tecnológico y también con la apertura y la participación democrática de las instituciones y fundamentalmente también la apertura para todas aquellas organizaciones que sin fines de lucro: iglesias, universidades, sindicatos, fundaciones tienen derecho también a expresarse y a participar en un tema que es vital en lo que hace a la formación de ciudadanos libres. Yo decía que espero que cuando finalmente podamos alumbrar una nueva Ley de Servicios de Comunicación Audiovisuales sea un instrumento para crear hombres y mujeres más libres, hombres y mujeres que puedan tener su propio pensamiento. Antes nosotros lo podíamos hacer en un mundo donde teníamos que proveernos nosotros mismos de la información, sobre todo en épocas de la dictadura, donde todo era censurado: libros, formas de acceder al conocimiento permitían formarnos nuestro propio pensamiento, nuestras propias ideas.
+
+Muchas veces se da la paradoja que en un mundo absolutamente comunicado, absolutamente globalizado la información se parcializa, a partir de quienes tienen mayor poder económico sobre los medios de comunicación. La idea de esta ley es precisamente que cada ciudadano pueda ser un ciudadano libre, a la hora de formar pensamiento. Y creo que si logramos que este instrumento ayude a eso estaremos cumpliendo un rol muy importante, como el mismo rol que cumplió la imprenta cuando Gutemberg o cuando el conocimiento era solamente en la Edad Media de los monjes, en las Iglesias y en los conventos. Creo que hoy tenemos una gran posibilidad porque la tecnología es de tal avance, de tal permanente progresividad que permite que hoy estemos todos comunicados y si logramos que todos podamos expresarnos y que todos podamos escucharnos, que es la otra gran cuestión,  yo creo que podemos construir una sociedad y un país mejor.
+
+PERIODISTA.- Presidenta, ¿este es un día histórico?
+
+PRESIDENTA.- La historia se construye todos los días, día histórico fue el que sucedió el 17 de octubre; día histórico fue cuando se cayó el Muro de Berlín; día histórico debe haber sido el día en que cayó el Lehmam Brothers o cuando se derrumbaron las Torres Gemelas, luego de aquel atentado terrorista, pero en realidad la historia se construye todos los días, la construimos todos y como dijo Mariotto -  yo también, es una frase mía esa - la historia no empieza cuando uno llega, ni termina cuando uno se va; uno forma parte en un momento de la historia y tiene en ese momento que la historia le dio la oportunidad de tener decisión y participación para poder decidir hacer las cosas que siempre pensó y que tenía que hacer. Este es mi momento porque es el momento en que soy Presidenta y que tengo la posibilidad de articular un proyecto de esta magnitud y poderlo someter a debate de la sociedad y luego llevarlo al Parlamento, pero la historia no empezó conmigo ni va a terminar tampoco conmigo. Gracias.

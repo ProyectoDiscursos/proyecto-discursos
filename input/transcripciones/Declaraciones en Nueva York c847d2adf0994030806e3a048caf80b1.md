@@ -1,0 +1,12 @@
+# Declaraciones en Nueva York
+
+Lugar: Estados Unidos, Nueva York
+Fecha: 22/09/2008
+ID: CFK-20080922-03
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PERIODISTA.- Fue muy importante la propuesta, las definiciones que usted ha dado recién aquí frente a los inversores y teniendo en cuenta la expectativa que hay por todas los anuncios que usted puede hacer en Estados Unidos.  
+PRESIDENTA.- La verdad que es la primera vez que concurro aquí al Consejo de Relaciones Exteriores que, como ustedes saben, es un foro muy importante, casi definitorio en materia de relaciones exteriores. Realmente me sentí muy cómoda contándoles la mirada que nosotros tenemos acerca de nuestra propia experiencia histórica y también de cómo vemos el mundo, de cómo vemos el rol de los Estados Unidos, de cómo vemos a la región de la cual somos parte. La verdad que me sentí muy cómoda y me parece importante lo que hemos comunicado y que es esencialmente el retorno de la Argentina a la normalidad y a la viabilidad del financiamiento para el ejercicio 2009, 2010.
+PERIODISTA.- ¿Van a haber más precisiones luego?
+PRESIDENTA.- El marco regulatorio, las leyes vigentes en la Argentina, el manejo del mercado exigen que sean estas las cosas que yo he dicho, seguramente luego se van a conocer con mayor detalle las propuestas que han hecho estas tres entidades que, como ustedes ven, tampoco he dicho el nombre porque no corresponde que lo hiciera. Así que creo que con la misma responsabilidad y seriedad con la que nos hemos manejado siempre, no solamente en temas grandes, yo creo que uno debe ser serio y responsable en los temas grandes, en los medianos y en los pequeños. Estamos con mucho optimismo por el momento que vivimos los argentinos, paradójicamente, en un momento donde pareciera que no se puede desarrollar una situación como esta, la Argentina una vez más da muestras de su solidez y de las propuestas, y fundamentalmente del desarrollo que hemos venido teniendo desde el año 2003, en el que algunos no creían. Hechos como el que vivimos hoy, con esta propuesta que hacen estas tres entidades que son de primerísimo nivel y que son ostensiblemente más favorables que las obtuvimos aún en el canje del 2005, posicionan más que bien a la Argentina. Muchas gracias.

@@ -1,0 +1,13 @@
+# Declaraciones luego de ser recibida por funcionarios de la FAO
+
+Lugar: Italia, Roma
+Fecha: 08/06/2015
+ID: CFK-20150608-03
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.-….en materia de políticas públicas aquí en la FAO, que hemos sido reconocidos, nuestro país la Argentina, en su éxito en la lucha contra el hambre, que es lo mismo que decir éxito en la lucha contra la pobreza, porque la causa del hambre es la pobreza y, por lo tanto, combatir la pobreza es combatir el hambre.
+
+Queremos agradecer también que después de 40 años hemos podido acordar que mi país, la Argentina, sea sede también de una delegación de FAO que juntamente con otros dos países con la República Popular China y Uruguay recopilaremos datos.
+
+Ustedes saben que América latina en general y la Argentina en particular, Brasil también que es el país de origen del titular de la FAO, son grandes productores de alimentos y por lo tanto contribuyen muy fuertemente a mitigar el problema del hambre, pero también sabemos que el problema del hambre también es problema de una injusta distribución de la riqueza, porque en definitiva quien no puede comer es porque carece de dinero para poder comprar alimentos. Y creo que entonces las políticas públicas no solamente son incentivar la producción de alimentos, que está muy bueno, en nuestro país lo hacemos y con mucho éxito, tenemos una capacidad para alimentar a más de 400 millones de personas y somos apenas 41 millones y calculamos que en 5 años esta capacidad va a aumentar a 600 millones, pero creemos que además de esto si no se distribuye la riqueza en el mundo, nuestra capacidad para mitigar el hambre de 600 millones de personas va a ser exitosa en cuanto a políticas de Estado en Argentina para producir más, pero el éxito se corona con que realmente 600 millones de personas puedan acceder a esos alimentos. Muchas gracias.

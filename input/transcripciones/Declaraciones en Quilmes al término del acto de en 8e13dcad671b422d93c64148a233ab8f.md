@@ -1,0 +1,13 @@
+# Declaraciones en Quilmes al término del acto de entrega de becas
+
+Lugar: Buenos Aires, Quilmes
+Fecha: 21/04/2009
+ID: CFK-20090421-03
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- Si hay algo que podemos hacer también es reflejar lo que el Ministerio de Educación ha hecho por la educación pública con su canal "Encuentro", que es realmente un verdadero lanzador de políticas educativas y de mensajes que tienen que ver con conocer nuestra propia historia y dotar a la gente de un instrumento para poder entender lo que le pasa y cómo poder superarlo. Ceo que este esfuerzo que está haciendo todo el pueblo argentino, porque estas 720.000 becas secundarias que damos hoy, las 30.000 específicas universitarias que anunciamos el otro día, todo el esfuerzo de las computadoras, de los libros, es el esfuerzo por sostener a la educación como el pilar de progreso social, que ha sido la historia de nuestra clase media, que ha sido la historia de cada uno de nosotros. Yo no nací en un hogar de millonarios, nací en un hogar de gente que trabajaba y que hizo un gran esfuerzo para costear la carrera de sus dos hijas, una médica y la otra abogada. Hoy son otras las realidades y otros los modelos. "Jamás hubiera estudiado derecho", me decían que comentaba uno de los chicos universitarios, la verdad que está muy bien, yo tampoco nunca hubiera estudiado matemáticas. Pero necesitamos ingenieros, necesitamos agrimensores, necesitamos gente con mucha capacitación técnica para seguir sosteniendo y haciendo crecer este modelo que se sostiene agregando valor cada vez más a nuestros productos, a nuestras materias primas. Esta es y fue la clave del crecimiento de los países desarrollados. No los escuchemos cuando dicen las cosas que tenemos que hacer nosotros en otras latitudes, miremos las que hicieron ellos en sus sociedades para seguir avanzando y vamos a ver cómo ellos se especializaron, fueron cada vez poniéndole mayor valor agregado a sus productos y por eso son lo que son.
+
+Bah, hoy están bastante mal, pero ¿saben cuál es la culpa de que hoy estén como estén? Que abandonaron eso que habían llevado adelante que era trabajo y producción y creyeron que el dinero lo iban a multiplicar a través de los bancos y las especulaciones financieras. Y los bancos sirven para financiar el crédito, el consumo y la producción, pero no sirven por sí mismos para reproducir el dinero. Este es el gran error cultural que cometieron estos países que habían sido avanzados en materia de producción, de desarrollo, de generación de trabajo. Por confundir y creer que la riqueza y el dinero se reproducen a sí mismos, hoy está el mundo como está.
+
+Gracias.

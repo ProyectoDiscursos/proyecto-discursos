@@ -1,0 +1,48 @@
+# Palabras tras retornar a su actividad habitual en Olivos
+
+Lugar: Residencia Presidencial de Olivos
+Fecha: 18/11/2013
+ID: CFK-20131118-01
+Estado audiovisual: 🎥 Video disponible
+Verificado: No
+Video: "D:\Nueva carpeta\OneDrive\Jellyfin\2013\CFK-20131118-01.mp4"
+
+Hola, después de tantos días estamos de vuelta, en contacto. Florencia está detrás de la cámara y me está filmando. Y bueno, nada, primero gracias a todos y a todas, empezando por todos los que me ayudaron en mi enfermedad operándome, cuidándome: los médicos, las enfermeras, los auxiliares, los camilleros, todos inclusive lo que me cruzaban en la clínica, que también eran pacientes y enfermos y me cruzaban en la clínica y me hacían un saludo, a los miles y miles de argentinos que se preocuparon, que rezaron, que pidieron, también a los miles de ciudadanos de otros países que me mandaban e-mails y me mandaban mensajes en el twitter, en el facebook, también a los jefes y jefas de Estados extranjeros, todos son importantes, desde el más humilde servidor hasta el más importante Jefe de Estado. A todos les quiero agradecer su preocupación por mi salud, todas las cosas que he recibido: millones de cartas, de flores, quiero simbolizar la cantidad de flores que recibí en las que me entregaron esta mañana, que son estás que tengo acá, estas rosas rojas, que me mandó Hebe de Bonafini, me las acaba de enviar y los regalos, muñequitos, rosarios, estampitas, hasta las que me regaló este – la voy a traer porque me encantó – pingüino que me mandó también, hace unos instantes, Federico García Caffi, de Pilar, un joven militante de Pilar, representante del Frente Estudiantil, que me manda una carta preciosa – y mira le puso, además, la banderita – donde me cuenta que nació en el 93, que no creía en nada, que vio todo lo que pasó en nuestra historia y no solamente en nuestra historia, sino también en otras partes y que había empezado a creer y a militar y la verdad que fue una cosa muy importante.
+
+Como también recibí una carta, que hoy la estaba contestando, porque me la alcanzaron, recién hoy, de aquel joven, no sé si acuerdan, de Demián, que me mandó una carta divina y se acuerdan cuando la leyeron en la Plaza de Mayo, en una manifestación de los propios...Y saben qué hizo, el 17 de octubre, me mandó una carta deseándome feliz Día de la Lealtad y pidiéndome que me cuide por mi nieto, por Florencia, que me habló muy bien de vos porque tiene amigas que le hablaron muy bien de vos y que dicen que sos una muy buena persona. Y la verdad que me llené de orgullo. Hoy se la estaba contestando a Demián, que seguramente debe estarme escuchando y le agradezco ese gesto, que un hombre del PRO, me haya deseado feliz Día de la Lealtad. Esto revela que los argentinos estamos creciendo y somos capaces de superar nuestras diferencias o mantenerlas, sin por eso agredirnos o despreciarnos. Demián, tu carta, en serio, me mató. 17 de octubre, uno del PRO, me mató.
+
+Nada, agradecerles porque fueron momentos difíciles, no lo voy a negar, porque ir a un examen de rutina cardiológico y de repente te dicen que te tenés que operar de la cabeza y te tiene que abrir la cabeza, viste que...yo y mi extirpación de tiroides con un pre-diagnóstico de cáncer o cesáreas, todo el mundo tiene operaciones, pero viste que la cabeza es algo como que...es una cosa como que la "capocchia" es la "capocchia", como decía mi abuelo.
+
+Y la verdad que, bueno, fue un momento difícil. Difícil pero bueno, acá estamos, como siempre trabajando, al frente, poniendo toda nuestra voluntad y, bueno, y dándole una vez más las gracias a todos.
+
+La verdad que sé que alguno estaría esperando una cadena naciones, un mensaje especial. Pero la verdad que me pareció bueno esto y, nada, gracias Florencia, por hacerlo, para mi cineasta.
+
+Muchas gracias a todos los argentinos en serio y a todos los que no son argentinos...¡Hay! Me olvidaba que entre todos los regalos, hasta perros me regalaron.
+
+Pero yo quiero presentarles un perro muy especial: miren lo que es esto.
+
+Este perro, es el perro que Hugo Chávez me había prometido que me iba a regalar: el perro nacional de Venezuela. No, con el pelo no porque rompemos relaciones con Venezuela.
+
+Desde 1974 fue declarado Perro Nacional de Venezuela. ¿Por qué? Es una raza especial creada en Venezuela y acompañó al Libertador Simón Bolívar en todas sus campañas.
+
+¿Se acuerdan de esa película "Gladiador" cuando el perro va corriendo al lado de Máximo? Bueno, Nevado, que era igual a este –no era este, era igual a este-, peleaba al lado de Bolívar y una vez los españoles lo metieron preso al perro con el indio que lo cuidaba. Y después, bueno, se liberaron y Bolívar lo siguió llevando.
+
+¿Y saben dónde murió? En la batalla de Carabobo. Él peleaba junto a Bolívar y atacaba a los españoles con sus caballos y de un lanzazo lo atravesaron en la histórica batalla de Carabobo, que fue la emancipó definitivamente el continente. Yo estuve cuando estuve en Ecuador, cerca del campo de batalla.
+
+¿Y cómo le puse? Simón y me lo voy a llevar a Calafate porque Simón es un perro de alturas y de zona fría.
+
+Bueno, es uno de los tantos regalitos que recibí y que quería mostrarlo. Me lo trajo el hermano de Hugo cuando vino hace pocos días a la Argentina...
+
+No, Simón, que van a acusar a los chavistas de malos, no Simón.
+
+Bueno, nada, Simón es un divino, está todo el mundo enamorado de Simón pero no se los voy a regalar a nadie.
+
+Y, bueno, también me regalaron otros perritos, me regalaron otra canichita. Pero bueno, Simón es un regalo muy especial porque era alto que me había prometido Hugo y me trajo su hermano.
+
+Así que, Simón, salude a la cámara y a todos los argentinos y latinoamericanos y al mundo.
+
+Vamos todavía, gracias.
+
+Y ahora sí, ahora nos vamos a trabajar. Simón a dormir y yo a trabajar.
+
+Chau, gracias a todos y todas.

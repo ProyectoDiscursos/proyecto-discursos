@@ -975,3 +975,77 @@ html {
     margin-bottom: 32px;
     opacity: 0.75;
 }
+.detalle-transcripcion {
+    padding: 72px 0 96px;
+}
+
+.transcripcion-encabezado {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+    margin-bottom: 32px;
+}
+
+.transcripcion-encabezado h2 {
+    margin: 0;
+}
+
+.transcripcion-texto {
+    width: 100%;
+    max-width: 820px;
+    margin: 0 auto;
+    font-size: 1.08rem;
+    line-height: 1.85;
+    text-wrap: pretty;
+}
+
+.transcripcion-texto p {
+    margin: 0 0 1.6em;
+}
+
+.transcripcion-texto p:last-child {
+    margin-bottom: 0;
+}
+
+.boton-copiar-transcripcion {
+    flex-shrink: 0;
+    padding: 10px 16px;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.08);
+    color: inherit;
+    font: inherit;
+    cursor: pointer;
+    transition:
+        background 0.2s ease,
+        border-color 0.2s ease,
+        transform 0.2s ease;
+}
+
+.boton-copiar-transcripcion:hover {
+    background: rgba(255, 255, 255, 0.14);
+    border-color: rgba(255, 255, 255, 0.4);
+    transform: translateY(-1px);
+}
+
+.boton-copiar-transcripcion[hidden] {
+    display: none;
+}
+
+@media (max-width: 700px) {
+    .detalle-transcripcion {
+        padding: 52px 0 72px;
+    }
+
+    .transcripcion-encabezado {
+        align-items: flex-start;
+        flex-direction: column;
+        margin-bottom: 24px;
+    }
+
+    .transcripcion-texto {
+        font-size: 1rem;
+        line-height: 1.75;
+    }
+}

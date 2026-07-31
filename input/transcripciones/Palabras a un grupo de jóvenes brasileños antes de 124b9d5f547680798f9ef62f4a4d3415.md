@@ -1,0 +1,18 @@
+# Palabras a un grupo de jóvenes brasileños antes de la cumbre Brics-Unasur
+
+Lugar: Brasil, Brasilia
+Fecha: 16/07/2014
+ID: CFK-20140716-01
+Estado audiovisual: 🎥 Video disponible
+Verificado: No
+Video: "D:\Nueva carpeta\OneDrive\Jellyfin\2014\CFK-20140716-01.mp4"
+
+Muchas Gracias. La verdad que no me esperaba tan cálido recibimiento de los jóvenes de Brasil.
+
+Quiero darles las gracias, porque sé que no es que están con Cristina sino que están con las políticas que llevamos adelante desde Argentina, que creemos en una patria grande y que además creemos en que se debe terminar en esta suerte de pillaje internacional en materia financiera como hoy pretenden hacerlo contra la Argentina y como lo van a pretender hacer seguramente contra otros países del planeta.
+
+Por eso es muy importante, sobre todo ustedes que son los jóvenes y que son presente y futuro, y los que no pueden permitir que les hipotequen las esperanzas, las ilusiones y los sueños de un Brasil mejor, de una América del Sur mejor y de un mundo mejor, un mundo atravesado por la violencia. También hacemos un llamamiento a la paz, a que cese el fuego en Medio Oriente y se acabe con tantas muertes de tantos civiles, de tantos chicos, porque la guerra es algo terrible.
+
+Hoy vamos a dar un paso muy importante, ayer se ha dado un paso muy importante aquí en Brasil, hemos dado también un paso importante los países de UNASUR cuando constituimos el Banco del Sur, y van surgiendo cada vez instituciones que cuestionan precisamente este funcionamiento de los organismos multilaterales, que en lugar de dar soluciones no hacen más que complicar la vida de los pueblos.
+
+Así que agradecerles a todos la presencia y además, fuerza y a seguir militando por Brasil, por América del Sur y por un mundo mejor. Muchas gracias.

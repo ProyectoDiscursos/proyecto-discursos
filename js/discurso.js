@@ -283,40 +283,61 @@ function mostrarDiscurso(discurso) {
             </section>
 
 
-            <section class="detalle-transcripcion">
+            <section
+    id="transcripcion"
+    class="detalle-transcripcion"
+>
 
-                <div class="detalle-contenedor">
+    <div class="detalle-contenedor">
 
-                    <p class="detalle-sobrelinea">
-                        Archivo documental
+        <p class="detalle-sobrelinea">
+            Archivo documental
+        </p>
+
+        <div class="transcripcion-encabezado">
+
+            <h2>Transcripción</h2>
+
+            <button
+                id="boton-copiar-transcripcion"
+                class="boton-copiar-transcripcion"
+                type="button"
+                hidden
+            >
+                Copiar texto
+            </button>
+
+        </div>
+
+        <div id="transcripcion-contenido">
+
+            <div class="transcripcion-pendiente">
+
+                <span class="transcripcion-icono">≡</span>
+
+                <div>
+                    <h3>Cargando transcripción…</h3>
+
+                    <p>
+                        El texto completo se mostrará
+                        en unos instantes.
                     </p>
-
-                    <h2>Transcripción</h2>
-
-                    <div class="transcripcion-pendiente">
-
-                        <span class="transcripcion-icono">≡</span>
-
-                        <div>
-                            <h3>Transcripción próximamente</h3>
-
-                            <p>
-                                En una próxima etapa, el texto completo del
-                                discurso se mostrará en esta sección.
-                            </p>
-                        </div>
-
-                    </div>
-
                 </div>
 
-            </section>
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
 
         </article>
     `;
 
     configurarImagenAlternativa(imagen);
     actualizarTituloPagina(discurso.titulo);
+    cargarTranscripcion(discurso);
 }
 
 
@@ -585,4 +606,160 @@ function normalizarColeccion(texto) {
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
         .trim();
+}
+async function cargarTranscripcion(discurso) {
+    const contenedor = document.getElementById(
+        "transcripcion-contenido"
+    );
+
+    const botonCopiar = document.getElementById(
+        "boton-copiar-transcripcion"
+    );
+
+    if (!contenedor) {
+        return;
+    }
+
+    if (!discurso.tieneTranscripcion) {
+        mostrarTranscripcionNoDisponible(contenedor);
+        return;
+    }
+
+    try {
+        const ruta =
+            `data/transcripciones/${
+                encodeURIComponent(discurso.id)
+            }.txt`;
+
+        const respuesta = await fetch(ruta);
+
+        if (!respuesta.ok) {
+            throw new Error(
+                `No se pudo cargar la transcripción: ${respuesta.status}`
+            );
+        }
+
+        const texto = (await respuesta.text()).trim();
+
+        if (!texto) {
+            mostrarTranscripcionNoDisponible(contenedor);
+            return;
+        }
+
+        contenedor.innerHTML = `
+            <article class="transcripcion-texto">
+                ${convertirTranscripcionEnHTML(texto)}
+            </article>
+        `;
+
+        if (botonCopiar) {
+            botonCopiar.hidden = false;
+
+            botonCopiar.addEventListener("click", () => {
+                copiarTranscripcion(
+                    texto,
+                    botonCopiar
+                );
+            });
+        }
+
+    } catch (error) {
+        console.error(
+            "Error al cargar la transcripción:",
+            error
+        );
+
+        contenedor.innerHTML = `
+            <div class="transcripcion-pendiente">
+
+                <span class="transcripcion-icono">!</span>
+
+                <div>
+                    <h3>No se pudo cargar la transcripción</h3>
+
+                    <p>
+                        El texto existe en el archivo,
+                        pero ocurrió un problema al abrirlo.
+                    </p>
+                </div>
+
+            </div>
+        `;
+    }
+}
+
+
+function convertirTranscripcionEnHTML(texto) {
+    const textoNormalizado = String(texto || "")
+        .replace(/\r\n/g, "\n")
+        .replace(/\r/g, "\n")
+        .trim();
+
+    const parrafos = textoNormalizado
+        .split(/\n\s*\n/)
+        .map(parrafo => parrafo.trim())
+        .filter(Boolean);
+
+    return parrafos
+        .map(parrafo => {
+            const contenido = escaparHTML(parrafo)
+                .replace(/\n/g, "<br>");
+
+            return `
+                <p>
+                    ${contenido}
+                </p>
+            `;
+        })
+        .join("");
+}
+
+
+function mostrarTranscripcionNoDisponible(contenedor) {
+    contenedor.innerHTML = `
+        <div class="transcripcion-pendiente">
+
+            <span class="transcripcion-icono">≡</span>
+
+            <div>
+                <h3>Transcripción no disponible</h3>
+
+                <p>
+                    Este discurso todavía no posee una
+                    transcripción incorporada al archivo.
+                </p>
+            </div>
+
+        </div>
+    `;
+}
+
+
+async function copiarTranscripcion(
+    texto,
+    boton
+) {
+    const textoOriginal = boton.textContent;
+
+    try {
+        await navigator.clipboard.writeText(texto);
+
+        boton.textContent = "Texto copiado";
+
+        window.setTimeout(() => {
+            boton.textContent = textoOriginal;
+        }, 2000);
+
+    } catch (error) {
+        console.error(
+            "No se pudo copiar la transcripción:",
+            error
+        );
+
+        boton.textContent = "No se pudo copiar";
+
+        window.setTimeout(() => {
+            boton.textContent = textoOriginal;
+        }, 2000);
+    }
 }

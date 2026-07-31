@@ -1,0 +1,21 @@
+# Declaraciones al término del acto por Bicentenario de la Prefectura
+
+Lugar: Buenos Aires, Zárate
+Fecha: 30/06/2010
+ID: CFK-20100630-01
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- La verdad que es un reconocimiento muy grande por toda la labor que viene cumpliendo la Prefectura. Ustedes saben que inclusive le hemos asignado tareas en el tema de la soberanía, en la custodia de nuestros mares también, con el tema de Malvinas están incluidas en el Decreto Presidencial para cumplir ese rol y la verdad que además, han desplegado parte de las inversiones que han tenido. Hablábamos con el Prefecto General, que por ejemplo, no sé si vieron que hubo en el desfile una cápsula que nunca la habían tenido, me contaba él, la compramos nosotros y esto permite introducirse en profundidad como 80 metros, con buzos calefaccionados y demás.
+
+PERIODISTA.-...¿pudo probarla?
+
+PRESIDENTA.- No hago comentarios estúpidos, por favor.
+
+PERIODISTA.- Hicieron mucho hincapié en el medio ambiente.
+
+PRESIDENTA.- En el medio ambiente, porque hoy realmente Prefectura cumple también esta función y la va a cumplir seguramente luego que arribemos al acuerdo de monitoreo sobre la totalidad del río Uruguay. Pero no solamente en el río Uruguay sino en todas partes, porque en realidad tenemos que controlar el medio ambiente en todas partes y en todo momento, con un grado de modernización muy importante. Ustedes pudieron ver inclusive que las últimas barcazas que controlan todo el tema del narcotráfico, todo el tema fronterizo, son hechas en la República Argentina. Ahora vamos a inaugurar en octubre el Bernardo Houssay que va a pasar a ser la nave insignia de la Prefectura Naval Argentina, como es la Fragata Libertad de la Marina. Estamos muy contentos porque es una Fuerza muy reconocida y muy querida en sus funciones, y además porque han cumplido realmente una función en materia de secuestro de estupefacientes récord en lo que va del año, junto a otras Fuerzas federales. Queríamos compartir esto con los cadetes, oficiales, suboficiales, lo que significa además el impacto en Zárate. Además una cosa que me gustó mucho es que en este mismo campo están los institutos de formación de los oficiales y de los suboficiales, eso me gusta mucho porque primero, mejora la logística porque no obliga a tener dos cosas separadas, y segundo, porque también creo que favorece a la camaradería entre oficiales y suboficiales, democratiza en cierta manera también la Fuerza de Seguridad. Estamos muy contentos por el impacto que además tiene en Zárate.
+
+PERIODISTA.- ¿En cuanto a la defensa de chatarra en el río?
+
+PRESIDENTA.- En cuanto a la defensa de chatarra, han desempeñado una tarea formidable, han movilizado buques que estaban hace 100 años enterrados, hundidos, ya sacaron 7 del Riachuelo con 10.000 kilos de chatarra, en el puerto de Mar del Plata creemos que para el año próximo va a estar totalmente libre, con lo cual será de libre acceso para los cruceros, esto significa un recurso turístico muy importante para la Argentina en general y para Mar del Plata en particular, en total ya han sacado más de 26 buques. Se acuerdan cuando reformamos la Ley precisamente era para permitirle a la Prefectura poder hacer esta tarea. Así que vamos a seguir en la tarea que es de largo alcance, porque obviamente si tenemos buques que durante 100 años no se habían movilizado y estaban hundidos, no se va a poder hacer de un día para el otro. Lo importante es todos los días agregar algo más. Gracias.

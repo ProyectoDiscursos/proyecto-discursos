@@ -1,0 +1,21 @@
+# Declaraciones luego de inaugurar el Salón de los Pensadores y Escritores Argentinos
+
+Lugar: Residencia Presidencial de Olivos
+Fecha: 15/09/2010
+ID: CFK-20100915-06
+Estado audiovisual: 🔍 Buscar video
+Verificado: No
+
+PRESIDENTA.- La verdad que un encuentro fantástico en Olivos con todos los propietarios y editores de los diarios y revistas del interior de todo el país y también de medios audiovisuales y radiales porque, realmente, hubo de todo y de todo el país, desde Ushuaia hasta La Quiaca, Formosa, Corrientes, pasamos por todo el país. Y ahora a la tarde, en la inauguración de esta Sala que realmente es fantástica y que va a permitir trabajar a todos los periodistas con mucha comodidad pero, al mismo tiempo, un homenaje a todos los hombres y mujeres que han tenido cabezas importantes, como digo yo, cabezas muy importantes. Seguramente faltarán otros, habrá lugar para poner una segunda hilera arriba de los que están, pero hemos querido poner realmente los más representativos desde 1810 hasta la fecha, arrancando por Mariano Moreno, me olvidé de lo que tenía que hablar de Discépolo...
+
+PERIODISTA.- Nadie se lo sopló.
+
+PRESIDENTA.- Nadie me lo sopló. No viste que pasaba uno por atrás y me decía...Después empezaron a soplar de ahí. También me olvidé de José Ingenieros. No podía acordarme de todos.
+
+PERIODISTA.- ¿Tiene alguno preferido?
+
+PRESIDENTA.- Sí, claro, que tengo preferidos. Jauretche es un preferido. En escritores a mí me gusta mucho Cortazar. Digamos de los grandes escritores contemporáneos que han sido Sábato, Cortazar, pero el Cortazar de "La autopista del sur" o de "Rayuela" o de "Final de juego".
+
+PERIODISTA.- De Scalabrini Ortiz también habló bastante.
+
+PRESIDENTA.- La investigación que hizo Scalabrini Ortiz sobre la "década infame", la historia de los ferrocarriles, los negociados en ese momento de las compañías ingresas con el entramado político de la época realmente fue una denuncia solitaria y ocultada en ese momento pero que, finalmente, quedó una historia. De hecho de los protagonistas de aquella época, que seguramente aparecieron en todos los diarios, nadie se acuerda. De Scalabrini Ortiz, que no aparecía en ninguno, luego de que decidió esto se acuerda todo el mundo y lo tiene como uno de los personajes más importantes en la historia de la investigación de la dependencia en la Argentina, del coloniaje, de lo que Arturo Jauretche llamó "estatuto legal del coloniaje". Jauretche, Hernández Arregui, hombres muy importantes. Leopoldo Marechal, que también fue un grande. Alejandra Pizarnik, María Elena, que tengo que ir a verla. Vino recién alguien a verme y ya me había dicho que no podía venir y me pidió que la vaya a ver y la voy a ir a ver. Le mando un beso grandísimo acá porque es una de las grandes también. Así que, muy felices y vamos a seguir trabajando. Ahora voy a recibir a Las Leonas, vamos a recibir a nuestras campeonas que realmente tengo muchas ganas de homenajearlas. No sé que van a hacer, algo seguramente debe haber preparado Parrilli, pero en el Salón de las Mujeres las voy a recibir a ellas. Un día muy lindo. Gracias.
