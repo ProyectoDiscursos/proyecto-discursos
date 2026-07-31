@@ -4,6 +4,7 @@ const contador = document.getElementById("cantidad-resultados");
 
 const filtroAnio = document.getElementById("filtro-anio");
 const filtroColeccion = document.getElementById("filtro-coleccion");
+const filtroLugar = document.getElementById("filtro-lugar");
 const filtroEstado = document.getElementById("filtro-estado");
 const ordenDiscursos = document.getElementById("orden-discursos");
 const botonLimpiar = document.getElementById("limpiar-filtros");
@@ -45,6 +46,7 @@ async function cargarDiscursos() {
 function cargarOpcionesDeFiltros() {
     cargarAnios();
     cargarColecciones();
+    cargarLugares();
     cargarEstados();
 }
 
@@ -96,6 +98,37 @@ function cargarColecciones() {
         });
 }
 
+function cargarLugares() {
+    const lugares = new Set();
+
+    todosLosDiscursos.forEach(discurso => {
+        const lugaresDelDiscurso = String(
+            discurso.lugar || ""
+        )
+            .split(",")
+            .map(lugar => lugar.trim())
+            .filter(Boolean);
+
+        lugaresDelDiscurso.forEach(lugar => {
+            lugares.add(lugar);
+        });
+    });
+
+    [...lugares]
+        .sort((a, b) =>
+            a.localeCompare(b, "es", {
+                sensitivity: "base"
+            })
+        )
+        .forEach(lugar => {
+            const opcion = document.createElement("option");
+
+            opcion.value = lugar;
+            opcion.textContent = lugar;
+
+            filtroLugar.appendChild(opcion);
+        });
+}
 
 function cargarEstados() {
     const estados = [
@@ -121,6 +154,7 @@ function aplicarFiltros() {
     const consulta = normalizarTexto(buscador.value);
     const anioSeleccionado = filtroAnio.value;
     const coleccionSeleccionada = filtroColeccion.value;
+    const lugarSeleccionado = filtroLugar.value;
     const estadoSeleccionado = filtroEstado.value;
     const ordenSeleccionado = ordenDiscursos.value;
 
@@ -146,19 +180,33 @@ function aplicarFiltros() {
             String(discurso.anio || "") === anioSeleccionado;
 
         const coincideColeccion =
-            !coleccionSeleccionada ||
-            colecciones.includes(coleccionSeleccionada);
+    !coleccionSeleccionada ||
+    colecciones.includes(coleccionSeleccionada);
 
-        const coincideEstado =
-            !estadoSeleccionado ||
-            String(discurso.estadoVideo || "") === estadoSeleccionado;
+const lugaresDelDiscurso = String(
+    discurso.lugar || ""
+)
+    .split(",")
+    .map(lugar => normalizarTexto(lugar))
+    .filter(Boolean);
 
-        return (
-            coincideBusqueda &&
-            coincideAnio &&
-            coincideColeccion &&
-            coincideEstado
-        );
+const coincideLugar =
+    !lugarSeleccionado ||
+    lugaresDelDiscurso.includes(
+        normalizarTexto(lugarSeleccionado)
+    );
+    
+const coincideEstado =
+    !estadoSeleccionado ||
+    String(discurso.estadoVideo || "") === estadoSeleccionado;
+
+return (
+    coincideBusqueda &&
+    coincideAnio &&
+    coincideColeccion &&
+    coincideLugar &&
+    coincideEstado
+);
     });
 
     resultados = ordenarResultados(resultados, ordenSeleccionado);
@@ -296,6 +344,7 @@ function limpiarFiltros() {
     buscador.value = "";
     filtroAnio.value = "";
     filtroColeccion.value = "";
+    filtroLugar.value = "";
     filtroEstado.value = "";
     ordenDiscursos.value = "recientes";
 
@@ -354,6 +403,7 @@ function escaparHTML(texto) {
 buscador.addEventListener("input", aplicarFiltros);
 filtroAnio.addEventListener("change", aplicarFiltros);
 filtroColeccion.addEventListener("change", aplicarFiltros);
+filtroLugar.addEventListener("change", aplicarFiltros);
 filtroEstado.addEventListener("change", aplicarFiltros);
 ordenDiscursos.addEventListener("change", aplicarFiltros);
 botonLimpiar.addEventListener("click", limpiarFiltros);
