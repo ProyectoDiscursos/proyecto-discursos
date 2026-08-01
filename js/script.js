@@ -4,7 +4,17 @@ const contador = document.getElementById("cantidad-resultados");
 
 const filtroAnio = document.getElementById("filtro-anio");
 const filtroColeccion = document.getElementById("filtro-coleccion");
-const filtroLugar = document.getElementById("filtro-lugar");
+const filtroPais =
+    document.getElementById("filtro-pais");
+
+const filtroProvincia =
+    document.getElementById("filtro-provincia");
+
+const filtroLocalidad =
+    document.getElementById("filtro-localidad");
+
+const filtroLugarEspecifico =
+    document.getElementById("filtro-lugar-especifico");
 const filtroEstado = document.getElementById("filtro-estado");
 const ordenDiscursos = document.getElementById("orden-discursos");
 const botonLimpiar = document.getElementById("limpiar-filtros");
@@ -27,6 +37,7 @@ async function cargarDiscursos() {
         todosLosDiscursos = await respuesta.json();
 
         cargarOpcionesDeFiltros();
+        aplicarFiltrosDesdeURL();
         aplicarFiltros();
 
     } catch (error) {
@@ -46,8 +57,12 @@ async function cargarDiscursos() {
 function cargarOpcionesDeFiltros() {
     cargarAnios();
     cargarColecciones();
-    cargarLugares();
+    cargarPaises();
     cargarEstados();
+
+    filtroProvincia.disabled = true;
+    filtroLocalidad.disabled = true;
+    filtroLugarEspecifico.disabled = true;
 }
 
 
@@ -98,36 +113,197 @@ function cargarColecciones() {
         });
 }
 
-function cargarLugares() {
-    const lugares = new Set();
+function cargarPaises() {
+    cargarOpcionesEnSelector(
+        filtroPais,
+        todosLosDiscursos.map(
+            discurso => discurso.pais
+        ),
+        "Todos los países"
+    );
+}
 
-    todosLosDiscursos.forEach(discurso => {
-        const lugaresDelDiscurso = String(
-            discurso.lugar || ""
-        )
-            .split(",")
-            .map(lugar => lugar.trim())
-            .filter(Boolean);
 
-        lugaresDelDiscurso.forEach(lugar => {
-            lugares.add(lugar);
+function actualizarFiltroProvincias() {
+    const paisSeleccionado =
+        filtroPais.value;
+
+    const discursosFiltrados =
+        todosLosDiscursos.filter(discurso => {
+            return (
+                !paisSeleccionado ||
+                normalizarTexto(discurso.pais) ===
+                normalizarTexto(paisSeleccionado)
+            );
         });
+
+    cargarOpcionesEnSelector(
+        filtroProvincia,
+        discursosFiltrados.map(
+            discurso => discurso.provincia
+        ),
+        "Todas las provincias"
+    );
+
+    filtroProvincia.disabled =
+        !paisSeleccionado ||
+        filtroProvincia.options.length <= 1;
+}
+
+
+function actualizarFiltroLocalidades() {
+    const paisSeleccionado =
+        filtroPais.value;
+
+    const provinciaSeleccionada =
+        filtroProvincia.value;
+
+    const discursosFiltrados =
+        todosLosDiscursos.filter(discurso => {
+            const coincidePais =
+                !paisSeleccionado ||
+                normalizarTexto(discurso.pais) ===
+                normalizarTexto(paisSeleccionado);
+
+            const coincideProvincia =
+                !provinciaSeleccionada ||
+                normalizarTexto(discurso.provincia) ===
+                normalizarTexto(provinciaSeleccionada);
+
+            return (
+                coincidePais &&
+                coincideProvincia
+            );
+        });
+
+    cargarOpcionesEnSelector(
+        filtroLocalidad,
+        discursosFiltrados.map(
+            discurso => discurso.localidad
+        ),
+        "Todas las localidades"
+    );
+
+    filtroLocalidad.disabled =
+        !paisSeleccionado ||
+        filtroLocalidad.options.length <= 1;
+}
+
+
+function actualizarFiltroLugaresEspecificos() {
+    const paisSeleccionado =
+        filtroPais.value;
+
+    const provinciaSeleccionada =
+        filtroProvincia.value;
+
+    const localidadSeleccionada =
+        filtroLocalidad.value;
+
+    const discursosFiltrados =
+        todosLosDiscursos.filter(discurso => {
+            const coincidePais =
+                !paisSeleccionado ||
+                normalizarTexto(discurso.pais) ===
+                normalizarTexto(paisSeleccionado);
+
+            const coincideProvincia =
+                !provinciaSeleccionada ||
+                normalizarTexto(discurso.provincia) ===
+                normalizarTexto(provinciaSeleccionada);
+
+            const coincideLocalidad =
+                !localidadSeleccionada ||
+                normalizarTexto(discurso.localidad) ===
+                normalizarTexto(localidadSeleccionada);
+
+            return (
+                coincidePais &&
+                coincideProvincia &&
+                coincideLocalidad
+            );
+        });
+
+    const lugares = [];
+
+    discursosFiltrados.forEach(discurso => {
+        const lugaresDelDiscurso =
+            Array.isArray(
+                discurso.lugaresEspecificos
+            )
+                ? discurso.lugaresEspecificos
+                : [];
+
+        lugares.push(...lugaresDelDiscurso);
     });
 
-    [...lugares]
-        .sort((a, b) =>
-            a.localeCompare(b, "es", {
-                sensitivity: "base"
-            })
+    cargarOpcionesEnSelector(
+        filtroLugarEspecifico,
+        lugares,
+        "Todos los lugares específicos"
+    );
+
+    filtroLugarEspecifico.disabled =
+        !paisSeleccionado ||
+        filtroLugarEspecifico.options.length <= 1;
+}
+
+
+function cargarOpcionesEnSelector(
+    selector,
+    valores,
+    etiquetaInicial
+) {
+    const valorAnterior = selector.value;
+
+    selector.innerHTML = "";
+
+    const opcionInicial =
+        document.createElement("option");
+
+    opcionInicial.value = "";
+    opcionInicial.textContent =
+        etiquetaInicial;
+
+    selector.appendChild(opcionInicial);
+
+    const opciones = [
+        ...new Set(
+            valores
+                .map(valor =>
+                    String(valor || "").trim()
+                )
+                .filter(Boolean)
         )
-        .forEach(lugar => {
-            const opcion = document.createElement("option");
+    ].sort((a, b) =>
+        a.localeCompare(
+            b,
+            "es",
+            {
+                sensitivity: "base"
+            }
+        )
+    );
 
-            opcion.value = lugar;
-            opcion.textContent = lugar;
+    opciones.forEach(valor => {
+        const opcion =
+            document.createElement("option");
 
-            filtroLugar.appendChild(opcion);
-        });
+        opcion.value = valor;
+        opcion.textContent = valor;
+
+        selector.appendChild(opcion);
+    });
+
+    const valorSigueExistiendo =
+        [...selector.options].some(
+            opcion =>
+                opcion.value === valorAnterior
+        );
+    selector.value =
+        valorSigueExistiendo
+            ? valorAnterior
+            : "";
 }
 
 function cargarEstados() {
@@ -154,57 +330,82 @@ function aplicarFiltros() {
     const consulta = normalizarTexto(buscador.value);
     const anioSeleccionado = filtroAnio.value;
     const coleccionSeleccionada = filtroColeccion.value;
-    const lugarSeleccionado = filtroLugar.value;
+    const paisSeleccionado = filtroPais.value;
+    const provinciaSeleccionada = filtroProvincia.value;
+    const localidadSeleccionada = filtroLocalidad.value;
+    const lugarEspecificoSeleccionado = filtroLugarEspecifico.value;
     const estadoSeleccionado = filtroEstado.value;
     const ordenSeleccionado = ordenDiscursos.value;
 
     let resultados = todosLosDiscursos.filter(discurso => {
-        const colecciones = Array.isArray(discurso.colecciones)
-            ? discurso.colecciones
+
+    const colecciones = Array.isArray(discurso.colecciones)
+        ? discurso.colecciones
+        : [];
+
+    const lugaresEspecificos =
+        Array.isArray(discurso.lugaresEspecificos)
+            ? discurso.lugaresEspecificos
             : [];
 
-        const textoCompleto = normalizarTexto(`
-            ${discurso.id || ""}
-            ${discurso.titulo || ""}
-            ${discurso.fecha || ""}
-            ${discurso.anio || ""}
-            ${discurso.lugar || ""}
-            ${colecciones.join(" ")}
-        `);
+    const textoCompleto = normalizarTexto(`
+        ${discurso.id || ""}
+        ${discurso.titulo || ""}
+        ${discurso.fecha || ""}
+        ${discurso.anio || ""}
+        ${discurso.pais || ""}
+        ${discurso.provincia || ""}
+        ${discurso.localidad || ""}
+        ${lugaresEspecificos.join(" ")}
+        ${colecciones.join(" ")}
+    `);
 
-        const coincideBusqueda =
-            !consulta || textoCompleto.includes(consulta);
+const coincideBusqueda =
+    !consulta || textoCompleto.includes(consulta);
 
-        const coincideAnio =
-            !anioSeleccionado ||
-            String(discurso.anio || "") === anioSeleccionado;
+const coincideAnio =
+    !anioSeleccionado ||
+    String(discurso.anio || "") === anioSeleccionado;
 
-        const coincideColeccion =
+const coincideColeccion =
     !coleccionSeleccionada ||
     colecciones.includes(coleccionSeleccionada);
 
-const lugaresDelDiscurso = String(
-    discurso.lugar || ""
-)
-    .split(",")
-    .map(lugar => normalizarTexto(lugar))
-    .filter(Boolean);
+const coincidePais =
+    !paisSeleccionado ||
+    normalizarTexto(discurso.pais || "") ===
+        normalizarTexto(paisSeleccionado);
 
-const coincideLugar =
-    !lugarSeleccionado ||
-    lugaresDelDiscurso.includes(
-        normalizarTexto(lugarSeleccionado)
+const coincideProvincia =
+    !provinciaSeleccionada ||
+    normalizarTexto(discurso.provincia || "") ===
+        normalizarTexto(provinciaSeleccionada);
+
+const coincideLocalidad =
+    !localidadSeleccionada ||
+    normalizarTexto(discurso.localidad || "") ===
+        normalizarTexto(localidadSeleccionada);
+
+const coincideLugarEspecifico =
+    !lugarEspecificoSeleccionado ||
+    lugaresEspecificos.some(lugar =>
+        normalizarTexto(lugar) ===
+        normalizarTexto(lugarEspecificoSeleccionado)
     );
-    
+
 const coincideEstado =
     !estadoSeleccionado ||
-    String(discurso.estadoVideo || "") === estadoSeleccionado;
+    String(discurso.estadoVideo || "") ===
+        estadoSeleccionado;
 
 return (
     coincideBusqueda &&
     coincideAnio &&
     coincideColeccion &&
-    coincideLugar &&
+    coincidePais &&
+    coincideProvincia &&
+    coincideLocalidad &&
+    coincideLugarEspecifico &&
     coincideEstado
 );
     });
@@ -299,10 +500,12 @@ function crearTarjeta(discurso) {
             <p>
                 ${formatearFecha(discurso.fecha)}
                 ${
-                    discurso.lugar
-                        ? ` · ${escaparHTML(discurso.lugar)}`
-                        : ""
-                }
+    discurso.localidad
+        ? ` · ${escaparHTML(discurso.localidad)}`
+        : discurso.provincia
+            ? ` · ${escaparHTML(discurso.provincia)}`
+            : ""
+}
             </p>
 
         </div>
@@ -344,9 +547,34 @@ function limpiarFiltros() {
     buscador.value = "";
     filtroAnio.value = "";
     filtroColeccion.value = "";
-    filtroLugar.value = "";
+    filtroPais.value = "";
+    filtroProvincia.value = "";
+    filtroLocalidad.value = "";
+    filtroLugarEspecifico.value = "";
     filtroEstado.value = "";
     ordenDiscursos.value = "recientes";
+
+    cargarOpcionesEnSelector(
+        filtroProvincia,
+        [],
+        "Todas las provincias"
+    );
+
+    cargarOpcionesEnSelector(
+        filtroLocalidad,
+        [],
+        "Todas las localidades"
+    );
+
+    cargarOpcionesEnSelector(
+        filtroLugarEspecifico,
+        [],
+        "Todos los lugares específicos"
+    );
+
+    filtroProvincia.disabled = true;
+    filtroLocalidad.disabled = true;
+    filtroLugarEspecifico.disabled = true;
 
     aplicarFiltros();
 }
@@ -398,12 +626,93 @@ function escaparHTML(texto) {
         .replaceAll('"', "&quot;")
         .replaceAll("'", "&#039;");
 }
+function aplicarFiltrosDesdeURL() {
+    const parametros =
+        new URLSearchParams(
+            window.location.search
+        );
 
+    const pais =
+        parametros.get("pais") || "";
+
+    const provincia =
+        parametros.get("provincia") || "";
+
+    const localidad =
+        parametros.get("localidad") || "";
+
+    const lugarEspecifico =
+        parametros.get(
+            "lugarEspecifico"
+        ) || "";
+
+    if (pais) {
+        filtroPais.value = pais;
+    }
+
+    actualizarFiltroProvincias();
+
+    if (provincia) {
+        filtroProvincia.value = provincia;
+    }
+
+    actualizarFiltroLocalidades();
+
+    if (localidad) {
+        filtroLocalidad.value = localidad;
+    }
+
+    actualizarFiltroLugaresEspecificos();
+
+    if (lugarEspecifico) {
+        filtroLugarEspecifico.value =
+            lugarEspecifico;
+    }
+}
 
 buscador.addEventListener("input", aplicarFiltros);
 filtroAnio.addEventListener("change", aplicarFiltros);
 filtroColeccion.addEventListener("change", aplicarFiltros);
-filtroLugar.addEventListener("change", aplicarFiltros);
+filtroPais.addEventListener(
+    "change",
+    () => {
+        filtroProvincia.value = "";
+        filtroLocalidad.value = "";
+        filtroLugarEspecifico.value = "";
+
+        actualizarFiltroProvincias();
+        actualizarFiltroLocalidades();
+        actualizarFiltroLugaresEspecificos();
+        aplicarFiltros();
+    }
+);
+
+
+filtroProvincia.addEventListener(
+    "change",
+    () => {
+        filtroLocalidad.value = "";
+        filtroLugarEspecifico.value = "";
+
+        actualizarFiltroLocalidades();
+        actualizarFiltroLugaresEspecificos();
+        aplicarFiltros();
+    }
+);
+
+
+filtroLocalidad.addEventListener(
+    "change",
+    () => {
+        filtroLugarEspecifico.value = "";
+
+        actualizarFiltroLugaresEspecificos();
+        aplicarFiltros();
+    }
+);
+
+
+filtroLugarEspecifico.addEventListener("change", aplicarFiltros);
 filtroEstado.addEventListener("change", aplicarFiltros);
 ordenDiscursos.addEventListener("change", aplicarFiltros);
 botonLimpiar.addEventListener("click", limpiarFiltros);

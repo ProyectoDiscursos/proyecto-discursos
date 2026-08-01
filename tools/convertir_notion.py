@@ -280,7 +280,12 @@ def convertir_fila(fila, ids_con_transcripcion):
         "titulo": limpiar(fila.get("Título")),
         "fecha": fecha,
         "anio": anio,
-        "lugar": limpiar(fila.get("Lugar")),
+        "pais": limpiar(fila.get("País")),
+        "provincia": limpiar(fila.get("Provincia/Estado")),
+        "localidad": limpiar(fila.get("Lugar")),
+        "lugaresEspecificos": obtener_colecciones(
+         fila.get("Lugar específico")
+),
         "colecciones": obtener_colecciones(fila.get("Colecciones")),
         "estadoVideo": limpiar(fila.get("Estado audiovisual")),
         "video": obtener_video(fila),
@@ -374,11 +379,32 @@ def main():
         if not discurso["fecha"]
     )
 
-    sin_lugar = sum(
-        1
-        for discurso in discursos
-        if not discurso["lugar"]
+    sin_pais = sum(
+    1
+    for discurso in discursos
+    if not discurso["pais"]
+)
+
+    sin_provincia = sum(
+    1
+    for discurso in discursos
+    if (
+        discurso["pais"] == "Argentina"
+        and not discurso["provincia"]
     )
+)
+
+    sin_localidad = sum(
+    1
+    for discurso in discursos
+    if not discurso["localidad"]
+)
+
+    sin_lugar_especifico = sum(
+    1
+    for discurso in discursos
+    if not discurso["lugaresEspecificos"]
+)
 
     sin_miniatura = sum(
         1
@@ -439,7 +465,16 @@ def main():
     print(f"🆔 Sin ID: {sin_id}")
     print(f"⚠️ IDs duplicados: {ids_duplicados}")
     print(f"📅 Sin fecha: {sin_fecha}")
-    print(f"📍 Sin lugar: {sin_lugar}")
+    print(f"🌎 Sin país: {sin_pais}")
+    print(
+    "🏛️ Sin provincia/estado en Argentina: "
+    f"{sin_provincia}"
+)
+    print(f"📍 Sin localidad: {sin_localidad}")
+    print(
+    "🏢 Sin lugar específico: "
+    f"{sin_lugar_especifico}"
+)
     print(f"🖼️ Sin miniatura: {sin_miniatura}")
     print(f"💬 Sin slogan: {sin_slogan}")
     print(f"📝 Sin descripción: {sin_descripcion}")

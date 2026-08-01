@@ -1074,3 +1074,7 @@ html {
     opacity: 1;
     transform: translateY(0);
 }
+.detalle-chip-lugar {
+    background: rgba(110, 198, 255, 0.12);
+    border-color: rgba(110, 198, 255, 0.3);
+}

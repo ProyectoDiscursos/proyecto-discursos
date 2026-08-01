@@ -57,6 +57,8 @@ function mostrarDiscurso(discurso) {
 
     const colecciones = obtenerColecciones(discurso.colecciones);
 
+    const lugaresEspecificos = obtenerColecciones(discurso.lugaresEspecificos);
+
     const descripcion = discurso.descripcion
         ? escaparHTML(discurso.descripcion)
         : "La descripción de este discurso todavía no está disponible.";
@@ -69,16 +71,44 @@ function mostrarDiscurso(discurso) {
         `
         : "";
 
-    const lugar = discurso.lugar
-        ? `
-            <span class="detalle-dato">
-                <span class="detalle-icono">📍</span>
-                ${escaparHTML(discurso.lugar)}
-            </span>
-        `
-        : "";
+    const pais = discurso.pais
+    ? `
+        <span class="detalle-dato">
+            <span class="detalle-icono">🌎</span>
+            ${escaparHTML(discurso.pais)}
+        </span>
+    `
+    : "";
 
-    const estado = discurso.estadoVideo
+const provincia = discurso.provincia
+    ? `
+        <span class="detalle-dato">
+            <span class="detalle-icono">🏛️</span>
+            ${escaparHTML(discurso.provincia)}
+        </span>
+    `
+    : "";
+
+const localidad = discurso.localidad
+    ? `
+        <span class="detalle-dato">
+            <span class="detalle-icono">📍</span>
+            ${escaparHTML(discurso.localidad)}
+        </span>
+    `
+    : "";
+
+const etiquetasLugaresEspecificos = lugaresEspecificos
+    .map(lugarEspecifico => {
+        return `
+            <span class="detalle-chip detalle-chip-lugar">
+                🏢 ${escaparHTML(lugarEspecifico)}
+            </span>
+        `;
+    })
+    .join("");
+
+        const estado = discurso.estadoVideo
         ? `
             <span class="detalle-chip">
                 ${escaparHTML(discurso.estadoVideo)}
@@ -158,22 +188,26 @@ function mostrarDiscurso(discurso) {
 
                         <div class="detalle-metadatos">
 
-                            <span class="detalle-dato">
-                                <span class="detalle-icono">📅</span>
-                                ${formatearFecha(discurso.fecha)}
-                            </span>
+    <span class="detalle-dato">
+        <span class="detalle-icono">📅</span>
+        ${formatearFecha(discurso.fecha)}
+    </span>
 
-                            ${lugar}
+    ${pais}
+    ${provincia}
+    ${localidad}
 
-                        </div>
+</div>
 
                         <div class="detalle-chips">
 
-                            ${estado}
+    ${estado}
 
-                            ${etiquetasColecciones}
+    ${etiquetasLugaresEspecificos}
 
-                        </div>
+    ${etiquetasColecciones}
+
+</div>
 
                         <div class="detalle-acciones">
 
@@ -231,17 +265,58 @@ function mostrarDiscurso(discurso) {
                             </div>
 
                             ${
-                                discurso.lugar
-                                    ? `
-                                        <div>
-                                            <dt>Lugar</dt>
-                                            <dd>
-                                                ${escaparHTML(discurso.lugar)}
-                                            </dd>
-                                        </div>
-                                    `
-                                    : ""
-                            }
+    discurso.pais
+        ? `
+            <div>
+                <dt>País</dt>
+                <dd>
+                    ${escaparHTML(discurso.pais)}
+                </dd>
+            </div>
+        `
+        : ""
+}
+
+${
+    discurso.provincia
+        ? `
+            <div>
+                <dt>Provincia / Estado</dt>
+                <dd>
+                    ${escaparHTML(discurso.provincia)}
+                </dd>
+            </div>
+        `
+        : ""
+}
+
+${
+    discurso.localidad
+        ? `
+            <div>
+                <dt>Localidad</dt>
+                <dd>
+                    ${escaparHTML(discurso.localidad)}
+                </dd>
+            </div>
+        `
+        : ""
+}
+
+${
+    lugaresEspecificos.length > 0
+        ? `
+            <div>
+                <dt>Lugar específico</dt>
+                <dd>
+                    ${lugaresEspecificos
+                        .map(escaparHTML)
+                        .join(", ")}
+                </dd>
+            </div>
+        `
+        : ""
+}
 
                             <div>
                                 <dt>ID del archivo</dt>
