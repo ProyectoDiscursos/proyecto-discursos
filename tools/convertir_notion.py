@@ -281,11 +281,11 @@ def convertir_fila(fila, ids_con_transcripcion):
         "fecha": fecha,
         "anio": anio,
         "pais": limpiar(fila.get("País")),
-        "provincia": limpiar(fila.get("Provincia/Estado")),
-        "localidad": limpiar(fila.get("Lugar")),
+        "provincia": limpiar(fila.get("Provincia")),
+        "localidad": limpiar(fila.get("Localidad")),
         "lugaresEspecificos": obtener_colecciones(
-         fila.get("Lugar específico")
-),
+            fila.get("Lugar específico")
+        ),
         "colecciones": obtener_colecciones(fila.get("Colecciones")),
         "estadoVideo": limpiar(fila.get("Estado audiovisual")),
         "video": obtener_video(fila),
@@ -328,6 +328,8 @@ def main():
 
     with open(CSV_FILE, encoding="utf-8-sig", newline="") as archivo:
         lector = csv.DictReader(archivo)
+
+        print(lector.fieldnames)
 
         for fila in lector:
             discursos.append(
@@ -467,7 +469,7 @@ def main():
     print(f"📅 Sin fecha: {sin_fecha}")
     print(f"🌎 Sin país: {sin_pais}")
     print(
-    "🏛️ Sin provincia/estado en Argentina: "
+    "🏛️ Sin Provincia en Argentina: "
     f"{sin_provincia}"
 )
     print(f"📍 Sin localidad: {sin_localidad}")
