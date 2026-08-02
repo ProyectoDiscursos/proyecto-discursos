@@ -275,15 +275,24 @@ function cargarOpcionesEnSelector(
                 )
                 .filter(Boolean)
         )
-    ].sort((a, b) =>
-        a.localeCompare(
-            b,
-            "es",
-            {
-                sensitivity: "base"
-            }
-        )
+    ].sort((a, b) => {
+
+    if (a === "Argentina") {
+        return -1;
+    }
+
+    if (b === "Argentina") {
+        return 1;
+    }
+
+    return a.localeCompare(
+        b,
+        "es",
+        {
+            sensitivity: "base"
+        }
     );
+});
 
     opciones.forEach(valor => {
         const opcion =

@@ -1,163 +1,137 @@
 # Proyecto Discursos
 
-## Acerca del proyecto
+Proyecto Discursos es un archivo digital dedicado a preservar, organizar y facilitar la consulta de los discursos públicos de Cristina Kirchner entre 2003 y la actualidad.
 
-**Proyecto Discursos** 
+# ¿Qué es Proyecto Discursos?
 
-> Archivo audiovisual de los discursos de Cristina Fernández de Kirchner.
+Proyecto Discursos es un archivo documental en desarrollo cuyo objetivo es reunir, organizar y poner a disposición los discursos públicos de Cristina en una plataforma moderna, accesible y de fácil navegación.
 
-Proyecto Discursos es una iniciativa de preservación, organización y difusión del patrimonio audiovisual correspondiente a los discursos públicos de Cristina Fernández de Kirchner.
+Cada discurso constituye la unidad principal del archivo y reúne, cuando está disponible:
 
-El proyecto busca reunir en un único lugar videos, transcripciones y metadatos, ofreciendo una experiencia de navegación inspirada en las plataformas de streaming, pero adaptada a un archivo histórico y documental.
+🎥 Video
+📝 Transcripción completa
+🖼 Miniatura
+📍 Información del lugar
+🏷 Colecciones temáticas
+📅 Fecha
+🆔 Identificador único
 
-Su objetivo es facilitar la consulta, la investigación y el descubrimiento de este material mediante una interfaz moderna, organizada y accesible.
-
----
+El sitio está pensado para funcionar como un archivo histórico navegable, inspirado en la experiencia de plataformas audiovisuales como Netflix o HBO Max, pero orientado a la consulta documental.
 
 ## Objetivos
 
-* Preservar discursos en formato audiovisual.
-* Reunir transcripciones completas.
-* Organizar el material mediante metadatos consistentes.
-* Facilitar la búsqueda y la navegación.
-* Incorporar nuevos materiales recuperados con el paso del tiempo.
-* Mantener un archivo abierto y de consulta pública.
+- Preservar los discursos públicos de Cristina en un único archivo.
+- Facilitar la búsqueda y la consulta mediante filtros y colecciones.
+- Organizar el material audiovisual con información normalizada.
+- Contribuir a la conservación y difusión del patrimonio documental reciente de la Argentina.
 
----
+## Características
 
-## Filosofía del proyecto
+Archivo cronológico completo.
+Búsqueda por texto.
+Exploración mediante filtros.
+Colecciones temáticas.
+Información geográfica normalizada.
+Página individual para cada discurso.
+Estadísticas del archivo.
+Transcripciones individuales.
+Navegación entre discursos relacionados.
+Tecnologías
+HTML5
+CSS3
+JavaScript
+Python
+Git
+GitHub Pages
+Notion (gestión de datos)
 
-Proyecto Discursos no pretende ser una simple colección de videos.
+## Organización del proyecto
 
-Cada discurso contará con información contextual, una descripción, una frase representativa y una clasificación que permita comprender el momento histórico en el que fue pronunciado.
+Proyecto Discursos
+│
+├── index.html
+├── explorar.html
+├── discurso.html
+├── coleccion.html
+├── colecciones.html
+├── estadisticas.html
+│
+├── css/
+├── js/
+├── data/
+├── images/
+├── input/
+└── tools/
 
-La prioridad es ofrecer una experiencia clara, ordenada y visualmente consistente.
+## Flujo de trabajo
 
----
+Toda la información se administra desde una base de datos en Notion.
 
-# Estructura de la página principal
+Notion
+        ↓
+Exportación CSV
+        ↓
+convertir_notion.py
+        ↓
+discursos.json
+        ↓
+Sitio web
 
-* Banner principal.
-* Discursos destacados.
-* Aperturas del Congreso.
-* Efemérides.
-* Malvinas.
-* Cadenas Nacionales.
-* Actos y eventos.
-* Últimos incorporados.
-* Archivo completo.
+Las transcripciones se exportan como archivos Markdown y el conversor genera automáticamente una versión limpia para cada discurso.
 
-Las secciones podrán ampliarse a medida que el archivo crezca.
+## Estructura de cada discurso
 
----
+Cada registro contiene, entre otros, los siguientes campos:
 
-# Información de cada discurso
+ID
+Título
+Fecha
+Año
+País
+Provincia
+Localidad
+Lugar específico
+Colecciones
+Estado audiovisual
+Video
+Miniatura
+Slogan
+Descripción
+Transcripción
+Estado del proyecto
 
-Cada registro podrá incluir:
+Actualmente se encuentran implementados:
 
-* ID único.
-* Título.
-* Fecha.
-* Año.
-* Lugar.
-* Tipo de acto.
-* Colecciones.
-* Miniatura.
-* Slogan (frase representativa).
-* Descripción.
-* Etiquetas temáticas.
-* Duración.
-* Video.
-* Transcripción.
+Página principal.
+Explorador de discursos.
+Ficha individual.
+Colecciones.
+Página de colecciones.
+Página de estadísticas.
+Sistema de filtros.
+Organización geográfica.
+Conversor automático desde Notion.
+Próximas etapas
+Incorporación de miniaturas.
+Incorporación de videos.
+Descripciones y slogans.
+Integración con Internet Archive.
+Nuevas visualizaciones estadísticas.
+Mapas interactivos.
+Línea de tiempo.
 
----
+## Cómo ejecutar
 
-# Convenciones
+git clone https://github.com/...
 
-## Identificador
+cd proyecto-discursos
 
-Formato:
+Abrir el proyecto con Visual Studio Code y ejecutar mediante Live Server.
 
-CFK-YYYYMMDD-01
+Para regenerar los datos:
 
-Ejemplo:
+py tools/convertir_notion.py
 
-CFK-20130301-01
+## Licencia
 
-Si existen varios discursos el mismo día, el número final se incrementa.
-
----
-
-## Miniaturas
-
-Todas las miniaturas utilizan un diseño uniforme.
-
-Cada miniatura incluye:
-
-* Imagen representativa.
-* Título.
-* Año.
-* Lugar.
-
-El objetivo es mantener una identidad visual consistente independientemente de la calidad del material original.
-
----
-
-## Categorías
-
-Corresponden al tipo de evento.
-
-Ejemplos:
-
-* Apertura del Congreso.
-* Cadena Nacional.
-* Acto.
-* Conferencia.
-* Entrevista.
-
----
-
-## Colecciones
-
-Un mismo discurso puede pertenecer a varias colecciones.
-
-Ejemplos:
-
-* Discursos destacados.
-* Efemérides.
-* Malvinas.
-* Política industrial.
-* Ciencia y tecnología.
-* Derechos humanos.
-
-Las colecciones son independientes de la categoría del discurso.
-
----
-
-# Hoja de ruta
-
-## Versión 1
-
-* Página principal.
-* Banner destacado.
-* Catálogo dinámico.
-* Página individual de cada discurso.
-
-## Versión 2
-
-* Buscador.
-* Filtros.
-* Cronología.
-* Colecciones.
-
-## Versión 3
-
-* Recorridos temáticos.
-* Estadísticas.
-* Nuevas herramientas de navegación.
-
----
-
-## Estado del proyecto
-
-🚧 En desarrollo.
+Este proyecto tiene fines de preservación, investigación y consulta histórica.

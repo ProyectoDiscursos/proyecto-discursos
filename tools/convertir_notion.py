@@ -285,7 +285,7 @@ def convertir_fila(fila, ids_con_transcripcion):
         "localidad": limpiar(fila.get("Localidad")),
         "lugaresEspecificos": obtener_colecciones(
             fila.get("Lugar específico")
-        ),
+    ),
         "colecciones": obtener_colecciones(fila.get("Colecciones")),
         "estadoVideo": limpiar(fila.get("Estado audiovisual")),
         "video": obtener_video(fila),
