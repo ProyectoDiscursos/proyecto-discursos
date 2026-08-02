@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Estadísticas | Proyecto Discursos</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap"
+        rel="stylesheet"
+    >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link
+    href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700;800&display=swap"
+    rel="stylesheet"
+>
+
+    <link rel="stylesheet" href="css/styles.css">
+
+</head>
+
+<body class="modo-codigo">
+
+    <header class="navbar" id="top">
+
+        <a class="logo" href="index.html">
+            Proyecto Discursos
+        </a>
+
+        <nav>
+            <a href="index.html">Inicio</a>
+            <a href="explorar.html">Explorar</a>
+            <a href="colecciones.html">Colecciones</a>
+            <a href="estadisticas.html">Estadísticas</a>
+        </nav>
+
+    </header>
+
+    <main class="pagina-estadisticas">
+
+        <section class="estadisticas-encabezado">
+
+            <p class="detalle-sobrelinea">
+                El archivo en números
+            </p>
+
+            <h1>Estadísticas</h1>
+
+            <p>
+                Una mirada general sobre los discursos,
+                la cobertura audiovisual, las transcripciones
+                y los lugares registrados en el archivo.
+            </p>
+
+        </section>
+
+        <section
+            id="resumen-estadisticas"
+            class="resumen-estadisticas"
+        >
+            <p>Cargando estadísticas...</p>
+        </section>
+
+        <section class="estadisticas-seccion">
+
+            <div class="estadisticas-titulo">
+
+                <div>
+                    <p class="detalle-sobrelinea">
+                        Evolución temporal
+                    </p>
+
+                    <h2>Discursos por año</h2>
+                </div>
+
+            </div>
+
+            <div
+                id="estadisticas-anios"
+                class="estadisticas-barras"
+            ></div>
+
+        </section>
+
+        <section class="estadisticas-dos-columnas">
+
+            <div class="estadisticas-seccion">
+
+                <div class="estadisticas-titulo">
+
+                    <div>
+                        <p class="detalle-sobrelinea">
+                            Alcance internacional
+                        </p>
+
+                        <h2>Países</h2>
+                    </div>
+
+                </div>
+
+                <div
+                    id="estadisticas-paises"
+                    class="estadisticas-lista"
+                ></div>
+
+            </div>
+
+            <div class="estadisticas-seccion">
+
+                <div class="estadisticas-titulo">
+
+                    <div>
+                        <p class="detalle-sobrelinea">
+                            Territorio argentino
+                        </p>
+
+                        <h2>Provincias</h2>
+                    </div>
+
+                </div>
+
+                <div
+                    id="estadisticas-provincias"
+                    class="estadisticas-lista"
+                ></div>
+
+            </div>
+
+        </section>
+
+        <section class="estadisticas-dos-columnas">
+
+            <div class="estadisticas-seccion">
+
+                <div class="estadisticas-titulo">
+
+                    <div>
+                        <p class="detalle-sobrelinea">
+                            Ciudades
+                        </p>
+
+                        <h2>Principales localidades</h2>
+                    </div>
+
+                </div>
+
+                <div
+                    id="estadisticas-localidades"
+                    class="estadisticas-lista"
+                ></div>
+
+            </div>
+
+            <div class="estadisticas-seccion">
+
+                <div class="estadisticas-titulo">
+
+                    <div>
+                        <p class="detalle-sobrelinea">
+                            Archivo temático
+                        </p>
+
+                        <h2>Principales colecciones</h2>
+                    </div>
+
+                </div>
+
+                <div
+                    id="estadisticas-colecciones"
+                    class="estadisticas-lista"
+                ></div>
+
+            </div>
+
+        </section>
+
+    </main>
+
+    <script src="js/estadisticas.js"></script>
+
+</body>
+
+</html>

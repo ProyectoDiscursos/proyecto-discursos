@@ -632,6 +632,9 @@ function aplicarFiltrosDesdeURL() {
             window.location.search
         );
 
+    const anio =
+        parametros.get("anio") || "";
+
     const pais =
         parametros.get("pais") || "";
 
@@ -645,6 +648,10 @@ function aplicarFiltrosDesdeURL() {
         parametros.get(
             "lugarEspecifico"
         ) || "";
+
+    if (anio) {
+    filtroAnio.value = anio;
+    }
 
     if (pais) {
         filtroPais.value = pais;
