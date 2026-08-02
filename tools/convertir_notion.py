@@ -29,6 +29,58 @@ def limpiar(valor):
     return str(valor).strip()
 
 
+def limpiar_transcripcion(texto):
+    """
+    Aplica una limpieza editorial a las transcripciones
+    sin modificar los archivos Markdown originales.
+    """
+    if not texto:
+        return ""
+
+    # Eliminar menciones de aplausos
+    texto = re.sub(
+        r"(?i)\(\s*\.{0,3}\s*aplausos\s*[.!…]*\s*\.{0,3}\s*\)",
+        "",
+        texto,
+    )
+
+    # Eliminar espacios dobles
+    texto = re.sub(
+        r"[ \t]{2,}",
+        " ",
+        texto,
+    )
+
+    # Eliminar espacios antes de signos de puntuación
+    texto = re.sub(
+        r"\s+([,.;:!?])",
+        r"\1",
+        texto,
+    )
+
+    # Reemplazar cuatro o más puntos por tres
+    texto = re.sub(
+        r"(?:\.{4,}|…{2,})",
+        "...",
+        texto,
+    )
+
+    # Reemplazar enlaces Markdown por su texto
+    texto = re.sub(
+        r"\[([^\]]+)\]\([^)]+\)",
+        r"\1",
+        texto,
+    )
+
+    # Normalizar saltos de línea
+    texto = re.sub(
+        r"\n{3,}",
+        "\n\n",
+        texto,
+    )
+
+    return texto.strip()
+
 def convertir_fecha(fecha_original):
     """
     Convierte una fecha como 10/12/2007 al formato 2007-12-10.
@@ -180,7 +232,13 @@ def extraer_transcripcion(contenido):
 
         indice += 1
 
-    transcripcion = "\n".join(lineas[indice:]).strip()
+    transcripcion = "\n".join(
+        lineas[indice:]
+    ).strip()
+
+    transcripcion = limpiar_transcripcion(
+        transcripcion
+    )
 
     transcripcion = re.sub(
         r"\n{3,}",

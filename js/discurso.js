@@ -206,6 +206,12 @@ const etiquetasLugaresEspecificos =
             </button>
         `;
 
+    const enlaceCorreccion =
+    `https://docs.google.com/forms/d/e/1FAIpQLSf4N3ip6Smv9yc2DojTPHfXPo1LmqAOj38IYaWADYH2rWdViQ/viewform` +
+    `?usp=pp_url` +
+    `&entry.1351075497=${encodeURIComponent(discurso.id)}` +
+    `&entry.2024853784=${encodeURIComponent(discurso.titulo)}`;
+
     contenedorFicha.innerHTML = `
         <article class="detalle-pagina">
 
@@ -331,7 +337,7 @@ ${
     discurso.provincia
         ? `
             <div>
-                <dt>Provincia / Estado</dt>
+                <dt>Provincia</dt>
                 <dd>
                     ${escaparHTML(discurso.provincia)}
                 </dd>
@@ -461,9 +467,45 @@ ${
 
 </section>
 
-        </article>
-    `;
+<section class="detalle-colaboracion">
 
+    <div class="detalle-contenedor">
+
+        <p class="detalle-sobrelinea">
+            Archivo colaborativo
+        </p>
+
+        <h2>¿Encontraste un error?</h2>
+
+        <p>
+            Proyecto Discursos es un archivo en permanente
+            construcción. Si detectaste un dato incorrecto,
+            una transcripción incompleta, un video cortado
+            o tenés información que pueda mejorar este registro,
+            tu aporte es bienvenido.
+        </p>
+
+        <p>
+            Las colaboraciones incorporadas al archivo serán
+            reconocidas, salvo que el colaborador prefiera
+            permanecer en el anonimato.
+        </p>
+
+        <a
+            class="boton-secundario"
+            href="${enlaceCorreccion}"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            Enviar una corrección
+        </a>
+
+    </div>
+
+</section>
+
+</article>
+`;
     configurarImagenAlternativa(imagen);
 actualizarTituloPagina(discurso.titulo);
 configurarBotonTranscripcion();
@@ -506,7 +548,7 @@ function configurarImagenAlternativa(imagenOriginal) {
     imagenPrueba.addEventListener("error", () => {
         fondo.style.setProperty(
             "--imagen-fondo",
-            "url('../images/miniaturas/sin-miniatura.jpg')"
+            "url('images/miniaturas/sin-miniatura.jpg')"
         );
     });
 }
@@ -587,7 +629,7 @@ function guardarUltimoDiscurso(discurso) {
             id: discurso.id,
             titulo: discurso.titulo,
             fecha: discurso.fecha,
-            lugar: discurso.lugar,
+            localidad: discurso.localidad,
             miniatura: obtenerImagen(discurso)
         };
 

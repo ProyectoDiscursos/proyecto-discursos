@@ -12,7 +12,7 @@ Esto no es tampoco casualidad, obedece a muchas causas: la primera y fundamental
 
 Paralelamente a ello, venimos desarrollando una tarea desde el Estado de promoción del software muy importante. Ahora también hemos enviado una modificación, porque vamos aprendiendo sobre la marcha, mejorando e incorporando nuevas cosas, que es muy importante.
 
-El programa que yo lancé hace muy poco tiempo, que es el programa "Conectar [igualdad.com.ar](http://igualdad.com.ar/)" que va a permitir que en un lapso de aquí al año 2012 que la totalidad de los alumnos secundarios de las escuelas públicas de nuestro país, cuenten con su computadora personal como así también los docentes que la conforman.
+El programa que yo lancé hace muy poco tiempo, que es el programa "Conectar igualdad.com.ar" que va a permitir que en un lapso de aquí al año 2012 que la totalidad de los alumnos secundarios de las escuelas públicas de nuestro país, cuenten con su computadora personal como así también los docentes que la conforman.
 
 Recién cuando pasábamos por la parte de IBM donde habían desarrollado su trabajo para capacitar a los chiquitos en el Jardín de Infantes, una de las docentes que interviene en el proyecto decía que ellas también tuvieron que tener su capacitación, porque estamos, como yo digo, en un momento de frontera del conocimiento, o sea, tenemos una formación docente y un sistema educativo que fue basado en lo que eran los libros de textos en donde nos educamos la mayoría de nosotros o, por lo menos, los que tenemos la edad mía y de 40 para arriba. Y están las generaciones que vienen que ya se conectan fundamentalmente con la red y que, por lo tanto, tienen otra manera de incorporar conocimientos.
 
@@ -38,7 +38,7 @@ Hay sectores empresariales en la Argentina que tienen que romper esa lógica de 
 
 El verdaderamente emprendedor, el verdaderamente innovador, siempre crea la necesidad, o sea, crea la oferta para que luego venga la demanda. Este es el verdadero innovador, esto es lo que hizo Henry Ford en el capitalismo americano cuando inventó el auto y creó la necesidad de que todos tuvieran auto. No esperó a que alguien se le ocurriera demandar trasladarnos en forma más rápida, más confortable o mejor. Esta es la verdadera esencia y además, es la que determina el mayor grado de rentabilidad.
 
-No es una cuestión únicamente de buenas ideas, sino que cuando uno con la oferta crea la demanda, tiene mucha mayor rentabilidad. Y si no, miren dónde están hoy las grandes rentabilidades en el mundo en materia de informática y en materia de telecomunicaciones, donde están permanentemente creando mejoras y mejorando mucho más los servicios y creando siempre cosas nuevas para que la gente deje de lado ese teléfono que resultó viejo, ese I-POT que ya no sirve más -bueno no importa que sea de la otra marca- porque salió una nueva. (APLAUSOS) Son ejemplos que yo quiero dar para que veamos cómo tiene que funcionar un país y la cabeza de aquellos que tienen la suerte, la inmensa suerte pero también la inmensa responsabilidad de ser empresarios, de contar con capital y decidir inversiones.
+No es una cuestión únicamente de buenas ideas, sino que cuando uno con la oferta crea la demanda, tiene mucha mayor rentabilidad. Y si no, miren dónde están hoy las grandes rentabilidades en el mundo en materia de informática y en materia de telecomunicaciones, donde están permanentemente creando mejoras y mejorando mucho más los servicios y creando siempre cosas nuevas para que la gente deje de lado ese teléfono que resultó viejo, ese I-POT que ya no sirve más -bueno no importa que sea de la otra marca- porque salió una nueva. Son ejemplos que yo quiero dar para que veamos cómo tiene que funcionar un país y la cabeza de aquellos que tienen la suerte, la inmensa suerte pero también la inmensa responsabilidad de ser empresarios, de contar con capital y decidir inversiones.
 
 Yo creo que este es el criterio de la innovación y de los verdaderos emprendedores y de los que cambiaron y revolucionaron en serio el mundo porque crearon una necesidad donde no la había y en base a eso produjeron, generaron puestos de trabajo y, obviamente, generaron riqueza y rentabilidad para ellos.
 
@@ -68,4 +68,4 @@ Toda vez que se ha querido excluir o por inmigración o por religión o por lo q
 
 Aprendamos de lo que pasó en estos 200 años y no nos demos el lujo de equivocarnos una vez más. Apostemos a la Argentina como hizo IBM y todos vamos a salir ganando.
 
-Muchas gracias y muy buenos días a todos y a todas. (APLAUSOS)
+Muchas gracias y muy buenos días a todos y a todas.
