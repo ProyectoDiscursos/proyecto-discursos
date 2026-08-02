@@ -71,42 +71,92 @@ function mostrarDiscurso(discurso) {
         `
         : "";
 
-    const pais = discurso.pais
+const pais = discurso.pais
     ? `
-        <span class="detalle-dato">
+        <a
+            class="detalle-dato detalle-dato-enlace"
+            href="explorar.html?pais=${
+                encodeURIComponent(discurso.pais)
+            }"
+        >
             <span class="detalle-icono">🌎</span>
             ${escaparHTML(discurso.pais)}
-        </span>
+        </a>
     `
     : "";
 
 const provincia = discurso.provincia
     ? `
-        <span class="detalle-dato">
+        <a
+            class="detalle-dato detalle-dato-enlace"
+            href="explorar.html?pais=${
+                encodeURIComponent(discurso.pais || "")
+            }&provincia=${
+                encodeURIComponent(discurso.provincia)
+            }"
+        >
             <span class="detalle-icono">🏛️</span>
             ${escaparHTML(discurso.provincia)}
-        </span>
+        </a>
     `
     : "";
 
 const localidad = discurso.localidad
     ? `
-        <span class="detalle-dato">
+        <a
+            class="detalle-dato detalle-dato-enlace"
+            href="explorar.html?pais=${
+                encodeURIComponent(discurso.pais || "")
+            }&provincia=${
+                encodeURIComponent(discurso.provincia || "")
+            }&localidad=${
+                encodeURIComponent(discurso.localidad)
+            }"
+        >
             <span class="detalle-icono">📍</span>
             ${escaparHTML(discurso.localidad)}
-        </span>
+        </a>
     `
     : "";
 
-const etiquetasLugaresEspecificos = lugaresEspecificos
-    .map(lugarEspecifico => {
-        return `
-            <span class="detalle-chip detalle-chip-lugar">
-                🏢 ${escaparHTML(lugarEspecifico)}
-            </span>
-        `;
-    })
-    .join("");
+const etiquetasLugaresEspecificos =
+    lugaresEspecificos
+        .map(lugarEspecifico => {
+            const enlaceLugar =
+                `explorar.html?pais=${
+                    encodeURIComponent(
+                        discurso.pais || ""
+                    )
+                }&provincia=${
+                    encodeURIComponent(
+                        discurso.provincia || ""
+                    )
+                }&localidad=${
+                    encodeURIComponent(
+                        discurso.localidad || ""
+                    )
+                }&lugarEspecifico=${
+                    encodeURIComponent(
+                        lugarEspecifico
+                    )
+                }`;
+
+            return `
+                <a
+                    class="
+                        detalle-chip
+                        detalle-chip-lugar
+                        detalle-chip-enlace
+                    "
+                    href="${enlaceLugar}"
+                >
+                    🏢 ${escaparHTML(
+                        lugarEspecifico
+                    )}
+                </a>
+            `;
+        })
+        .join("");
 
         const estado = discurso.estadoVideo
         ? `
