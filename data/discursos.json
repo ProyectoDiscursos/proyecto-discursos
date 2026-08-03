@@ -19511,25 +19511,6 @@
     "tieneTranscripcion": true
   },
   {
-    "id": "CFK-20100610-02",
-    "titulo": "Conferencia de Prensa",
-    "fecha": "2010-10-06",
-    "anio": 2010,
-    "pais": "Alemania",
-    "provincia": "",
-    "localidad": "Berlín",
-    "lugaresEspecificos": [],
-    "colecciones": [
-      "Conferencias de prensa y entrevistas"
-    ],
-    "estadoVideo": "🎥 Video disponible",
-    "video": "\"D:\\Nueva carpeta\\OneDrive\\2010\\CFK-20100610-02.mp4\"",
-    "miniatura": "",
-    "slogan": "",
-    "descripcion": "",
-    "tieneTranscripcion": true
-  },
-  {
     "id": "CFK-20101006-01",
     "titulo": "Encuentro con integrantes de la comunidad científica argentina residentes en Alemania",
     "fecha": "2010-10-06",
@@ -19547,6 +19528,25 @@
     "slogan": "",
     "descripcion": "",
     "tieneTranscripcion": true
+  },
+  {
+    "id": "CFK-20101006-02",
+    "titulo": "Conferencia de Prensa",
+    "fecha": "2010-10-06",
+    "anio": 2010,
+    "pais": "Alemania",
+    "provincia": "",
+    "localidad": "Berlín",
+    "lugaresEspecificos": [],
+    "colecciones": [
+      "Conferencias de prensa y entrevistas"
+    ],
+    "estadoVideo": "🎥 Video disponible",
+    "video": "\"D:\\Nueva carpeta\\OneDrive\\2010\\CFK-20101006-02.mp4\"",
+    "miniatura": "",
+    "slogan": "",
+    "descripcion": "",
+    "tieneTranscripcion": false
   },
   {
     "id": "CFK-20100710-01",

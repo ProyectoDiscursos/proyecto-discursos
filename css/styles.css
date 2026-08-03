@@ -1870,3 +1870,115 @@ html {
         display: none;
     }
 }
+/* ========================================
+   CONTADOR — CRISTINA
+======================================== */
+
+.contador-cristina {
+    position: relative;
+    padding: 34px 40px 48px;
+    overflow: hidden;
+    background: #0b0f14;
+}
+
+.contador-cristina::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+
+    background:
+        radial-gradient(
+            circle at 50% 0%,
+            rgba(110, 198, 255, 0.16),
+            transparent 55%
+        );
+}
+
+.contador-cristina-contenido {
+    position: relative;
+    width: min(100%, 1100px);
+    margin: 0 auto;
+    padding: 44px 30px;
+
+    border:
+        1px solid rgba(110, 198, 255, 0.28);
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(20, 39, 61, 0.92),
+            rgba(8, 13, 20, 0.98)
+        );
+
+    box-shadow:
+        0 24px 70px rgba(0, 0, 0, 0.28),
+        inset 0 1px 0 rgba(255, 255, 255, 0.05);
+
+    text-align: center;
+}
+
+.contador-cristina-fecha {
+    margin: 0 0 20px;
+
+    color: #6ec6ff;
+    font-size: 13px;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+#contador-cristina-titulo {
+    margin: 0;
+
+    color: rgba(255, 255, 255, 0.74);
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.contador-cristina-numero {
+    display: block;
+    margin: 12px 0 8px;
+
+    color: #ffffff;
+    font-size: clamp(72px, 12vw, 150px);
+    font-weight: 800;
+    line-height: 0.95;
+    letter-spacing: -0.075em;
+
+    text-shadow:
+        0 0 45px rgba(110, 198, 255, 0.2);
+}
+
+.contador-cristina-texto {
+    margin: 0;
+
+    color: rgba(255, 255, 255, 0.88);
+    font-size: clamp(18px, 2.2vw, 27px);
+    font-weight: 700;
+    line-height: 1.35;
+}
+
+@media (max-width: 700px) {
+    .contador-cristina {
+        padding:
+            24px 18px 38px;
+    }
+
+    .contador-cristina-contenido {
+        padding:
+            36px 20px;
+        border-radius: 14px;
+    }
+
+    .contador-cristina-numero {
+        margin-top: 14px;
+    }
+
+    .contador-cristina-texto {
+        max-width: 290px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+}

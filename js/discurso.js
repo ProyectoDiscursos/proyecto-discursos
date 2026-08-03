@@ -506,11 +506,11 @@ ${
 
 </article>
 `;
-    configurarImagenAlternativa(imagen);
-actualizarTituloPagina(discurso.titulo);
-configurarBotonTranscripcion();
-}
 
+    configurarImagenAlternativa(imagen);
+    actualizarTituloPagina(discurso.titulo);
+    configurarBotonTranscripcion();
+}
 
 function obtenerImagen(discurso) {
     if (discurso.miniatura) {
@@ -535,7 +535,8 @@ function obtenerColecciones(colecciones) {
 
 
 function configurarImagenAlternativa(imagenOriginal) {
-    const fondo = document.querySelector(".detalle-hero");
+    const fondo =
+        document.querySelector(".detalle-fondo");
 
     if (!fondo) {
         return;
@@ -543,16 +544,18 @@ function configurarImagenAlternativa(imagenOriginal) {
 
     const imagenPrueba = new Image();
 
-    imagenPrueba.src = imagenOriginal;
+    imagenPrueba.addEventListener("load", () => {
+        fondo.style.backgroundImage =
+            `url("${imagenOriginal}")`;
+    });
 
     imagenPrueba.addEventListener("error", () => {
-        fondo.style.setProperty(
-            "--imagen-fondo",
-            "url('images/miniaturas/sin-miniatura.jpg')"
-        );
+        fondo.style.backgroundImage =
+            'url("images/miniaturas/sin-miniatura.jpg")';
     });
-}
 
+    imagenPrueba.src = imagenOriginal;
+}
 
 function actualizarTituloPagina(titulo) {
     document.title = `${titulo} | Proyecto Discursos`;

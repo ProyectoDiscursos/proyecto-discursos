@@ -498,3 +498,45 @@ function escaparHTML(texto) {
         .replaceAll('"', "&quot;")
         .replaceAll("'", "&#039;");
 }
+function actualizarContadorCristina() {
+    const elementoContador =
+        document.getElementById(
+            "contador-dias-cristina"
+        );
+
+    if (!elementoContador) {
+        return;
+    }
+
+    const inicio = Date.UTC(
+        2025,
+        5,
+        17
+    );
+
+    const hoy = new Date();
+
+    const fechaActual = Date.UTC(
+        hoy.getFullYear(),
+        hoy.getMonth(),
+        hoy.getDate()
+    );
+
+    const milisegundosPorDia =
+        1000 * 60 * 60 * 24;
+
+    const diasTranscurridos = Math.max(
+        0,
+        Math.floor(
+            (fechaActual - inicio) /
+            milisegundosPorDia
+        )
+    );
+
+    elementoContador.textContent =
+        diasTranscurridos.toLocaleString(
+            "es-AR"
+        );
+}
+
+actualizarContadorCristina();
