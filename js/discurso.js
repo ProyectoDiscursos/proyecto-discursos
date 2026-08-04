@@ -185,26 +185,47 @@ const etiquetasLugaresEspecificos =
     .join("");
 
     const botonVideo = discurso.video
-        ? `
-            <a
-                class="boton-reproducir"
-                href="${escaparAtributo(discurso.video)}"
-                target="_blank"
-                rel="noopener noreferrer"
-            >
-                <span class="icono-reproducir">▶</span>
-                Reproducir discurso
-            </a>
-        `
-        : `
-            <button
-                class="boton-reproducir boton-deshabilitado"
-                type="button"
-                disabled
-            >
-                Video no disponible
-            </button>
-        `;
+    ? `
+        <a
+            class="boton-reproducir"
+            href="#video"
+        >
+            <span class="icono-reproducir">▶</span>
+            Reproducir discurso
+        </a>
+    `
+    : "";
+
+    const seccionVideo = discurso.video
+    ? `
+        <section
+            id="video"
+            class="detalle-video"
+        >
+            <div class="detalle-video-contenedor">
+
+                <p class="detalle-sobrelinea">
+                    Archivo audiovisual
+                </p>
+
+                <h2>Video</h2>
+
+                <div class="reproductor-archive">
+                    <iframe
+                        src="https://archive.org/embed/${
+                            discurso.id.toLowerCase()
+                        }"
+                        title="Video del discurso"
+                        loading="lazy"
+                        allow="fullscreen"
+                        allowfullscreen
+                    ></iframe>
+                </div>
+
+            </div>
+        </section>
+    `
+    : "";
 
     const enlaceCorreccion =
     `https://docs.google.com/forms/d/e/1FAIpQLSf4N3ip6Smv9yc2DojTPHfXPo1LmqAOj38IYaWADYH2rWdViQ/viewform` +
@@ -419,6 +440,7 @@ ${
 
             </section>
 
+            ${seccionVideo}
 
             <section
     id="transcripcion"

@@ -1,5 +1,6 @@
 import argparse
 import json
+import re
 import subprocess
 import sys
 import time
@@ -118,6 +119,7 @@ def buscar_videos():
 
     videos = {}
     duplicados = {}
+    ignorados = []
 
     for ruta in CARPETA_VIDEOS.rglob("*"):
         if not ruta.is_file():
@@ -128,7 +130,11 @@ def buscar_videos():
 
         id_video = ruta.stem.strip().upper()
 
-        if not id_video.startswith("CFK-"):
+        if not re.fullmatch(
+            r"CFK-\d{8}-\d{2}",
+            id_video,
+        ):
+            ignorados.append(ruta)
             continue
 
         if id_video in videos:
@@ -141,7 +147,7 @@ def buscar_videos():
 
         videos[id_video] = ruta
 
-    return videos, duplicados
+    return videos, duplicados, ignorados
 
 
 # ==========================================================
@@ -710,7 +716,7 @@ def main():
     try:
         discursos = cargar_discursos()
 
-        videos, duplicados = buscar_videos()
+        videos, duplicados, ignorados = buscar_videos()
 
     except (
         FileNotFoundError,
@@ -726,6 +732,13 @@ def main():
     print(f"Discursos en JSON: {len(discursos)}")
     print(f"Videos encontrados: {len(videos)}")
     print(f"IDs de video duplicados: {len(duplicados)}")
+    print(f"Videos ignorados: {len(ignorados)}")
+
+    if ignorados:
+        print("\nVideos ignorados por nombre no válido:")
+
+    for ruta in ignorados:
+        print(f" - {ruta.name}")
 
     if argumentos.upload:
         print("MODO: SUBIDA REAL")
