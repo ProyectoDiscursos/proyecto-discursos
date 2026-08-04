@@ -1,0 +1,12 @@
+# Caché de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales
+*.log
+
+# Registros locales de Internet Archive
+data/archive_subidas.jsonl
+
+# Backups
+backup/
