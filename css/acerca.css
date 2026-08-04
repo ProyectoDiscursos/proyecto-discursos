@@ -1,0 +1,449 @@
+/* ========================================
+   PÁGINA ACERCA DEL PROYECTO
+======================================== */
+
+.pagina-acerca {
+    background: #080b10;
+    color: #ffffff;
+}
+
+.acerca-contenedor {
+    width: min(100% - 48px, 1180px);
+    margin: 0 auto;
+}
+
+.acerca-contenedor-angosto {
+    width: min(100% - 48px, 820px);
+}
+
+
+/* ========================================
+   HERO
+======================================== */
+
+.acerca-hero {
+    position: relative;
+    min-height: 60vh;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 140px 24px 90px;
+    background: #080b10;
+}
+
+.acerca-hero-imagen {
+    position: absolute;
+    inset: 0;
+    background-image:
+        url("../images/acerca/cristina-osvaldo-bayer.jpg");
+    background-position: 78% center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 0.82;
+    transform: scale(1.02);
+}
+
+.acerca-hero-degradado {
+    position: absolute;
+    inset: 0;
+    background:
+        linear-gradient(
+            90deg,
+            rgba(5, 8, 13, 0.98) 0%,
+            rgba(5, 8, 13, 0.92) 34%,
+            rgba(5, 8, 13, 0.68) 56%,
+            rgba(5, 8, 13, 0.24) 78%,
+            rgba(5, 8, 13, 0.08) 100%
+        ),
+        linear-gradient(
+            180deg,
+            rgba(5, 8, 13, 0.2) 0%,
+            rgba(5, 8, 13, 0.06) 60%,
+            #080b10 100%
+        );
+}
+
+.acerca-hero-contenido {
+    position: relative;
+    z-index: 2;
+    width: min(100%, 1080px);
+    margin: 0 auto;
+}
+
+.acerca-hero-fondo {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.55;
+    background:
+        linear-gradient(
+            90deg,
+            rgba(255, 255, 255, 0.025) 1px,
+            transparent 1px
+        ),
+        linear-gradient(
+            rgba(255, 255, 255, 0.025) 1px,
+            transparent 1px
+        );
+    background-size: 70px 70px;
+    mask-image:
+        linear-gradient(
+            to bottom,
+            black,
+            transparent 90%
+        );
+}
+
+.acerca-hero-contenido {
+    position: relative;
+    width: min(100%, 1080px);
+    margin: 0 auto;
+}
+
+.acerca-sobrelinea {
+    margin: 0 0 18px;
+    color: #70c7ff;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+.acerca-cita-principal {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.acerca-cita-principal > p {
+    max-width: 720px;
+    margin: 0;
+    color: #ffffff;
+    font-size: clamp(21px, 2.25vw, 34px);
+    font-weight: 650;
+    line-height: 1.4;
+    letter-spacing: -0.02em;
+    text-shadow:
+        0 2px 18px rgba(0, 0, 0, 0.55);
+}
+
+.acerca-cita-principal footer {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    margin-top: 40px;
+    color: rgba(255, 255, 255, 0.66);
+    font-size: 15px;
+    line-height: 1.5;
+}
+
+.acerca-cita-principal footer strong {
+    color: #ffffff;
+    font-size: 18px;
+}
+
+
+/* ========================================
+   INTRODUCCIÓN
+======================================== */
+
+.acerca-introduccion {
+    padding: 110px 0;
+}
+
+.acerca-introduccion h1 {
+    max-width: 850px;
+    margin: 0 0 32px;
+    font-size: clamp(38px, 6vw, 72px);
+    line-height: 1.02;
+    letter-spacing: -0.055em;
+}
+
+.acerca-bajada {
+    margin-bottom: 32px;
+    color: #ffffff;
+    font-size: clamp(21px, 2.5vw, 29px);
+    font-weight: 600;
+    line-height: 1.45;
+}
+
+.acerca-introduccion p,
+.acerca-seccion p,
+.acerca-cierre p {
+    color: rgba(255, 255, 255, 0.76);
+    font-size: 18px;
+    line-height: 1.85;
+}
+
+
+/* ========================================
+   SECCIONES
+======================================== */
+
+.acerca-seccion {
+    padding: 100px 0;
+}
+
+.acerca-seccion-destacada {
+    border-top:
+        1px solid rgba(255, 255, 255, 0.07);
+    border-bottom:
+        1px solid rgba(255, 255, 255, 0.07);
+    background:
+        linear-gradient(
+            145deg,
+            rgba(15, 27, 43, 0.82),
+            rgba(8, 12, 18, 0.98)
+        );
+}
+
+.acerca-seccion h2,
+.acerca-cierre h2 {
+    margin: 0 0 30px;
+    color: #ffffff;
+    font-size: clamp(34px, 5vw, 58px);
+    line-height: 1.08;
+    letter-spacing: -0.045em;
+}
+
+.acerca-dos-columnas {
+    display: grid;
+    grid-template-columns:
+        minmax(0, 1fr)
+        minmax(320px, 0.85fr);
+    gap: 70px;
+    align-items: center;
+    margin-bottom: 70px;
+}
+
+.acerca-cita-secundaria {
+    margin: 0;
+    padding: 46px;
+    border:
+        1px solid rgba(112, 199, 255, 0.25);
+    border-radius: 20px;
+    background:
+        rgba(112, 199, 255, 0.075);
+    box-shadow:
+        0 28px 80px rgba(0, 0, 0, 0.24);
+}
+
+.acerca-cita-secundaria p {
+    margin: 0;
+    color: #ffffff;
+    font-size: clamp(30px, 4vw, 48px);
+    font-weight: 750;
+    line-height: 1.14;
+    letter-spacing: -0.04em;
+}
+
+.acerca-cita-secundaria footer {
+    margin-top: 24px;
+    color: #70c7ff;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.acerca-frase-destacada {
+    margin: 42px 0;
+    padding-left: 28px;
+    border-left: 4px solid #70c7ff;
+    color: #ffffff !important;
+    font-size: clamp(24px, 3vw, 34px) !important;
+    font-weight: 700;
+    line-height: 1.4 !important;
+}
+
+.acerca-intro-seccion {
+    max-width: 740px;
+    margin-bottom: 45px;
+}
+
+
+/* ========================================
+   TARJETAS
+======================================== */
+
+.acerca-tarjetas {
+    display: grid;
+    grid-template-columns:
+        repeat(3, minmax(0, 1fr));
+    gap: 22px;
+}
+
+.acerca-tarjeta {
+    padding: 32px;
+    border:
+        1px solid rgba(255, 255, 255, 0.09);
+    border-radius: 18px;
+    background:
+        rgba(255, 255, 255, 0.035);
+    transition:
+        transform 180ms ease,
+        border-color 180ms ease,
+        background 180ms ease;
+}
+
+.acerca-tarjeta:hover {
+    transform: translateY(-4px);
+    border-color:
+        rgba(112, 199, 255, 0.35);
+    background:
+        rgba(112, 199, 255, 0.07);
+}
+
+.acerca-tarjeta-icono {
+    display: block;
+    margin-bottom: 22px;
+    font-size: 31px;
+}
+
+.acerca-tarjeta h3 {
+    margin: 0 0 14px;
+    font-size: 21px;
+}
+
+.acerca-tarjeta p {
+    margin: 0;
+    font-size: 15px;
+    line-height: 1.7;
+}
+
+
+/* ========================================
+   CIERRE
+======================================== */
+
+.acerca-cierre {
+    padding: 120px 0;
+    text-align: center;
+    background:
+        radial-gradient(
+            circle at 50% 100%,
+            rgba(78, 177, 255, 0.18),
+            transparent 55%
+        );
+}
+
+.acerca-cierre p {
+    max-width: 760px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.acerca-acciones {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 14px;
+    margin-top: 38px;
+}
+
+
+/* ========================================
+   FOOTER
+======================================== */
+
+.acerca-footer {
+    padding: 55px 24px;
+    border-top:
+        1px solid rgba(255, 255, 255, 0.08);
+    text-align: center;
+    background: #05070a;
+}
+
+.acerca-footer strong {
+    font-size: 19px;
+}
+
+.acerca-footer p {
+    margin: 9px 0 0;
+    color: rgba(255, 255, 255, 0.62);
+    font-size: 14px;
+}
+
+.acerca-footer-frase {
+    margin-top: 24px !important;
+    color: rgba(255, 255, 255, 0.82) !important;
+    font-style: italic;
+}
+
+
+/* ========================================
+   RESPONSIVE
+======================================== */
+
+@media (max-width: 900px) {
+    .acerca-dos-columnas {
+        grid-template-columns: 1fr;
+        gap: 42px;
+    }
+
+    .acerca-tarjetas {
+        grid-template-columns:
+            repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width: 650px) {
+    .acerca-contenedor,
+    .acerca-contenedor-angosto {
+        width: min(100% - 36px, 1180px);
+    }
+
+    .acerca-hero {
+        min-height: auto;
+        padding:
+            130px 18px 75px;
+    }
+
+    .acerca-hero-imagen {
+    background-position: 68% center;
+    opacity: 0.55;
+}
+
+.acerca-hero-degradado {
+    background:
+        linear-gradient(
+            180deg,
+            rgba(5, 8, 13, 0.68) 0%,
+            rgba(5, 8, 13, 0.88) 58%,
+            #080b10 100%
+        );
+}
+
+    .acerca-cita-principal > p {
+        max-width: 100%;
+     font-size: 20px;
+     line-height: 1.5;
+}
+    .acerca-cita-principal > p {
+        font-size: 20px;
+        line-height: 1.5;
+    }
+
+    .acerca-introduccion,
+    .acerca-seccion,
+    .acerca-cierre {
+        padding: 72px 0;
+    }
+
+    .acerca-introduccion p,
+    .acerca-seccion p,
+    .acerca-cierre p {
+        font-size: 17px;
+        line-height: 1.75;
+    }
+
+    .acerca-cita-secundaria {
+        padding: 30px 24px;
+    }
+
+    .acerca-tarjetas {
+        grid-template-columns: 1fr;
+    }
+
+    .acerca-tarjeta {
+        padding: 27px;
+    }
+}

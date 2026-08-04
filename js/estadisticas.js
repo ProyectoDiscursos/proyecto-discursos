@@ -51,14 +51,20 @@ async function cargarEstadisticas() {
         mostrarResumen(discursos);
         mostrarEstadisticasPorAnio(discursos);
 
+        const paisesInternacionales =
+    contarCampo(discursos, "pais")
+        .filter(
+            pais =>
+                normalizarTexto(
+                    pais.nombre
+                ) !== "argentina"
+        );
+
         mostrarListaEstadistica(
             contenedorPaises,
-            contarCampo(
-                discursos,
-                "pais"
-            ),
-            12,
-            "pais"
+            paisesInternacionales,
+            24,
+          "pais"
         );
 
         mostrarListaEstadistica(
@@ -77,14 +83,19 @@ async function cargarEstadisticas() {
         );
 
         mostrarListaEstadistica(
-            contenedorLocalidades,
-            contarCampo(
-                discursos,
-                "localidad"
-            ),
-            15,
-            "localidad"
-        );
+    contenedorLocalidades,
+    contarCampo(
+        discursos.filter(
+            discurso =>
+                normalizarTexto(
+                    discurso.pais
+                ) === "argentina"
+        ),
+        "localidad"
+    ),
+    15,
+    "localidad"
+);
 
         mostrarListaEstadistica(
             contenedorColecciones,

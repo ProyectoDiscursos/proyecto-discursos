@@ -2,7 +2,7 @@
 
 Lugar: Casa de Gobierno - Salón Mujeres Argentinas
 Fecha: 24/07/2013
-ID: CFK-20130724-01
+ID: CFK-20130723-01
 Estado audiovisual: 🔍 Buscar video
 Verificado: No
 

@@ -22231,12 +22231,14 @@
     "lugaresEspecificos": [
       "Casa de Gobierno - Salón de las Mujeres Argentinas del Bicentenario"
     ],
-    "colecciones": [],
+    "colecciones": [
+      "Discursos destacados"
+    ],
     "estadoVideo": "🎥 Video disponible",
     "video": "\"D:\\Nueva carpeta\\OneDrive\\2010-11\\CFK-20110427-01.mp4\"",
     "miniatura": "",
-    "slogan": "",
-    "descripcion": "",
+    "slogan": "\"La tierra es un recurso estratégico y su dominio debe permanecer en manos de la Nación.”",
+    "descripcion": "En este discurso, Cristina anuncia el envío al Congreso del proyecto de ley para proteger el dominio nacional de las tierras rurales, al considerar a la tierra un recurso estratégico del siglo XXI. A partir de esa iniciativa, realiza un balance del modelo económico iniciado en 2003, destaca el crecimiento del mercado interno, la recuperación del empleo, el aumento de los salarios y la inversión productiva, y convoca a empresarios y trabajadores a consolidar un desarrollo sostenido. En un tramo de fuerte contenido personal y político, recuerda a Néstor Kirchner al cumplirse seis meses de su fallecimiento y reivindica el camino recorrido desde 2003 como un proyecto colectivo que debe profundizarse para seguir ampliando derechos y fortaleciendo el futuro del país.",
     "tieneTranscripcion": true
   },
   {
@@ -29836,9 +29838,9 @@
     "tieneTranscripcion": true
   },
   {
-    "id": "CFK-20130724-01",
+    "id": "CFK-20130723-01",
     "titulo": "Presentación de informe sobre extranjerización de tierras",
-    "fecha": "2013-07-24",
+    "fecha": "2013-07-23",
     "anio": 2013,
     "pais": "Argentina",
     "provincia": "Capital Federal",
@@ -29846,12 +29848,14 @@
     "lugaresEspecificos": [
       "Casa de Gobierno - Salón de las Mujeres Argentinas del Bicentenario"
     ],
-    "colecciones": [],
-    "estadoVideo": "🔍 Buscar video",
+    "colecciones": [
+      "Discursos destacados"
+    ],
+    "estadoVideo": "🎥 Video disponible",
     "video": "",
     "miniatura": "",
-    "slogan": "",
-    "descripcion": "",
+    "slogan": "\"Conocer y proteger la tierra es una forma de defender el patrimonio de todos los argentinos.”",
+    "descripcion": "Cristina presenta el Registro Nacional de Tierras Rurales y anuncia que, por primera vez, la Argentina cuenta con un relevamiento completo sobre la propiedad de sus tierras rurales, destacando que la tenencia extranjera representa el 5,93 % del total y que ninguna provincia supera los límites establecidos por la ley. A partir de ese logro, reivindica el rol del Estado para llevar adelante políticas públicas de largo plazo, defiende la reglamentación de la Ley de Fertilización Asistida, reafirma la política de memoria, verdad y justicia, anuncia la convocatoria al Consejo del Salario y celebra nuevos avances en infraestructura, educación, Aerolíneas Argentinas y desarrollo productivo como parte de un proyecto orientado a fortalecer la soberanía y ampliar derechos.",
     "tieneTranscripcion": true
   },
   {
