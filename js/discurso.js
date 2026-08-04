@@ -3,6 +3,7 @@ let discursoActual = null;
 let transcripcionVisible = false;
 let transcripcionCargada = false;
 let textoTranscripcion = "";
+let videosArchive = new Set();
 
 cargarDiscurso();
 
@@ -26,6 +27,33 @@ async function cargarDiscurso() {
         }
 
         const discursos = await respuesta.json();
+        try {
+
+    const respuestaArchive =
+        await fetch(
+            "data/archive_disponibles.json"
+        );
+
+    if (respuestaArchive.ok) {
+
+        const lista =
+            await respuestaArchive.json();
+
+        videosArchive =
+            new Set(
+                lista.map(
+                    id => String(id).toUpperCase()
+                )
+            );
+    }
+
+} catch (error) {
+
+    console.warn(
+        "No se pudo cargar archive_disponibles.json"
+    );
+
+}
 
         const discurso = discursos.find(
             elemento => String(elemento.id) === String(idDiscurso)
@@ -184,7 +212,13 @@ const etiquetasLugaresEspecificos =
     })
     .join("");
 
-    const botonVideo = discurso.video
+    const tieneVideo =
+    videosArchive.has(
+        String(discurso.id)
+            .toUpperCase()
+    );
+
+    const botonVideo = tieneVideo
     ? `
         <a
             class="boton-reproducir"
@@ -196,7 +230,7 @@ const etiquetasLugaresEspecificos =
     `
     : "";
 
-    const seccionVideo = discurso.video
+    const seccionVideo = tieneVideo
     ? `
         <section
             id="video"
