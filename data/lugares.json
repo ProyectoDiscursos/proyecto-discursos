@@ -1,0 +1,1930 @@
+[
+  {
+    "pais": "Alemania",
+    "provincia": "",
+    "localidad": "Berlín",
+    "lat": 52.5173885,
+    "lng": 13.3951309,
+    "nombreEncontrado": "Berlín, Alemania"
+  },
+  {
+    "pais": "Alemania",
+    "provincia": "",
+    "localidad": "Frankfurt",
+    "lat": 50.1106444,
+    "lng": 8.6820917,
+    "nombreEncontrado": "Fráncfort del Meno, Hesse, Alemania"
+  },
+  {
+    "pais": "Alemania",
+    "provincia": "",
+    "localidad": "Hannover",
+    "lat": 52.3744779,
+    "lng": 9.7385532,
+    "nombreEncontrado": "Hanóver, Región de Hanóver, Baja Sajonia, Alemania"
+  },
+  {
+    "pais": "Angola",
+    "provincia": "",
+    "localidad": "Luanda",
+    "lat": -8.8272699,
+    "lng": 13.2439512,
+    "nombreEncontrado": "Luanda, Municipio de Luanda, Provincia de Luanda, Angola"
+  },
+  {
+    "pais": "Argelia",
+    "provincia": "",
+    "localidad": "Argel",
+    "lat": 36.7729333,
+    "lng": 3.0588445,
+    "nombreEncontrado": "Argel, Daïra Sidi M'Hamed, Argel, 16000, Argelia"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Adolfo Alsina",
+    "lat": -34.8799401,
+    "lng": -58.010536,
+    "nombreEncontrado": "Manuel Bernardo Gonnet, Camino Parque Centenario, Villa Castells, Manuel B. Gonnet, Partido de La Plata, Buenos Aires, B1897, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Almirante Brown",
+    "lat": -34.5796344,
+    "lng": -60.9677445,
+    "nombreEncontrado": "Almirante Brown, Junín, Partido de Junín, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Avellaneda",
+    "lat": -34.6648394,
+    "lng": -58.3628061,
+    "nombreEncontrado": "Avellaneda, Partido de Avellaneda, Buenos Aires, 1870, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Bahía Blanca",
+    "lat": -38.7176522,
+    "lng": -62.2654871,
+    "nombreEncontrado": "Bahía Blanca, Cuartel I, Partido de Bahía Blanca, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Berazategui",
+    "lat": -34.7632677,
+    "lng": -58.2116604,
+    "nombreEncontrado": "Berazategui, Partido de Berazategui, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Berisso",
+    "lat": -34.8688565,
+    "lng": -57.8828667,
+    "nombreEncontrado": "Berisso, Partido de Berisso, Buenos Aires, 1923, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Bragado",
+    "lat": -35.1155766,
+    "lng": -60.489771,
+    "nombreEncontrado": "Bragado, Partido de Bragado, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Campana",
+    "lat": -34.1636631,
+    "lng": -58.9586837,
+    "nombreEncontrado": "Campana, Partido de Campana, Buenos Aires, 2804, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Cañuelas",
+    "lat": -35.0540248,
+    "lng": -58.7617379,
+    "nombreEncontrado": "Cañuelas, Partido de Cañuelas, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Capitán Sarmiento",
+    "lat": -34.171201,
+    "lng": -59.7936199,
+    "nombreEncontrado": "Capitán Sarmiento, Partido de Capitán Sarmiento, Buenos Aires, 2752, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Chacabuco",
+    "lat": -34.6297043,
+    "lng": -60.470185,
+    "nombreEncontrado": "Chacabuco, Acceso a la estación, Chacabuco, Partido de Chacabuco, Buenos Aires, 6740, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Chascomús",
+    "lat": -35.5786869,
+    "lng": -58.0138252,
+    "nombreEncontrado": "Chascomús, Partido de Chascomús, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Chivilcoy",
+    "lat": -34.8969591,
+    "lng": -60.0190499,
+    "nombreEncontrado": "Chivilcoy, Partido de Chivilcoy, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Coronel Suárez",
+    "lat": -37.4585755,
+    "lng": -61.9329038,
+    "nombreEncontrado": "Coronel Suárez, Cuartel I, Partido de Coronel Suárez, Buenos Aires, B7540, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "El Palomar",
+    "lat": -34.6225227,
+    "lng": -58.595568,
+    "nombreEncontrado": "El Palomar, Partido de Morón, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Ensenada",
+    "lat": -34.8574895,
+    "lng": -57.907717,
+    "nombreEncontrado": "Ensenada, Partido de Ensenada, Buenos Aires, B1925, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Escobar",
+    "lat": -34.3453213,
+    "lng": -58.7950701,
+    "nombreEncontrado": "Belén de Escobar, Partido de Escobar, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Esteban Echeverría",
+    "lat": -35.5881344,
+    "lng": -57.9859004,
+    "nombreEncontrado": "Esteban Echeverría, Chascomús, Partido de Chascomús, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Ezeiza",
+    "lat": -34.8168141,
+    "lng": -58.5474234,
+    "nombreEncontrado": "Aeropuerto Internacional Ministro Pistarini, Suipacha, Ezeiza, Partido de Ezeiza, Buenos Aires, 1804, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Florencio Varela",
+    "lat": -34.8044384,
+    "lng": -58.2783224,
+    "nombreEncontrado": "San Juan Bautista, Partido de Florencio Varela, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "General Alvarado",
+    "lat": -34.7911322,
+    "lng": -58.4011887,
+    "nombreEncontrado": "General Alvarado, Turdera, Partido de Lomas de Zamora, Buenos Aires, B1834FYG, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "General Belgrano",
+    "lat": -35.765718,
+    "lng": -58.4972221,
+    "nombreEncontrado": "General Belgrano, Partido de General Belgrano, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "General Rodríguez",
+    "lat": -34.6082302,
+    "lng": -58.9522206,
+    "nombreEncontrado": "General Rodríguez, Partido de General Rodríguez, Buenos Aires, B1748, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Hurlingham",
+    "lat": -34.5933423,
+    "lng": -58.6378405,
+    "nombreEncontrado": "Hurlingham, Partido de Hurlingham, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Ituzaingó",
+    "lat": -34.6583293,
+    "lng": -58.6671441,
+    "nombreEncontrado": "Ituzaingó, Partido de Ituzaingó, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "José C. Paz",
+    "lat": -34.511906,
+    "lng": -58.7776777,
+    "nombreEncontrado": "José C. Paz, Partido de José C. Paz, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "La Matanza",
+    "lat": -34.9133471,
+    "lng": -58.3392229,
+    "nombreEncontrado": "La Matanza, Guernica, Partido de Presidente Perón, Buenos Aires, B1856, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "La Plata",
+    "lat": -34.9206797,
+    "lng": -57.9537638,
+    "nombreEncontrado": "La Plata, Partido de La Plata, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Lanús",
+    "lat": -34.7073871,
+    "lng": -58.3905998,
+    "nombreEncontrado": "Lanús, 29 de Septiembre, Villa General Paz, Lanús Este, Partido de Lanús, Buenos Aires, B1824, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Las Flores",
+    "lat": -36.0142754,
+    "lng": -59.0998685,
+    "nombreEncontrado": "Las Flores, Partido de Las Flores, Buenos Aires, B7200, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Lincoln",
+    "lat": -34.8683517,
+    "lng": -61.5296207,
+    "nombreEncontrado": "Lincoln, Partido de Lincoln, Buenos Aires, B6070, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Lobería",
+    "lat": -38.1634815,
+    "lng": -58.7819479,
+    "nombreEncontrado": "Lobería, Partido de Lobería, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Lomas de Zamora",
+    "lat": -34.7572582,
+    "lng": -58.4026638,
+    "nombreEncontrado": "Lomas de Zamora, Partido de Lomas de Zamora, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Luján",
+    "lat": -34.5661734,
+    "lng": -59.1152598,
+    "nombreEncontrado": "Luján, Partido de Luján, Buenos Aires, 6700, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Magdalena",
+    "lat": -35.0806403,
+    "lng": -57.5177485,
+    "nombreEncontrado": "Magdalena, Partido de Magdalena, Buenos Aires, B1913, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Malvinas Argentinas",
+    "lat": -34.8187342,
+    "lng": -58.4240051,
+    "nombreEncontrado": "Malvinas Argentinas, Partido de Almirante Brown, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Mar Chiquita",
+    "lat": -37.6491532,
+    "lng": -57.3791675,
+    "nombreEncontrado": "Albúfera Mar Chiquita, Balneario Parque Mar Chiquita, Partido de Mar Chiquita, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Mar del Plata",
+    "lat": -37.9976168,
+    "lng": -57.5482079,
+    "nombreEncontrado": "Mar del Plata, Partido de General Pueyrredón, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Marcos Paz",
+    "lat": -34.7865089,
+    "lng": -58.8296815,
+    "nombreEncontrado": "Marcos Paz (Belgrano), Viena, La Trocha, Martín Fierro, Marcos Paz, Partido de Marcos Paz, Buenos Aires, 1727, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Mercedes",
+    "lat": -34.6506717,
+    "lng": -59.4317202,
+    "nombreEncontrado": "Mercedes, Partido de Mercedes, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Merlo",
+    "lat": -34.6604988,
+    "lng": -58.7321695,
+    "nombreEncontrado": "Merlo, Partido de Merlo, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Moreno",
+    "lat": -34.6396556,
+    "lng": -58.7898326,
+    "nombreEncontrado": "Moreno, Partido de Moreno, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Morón",
+    "lat": -34.6510527,
+    "lng": -58.6217416,
+    "nombreEncontrado": "Morón, Partido de Morón, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Necochea",
+    "lat": -38.5545494,
+    "lng": -58.7392624,
+    "nombreEncontrado": "Necochea, Partido de Necochea, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Pilar",
+    "lat": -34.4570918,
+    "lng": -58.9141609,
+    "nombreEncontrado": "Pilar, Partido del Pilar, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Quilmes",
+    "lat": -34.7244434,
+    "lng": -58.2588168,
+    "nombreEncontrado": "Quilmes, Partido de Quilmes, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Salliqueló",
+    "lat": -36.7508805,
+    "lng": -62.9541738,
+    "nombreEncontrado": "Salliqueló, Brasil, San Martín, Salliqueló, Partido de Salliqueló, Buenos Aires, B6339, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "San Antonio de Areco",
+    "lat": -34.2437294,
+    "lng": -59.4734187,
+    "nombreEncontrado": "San Antonio de Areco, Partido de San Antonio de Areco, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "San Fernando",
+    "lat": -34.4471919,
+    "lng": -58.5701505,
+    "nombreEncontrado": "San Fernando, Partido de San Fernando, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "San Isidro",
+    "lat": -34.4739792,
+    "lng": -58.5264866,
+    "nombreEncontrado": "San Isidro, Partido de San Isidro, Buenos Aires, 1642, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "San Martín",
+    "lat": -34.5771577,
+    "lng": -58.5377237,
+    "nombreEncontrado": "Ciudad del Libertador General San Martín, Partido de General San Martín, Buenos Aires, B1650, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "San Miguel",
+    "lat": -34.543006,
+    "lng": -58.711966,
+    "nombreEncontrado": "San Miguel, Partido de San Miguel, Buenos Aires, B1663, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "San Nicolás",
+    "lat": -33.3277089,
+    "lng": -60.2165909,
+    "nombreEncontrado": "San Nicolás de los Arroyos, Partido de San Nicolás, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "San Pedro",
+    "lat": -33.6760716,
+    "lng": -59.6629342,
+    "nombreEncontrado": "San Pedro, Partido de San Pedro, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Tigre",
+    "lat": -34.4235341,
+    "lng": -58.5817628,
+    "nombreEncontrado": "Tigre, Luis García, Tigre, Partido de Tigre, Buenos Aires, 1648, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Tres Arroyos",
+    "lat": -38.3770014,
+    "lng": -60.2755685,
+    "nombreEncontrado": "Tres Arroyos, Partido de Tres Arroyos, Buenos Aires, B7500, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Tres de Febrero",
+    "lat": -34.5718753,
+    "lng": -58.4251993,
+    "nombreEncontrado": "3 de Febrero, Avenida Dorrego, Palermo Pacífico, Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, C1425FTE, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Vedia",
+    "lat": -34.497864,
+    "lng": -61.5420704,
+    "nombreEncontrado": "Vedia, Partido de Leandro N. Alem, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Vicente López",
+    "lat": -34.525763,
+    "lng": -58.4748977,
+    "nombreEncontrado": "Vicente López, Partido de Vicente López, Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Buenos Aires",
+    "localidad": "Zárate",
+    "lat": -34.0954713,
+    "lng": -59.0245097,
+    "nombreEncontrado": "Zárate, Partido de Zárate, Buenos Aires, 2800, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Capital Federal",
+    "localidad": "Mataderos",
+    "lat": -34.6578631,
+    "lng": -58.5017617,
+    "nombreEncontrado": "Mataderos, Buenos Aires, Comuna 9, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Capital Federal",
+    "localidad": "Palermo",
+    "lat": -34.5803362,
+    "lng": -58.4245236,
+    "nombreEncontrado": "Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Capital Federal",
+    "localidad": "Puerto Madero",
+    "lat": -34.6103764,
+    "lng": -58.3622067,
+    "nombreEncontrado": "Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Catamarca",
+    "localidad": "San Fernando del Valle de Catamarca",
+    "lat": -28.4688806,
+    "lng": -65.7790642,
+    "nombreEncontrado": "San Fernando del Valle de Catamarca, Municipio de San Fernando del Valle de Catamarca, Departamento Capital, Catamarca, K4700, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chaco",
+    "localidad": "Avia Terai",
+    "lat": -26.6865723,
+    "lng": -60.7279985,
+    "nombreEncontrado": "Municipio de Avia Terai, Departamento Independencia, Chaco, 3706, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chaco",
+    "localidad": "Barranqueras",
+    "lat": -27.4773912,
+    "lng": -58.9084561,
+    "nombreEncontrado": "Barranqueras, Departamento San Fernando, Chaco, H3503, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chaco",
+    "localidad": "Puerto Tirol",
+    "lat": -27.3750604,
+    "lng": -59.087509,
+    "nombreEncontrado": "Municipio de Puerto Tirol, Departamento Libertad, Chaco, 3500, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chaco",
+    "localidad": "Resistencia",
+    "lat": -27.6048829,
+    "lng": -59.1932003,
+    "nombreEncontrado": "Municipio de Resistencia, Departamento San Fernando, Chaco, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chaco",
+    "localidad": "Roque Sáenz Peña",
+    "lat": -27.4694942,
+    "lng": -59.0017653,
+    "nombreEncontrado": "Roque Sáenz Peña, Villa El Dorado, Resistencia, Municipio de Resistencia, Departamento San Fernando, Chaco, H3504BHB, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chaco",
+    "localidad": "Villa Ángela",
+    "lat": -27.5768225,
+    "lng": -60.7112067,
+    "nombreEncontrado": "Municipio de Villa Ángela, Departamento Mayor Luis Jorge Fontana, Chaco, 3540, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chubut",
+    "localidad": "Comodoro Rivadavia",
+    "lat": -45.8632024,
+    "lng": -67.4752615,
+    "nombreEncontrado": "Municipio de Comodoro Rivadavia, Departamento Escalante, Chubut, U9000, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chubut",
+    "localidad": "Puerto Madryn",
+    "lat": -42.7673414,
+    "lng": -65.0365942,
+    "nombreEncontrado": "Municipio de Puerto Madryn, Departamento Biedma, Chubut, U9120, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chubut",
+    "localidad": "Punta Tombo",
+    "lat": -44.0362219,
+    "lng": -65.1903022,
+    "nombreEncontrado": "Punta Tombo, Departamento Florentino Ameghino, Chubut, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chubut",
+    "localidad": "Rawson",
+    "lat": -43.2995252,
+    "lng": -65.1055636,
+    "nombreEncontrado": "Rawson, Municipio de Rawson, Departamento Rawson, Chubut, U9103, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Chubut",
+    "localidad": "Trelew",
+    "lat": -43.2531242,
+    "lng": -65.3094407,
+    "nombreEncontrado": "Trelew, Municipio de Trelew, Departamento Rawson, Chubut, U9100, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Córdoba",
+    "lat": -31.4166867,
+    "lng": -64.1834193,
+    "nombreEncontrado": "Córdoba, Municipio de Córdoba, Pedanía Capital, Departamento Capital, Córdoba, X5000, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Leones",
+    "lat": -32.6595751,
+    "lng": -62.297024,
+    "nombreEncontrado": "Municipio de Leones, Pedanía Espinillos, Departamento Marcos Juárez, Córdoba, X2580, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Morteros",
+    "lat": -30.7107038,
+    "lng": -62.0067058,
+    "nombreEncontrado": "Morteros, Municipio de Morteros, Pedanía Libertad, Departamento San Justo, Córdoba, X2421, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Pilar",
+    "lat": -31.6814428,
+    "lng": -63.8823844,
+    "nombreEncontrado": "Pilar, Municipio de Pilar, Pedanía Pilar, Departamento Río Segundo, Córdoba, X5972, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Porteña",
+    "lat": -31.0141185,
+    "lng": -62.0620489,
+    "nombreEncontrado": "Porteña, Municipio de Porteña, Pedanía Libertad, Departamento San Justo, Córdoba, X2400, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Río Tercero",
+    "lat": -32.1767655,
+    "lng": -64.1129881,
+    "nombreEncontrado": "Río Tercero, Municipio de Río Tercero, Pedanía Salto, Departamento Tercero Arriba, Córdoba, X5850, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Villa Carlos Paz",
+    "lat": -31.4183774,
+    "lng": -64.4936985,
+    "nombreEncontrado": "Villa Carlos Paz, Municipio de Villa Carlos Paz, Pedanía San Roque, Departamento Punilla, Córdoba, X5166, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Villa Dolores",
+    "lat": -31.9449632,
+    "lng": -65.1902298,
+    "nombreEncontrado": "Villa Dolores, Municipio de Villa Dolores, Pedanía Dolores, Departamento San Javier, Córdoba, X5870, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Córdoba",
+    "localidad": "Villa María",
+    "lat": -32.4106245,
+    "lng": -63.2435809,
+    "nombreEncontrado": "Villa María, Municipio de Villa María, Pedanía Villa María, Departamento General San Martín, Córdoba, X5900, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Corrientes",
+    "localidad": "Curuzú Cuatiá",
+    "lat": -29.7913375,
+    "lng": -58.0498307,
+    "nombreEncontrado": "Municipio de Curuzú Cuatiá, Departamento Curuzú Cuatiá, Corrientes, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Corrientes",
+    "localidad": "Itatí",
+    "lat": -27.2690228,
+    "lng": -58.242766,
+    "nombreEncontrado": "Municipio de Itatí, Departamento Itatí, Corrientes, W3414, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Corrientes",
+    "localidad": "Paso de los Libres",
+    "lat": -29.7136574,
+    "lng": -57.0861369,
+    "nombreEncontrado": "Municipio de Paso de los Libres, Departamento Paso de los Libres, Corrientes, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Entre Ríos",
+    "localidad": "Concepción del Uruguay",
+    "lat": -32.4851849,
+    "lng": -58.2320232,
+    "nombreEncontrado": "Concepción del Uruguay, Distrito Molino, Departamento Uruguay, Entre Ríos, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Entre Ríos",
+    "localidad": "Concordia",
+    "lat": -31.3972539,
+    "lng": -58.0173305,
+    "nombreEncontrado": "Concordia, Distrito Suburbios, Departamento Concordia, Entre Ríos, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Entre Ríos",
+    "localidad": "Gualeguaychú",
+    "lat": -33.0078908,
+    "lng": -58.5109859,
+    "nombreEncontrado": "Límite de Ejido de Municipio de Gualeguaychú, Distrito Costa Uruguay Sur, Departamento Gualeguaychú, Entre Ríos, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Entre Ríos",
+    "localidad": "Larroque",
+    "lat": -33.0339291,
+    "lng": -58.998577,
+    "nombreEncontrado": "Larroque, Distrito Pehuajó al Sur, Departamento Gualeguaychú, Entre Ríos, 2854, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Entre Ríos",
+    "localidad": "Paraná",
+    "lat": -31.7330145,
+    "lng": -60.5298511,
+    "nombreEncontrado": "Paraná, Municipio de Paraná, Distrito Sauce, Departamento Paraná, Entre Ríos, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Entre Ríos",
+    "localidad": "Victoria",
+    "lat": -32.874961,
+    "lng": -60.3386655,
+    "nombreEncontrado": "Victoria, Distrito Secciones, Departamento Victoria, Entre Ríos, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Entre Ríos",
+    "localidad": "Villa Paranacito",
+    "lat": -33.7163973,
+    "lng": -58.6620273,
+    "nombreEncontrado": "Villa Paranacito, Distrito Paranacito, Departamento Islas del Ibicuy, Entre Ríos, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Formosa",
+    "localidad": "Formosa",
+    "lat": -26.1852983,
+    "lng": -58.1744976,
+    "nombreEncontrado": "Municipio de Formosa, Departamento Formosa, Formosa, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Formosa",
+    "localidad": "Laguna Yema",
+    "lat": -24.2539494,
+    "lng": -61.2423018,
+    "nombreEncontrado": "Municipio de Laguna Yema, Departamento Bermejo, Formosa, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Jujuy",
+    "localidad": "San Pedro",
+    "lat": -24.2689397,
+    "lng": -65.2208582,
+    "nombreEncontrado": "San Pedro (ex calle El Fuerte), Las Tipas, Municipio de Palpalá, Departamento Palpalá, Jujuy, Y4613ATN, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Jujuy",
+    "localidad": "San Salvador de Jujuy",
+    "lat": -24.1852569,
+    "lng": -65.2994789,
+    "nombreEncontrado": "Municipio de San Salvador de Jujuy, Departamento Doctor Manuel Belgrano, Jujuy, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "La Pampa",
+    "localidad": "Santa Rosa",
+    "lat": -36.6203503,
+    "lng": -64.2905765,
+    "nombreEncontrado": "Santa Rosa, Municipio de Santa Rosa, Departamento Capital, La Pampa, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "La Rioja",
+    "localidad": "Chilecito",
+    "lat": -29.165001,
+    "lng": -67.4953596,
+    "nombreEncontrado": "Chilecito, Departamento Chilecito, La Rioja, F5360, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "La Rioja",
+    "localidad": "Famatina",
+    "lat": -28.9250137,
+    "lng": -67.5196474,
+    "nombreEncontrado": "Famatina, Departamento Famatina, La Rioja, F5365, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "La Rioja",
+    "localidad": "La Rioja",
+    "lat": -29.4127411,
+    "lng": -66.8558795,
+    "nombreEncontrado": "La Rioja, Departamento Capital, La Rioja, F5300, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "La Rioja",
+    "localidad": "Olta",
+    "lat": -30.630651,
+    "lng": -66.2672978,
+    "nombreEncontrado": "Olta, Departamento General Belgrano, La Rioja, F5383, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "localidad": "Godoy Cruz",
+    "lat": -32.9283499,
+    "lng": -68.9050558,
+    "nombreEncontrado": "Departamento Godoy Cruz, Mendoza, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "localidad": "Guaymallén",
+    "lat": -32.9000655,
+    "lng": -68.7875327,
+    "nombreEncontrado": "Departamento Guaymallén, Mendoza, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "localidad": "Luján de Cuyo",
+    "lat": -33.1085238,
+    "lng": -69.0129984,
+    "nombreEncontrado": "Departamento Luján de Cuyo, Mendoza, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "localidad": "Maipú",
+    "lat": -32.9846171,
+    "lng": -68.7882043,
+    "nombreEncontrado": "Departamento Maipú, Mendoza, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "localidad": "Mendoza",
+    "lat": -32.8894155,
+    "lng": -68.8446177,
+    "nombreEncontrado": "Ciudad de Mendoza, Sección 2ª Barrio Cívico, Departamento Capital, Mendoza, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "localidad": "San Rafael",
+    "lat": -34.6126025,
+    "lng": -68.330514,
+    "nombreEncontrado": "Distrito Ciudad de San Rafael, Departamento San Rafael, Mendoza, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Mendoza",
+    "localidad": "Santa Rosa",
+    "lat": -33.2547891,
+    "lng": -68.1491268,
+    "nombreEncontrado": "Distrito Ciudad de Santa Rosa, Departamento Santa Rosa, Mendoza, 5596, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Misiones",
+    "localidad": "Comandante Andresito",
+    "lat": -25.6702892,
+    "lng": -54.0427457,
+    "nombreEncontrado": "Municipio de Comandante Andresito, Departamento General Manuel Belgrano, Provincia de Misiones, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Misiones",
+    "localidad": "Oberá",
+    "lat": -27.4849798,
+    "lng": -55.1202965,
+    "nombreEncontrado": "Oberá, Municipio de Oberá, Departamento Oberá, Provincia de Misiones, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Misiones",
+    "localidad": "Posadas",
+    "lat": -27.3664824,
+    "lng": -55.894295,
+    "nombreEncontrado": "Municipio de Posadas, Departamento Capital, Provincia de Misiones, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Misiones",
+    "localidad": "Puerto Iguazú",
+    "lat": -25.6107508,
+    "lng": -54.5764199,
+    "nombreEncontrado": "Municipio de Puerto Iguazú, Departamento Iguazú, Provincia de Misiones, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Misiones",
+    "localidad": "San Pedro",
+    "lat": -26.624054,
+    "lng": -54.1111534,
+    "nombreEncontrado": "Municipio de San Pedro, Departamento San Pedro, Provincia de Misiones, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Neuquén",
+    "localidad": "Chos Malal",
+    "lat": -37.3785324,
+    "lng": -70.2719127,
+    "nombreEncontrado": "Municipio de Chos Malal, Departamento Chos Malal, Neuquén, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Río Negro",
+    "localidad": "Bariloche",
+    "lat": -41.1334781,
+    "lng": -71.3101474,
+    "nombreEncontrado": "San Carlos de Bariloche, Municipio de San Carlos de Bariloche, Departamento Bariloche, Río Negro, 8400, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Río Negro",
+    "localidad": "Catriel",
+    "lat": -37.8792422,
+    "lng": -67.7919078,
+    "nombreEncontrado": "Catriel, Municipio de Catriel, Departamento General Roca, Río Negro, R8307, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Río Negro",
+    "localidad": "General Roca",
+    "lat": -39.0268342,
+    "lng": -67.5754674,
+    "nombreEncontrado": "Municipio de General Roca, Departamento General Roca, Río Negro, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Río Negro",
+    "localidad": "Los Menucos",
+    "lat": -40.8428016,
+    "lng": -68.0859299,
+    "nombreEncontrado": "Los Menucos, Municipio de Los Menucos, Departamento Veinticinco de Mayo, Río Negro, 8424, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Río Negro",
+    "localidad": "Pilcaniyeu",
+    "lat": -41.1223885,
+    "lng": -70.722091,
+    "nombreEncontrado": "Pilcaniyeu, Municipio de Pilcaniyeu, Departamento Pilcaniyeu, Río Negro, R8412, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Río Negro",
+    "localidad": "Viedma",
+    "lat": -40.8084274,
+    "lng": -62.994722,
+    "nombreEncontrado": "Municipio de Viedma, Departamento Adolfo Alsina, Río Negro, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Río Negro",
+    "localidad": "Villa Regina",
+    "lat": -39.0987435,
+    "lng": -67.0852996,
+    "nombreEncontrado": "Municipio de Villa Regina, Departamento General Roca, Río Negro, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Salta",
+    "localidad": "Coronel Moldes",
+    "lat": -25.2800123,
+    "lng": -65.4787456,
+    "nombreEncontrado": "Coronel Moldes, Municipio de Coronel Moldes, La Viña, Salta, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Salta",
+    "localidad": "General Güemes",
+    "lat": -24.8076741,
+    "lng": -64.9167382,
+    "nombreEncontrado": "General Güemes, Salta, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Salta",
+    "localidad": "Salta",
+    "lat": -24.7892946,
+    "lng": -65.4103194,
+    "nombreEncontrado": "Salta, Capital, Salta, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Salta",
+    "localidad": "Santa Victoria",
+    "lat": -22.4011703,
+    "lng": -64.906356,
+    "nombreEncontrado": "Santa Victoria, Salta, A4531, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Salta",
+    "localidad": "Tartagal",
+    "lat": -22.5194493,
+    "lng": -63.7986328,
+    "nombreEncontrado": "Municipio de Tartagal, General San Martín, Salta, 4560, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "San Juan",
+    "localidad": "Campo Afuera",
+    "lat": -31.4251115,
+    "lng": -68.5445714,
+    "nombreEncontrado": "Campo Afuera, Albardón, San Juan, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "San Juan",
+    "localidad": "Cañada Honda",
+    "lat": -31.9849658,
+    "lng": -68.5484539,
+    "nombreEncontrado": "Cañada Honda, Sarmiento, San Juan, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "San Juan",
+    "localidad": "Chimbas, San Juan",
+    "lat": -31.4846789,
+    "lng": -68.5093785,
+    "nombreEncontrado": "Chimbas, San Juan, 5413, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "San Juan",
+    "localidad": "Pocito",
+    "lat": -31.7380122,
+    "lng": -68.5853093,
+    "nombreEncontrado": "Pocito, San Juan, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "San Juan",
+    "localidad": "San Juan",
+    "lat": -31.5370909,
+    "lng": -68.5251802,
+    "nombreEncontrado": "San Juan, Capital, San Juan, J5402DEA, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "San Luis",
+    "localidad": "Juan Llerena",
+    "lat": -33.2812143,
+    "lng": -65.6139804,
+    "nombreEncontrado": "Juan Llerena, Comisión Municipal de Juan Llerena, Coronel Pringles, San Luis, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "San Luis",
+    "localidad": "San Luis",
+    "lat": -33.3020736,
+    "lng": -66.3369577,
+    "nombreEncontrado": "Municipio de San Luis, Juan Martín de Pueyrredón, San Luis, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Caleta Olivia",
+    "lat": -46.442117,
+    "lng": -67.5175069,
+    "nombreEncontrado": "Caleta Olivia, Mercado de la Ciudad, Caleta Olivia, Deseado, Santa Cruz, 9011, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Comandante Luis Piedrabuena",
+    "lat": -49.983042,
+    "lng": -68.9187357,
+    "nombreEncontrado": "Comandante Luis Piedrabuena, Corpen Aike, Santa Cruz, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "El Calafate",
+    "lat": -50.3387375,
+    "lng": -72.2737216,
+    "nombreEncontrado": "Municipio de El Calafate, Lago Argentino, Santa Cruz, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Gobernador Gregores",
+    "lat": -48.7508681,
+    "lng": -70.2485805,
+    "nombreEncontrado": "Gobernador Gregores, Río Chico, Santa Cruz, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Golfo de San Jorge",
+    "lat": -46.6605835,
+    "lng": -67.9704239,
+    "nombreEncontrado": "Zona de balancines petroliferos de la Cuenca del Golfo San Jorge, Santa Cruz, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Las Heras",
+    "lat": -46.5412317,
+    "lng": -68.9321375,
+    "nombreEncontrado": "Las Heras, Deseado, Santa Cruz, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Pico Truncado",
+    "lat": -46.7991931,
+    "lng": -67.9576527,
+    "nombreEncontrado": "Pico Truncado, Deseado, Santa Cruz, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Puerto Deseado",
+    "lat": -47.7516166,
+    "lng": -65.9013234,
+    "nombreEncontrado": "Municipio de Puerto Deseado, Deseado, Santa Cruz, 9050, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Río Gallegos",
+    "lat": -51.6215268,
+    "lng": -69.2150374,
+    "nombreEncontrado": "Municipio de Río Gallegos, Güer Aike, Santa Cruz, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "Rio Turbio",
+    "lat": -51.5369364,
+    "lng": -72.3360417,
+    "nombreEncontrado": "Río Turbio, Güer Aike, Santa Cruz, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Cruz",
+    "localidad": "San Julián",
+    "lat": -49.3040329,
+    "lng": -67.7359109,
+    "nombreEncontrado": "San Julián, Avenida San Martín, Papa Francisco, Puerto San Julián, Magallanes, Santa Cruz, 9310, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Alvear",
+    "lat": -33.057523,
+    "lng": -60.6196127,
+    "nombreEncontrado": "Alvear, Municipio de Alvear, Gran Rosario, Departamento Rosario, Santa Fe, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Arroyo Seco",
+    "lat": -33.154614,
+    "lng": -60.5082223,
+    "nombreEncontrado": "Arroyo Seco, Municipio de Arroyo Seco, Gran Rosario, Departamento Rosario, Santa Fe, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Las Parejas",
+    "lat": -32.6818723,
+    "lng": -61.5206966,
+    "nombreEncontrado": "Las Parejas, Municipio de Las Parejas, Departamento Belgrano, Santa Fe, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Puerto General San Martín, Santa Fe",
+    "lat": -32.7116197,
+    "lng": -60.7341243,
+    "nombreEncontrado": "Puerto General San Martín, Municipio de Puerto General San Martín, Gran Rosario, Departamento San Lorenzo, Santa Fe, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Rosario",
+    "lat": -32.9593609,
+    "lng": -60.6617024,
+    "nombreEncontrado": "Municipio de Rosario, Gran Rosario, Departamento Rosario, Santa Fe, S2000, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "San Genaro",
+    "lat": -32.3715833,
+    "lng": -61.3600947,
+    "nombreEncontrado": "San Genaro, Municipio de San Genaro, Departamento San Jerónimo, Santa Fe, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Santa Fe",
+    "lat": -31.6186951,
+    "lng": -60.7019561,
+    "nombreEncontrado": "Santa Fe Capital, Departamento La Capital, Santa Fe, S3000, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Sunchales",
+    "lat": -30.9450891,
+    "lng": -61.5608072,
+    "nombreEncontrado": "Municipio de Sunchales, Departamento Castellanos, Santa Fe, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Venado Tuerto",
+    "lat": -33.7455871,
+    "lng": -61.9686068,
+    "nombreEncontrado": "Venado Tuerto, Municipio de Venado Tuerto, Departamento General López, Santa Fe, S2600, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Villa Constitución",
+    "lat": -33.227206,
+    "lng": -60.3298225,
+    "nombreEncontrado": "Municipio de Villa Constitución, Departamento Constitución, Santa Fe, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santa Fe",
+    "localidad": "Villa Gobernador Gálvez",
+    "lat": -33.0250796,
+    "lng": -60.633744,
+    "nombreEncontrado": "Municipio de Villa Gobernador Gálvez, Gran Rosario, Departamento Rosario, Santa Fe, S2124, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santiago del Estero",
+    "localidad": "Añatuya",
+    "lat": -28.4593692,
+    "lng": -62.8359481,
+    "nombreEncontrado": "Añatuya, Municipio de Añatuya, Departamento General Taboada, Santiago del Estero, G3743, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santiago del Estero",
+    "localidad": "Frías",
+    "lat": -28.6377023,
+    "lng": -65.1288391,
+    "nombreEncontrado": "Frías, Municipio de Frías, Departamento Choya, Santiago del Estero, G4243, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santiago del Estero",
+    "localidad": "La Banda",
+    "lat": -27.7357077,
+    "lng": -64.2434402,
+    "nombreEncontrado": "La Banda, Municipio de La Banda, Departamento Banda, Santiago del Estero, G4300, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santiago del Estero",
+    "localidad": "Santiago del Estero",
+    "lat": -27.7877148,
+    "lng": -64.2595062,
+    "nombreEncontrado": "Santiago del Estero, Municipio de Santiago del Estero, Departamento Juan Francisco Borges, Santiago del Estero, G4200, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Santiago del Estero",
+    "localidad": "Termas de Río Hondo",
+    "lat": -27.4959255,
+    "lng": -64.8640783,
+    "nombreEncontrado": "Termas de Río Hondo, Departamento Río Hondo, Santiago del Estero, G4220, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Tierra del Fuego Antártida e Islas del Atlántico Sur",
+    "localidad": "Río Grande",
+    "lat": -53.7858275,
+    "lng": -67.7018562,
+    "nombreEncontrado": "Municipio de Río Grande, Departamento Río Grande, Tierra del Fuego, V9420, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Tierra del Fuego Antártida e Islas del Atlántico Sur",
+    "localidad": "Ushuaia",
+    "lat": -54.807306,
+    "lng": -68.3084133,
+    "nombreEncontrado": "Ushuaia, Tierra del Fuego, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Tucumán",
+    "localidad": "Aguilares",
+    "lat": -27.4314798,
+    "lng": -65.6146633,
+    "nombreEncontrado": "Municipio de Aguilares, Aguilares, Departamento Río Chico, Tucumán, T4153, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Tucumán",
+    "localidad": "Banda del Río Sali",
+    "lat": -26.8399635,
+    "lng": -65.1617891,
+    "nombreEncontrado": "Banda del Río Salí, Departamento Cruz Alta, Tucumán, T4178, Argentina"
+  },
+  {
+    "pais": "Argentina",
+    "provincia": "Tucumán",
+    "localidad": "San Miguel de Tucumán",
+    "lat": -26.8303703,
+    "lng": -65.2038133,
+    "nombreEncontrado": "San Miguel de Tucumán, Departamento Capital, Tucumán, T4000, Argentina"
+  },
+  {
+    "pais": "Bélgica",
+    "provincia": "",
+    "localidad": "Bruselas",
+    "lat": 50.8467372,
+    "lng": 4.352493,
+    "nombreEncontrado": "Bruselas, Bruselas-Capital, Bélgica"
+  },
+  {
+    "pais": "Bolivia",
+    "provincia": "",
+    "localidad": "Cochabamba",
+    "lat": -17.4012458,
+    "lng": -66.1675681,
+    "nombreEncontrado": "Cochabamba, Juan De La Rosa, Molle, Cochabamba, Cercado, Cochabamba, Bolivia"
+  },
+  {
+    "pais": "Bolivia",
+    "provincia": "",
+    "localidad": "Santa Cruz de la Sierra",
+    "lat": -17.7834217,
+    "lng": -63.1820853,
+    "nombreEncontrado": "Santa Cruz de la Sierra, Provincia Andrés Ibáñez, Santa Cruz, Bolivia"
+  },
+  {
+    "pais": "Bolivia",
+    "provincia": "",
+    "localidad": "Sucre",
+    "lat": -19.0477251,
+    "lng": -65.2594306,
+    "nombreEncontrado": "Sucre, Municipio Sucre, Provincia Oropeza, Chuquisaca, Bolivia"
+  },
+  {
+    "pais": "Brasil",
+    "provincia": "",
+    "localidad": "Brasilia",
+    "lat": -15.7939869,
+    "lng": -47.8828,
+    "nombreEncontrado": "Brasilia, Distrito Federal, Región Centro-Oeste, 70391-900, Brasil"
+  },
+  {
+    "pais": "Brasil",
+    "provincia": "",
+    "localidad": "Foz de Iguazú",
+    "lat": -25.5304023,
+    "lng": -54.5830692,
+    "nombreEncontrado": "Foz de Iguazú, Estado de Paraná, Región Sur, Brasil"
+  },
+  {
+    "pais": "Brasil",
+    "provincia": "",
+    "localidad": "Recife",
+    "lat": -8.0584933,
+    "lng": -34.8848193,
+    "nombreEncontrado": "Recife, Pernambuco, Región Nordeste, Brasil"
+  },
+  {
+    "pais": "Brasil",
+    "provincia": "",
+    "localidad": "Rìo de Janeiro",
+    "lat": -22.9110137,
+    "lng": -43.2093727,
+    "nombreEncontrado": "Río de Janeiro, Región Sudeste, Brasil"
+  },
+  {
+    "pais": "Brasil",
+    "provincia": "",
+    "localidad": "Salvador de Bahía",
+    "lat": -12.9822499,
+    "lng": -38.4812772,
+    "nombreEncontrado": "Salvador de Bahía, Bahía, Región Nordeste, Brasil"
+  },
+  {
+    "pais": "Brasil",
+    "provincia": "",
+    "localidad": "San Pablo",
+    "lat": -23.5506507,
+    "lng": -46.6333824,
+    "nombreEncontrado": "San Pablo, Región Sudeste, Brasil"
+  },
+  {
+    "pais": "Canadá",
+    "provincia": "",
+    "localidad": "Toronto",
+    "lat": 43.6534817,
+    "lng": -79.3839347,
+    "nombreEncontrado": "Toronto, Golden Horseshoe, Ontario, Canadá"
+  },
+  {
+    "pais": "Canadá",
+    "provincia": "",
+    "localidad": "Vancouver",
+    "lat": 49.2608724,
+    "lng": -123.113952,
+    "nombreEncontrado": "Vancouver, Metro Vancouver Regional District, Columbia Británica, Canadá"
+  },
+  {
+    "pais": "Chile",
+    "provincia": "",
+    "localidad": "Maipú",
+    "lat": -33.5094409,
+    "lng": -70.756182,
+    "nombreEncontrado": "Maipú, Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+  },
+  {
+    "pais": "Chile",
+    "provincia": "",
+    "localidad": "Monte Aymond",
+    "lat": -34.1844131,
+    "lng": -70.7508188,
+    "nombreEncontrado": "Monte Aymond, Reconquista, Rancagua Sur, Rancagua, Provincia de Cachapoal, Región del Libertador General Bernardo O'Higgins, 2841048, Chile"
+  },
+  {
+    "pais": "Chile",
+    "provincia": "",
+    "localidad": "Punta Arenas",
+    "lat": -53.1625688,
+    "lng": -70.907822,
+    "nombreEncontrado": "Punta Arenas, Provincia de Magallanes, Región de Magallanes y de la Antártica Chilena, 6201065, Chile"
+  },
+  {
+    "pais": "Chile",
+    "provincia": "",
+    "localidad": "Santiago",
+    "lat": -33.4376995,
+    "lng": -70.6510671,
+    "nombreEncontrado": "Santiago, Provincia de Santiago, Región Metropolitana de Santiago, 8320000, Chile"
+  },
+  {
+    "pais": "Chile",
+    "provincia": "",
+    "localidad": "Valparaíso",
+    "lat": -33.0458456,
+    "lng": -71.6196749,
+    "nombreEncontrado": "Valparaíso, Provincia de Valparaíso, Región de Valparaíso, Chile"
+  },
+  {
+    "pais": "Chile",
+    "provincia": "",
+    "localidad": "Viña del Mar",
+    "lat": -33.0244535,
+    "lng": -71.5517636,
+    "nombreEncontrado": "Viña del Mar, Provincia de Valparaíso, Región de Valparaíso, Chile"
+  },
+  {
+    "pais": "China",
+    "provincia": "",
+    "localidad": "Beijing",
+    "lat": 39.9057136,
+    "lng": 116.3912972,
+    "nombreEncontrado": "Pekín, China"
+  },
+  {
+    "pais": "China",
+    "provincia": "",
+    "localidad": "Shanghai",
+    "lat": 31.2312707,
+    "lng": 121.4700152,
+    "nombreEncontrado": "Shanghái, China"
+  },
+  {
+    "pais": "Colombia",
+    "provincia": "",
+    "localidad": "Bogotá",
+    "lat": 4.6533817,
+    "lng": -74.0836331,
+    "nombreEncontrado": "Bogotá, Bogotá, Distrito Capital, RAP (Especial) Central, Colombia"
+  },
+  {
+    "pais": "Corea del Sur",
+    "provincia": "",
+    "localidad": "Seúl",
+    "lat": 37.5666791,
+    "lng": 126.9782914,
+    "nombreEncontrado": "Seúl, Corea del Sur"
+  },
+  {
+    "pais": "Cuba",
+    "provincia": "",
+    "localidad": "La Habana",
+    "lat": 23.135305,
+    "lng": -82.3589631,
+    "nombreEncontrado": "La Habana, Habana del Este, 10000, Cuba"
+  },
+  {
+    "pais": "Ecuador",
+    "provincia": "",
+    "localidad": "Quito",
+    "lat": -0.2201641,
+    "lng": -78.5123274,
+    "nombreEncontrado": "Quito, Distrito Metropolitano de Quito, Pichincha, 170130, Ecuador"
+  },
+  {
+    "pais": "Egipto",
+    "provincia": "",
+    "localidad": "El Cairo",
+    "lat": 30.0443879,
+    "lng": 31.2357257,
+    "nombreEncontrado": "El Cairo, Egipto"
+  },
+  {
+    "pais": "El Salvador",
+    "provincia": "",
+    "localidad": "San Salvador",
+    "lat": 13.697629,
+    "lng": -89.191156,
+    "nombreEncontrado": "San Salvador, San Salvador Centro, San Salvador, El Salvador"
+  },
+  {
+    "pais": "España",
+    "provincia": "",
+    "localidad": "Barcelona",
+    "lat": 41.3825802,
+    "lng": 2.177073,
+    "nombreEncontrado": "Barcelona, Barcelonés, Barcelona, Cataluña, España"
+  },
+  {
+    "pais": "España",
+    "provincia": "",
+    "localidad": "Madrid",
+    "lat": 40.416782,
+    "lng": -3.703507,
+    "nombreEncontrado": "Madrid, Comunidad de Madrid, España"
+  },
+  {
+    "pais": "Estados Unidos",
+    "provincia": "",
+    "localidad": "Boston",
+    "lat": 42.3588336,
+    "lng": -71.0578303,
+    "nombreEncontrado": "Boston, Suffolk County, Massachusetts, Estados Unidos de América"
+  },
+  {
+    "pais": "Estados Unidos",
+    "provincia": "",
+    "localidad": "Nueva York",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "nombreEncontrado": "Nueva York, Estados Unidos de América"
+  },
+  {
+    "pais": "Estados Unidos",
+    "provincia": "",
+    "localidad": "Pittsburgh",
+    "lat": 40.4406968,
+    "lng": -80.0025666,
+    "nombreEncontrado": "Pittsburgh, Allegheny County, Pensilvania, Estados Unidos de América"
+  },
+  {
+    "pais": "Estados Unidos",
+    "provincia": "",
+    "localidad": "Washington",
+    "lat": 38.8950982,
+    "lng": -77.0363849,
+    "nombreEncontrado": "Washington, Distrito de Columbia, Estados Unidos de América"
+  },
+  {
+    "pais": "Francia",
+    "provincia": "",
+    "localidad": "Cannes",
+    "lat": 43.5515198,
+    "lng": 7.0134418,
+    "nombreEncontrado": "Cannes, Grasse, Alpes Marítimos, Provenza-Alpes-Costa Azul, Francia metropolitana, Francia"
+  },
+  {
+    "pais": "Francia",
+    "provincia": "",
+    "localidad": "Paris",
+    "lat": 48.8534951,
+    "lng": 2.3483915,
+    "nombreEncontrado": "París, Isla de Francia, Francia metropolitana, Francia"
+  },
+  {
+    "pais": "Guyana",
+    "provincia": "",
+    "localidad": "Georgetown",
+    "lat": 6.8032561,
+    "lng": -58.1455403,
+    "nombreEncontrado": "Georgetown, Demerara-Mahaica, Guyana"
+  },
+  {
+    "pais": "Haití",
+    "provincia": "",
+    "localidad": "Puerto Príncipe",
+    "lat": 18.547327,
+    "lng": -72.3395928,
+    "nombreEncontrado": "Puerto Príncipe, Departamento Oeste, Haití"
+  },
+  {
+    "pais": "Honduras",
+    "provincia": "",
+    "localidad": "Tegucigalpa",
+    "lat": 14.1058135,
+    "lng": -87.2047053,
+    "nombreEncontrado": "Tegucigalpa, Distrito Central, Francisco Morazán, Honduras"
+  },
+  {
+    "pais": "India",
+    "provincia": "",
+    "localidad": "Mumbai",
+    "lat": 19.054999,
+    "lng": 72.8692035,
+    "nombreEncontrado": "Bombay, Mumbai Suburban District, Maharastra, 400051, India"
+  },
+  {
+    "pais": "India",
+    "provincia": "",
+    "localidad": "Nueva Delhi",
+    "lat": 28.6138954,
+    "lng": 77.2090057,
+    "nombreEncontrado": "Nueva Delhi, Delhi, India"
+  },
+  {
+    "pais": "Indonesia",
+    "provincia": "",
+    "localidad": "Yakarta",
+    "lat": -6.1754049,
+    "lng": 106.827168,
+    "nombreEncontrado": "Yakarta, Indonesia"
+  },
+  {
+    "pais": "Inglaterra",
+    "provincia": "",
+    "localidad": "Londres",
+    "lat": 51.5074456,
+    "lng": -0.1277653,
+    "nombreEncontrado": "Gran Londres, Inglaterra, Reino Unido"
+  },
+  {
+    "pais": "Italia",
+    "provincia": "",
+    "localidad": "Milán",
+    "lat": 45.4641943,
+    "lng": 9.1896346,
+    "nombreEncontrado": "Milán, Rodano, Milán, Lombardía, Italia"
+  },
+  {
+    "pais": "Italia",
+    "provincia": "",
+    "localidad": "Padua",
+    "lat": 45.3984428,
+    "lng": 11.8956829,
+    "nombreEncontrado": "Padua, Padova, Véneto, 35121-35143, Italia"
+  },
+  {
+    "pais": "Italia",
+    "provincia": "",
+    "localidad": "Roma",
+    "lat": 41.8933203,
+    "lng": 12.4829321,
+    "nombreEncontrado": "Roma, Roma Capitale, Lacio, Italia"
+  },
+  {
+    "pais": "Italia",
+    "provincia": "",
+    "localidad": "Venecia",
+    "lat": 45.4371908,
+    "lng": 12.3345898,
+    "nombreEncontrado": "Venecia, Véneto, 30121-30176, Italia"
+  },
+  {
+    "pais": "Libia",
+    "provincia": "",
+    "localidad": "Trípoli",
+    "lat": 32.896672,
+    "lng": 13.1777923,
+    "nombreEncontrado": "Trípoli, Libia"
+  },
+  {
+    "pais": "México",
+    "provincia": "",
+    "localidad": "Cancún",
+    "lat": 21.1527467,
+    "lng": -86.8425761,
+    "nombreEncontrado": "Cancún, Benito Juárez, Quintana Roo, México"
+  },
+  {
+    "pais": "México",
+    "provincia": "",
+    "localidad": "Ciudad de México",
+    "lat": 19.3207722,
+    "lng": -99.1514678,
+    "nombreEncontrado": "Ciudad de México, México"
+  },
+  {
+    "pais": "Panamá",
+    "provincia": "",
+    "localidad": "Panamá",
+    "lat": 8.9714493,
+    "lng": -79.5341802,
+    "nombreEncontrado": "Panamá, Calidonia, Distrito de Panamá, Provincia de Panamá, 0843, Panamá"
+  },
+  {
+    "pais": "Paraguay",
+    "provincia": "",
+    "localidad": "Asunción",
+    "lat": -25.2800459,
+    "lng": -57.6343814,
+    "nombreEncontrado": "Asunción, Región Oriental, Paraguay"
+  },
+  {
+    "pais": "Paraguay",
+    "provincia": "",
+    "localidad": "Ayolas",
+    "lat": -27.3898739,
+    "lng": -56.844718,
+    "nombreEncontrado": "Ayolas, Misiones, Región Oriental, Paraguay"
+  },
+  {
+    "pais": "Perú",
+    "provincia": "",
+    "localidad": "Lima",
+    "lat": -12.0459808,
+    "lng": -77.0305912,
+    "nombreEncontrado": "Lima, Lima Metropolitana, Lima, 15001, Perú"
+  },
+  {
+    "pais": "Portugal",
+    "provincia": "",
+    "localidad": "Estoril",
+    "lat": 38.7095707,
+    "lng": -9.3901368,
+    "nombreEncontrado": "Estoril, Cascais e Estoril, Cascais, Lisboa, Portugal"
+  },
+  {
+    "pais": "Portugal",
+    "provincia": "",
+    "localidad": "Lisboa",
+    "lat": 38.7077507,
+    "lng": -9.1365919,
+    "nombreEncontrado": "Lisboa, Portugal"
+  },
+  {
+    "pais": "Qatar",
+    "provincia": "",
+    "localidad": "Doha",
+    "lat": 25.3108807,
+    "lng": 51.5081812,
+    "nombreEncontrado": "Doha, Catar"
+  },
+  {
+    "pais": "República Dominicana",
+    "provincia": "",
+    "localidad": "Santo Domingo",
+    "lat": 18.4713858,
+    "lng": -69.8918436,
+    "nombreEncontrado": "Santo Domingo de Guzmán, Distrito Nacional, 03201, República Dominicana"
+  },
+  {
+    "pais": "Rusia",
+    "provincia": "",
+    "localidad": "Moscú",
+    "lat": 55.625578,
+    "lng": 37.6063916,
+    "nombreEncontrado": "Moscú, Distrito federal Central, Rusia"
+  },
+  {
+    "pais": "Rusia",
+    "provincia": "",
+    "localidad": "San Petersburgo",
+    "lat": 59.9606739,
+    "lng": 30.1586551,
+    "nombreEncontrado": "San Petersburgo, Distrito federal del Noroeste, Rusia"
+  },
+  {
+    "pais": "Suiza",
+    "provincia": "",
+    "localidad": "Ginebra",
+    "lat": 46.2017559,
+    "lng": 6.1466014,
+    "nombreEncontrado": "Ginebra, Suiza"
+  },
+  {
+    "pais": "Trinidad y Tobago",
+    "provincia": "",
+    "localidad": "Puerto España",
+    "lat": 10.6572678,
+    "lng": -61.5180173,
+    "nombreEncontrado": "Puerto España, Trinidad y Tobago"
+  },
+  {
+    "pais": "Turquía",
+    "provincia": "",
+    "localidad": "Ankara",
+    "lat": 39.9207759,
+    "lng": 32.8540497,
+    "nombreEncontrado": "Ankara, Çankaya, Ankara, İç Anadolu Bölgesi, 06420, Turquía"
+  },
+  {
+    "pais": "Turquía",
+    "provincia": "",
+    "localidad": "Estambul",
+    "lat": 41.006381,
+    "lng": 28.9758715,
+    "nombreEncontrado": "Estambul, Fatih, Estambul, Marmara Bölgesi, 34122, Turquía"
+  },
+  {
+    "pais": "Uruguay",
+    "provincia": "",
+    "localidad": "Colonia",
+    "lat": -34.4698592,
+    "lng": -57.8433679,
+    "nombreEncontrado": "Colonia del Sacramento, Colonia, 70000, Uruguay"
+  },
+  {
+    "pais": "Uruguay",
+    "provincia": "",
+    "localidad": "Montevideo",
+    "lat": -34.9058916,
+    "lng": -56.1913095,
+    "nombreEncontrado": "Montevideo, Uruguay"
+  },
+  {
+    "pais": "Uruguay",
+    "provincia": "",
+    "localidad": "Salto",
+    "lat": -31.38889,
+    "lng": -57.9608876,
+    "nombreEncontrado": "Salto, 50000, Uruguay"
+  },
+  {
+    "pais": "Venezuela",
+    "provincia": "",
+    "localidad": "Caracas",
+    "lat": 10.5060934,
+    "lng": -66.9146008,
+    "nombreEncontrado": "Caracas, Parroquia Catedral, Municipio Libertador, Distrito Metropolitano de Caracas, Distrito Capital, Venezuela"
+  },
+  {
+    "pais": "Venezuela",
+    "provincia": "",
+    "localidad": "Isla Margarita",
+    "lat": 11.0205596,
+    "lng": -63.9073984,
+    "nombreEncontrado": "Isla de Margarita, Municipio Díaz, Estado Nueva Esparta, Venezuela"
+  },
+  {
+    "pais": "Vietnam",
+    "provincia": "",
+    "localidad": "Hanoi",
+    "lat": 21.0283334,
+    "lng": 105.854041,
+    "nombreEncontrado": "Hanói, Vietnam"
+  },
+  {
+    "pais": "Vietnam",
+    "provincia": "",
+    "localidad": "Ho Chi Minh",
+    "lat": 10.7737261,
+    "lng": 106.7166008,
+    "nombreEncontrado": "Ciudad Ho Chi Minh, Vietnam"
+  }
+]
