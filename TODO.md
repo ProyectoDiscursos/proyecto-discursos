@@ -1,80 +1,142 @@
 # TODO — Proyecto Discursos
 
-Lista de mejoras, ideas y tareas pendientes del proyecto.
+> La versión 2.1 cerró la arquitectura principal del archivo.
+> Los pendientes actuales se concentran en limpieza, carga de contenido,
+> calidad de datos y mejoras incrementales.
+
+Pendientes posteriores a la versión 2.1.
 
 ---
 
-## Prioridad alta
+# PRIORIDAD ACTUAL
 
-### Mapa
+## Contenido y datos
 
-- [ ] Terminar la primera versión de `mapa.html`.
-- [ ] Mostrar un marcador por localidad.
-- [ ] Mostrar cantidad de discursos por localidad.
-- [ ] Enlazar cada marcador con `explorar.html`.
-- [ ] Revisar manualmente coordenadas ambiguas.
-- [ ] Agregar agrupación de marcadores cuando haya muchos puntos cercanos.
-- [ ] Agregar filtros por año, colección y país.
-- [ ] Resolver el mapa base para evitar etiquetas inadecuadas sobre las Islas Malvinas.
-- [ ] Evaluar un mapa sin etiquetas o una solución con MapLibre.
-- [ ] Mostrar recorridos internacionales en una futura versión.
+- [ ] Continuar carga de transcripciones.
+- [ ] Continuar carga de videos.
+- [ ] Agregar nuevos registros al archivo.
+- [ ] Completar localidades no identificadas.
+- [ ] Completar provincias no identificadas.
+- [ ] Completar países no identificados.
+- [ ] Completar lugares específicos no identificados de Capital Federal.
+- [ ] Revisar localidades duplicadas o mal ubicadas.
+- [ ] Revisar fechas.
+- [ ] Revisar títulos.
+- [ ] Revisar colecciones.
+- [ ] Revisar estados audiovisuales.
+- [ ] Completar descripciones.
+- [ ] Completar slogans.
+- [ ] Completar miniaturas faltantes.
+- [ ] Revisar transcripciones.
+- [ ] Mantener Notion como fuente principal de verdad.
 
-### Calendario
+---
 
-- [ ] Crear `calendario.html`.
-- [ ] Permitir elegir año y mes.
-- [ ] Resaltar los días que tienen discursos.
-- [ ] Mostrar varios discursos cuando coincidan en una misma fecha.
-- [ ] Crear una vista “Un día como hoy”.
-- [ ] Permitir explorar una misma efeméride a través de distintos años.
-- [ ] Agregar filtros por colección y lugar.
-
-### Publicación y revisión general
+## Revisión general de la versión 2.1
 
 - [ ] Probar todas las páginas desde celular.
+- [ ] Revisar menú móvil.
+- [ ] Evaluar menú hamburguesa.
+- [ ] Revisar tamaños de títulos.
+- [ ] Revisar espaciados.
+- [ ] Revisar tarjetas.
+- [ ] Revisar formularios.
+- [ ] Revisar páginas con textos largos.
 - [ ] Revisar enlaces rotos.
-- [ ] Revisar discursos sin descripción.
-- [ ] Revisar discursos sin slogan.
-- [ ] Revisar miniaturas faltantes.
-- [ ] Confirmar que los discursos sin video no muestren reproductor.
-- [ ] Confirmar que los discursos con video aparezcan en `archive_disponibles.json`.
-- [ ] Revisar el formulario de correcciones.
 - [ ] Revisar ortografía y consistencia de títulos.
+- [ ] Revisar accesibilidad.
+- [ ] Revisar contraste.
+- [ ] Eliminar CSS sin uso.
+- [ ] Eliminar JavaScript sin uso.
+- [ ] Revisar código duplicado.
+- [ ] Revisar nombres de clases y archivos.
+- [ ] Revisar comportamiento de errores y estados vacíos.
 
 ---
 
-## Archivo y navegación
+# ARCHIVO Y NAVEGACIÓN
 
-### Explorar
+## Buscar
 
-- [ ] Mejorar la página de archivo completo.
-- [ ] Agregar filtro por año.
-- [ ] Agregar filtro por país.
-- [ ] Agregar filtro por provincia.
-- [ ] Agregar filtro por localidad.
-- [ ] Agregar filtro por colección.
-- [ ] Agregar filtro “con video / sin video”.
-- [ ] Permitir combinar varios filtros.
-- [ ] Mostrar el total de resultados filtrados.
-- [ ] Mejorar la búsqueda por varias palabras.
+- [ ] Seguir refinando el ranking de relevancia.
+- [ ] Mejorar búsqueda por varias palabras.
+- [ ] Evaluar sinónimos.
+- [ ] Mejorar resaltado de coincidencias.
+- [ ] Revisar filtros avanzados.
+- [ ] Revisar combinación de filtros.
+- [ ] Revisar búsqueda sin texto.
+- [ ] Evaluar compartir búsquedas mediante URL.
 
-### Página de cada discurso
+---
 
-- [ ] Agregar navegación “discurso anterior / discurso siguiente”.
-- [ ] Mostrar discursos relacionados por colección.
-- [ ] Mostrar discursos relacionados por localidad.
-- [ ] Mostrar discursos relacionados por fecha o año.
-- [ ] Evaluar una sección de fuentes.
-- [ ] Evaluar una sección de créditos o colaboraciones.
-- [ ] Mejorar el mensaje cuando no existe transcripción.
-- [ ] Mejorar el mensaje cuando no existe video.
-- [ ] Revisar la experiencia móvil del reproductor.
-- [ ] Revisar la carga diferida de videos y transcripciones.
+## Fecha
 
-### Colecciones
+### Año / Mes / Día
 
-- [ ] Revisar y normalizar todas las etiquetas de colección.
-- [ ] Crear nuevas colecciones temáticas.
+- [x] Crear exploración por año.
+- [x] Crear exploración por mes.
+- [x] Crear exploración por día.
+- [x] Resaltar días con discursos.
+- [x] Mostrar discursos de una fecha sin salir de la página.
+
+### Etapas
+
+- [ ] Implementar vista “Etapas”.
+- [ ] 2005–2007 — Senadora nacional.
+- [ ] 2007–2011 — Primer mandato presidencial.
+- [ ] 2011–2015 — Segundo mandato presidencial.
+- [ ] 2017–2019 — Senadora nacional.
+- [ ] 2019–2023 — Vicepresidenta de la Nación.
+- [ ] Definir etapa 2024–.
+- [ ] Mostrar cantidad de discursos por etapa.
+
+### Futuras mejoras temporales
+
+- [ ] Crear “Un día como hoy”.
+- [ ] Explorar una misma efeméride a través de distintos años.
+- [ ] Evaluar una línea de tiempo.
+
+---
+
+## Lugar
+
+- [x] Navegación por país.
+- [x] Navegación por provincia cuando corresponde.
+- [x] Navegación por localidad.
+- [x] Saltear provincia en países donde no existe ese dato.
+- [x] Mostrar “Provincia no identificada”.
+- [x] Mostrar “Localidad no identificada”.
+- [x] Habilitar lugar específico para Capital Federal.
+- [x] Mostrar “Lugar específico no identificado”.
+
+### Pendientes
+
+- [ ] Completar datos detectados como no identificados.
+- [ ] Revisar normalización de países.
+- [ ] Revisar normalización de provincias.
+- [ ] Revisar normalización de localidades.
+- [ ] Revisar experiencia móvil de `lugar.html`.
+
+---
+
+## Archivo completo
+
+- [ ] Seguir mejorando `explorar.html`.
+- [ ] Revisar filtros existentes.
+- [ ] Revisar combinación de filtros.
+- [ ] Revisar total de resultados filtrados.
+- [ ] Revisar experiencia móvil.
+
+---
+
+## Colecciones
+
+- [ ] Revisar y normalizar etiquetas existentes.
+- [ ] Mantener la estructura actual por ahora.
+- [ ] Evaluar nuevas colecciones temáticas.
+
+### Posibles colecciones
+
 - [ ] Industria.
 - [ ] Educación.
 - [ ] Salud.
@@ -93,7 +155,43 @@ Lista de mejoras, ideas y tareas pendientes del proyecto.
 
 ---
 
-## Estadísticas
+# MAPA
+
+- [ ] Mejorar `mapa.html`.
+- [ ] Revisar diseño general.
+- [ ] Mostrar un marcador por localidad.
+- [ ] Mostrar cantidad de discursos por localidad.
+- [ ] Revisar coordenadas ambiguas.
+- [ ] Agregar clustering de marcadores.
+- [ ] Agregar filtros por año.
+- [ ] Agregar filtros por colección.
+- [ ] Agregar filtros por país.
+- [ ] Resolver etiquetas inadecuadas sobre las Islas Malvinas.
+- [ ] Evaluar mapa sin etiquetas.
+- [ ] Evaluar MapLibre.
+- [ ] Evaluar integración del mapa dentro de `lugar.html`.
+- [ ] Evaluar recorridos internacionales.
+
+---
+
+# PÁGINA DE CADA DISCURSO
+
+- [ ] Agregar navegación “anterior / siguiente”.
+- [ ] Mostrar discursos relacionados por colección.
+- [ ] Mostrar discursos relacionados por localidad.
+- [ ] Mostrar discursos relacionados por fecha o año.
+- [ ] Evaluar sección de fuentes.
+- [ ] Evaluar sección de créditos o colaboraciones.
+- [ ] Mejorar mensaje cuando no existe transcripción.
+- [ ] Mejorar mensaje cuando no existe video.
+- [ ] Revisar reproductor en celular.
+- [ ] Revisar carga diferida de videos.
+- [ ] Revisar carga diferida de transcripciones.
+- [ ] Confirmar que discursos sin video no muestren reproductor.
+
+---
+
+# ESTADÍSTICAS
 
 - [ ] Revisar que “Alcance internacional” no incluya Argentina.
 - [ ] Revisar que “Principales localidades” muestre solo localidades argentinas.
@@ -105,67 +203,57 @@ Lista de mejoras, ideas y tareas pendientes del proyecto.
 - [ ] Agregar estadísticas por colección.
 - [ ] Agregar evolución por año.
 - [ ] Agregar estadísticas geográficas vinculadas al mapa.
-- [ ] Evaluar una vista de línea de tiempo.
+- [ ] Evaluar una línea de tiempo.
 
 ---
 
-## Página Acerca
+# PÁGINA ACERCA
 
-- [ ] Revisar el diseño final de la cita inicial.
+- [ ] Revisar diseño final de la cita inicial.
 - [ ] Integrar correctamente la foto de Cristina con Osvaldo Bayer.
-- [ ] Verificar el degradé del hero en celular.
-- [ ] Revisar el tamaño de la cita en pantallas pequeñas.
-- [ ] Mantener el texto principal en una sola columna.
-- [ ] Agregar una sección clara sobre cómo colaborar.
-- [ ] Enlazar la colaboración al formulario.
-- [ ] Revisar la redacción final.
-- [ ] Agregar créditos de fotografías cuando corresponda.
+- [ ] Revisar degradé del hero en celular.
+- [ ] Revisar tamaño de la cita en pantallas pequeñas.
+- [ ] Mantener texto principal en una sola columna.
+- [ ] Agregar sección clara sobre cómo colaborar.
+- [ ] Enlazar colaboración al formulario.
+- [ ] Revisar redacción final.
+- [ ] Agregar créditos fotográficos cuando corresponda.
 
 ---
 
-## Videos e Internet Archive
+# VIDEOS E INTERNET ARCHIVE
 
-- [ ] Resolver los videos que todavía fallan al subir.
-- [ ] Revisar los archivos con nombres no válidos.
-- [ ] Renombrar videos que no siguen el formato `CFK-AAAAMMDD-XX`.
+- [ ] Continuar subida de videos.
+- [ ] Resolver videos que todavía fallan al subir.
+- [ ] Revisar archivos con nombres no válidos.
+- [ ] Renombrar videos que no sigan `CFK-AAAAMMDD-XX`.
 - [ ] Revisar IDs duplicados.
 - [ ] Regenerar `archive_disponibles.json` después de nuevas subidas.
-- [ ] Automatizar la actualización de `archive_disponibles.json`.
+- [ ] Automatizar actualización de `archive_disponibles.json`.
 - [ ] Hacer que `subir_archive.py` actualice la lista al finalizar.
-- [ ] Revisar si los videos procesaron correctamente en Internet Archive.
+- [ ] Revisar procesamiento de videos en Internet Archive.
 - [ ] Comprobar que cada video abra desde el ID correcto.
 - [ ] Mantener fuera de GitHub los registros locales de subida.
-- [ ] Revisar metadatos de los ítems subidos.
+- [ ] Revisar metadatos de ítems subidos.
 
 ---
 
-## Datos y Notion
+# SCRIPTS Y AUTOMATIZACIÓN
 
-- [ ] Mantener Notion como fuente principal de verdad.
-- [ ] Revisar fechas.
-- [ ] Revisar títulos.
-- [ ] Revisar país, provincia y localidad.
-- [ ] Revisar lugares específicos.
-- [ ] Revisar colecciones.
-- [ ] Revisar estados audiovisuales.
-- [ ] Completar descripciones.
-- [ ] Completar slogans.
-- [ ] Completar miniaturas.
-- [ ] Revisar transcripciones.
-- [ ] Normalizar nombres geográficos.
-- [ ] Revisar localidades duplicadas o mal ubicadas.
-- [ ] Revisar las entradas corregidas antes de volver a exportar.
-
----
-
-## Scripts y automatización
+## Actualización general
 
 - [ ] Crear `actualizar_proyecto.py`.
-- [ ] Ejecutar desde un solo comando:
-  - [ ] `convertir_notion.py`
-  - [ ] `generar_lugares.py`
-  - [ ] `generar_archive_disponibles.py`
-- [ ] Mostrar un resumen final de la actualización.
+
+Debe ejecutar:
+
+- [ ] `convertir_notion.py`
+- [ ] `generar_lugares.py`
+- [ ] `generar_indice_busqueda.py`
+- [ ] `generar_archive_disponibles.py`
+
+### Validaciones
+
+- [ ] Mostrar resumen final de actualización.
 - [ ] Detectar errores antes de modificar archivos.
 - [ ] Crear copias de seguridad antes de regenerar datos.
 - [ ] Detectar localidades nuevas.
@@ -174,63 +262,55 @@ Lista de mejoras, ideas y tareas pendientes del proyecto.
 - [ ] Detectar discursos sin título.
 - [ ] Detectar discursos sin transcripción.
 - [ ] Detectar discursos con video local pero sin Archive.
-- [ ] Agregar una opción de simulación.
-- [ ] Documentar todos los scripts en el README.
+- [ ] Agregar modo de simulación.
+- [ ] Documentar scripts en README.
 
 ---
 
-## Diseño y experiencia móvil
-
-- [ ] Revisar menú móvil.
-- [ ] Evaluar un menú hamburguesa.
-- [ ] Revisar tamaños de títulos.
-- [ ] Revisar espaciados.
-- [ ] Revisar carruseles.
-- [ ] Revisar tarjetas.
-- [ ] Revisar formularios.
-- [ ] Revisar el mapa en celular.
-- [ ] Revisar el calendario en celular.
-- [ ] Revisar el reproductor en celular.
-- [ ] Revisar las páginas con textos largos.
-- [ ] Agregar animaciones sutiles.
-- [ ] Mantener buena accesibilidad y contraste.
-
----
-
-## Seguridad y mantenimiento
+# SEGURIDAD Y MANTENIMIENTO
 
 - [ ] Mantener activado 2FA en GitHub.
-- [ ] Guardar los códigos de recuperación.
+- [ ] Guardar códigos de recuperación.
 - [ ] No subir contraseñas ni claves.
 - [ ] Mantener `.gitignore` actualizado.
-- [ ] No publicar archivos de log.
+- [ ] No publicar logs.
 - [ ] No publicar rutas locales.
-- [ ] Revisar `git status` antes de cada commit.
+- [ ] Revisar `git status` antes de commits.
 - [ ] Hacer commits después de cada mejora estable.
-- [ ] Mantener una copia local.
-- [ ] Mantener una copia en OneDrive.
-- [ ] Mantener una copia pública en Internet Archive.
+- [ ] Mantener copia local.
+- [ ] Mantener copia en OneDrive.
+- [ ] Mantener copia pública en Internet Archive.
 
 ---
 
-## Ideas futuras
+# FUTURAS VERSIONES
 
-- [ ] Vista calendario.
-- [ ] Vista mapa.
+## Nuevos tipos de documentos
+
+- [ ] Diseñar arquitectura para múltiples tipos de contenido.
+- [ ] Tweets.
+- [ ] Publicaciones de Facebook.
+- [ ] Cartas.
+- [ ] Prólogos.
+- [ ] Agregar campo “Tipo de documento”.
+- [ ] Adaptar búsqueda para filtrar por tipo.
+- [ ] Adaptar Archivo para distintos tipos de material.
+
+---
+
+## Otras ideas
+
 - [ ] Línea de tiempo.
 - [ ] “Un día como hoy”.
 - [ ] Recorridos presidenciales.
 - [ ] Comparación de discursos por tema.
-- [ ] Búsqueda dentro de transcripciones.
-- [ ] Nube de temas o palabras.
-- [ ] Filtros por período presidencial.
+- [ ] Nube de palabras o temas.
 - [ ] Página especial por efemérides.
 - [ ] Página especial por viajes internacionales.
 - [ ] Página especial por provincias.
 - [ ] Página especial por discursos destacados.
 - [ ] Dominio propio.
-- [ ] Versión instalable como PWA.
-- [ ] Mejorar SEO y vista previa al compartir enlaces.
-- [ ] Agregar imagen social para cada discurso.
-- [ ] Crear una versión 1.0 documentada en GitHub Releases.
-- [ ] Sumar otro tipo de material (tweets, posts de facebook, prólogos, cartas, etc.)
+- [ ] Versión PWA.
+- [ ] Mejorar SEO.
+- [ ] Mejorar vistas previas al compartir.
+- [ ] Imagen social para cada discurso.
