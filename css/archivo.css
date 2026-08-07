@@ -1,0 +1,741 @@
+/* ========================================
+   PÁGINA ARCHIVO
+======================================== */
+
+.pagina-archivo {
+    min-height: 100vh;
+    background: #080b0f;
+    color: #f5f7fa;
+}
+
+.archivo-contenedor {
+    width: min(100% - 48px, 1180px);
+    margin: 0 auto;
+}
+
+.archivo-sobrelinea {
+    margin: 0 0 16px;
+    color: #6ec6ff;
+    font-size: 13px;
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+}
+
+
+/* ========================================
+   HERO
+======================================== */
+
+.archivo-hero {
+    position: relative;
+    min-height: 560px;
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+    padding: 95px 0 40px;
+
+    background:
+        radial-gradient(
+            circle at 50% 15%,
+            rgba(110, 198, 255, 0.2),
+            transparent 48%
+        ),
+        linear-gradient(
+            180deg,
+            #0b1420,
+            #080b0f
+        );
+}
+
+.archivo-hero-fondo {
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    opacity: 0.5;
+
+    background:
+        linear-gradient(
+            90deg,
+            rgba(255, 255, 255, 0.025) 1px,
+            transparent 1px
+        ),
+        linear-gradient(
+            rgba(255, 255, 255, 0.025) 1px,
+            transparent 1px
+        );
+
+    background-size: 65px 65px;
+
+    mask-image:
+        linear-gradient(
+            to bottom,
+            black,
+            transparent 92%
+        );
+}
+
+.archivo-hero-contenido {
+    position: relative;
+    z-index: 1;
+    text-align: center;
+}
+
+.archivo-hero h1 {
+    max-width: 900px;
+    margin: 0 auto;
+
+    font-size: clamp(42px, 6vw, 68px);
+    font-weight: 800;
+    line-height: 0.98;
+    letter-spacing: -0.065em;
+}
+
+.archivo-bajada {
+    max-width: 730px;
+    margin: 18px auto 0;
+
+    color: rgba(255, 255, 255, 0.72);
+
+    font-size: clamp(17px, 2vw, 21px);
+    line-height: 1.55;
+}
+
+
+/* ========================================
+   BUSCADOR
+======================================== */
+
+.archivo-buscador {
+    max-width: 900px;
+    margin: 48px auto 0;
+}
+
+.archivo-buscador-label {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+}
+
+.archivo-buscador-caja {
+    min-height: 72px;
+    display: flex;
+    align-items: center;
+    gap: 16px;
+
+    padding: 0 26px;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.16);
+
+    border-radius: 16px;
+
+    background:
+        rgba(255, 255, 255, 0.075);
+
+    backdrop-filter: blur(18px);
+
+    box-shadow:
+        0 28px 75px rgba(0, 0, 0, 0.3);
+
+    transition:
+        border-color 0.2s ease,
+        box-shadow 0.2s ease,
+        background 0.2s ease;
+}
+
+.archivo-buscador-caja:focus-within {
+    border-color:
+        rgba(110, 198, 255, 0.7);
+
+    background:
+        rgba(255, 255, 255, 0.1);
+
+    box-shadow:
+        0 30px 90px rgba(0, 0, 0, 0.34),
+        0 0 0 4px rgba(110, 198, 255, 0.08);
+}
+
+.archivo-buscador-icono {
+    flex: 0 0 auto;
+    font-size: 23px;
+}
+
+.archivo-buscador input {
+    min-width: 0;
+    flex: 1;
+
+    padding: 24px 0;
+
+    border: 0;
+    outline: 0;
+
+    background: transparent;
+    color: #ffffff;
+
+    font-family: inherit;
+    font-size: clamp(18px, 2vw, 24px);
+    font-weight: 500;
+}
+
+.archivo-buscador input::placeholder {
+    color:
+        rgba(255, 255, 255, 0.38);
+}
+
+/* ========================================
+   RESUMEN DEL ARCHIVO
+======================================== */
+
+.archivo-resumen {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 38px;
+
+    margin-top: 42px;
+}
+
+.archivo-resumen div {
+    min-width: 130px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.archivo-resumen strong {
+    color: #ffffff;
+
+    font-size: 30px;
+    font-weight: 800;
+    line-height: 1;
+}
+
+.archivo-resumen span {
+    margin-top: 7px;
+
+    color:
+        rgba(255, 255, 255, 0.58);
+
+    font-size: 13px;
+    line-height: 1.4;
+    text-align: center;
+}
+
+
+/* ========================================
+   FORMAS DE EXPLORAR
+======================================== */
+
+.archivo-formas {
+    padding: 55px 0;
+}
+
+.archivo-seccion-encabezado {
+    max-width: 760px;
+    margin-bottom: 28px;
+}
+
+.archivo-seccion-encabezado h2 {
+    margin: 0 0 20px;
+
+    font-size: clamp(38px, 5vw, 62px);
+    line-height: 1.06;
+    letter-spacing: -0.05em;
+}
+
+.archivo-seccion-encabezado > p:last-child {
+    margin: 0;
+
+    color:
+        rgba(255, 255, 255, 0.65);
+
+    font-size: 18px;
+    line-height: 1.7;
+}
+
+.archivo-opciones {
+    display: grid;
+
+    grid-template-columns:
+        repeat(2, minmax(0, 1fr));
+
+    gap: 18px;
+}
+
+.archivo-opcion {
+    position: relative;
+
+    min-height: 140px;
+
+    display: grid;
+
+    grid-template-columns:
+        auto 1fr auto;
+
+    gap: 22px;
+    align-items: flex-start;
+
+    padding: 22px;
+
+    overflow: hidden;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.1);
+
+    border-radius: 18px;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(21, 39, 62, 0.88),
+            rgba(10, 14, 21, 0.98)
+        );
+
+    color: inherit;
+    text-decoration: none;
+
+    box-shadow:
+        0 18px 45px rgba(0, 0, 0, 0.12);
+
+    transition:
+        transform 0.2s ease,
+        border-color 0.2s ease,
+        background 0.2s ease,
+        box-shadow 0.2s ease;
+}
+
+.archivo-opcion:hover {
+    transform: translateY(-6px);
+
+    border-color:
+        rgba(110, 198, 255, 0.45);
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(28, 55, 87, 0.9),
+            rgba(8, 13, 20, 0.99)
+        );
+
+    box-shadow:
+        0 25px 55px rgba(0, 0, 0, 0.2);
+}
+
+.archivo-opcion-icono {
+    width: 46px;
+    height: 46px;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 14px;
+
+    background:
+        rgba(110, 198, 255, 0.11);
+
+    font-size: 26px;
+}
+
+.archivo-opcion h3 {
+    margin: 3px 0 12px;
+    font-size: 19px;
+}
+
+.archivo-opcion p {
+    margin: 0;
+
+    color:
+        rgba(255, 255, 255, 0.62);
+
+    font-size: 14px;
+    line-height: 1.65;
+}
+
+.archivo-opcion-flecha {
+    align-self: center;
+
+    color: #6ec6ff;
+
+    font-size: 27px;
+
+    transition:
+        transform 0.2s ease;
+}
+
+.archivo-opcion:hover
+.archivo-opcion-flecha {
+    transform:
+        translateX(4px);
+}
+
+.archivo-opcion-proximamente {
+    cursor: default;
+    opacity: 0.68;
+}
+
+.archivo-opcion-proximamente:hover {
+    transform: none;
+
+    border-color:
+        rgba(255, 255, 255, 0.1);
+
+    box-shadow:
+        0 18px 45px rgba(0, 0, 0, 0.12);
+}
+
+.archivo-etiqueta {
+    display: inline-flex;
+
+    margin-bottom: 8px;
+    padding: 5px 9px;
+
+    border-radius: 999px;
+
+    background:
+        rgba(110, 198, 255, 0.11);
+
+    color: #6ec6ff;
+
+    font-size: 11px;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+/* ========================================
+   FOOTER
+======================================== */
+
+.archivo-footer {
+    padding: 55px 24px;
+
+    text-align: center;
+
+    background: #05070a;
+}
+
+.archivo-footer strong {
+    font-size: 18px;
+}
+
+.archivo-footer p {
+    margin: 10px 0 0;
+
+    color:
+        rgba(255, 255, 255, 0.55);
+
+    font-size: 14px;
+}
+
+
+/* ========================================
+   TABLET
+======================================== */
+
+@media (max-width: 850px) {
+
+    .archivo-opciones {
+        grid-template-columns: 1fr;
+    }
+
+}
+
+/* ========================================
+   CELULAR
+======================================== */
+
+@media (max-width: 700px) {
+
+    .pagina-archivo .navbar nav {
+        display: none;
+    }
+
+    .archivo-contenedor {
+        width:
+            min(100% - 36px, 1180px);
+    }
+
+    .archivo-hero {
+        min-height: auto;
+
+        padding:
+            120px 0 75px;
+    }
+
+    .archivo-hero h1 {
+        font-size: 48px;
+        line-height: 1.02;
+    }
+
+    .archivo-bajada {
+        font-size: 18px;
+    }
+
+    .archivo-buscador {
+        margin-top: 32px;
+    }
+
+    .archivo-buscador-caja {
+        min-height: 70px;
+
+        padding:
+            0 18px;
+
+        border-radius: 15px;
+    }
+
+    .archivo-buscador input {
+        padding: 19px 0;
+        font-size: 17px;
+    }
+
+    .archivo-buscador-icono {
+        font-size: 20px;
+    }
+
+    .archivo-resumen {
+        display: grid;
+
+        grid-template-columns:
+            repeat(2, minmax(0, 1fr));
+
+        gap: 24px 16px;
+
+        margin-top: 38px;
+    }
+
+    .archivo-resumen div {
+        min-width: 0;
+    }
+
+    .archivo-resumen strong {
+        font-size: 25px;
+    }
+
+    .archivo-resumen span {
+        font-size: 12px;
+    }
+
+    .archivo-formas {
+    padding: 72px 0;
+}
+
+    .archivo-seccion-encabezado {
+        margin-bottom: 36px;
+    }
+
+    .archivo-opcion {
+        min-height: auto;
+
+        grid-template-columns:
+            auto 1fr;
+
+        padding: 24px;
+    }
+
+    .archivo-opcion-flecha {
+        display: none;
+    }
+
+    .archivo-opcion-icono {
+        width: 46px;
+        height: 46px;
+
+        font-size: 22px;
+    }
+
+    .archivo-opcion h3 {
+        font-size: 19px;
+    }
+
+}
+
+
+/* ========================================
+   CELULARES PEQUEÑOS
+======================================== */
+
+@media (max-width: 430px) {
+
+    .archivo-hero h1 {
+        font-size: 40px;
+    }
+
+    .archivo-resumen {
+        grid-template-columns: 1fr;
+    }
+
+    .archivo-opcion {
+        grid-template-columns: 1fr;
+        gap: 16px;
+    }
+
+}
+/* ========================================
+   PORTADA DEL ARCHIVO COMPACTA
+======================================== */
+
+.archivo-hero {
+    min-height: auto;
+    padding: 85px 0 32px;
+}
+
+.archivo-sobrelinea {
+    margin-bottom: 8px;
+    font-size: 11px;
+    letter-spacing: 0.12em;
+}
+
+.archivo-hero h1 {
+    max-width: 700px;
+    font-size: clamp(36px, 5vw, 54px);
+    line-height: 1;
+    letter-spacing: -0.055em;
+}
+
+.archivo-bajada {
+    max-width: 650px;
+    margin-top: 12px;
+    font-size: 18px;
+    line-height: 1.45;
+}
+
+.archivo-buscador {
+    max-width: 850px;
+    margin-top: 22px;
+}
+
+.archivo-buscador-caja {
+    min-height: 58px;
+    padding: 6px 18px;
+    border-radius: 15px;
+}
+
+.archivo-buscador-icono {
+    font-size: 18px;
+}
+
+.archivo-buscador input {
+    padding: 12px 0;
+    font-size: 17px;
+}
+
+.archivo-resumen {
+    gap: 28px;
+    margin-top: 24px;
+}
+
+.archivo-resumen div {
+    min-width: 110px;
+}
+
+.archivo-resumen strong {
+    font-size: 23px;
+}
+
+.archivo-resumen span {
+    margin-top: 5px;
+    font-size: 11px;
+}
+
+
+/* ========================================
+   HERRAMIENTAS MÁS CERCA DEL HERO
+======================================== */
+
+.archivo-formas {
+    padding: 38px 0 55px;
+}
+
+.archivo-seccion-encabezado {
+    margin-bottom: 22px;
+}
+
+.archivo-seccion-encabezado h2 {
+    margin: 0;
+    font-size: clamp(28px, 4vw, 40px);
+    line-height: 1.1;
+}
+
+.archivo-opciones {
+    gap: 12px;
+}
+
+.archivo-opcion {
+    min-height: 112px;
+    gap: 16px;
+    padding: 18px;
+    border-radius: 14px;
+}
+
+.archivo-opcion-icono {
+    width: 42px;
+    height: 42px;
+    border-radius: 11px;
+    font-size: 21px;
+}
+
+.archivo-opcion h3 {
+    margin: 2px 0 7px;
+    font-size: 17px;
+}
+
+.archivo-opcion p {
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.archivo-opcion-flecha {
+    font-size: 22px;
+}
+
+
+/* ========================================
+   CELULAR
+======================================== */
+
+@media (max-width: 700px) {
+
+    .archivo-hero {
+        padding: 90px 0 35px;
+    }
+
+    .archivo-hero h1 {
+        font-size: 40px;
+    }
+
+    .archivo-bajada {
+        font-size: 16px;
+    }
+
+    .archivo-buscador {
+        margin-top: 24px;
+    }
+
+    .archivo-buscador-caja {
+        min-height: 58px;
+        padding: 6px 16px;
+    }
+
+    .archivo-resumen {
+        grid-template-columns:
+            repeat(2, minmax(0, 1fr));
+
+        gap: 18px 12px;
+        margin-top: 24px;
+    }
+
+    .archivo-formas {
+        padding: 38px 0 50px;
+    }
+
+    .archivo-opcion {
+        padding: 18px;
+    }
+
+}

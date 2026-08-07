@@ -521,30 +521,6 @@
   },
   {
     "pais": "Argentina",
-    "provincia": "Capital Federal",
-    "localidad": "Mataderos",
-    "lat": -34.6578631,
-    "lng": -58.5017617,
-    "nombreEncontrado": "Mataderos, Buenos Aires, Comuna 9, Ciudad Autónoma de Buenos Aires, Argentina"
-  },
-  {
-    "pais": "Argentina",
-    "provincia": "Capital Federal",
-    "localidad": "Palermo",
-    "lat": -34.5803362,
-    "lng": -58.4245236,
-    "nombreEncontrado": "Palermo, Buenos Aires, Comuna 14, Ciudad Autónoma de Buenos Aires, Argentina"
-  },
-  {
-    "pais": "Argentina",
-    "provincia": "Capital Federal",
-    "localidad": "Puerto Madero",
-    "lat": -34.6103764,
-    "lng": -58.3622067,
-    "nombreEncontrado": "Puerto Madero, Buenos Aires, Comuna 1, Ciudad Autónoma de Buenos Aires, Argentina"
-  },
-  {
-    "pais": "Argentina",
     "provincia": "Catamarca",
     "localidad": "San Fernando del Valle de Catamarca",
     "lat": -28.4688806,

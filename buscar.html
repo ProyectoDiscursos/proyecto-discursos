@@ -1,0 +1,705 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Buscar | Proyecto Discursos</title>
+
+    <link
+        rel="preconnect"
+        href="https://fonts.googleapis.com"
+    >
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/buscar.css">
+
+</head>
+
+<body class="pagina-busqueda">
+
+<header class="navbar">
+
+    <a
+        class="logo enlace-logo"
+        href="index.html"
+    >
+        Proyecto Discursos
+    </a>
+
+    <nav>
+
+        <a href="index.html">
+            Inicio
+        </a>
+
+        <a
+            href="archivo.html"
+            class="activo"
+        >
+            Archivo
+        </a>
+
+        <a href="estadisticas.html">
+            Estadísticas
+        </a>
+
+        <a href="acerca.html">
+            Acerca
+        </a>
+
+    </nav>
+
+</header>
+
+
+<main class="busqueda-pagina">
+
+    <section class="busqueda-encabezado">
+
+        <div class="busqueda-contenedor">
+
+            <a
+                class="busqueda-volver"
+                href="archivo.html"
+            >
+                ← Volver al archivo
+            </a>
+
+            <p class="busqueda-sobrelinea">
+                Buscar dentro de los discursos
+            </p>
+
+            <h1>
+                ¿Qué querés encontrar?
+            </h1>
+
+            <p class="busqueda-bajada">
+                Buscá palabras, frases o ideas dentro de las
+                transcripciones y los datos del archivo.
+            </p>
+
+            <form
+                class="busqueda-formulario"
+                role="search"
+                action="buscar.html"
+                method="get"
+            >
+
+                <label
+                    class="busqueda-label"
+                    for="consulta-busqueda"
+                >
+                    Buscar en el archivo
+                </label>
+
+                <div class="busqueda-caja">
+
+                    <span
+                        class="busqueda-icono"
+                        aria-hidden="true"
+                    >
+                        🔎
+                    </span>
+
+                    <input
+                        id="consulta-busqueda"
+                        name="q"
+                        type="search"
+                        value="manejo del fuego"
+                        placeholder="Buscar palabras, frases o ideas..."
+                        autocomplete="off"
+                    >
+
+                    <button type="submit">
+                        Buscar
+                    </button>
+
+                </div>
+
+            </form>
+
+        </div>
+
+    </section>
+
+
+    <section class="busqueda-resultados">
+
+        <div class="busqueda-contenedor">
+
+            <div class="busqueda-barra-superior">
+
+                <div>
+
+                    <p class="busqueda-sobrelinea">
+                        Resultados
+                    </p>
+
+                    <h2>
+                        “manejo del fuego”
+                    </h2>
+
+                    <p class="busqueda-cantidad">
+                        12 discursos encontrados
+                    </p>
+
+                    <p
+    id="busqueda-desglose"
+    class="busqueda-desglose"
+    hidden
+></p>
+                </div>
+
+                <div class="busqueda-controles">
+
+                    <div class="busqueda-control">
+
+                        <label for="orden-resultados">
+                            Ordenar por
+                        </label>
+
+                        <select id="orden-resultados">
+
+                            <option value="relevancia">
+                                Relevancia
+                            </option>
+
+                            <option value="recientes">
+                                Más recientes
+                            </option>
+
+                            <option value="antiguos">
+                                Más antiguos
+                            </option>
+
+                        </select>
+
+                    </div>
+
+                    <div class="busqueda-control">
+
+                        <label for="resultados-por-pagina">
+                            Resultados por página
+                        </label>
+
+                        <select id="resultados-por-pagina">
+
+                            <option value="10" selected>
+                                10
+                            </option>
+
+                            <option value="25">
+                                25
+                            </option>
+
+                            <option value="50">
+                                50
+                            </option>
+
+                        </select>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+<section class="busqueda-filtros-avanzados">
+
+    <button
+        id="abrir-filtros"
+        class="busqueda-filtros-boton"
+        type="button"
+        aria-expanded="false"
+        aria-controls="panel-filtros"
+    >
+        <span>
+            ⚙️ Filtros avanzados
+        </span>
+
+        <span
+            id="cantidad-filtros-activos"
+            class="busqueda-filtros-contador"
+            hidden
+        >
+            0
+        </span>
+
+        <span
+            class="busqueda-filtros-flecha"
+            aria-hidden="true"
+        >
+            ↓
+        </span>
+    </button>
+
+    <div
+        id="filtros-activos"
+        class="busqueda-filtros-activos"
+        hidden
+    ></div>
+    <div
+        id="panel-filtros"
+        class="busqueda-filtros-panel"
+        hidden
+    >
+
+        <div class="busqueda-filtros-grilla">
+
+            <div class="busqueda-campo-filtro">
+
+                <label for="filtro-anio">
+                    Año
+                </label>
+
+                <select id="filtro-anio">
+
+                    <option value="">
+                        Todos los años
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <div class="busqueda-campo-filtro">
+
+                <label for="filtro-pais">
+                    País
+                </label>
+
+                <select id="filtro-pais">
+
+                    <option value="">
+                        Todos los países
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <div class="busqueda-campo-filtro">
+
+                <label for="filtro-provincia">
+                    Provincia
+                </label>
+
+                <select
+                    id="filtro-provincia"
+                    disabled
+                >
+
+                    <option value="">
+                        Todas las provincias
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <div class="busqueda-campo-filtro">
+
+                <label for="filtro-localidad">
+                    Localidad
+                </label>
+
+                <select
+                    id="filtro-localidad"
+                    disabled
+                >
+
+                    <option value="">
+                        Todas las localidades
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <div class="busqueda-campo-filtro">
+
+                <label for="filtro-lugar-especifico">
+                    Lugar específico
+                </label>
+
+                <select id="filtro-lugar-especifico">
+
+                    <option value="">
+                        Todos los lugares
+                    </option>
+
+                </select>
+
+            </div>
+
+
+            <div class="busqueda-campo-filtro">
+
+                <label for="filtro-coleccion">
+                    Colección
+                </label>
+
+                <select id="filtro-coleccion">
+
+                    <option value="">
+                        Todas las colecciones
+                    </option>
+
+                </select>
+
+            </div>
+
+        </div>
+
+
+        <div class="busqueda-filtros-opciones">
+
+            <label class="busqueda-check">
+
+                <input
+                    id="filtro-video"
+                    type="checkbox"
+                >
+
+                <span>
+                    Solo con video
+                </span>
+
+            </label>
+
+
+            <label class="busqueda-check">
+
+                <input
+                    id="filtro-transcripcion"
+                    type="checkbox"
+                >
+
+                <span>
+                    Solo con transcripción
+                </span>
+
+            </label>
+
+        </div>
+
+
+        <div class="busqueda-filtros-acciones">
+
+            <button
+                id="limpiar-filtros"
+                type="button"
+                class="busqueda-filtros-limpiar"
+            >
+                Limpiar filtros
+            </button>
+
+            <button
+                id="aplicar-filtros"
+                type="button"
+                class="busqueda-filtros-aplicar"
+            >
+                Aplicar filtros
+            </button>
+
+        </div>
+
+    </div>
+
+</section>
+
+            <div class="busqueda-lista">
+
+                <article class="resultado-busqueda">
+
+                    <div class="resultado-fecha">
+
+                        <span>
+                            23
+                        </span>
+
+                        <small>
+                            JUL 2013
+                        </small>
+
+                    </div>
+
+                    <div class="resultado-contenido">
+
+                        <p class="resultado-id">
+                            CFK-20130723-01
+                        </p>
+
+                        <h3>
+
+                            <a
+                                href="discurso.html?id=CFK-20130723-01"
+                            >
+                                Presentación de informe sobre
+                                extranjerización de tierras
+                            </a>
+
+                        </h3>
+
+                        <div class="resultado-metadatos">
+
+                            <span>
+                                📍 Capital Federal
+                            </span>
+
+                            <span>
+                                🗂️ Discursos destacados
+                            </span>
+
+                        </div>
+
+                        <blockquote class="resultado-fragmento">
+
+                            “…la defensa de nuestros recursos
+                            naturales también implica fortalecer
+                            las políticas de
+                            <mark>manejo del fuego</mark>
+                            en todo el territorio nacional…”
+
+                        </blockquote>
+
+                        <a
+                            class="resultado-enlace"
+                            href="discurso.html?id=CFK-20130723-01"
+                        >
+                            Abrir ficha →
+                        </a>
+
+                    </div>
+
+                </article>
+
+
+                <article class="resultado-busqueda">
+
+                    <div class="resultado-fecha">
+
+                        <span>
+                            15
+                        </span>
+
+                        <small>
+                            AGO 2012
+                        </small>
+
+                    </div>
+
+                    <div class="resultado-contenido">
+
+                        <p class="resultado-id">
+                            CFK-20120815-01
+                        </p>
+
+                        <h3>
+
+                            <a href="#">
+                                Presentación de políticas públicas
+                                para la protección ambiental
+                            </a>
+
+                        </h3>
+
+                        <div class="resultado-metadatos">
+
+                            <span>
+                                📍 Buenos Aires
+                            </span>
+
+                            <span>
+                                🗂️ Ambiente
+                            </span>
+
+                        </div>
+
+                        <blockquote class="resultado-fragmento">
+
+                            “…hemos incorporado equipamiento,
+                            capacitación y nuevas herramientas
+                            para el sistema nacional de
+                            <mark>manejo del fuego</mark>…”
+
+                        </blockquote>
+
+                        <a
+                            class="resultado-enlace"
+                            href="#"
+                        >
+                            Ver discurso →
+                        </a>
+
+                    </div>
+
+                </article>
+
+
+                <article class="resultado-busqueda">
+
+                    <div class="resultado-fecha">
+
+                        <span>
+                            20
+                        </span>
+
+                        <small>
+                            JUN 2011
+                        </small>
+
+                    </div>
+
+                    <div class="resultado-contenido">
+
+                        <p class="resultado-id">
+                            CFK-20110620-01
+                        </p>
+
+                        <h3>
+
+                            <a href="#">
+                                Acto por el Día de la Bandera
+                            </a>
+
+                        </h3>
+
+                        <div class="resultado-metadatos">
+
+                            <span>
+                                📍 Rosario
+                            </span>
+
+                            <span>
+                                🗂️ Efemérides
+                            </span>
+
+                        </div>
+
+                        <blockquote class="resultado-fragmento">
+
+                            “…la prevención, la coordinación
+                            federal y el
+                            <mark>manejo del fuego</mark>
+                            deben formar parte de una política
+                            de Estado…”
+
+                        </blockquote>
+
+                        <a
+                            class="resultado-enlace"
+                            href="#"
+                        >
+                            Ver discurso →
+                        </a>
+
+                    </div>
+
+                </article>
+
+            </div>
+
+
+            <div class="busqueda-paginacion-contenedor">
+
+                <p
+                    id="resumen-paginacion"
+                    class="busqueda-resumen-paginacion"
+                >
+                    Mostrando 1–10 de 12 resultados
+                </p>
+
+                <nav
+                    class="busqueda-paginacion"
+                    aria-label="Paginación de resultados"
+                >
+
+                    <button
+                        id="pagina-anterior"
+                        type="button"
+                        disabled
+                    >
+                        ← Anterior
+                    </button>
+
+                    <div
+                        id="paginas-resultados"
+                        class="busqueda-paginas"
+                    >
+
+                        <button
+                            type="button"
+                            class="activo"
+                            aria-current="page"
+                        >
+                            1
+                        </button>
+
+                        <button type="button">
+                            2
+                        </button>
+
+                    </div>
+
+                    <button
+                        id="pagina-siguiente"
+                        type="button"
+                    >
+                        Siguiente →
+                    </button>
+
+                </nav>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<footer class="busqueda-footer">
+
+    <div class="busqueda-contenedor">
+
+        <strong>
+            Proyecto Discursos
+        </strong>
+
+        <p>
+            Archivo digital de los discursos públicos de Cristina.
+        </p>
+
+    </div>
+
+</footer>
+
+<script src="js/buscar.js"></script>
+
+</body>
+
+</html>

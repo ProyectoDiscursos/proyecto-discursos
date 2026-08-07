@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Mapa | Proyecto Discursos</title>
+
+    <link
+        rel="preconnect"
+        href="https://fonts.googleapis.com"
+    >
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link
+        rel="stylesheet"
+        href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    >
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/mapa.css">
+
+</head>
+
+<body class="pagina-mapa">
+
+<header class="navbar">
+
+    <a class="logo enlace-logo" href="index.html">
+        Proyecto Discursos
+    </a>
+
+    <nav>
+
+        <a href="index.html">Inicio</a>
+        <a href="Archivo.html" class="activo">Archivo</a>
+        <a href="estadisticas.html">Estadísticas</a>
+        <a href="acerca.html">Acerca</a>
+
+    </nav>
+
+</header>
+
+<main class="mapa-pagina">
+
+    <section class="mapa-encabezado">
+
+        <p class="detalle-sobrelinea">
+            Explorar por territorio
+        </p>
+
+        <h1>
+            Mapa de discursos
+        </h1>
+
+        <p>
+            Cada punto representa una localidad con discursos
+            registrados en el archivo.
+        </p>
+
+    </section>
+
+    <section class="mapa-panel">
+
+        <div id="mapa"></div>
+
+        <div
+            id="mapa-estado"
+            class="mapa-estado"
+        >
+            Cargando mapa...
+        </div>
+
+    </section>
+
+</main>
+
+<script
+    src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+></script>
+
+<script src="js/mapa.js"></script>
+
+</body>
+
+</html>

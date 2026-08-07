@@ -48,7 +48,7 @@
 
     <a href="estadisticas.html">Estadísticas</a>
 
-        <a href="acerca.html">Acerca</a>
+    <a href="acerca.html">Acerca</a>
 
 
 </nav>
@@ -85,7 +85,57 @@
     </section>
 
 </main>
+<div
+    id="visor-video"
+    class="visor-video"
+    hidden
+    aria-hidden="true"
+>
 
+    <div
+        class="visor-video-fondo"
+        data-cerrar-visor
+    ></div>
+
+    <section
+        class="visor-video-contenido"
+        role="dialog"
+        aria-modal="true"
+        aria-label="Reproductor de video"
+    >
+
+        <div class="visor-video-barra">
+
+            <p id="visor-video-titulo">
+                Reproducción del discurso
+            </p>
+
+            <button
+                id="cerrar-visor-video"
+                class="visor-video-cerrar"
+                type="button"
+                aria-label="Cerrar reproductor"
+            >
+                ×
+            </button>
+
+        </div>
+
+        <div class="visor-video-reproductor">
+
+            <iframe
+                id="visor-video-iframe"
+                src=""
+                title="Reproductor de Internet Archive"
+                allow="autoplay; fullscreen"
+                allowfullscreen
+            ></iframe>
+
+        </div>
+
+    </section>
+
+</div>
 <script src="js/componentes.js"></script>
 <script src="js/discurso.js"></script>
 

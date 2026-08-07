@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Explorar por lugar | Proyecto Discursos</title>
+
+    <link
+        rel="preconnect"
+        href="https://fonts.googleapis.com"
+    >
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/lugar.css">
+
+</head>
+
+<body class="pagina-lugar">
+
+<header class="navbar">
+
+    <a
+        class="logo enlace-logo"
+        href="index.html"
+    >
+        Proyecto Discursos
+    </a>
+
+    <nav>
+
+        <a href="index.html">Inicio</a>
+        <a href="Archivo.html" class="activo">Archivo</a>
+        <a href="estadisticas.html">Estadísticas</a>
+        <a href="acerca.html">Acerca</a>
+
+    </nav>
+
+</header>
+
+
+<main>
+
+    <section class="lugar-encabezado">
+
+        <div class="lugar-contenedor">
+
+            <a
+                class="lugar-volver"
+                href="archivo.html"
+            >
+                ← Volver al archivo
+            </a>
+
+            <p class="lugar-sobrelinea">
+                Explorar por lugar
+            </p>
+
+            <h1>
+                ¿Dónde fue?
+            </h1>
+
+            <p class="lugar-bajada">
+                Recorré el archivo por país, provincia y
+                localidad.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <section class="lugar-herramienta">
+
+        <div class="lugar-contenedor">
+
+            <div class="lugar-panel">
+
+                <!-- ========================================
+                     PANEL IZQUIERDO
+                ========================================= -->
+
+                <div class="lugar-panel-izquierdo">
+
+                    <div class="lugar-modos">
+
+                        <button
+                            type="button"
+                            class="lugar-modo activo"
+                            data-modo="pais"
+                        >
+                            País
+                        </button>
+
+                        <button
+                            type="button"
+                            class="lugar-modo"
+                            data-modo="provincia"
+                            disabled
+                        >
+                            Provincia
+                        </button>
+
+                        <button
+                            type="button"
+                            class="lugar-modo"
+                            data-modo="localidad"
+                            disabled
+                        >
+                            Localidad
+                        </button>
+
+                    </div>
+
+
+                    <nav
+                        id="lugar-migas"
+                        class="lugar-migas"
+                        aria-label="Ubicación seleccionada"
+                    >
+                        <button
+                            type="button"
+                            data-nivel="pais"
+                            class="activo"
+                        >
+                            Países
+                        </button>
+                    </nav>
+
+
+                    <div class="lugar-barra">
+
+                        <label
+                            class="lugar-busqueda-label"
+                            for="lugar-busqueda"
+                        >
+                            Filtrar opciones
+                        </label>
+
+                        <div class="lugar-busqueda-caja">
+
+                            <span aria-hidden="true">
+                                🔎
+                            </span>
+
+                            <input
+                                id="lugar-busqueda"
+                                type="search"
+                                placeholder="Buscar en esta lista..."
+                                autocomplete="off"
+                            >
+
+                        </div>
+
+                    </div>
+
+
+                    <div
+                        id="lugar-opciones"
+                        class="lugar-opciones"
+                    >
+
+                        <div class="lugar-cargando">
+
+                            <div class="lugar-cargando-circulo"></div>
+
+                            <p>
+                                Cargando lugares...
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- ========================================
+                     PANEL DERECHO
+                ========================================= -->
+
+                <aside class="lugar-resultados-panel">
+
+                    <div class="lugar-resultados-encabezado">
+
+                        <p class="lugar-sobrelinea">
+                            Exploración geográfica
+                        </p>
+
+                        <h2 id="lugar-resultados-titulo">
+                            Elegí un país
+                        </h2>
+
+                        <p
+                            id="lugar-resultados-cantidad"
+                            class="lugar-resultados-cantidad"
+                        >
+                            Seleccioná un país para comenzar.
+                        </p>
+
+                    </div>
+
+
+                    <div
+                        id="lugar-resultados-lista"
+                        class="lugar-resultados-lista"
+                    >
+
+                        <div class="lugar-resultados-vacio">
+
+                            <p>
+                                Los discursos aparecerán cuando
+                                elijas una localidad.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </aside>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<footer class="lugar-footer">
+
+    <div class="lugar-contenedor">
+
+        <strong>
+            Proyecto Discursos
+        </strong>
+
+        <p>
+            Archivo digital de los discursos públicos de Cristina.
+        </p>
+
+    </div>
+
+</footer>
+
+
+<script src="js/lugar.js"></script>
+
+</body>
+
+</html>

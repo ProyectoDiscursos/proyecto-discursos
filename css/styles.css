@@ -304,9 +304,9 @@ button:hover {
 
 .detalle-hero {
     position: relative;
-    min-height: 760px;
+    min-height: 560px;
     display: flex;
-    align-items: flex-end;
+    align-items: flex-start;
     overflow: hidden;
     isolation: isolate;
 }
@@ -356,13 +356,14 @@ button:hover {
     width: 100%;
     max-width: 1500px;
     margin: 0 auto;
-    padding: 130px 70px 85px;
+    padding: 95px 70px 55px;
+
 }
 
 .volver-inicio {
     display: inline-flex;
     align-items: center;
-    margin-bottom: 55px;
+    margin-bottom: 28px;
 
     color: rgba(255, 255, 255, 0.78);
     text-decoration: none;
@@ -380,7 +381,7 @@ button:hover {
 }
 
 .detalle-informacion {
-    max-width: 820px;
+    max-width: 620px;
 }
 
 .detalle-id {
@@ -394,12 +395,12 @@ button:hover {
 }
 
 .detalle-informacion h1 {
-    max-width: 950px;
+    max-width: 620px;
     margin: 0;
 
-    font-size: clamp(42px, 5vw, 76px);
-    line-height: 1.02;
-    letter-spacing: -0.045em;
+    font-size: clamp(36px, 4.2vw, 54px);
+    line-height: 1.03;
+    letter-spacing: -0.04em;
     font-weight: 800;
 
     text-wrap: balance;
@@ -407,12 +408,12 @@ button:hover {
 }
 
 .detalle-slogan {
-    max-width: 730px;
-    margin: 25px 0 0;
+    max-width: 600px;
+    margin: 16px 0 0;
 
     color: rgba(255, 255, 255, 0.82);
-    font-size: clamp(18px, 2vw, 25px);
-    line-height: 1.5;
+    font-size: clamp(17px, 1.7vw, 21px);
+    line-height: 1.4;
     font-style: italic;
 }
 
@@ -420,7 +421,7 @@ button:hover {
     display: flex;
     flex-wrap: wrap;
     gap: 14px 25px;
-    margin-top: 28px;
+    margin-top: 18px;
 }
 
 .detalle-dato {
@@ -441,7 +442,7 @@ button:hover {
     display: flex;
     flex-wrap: wrap;
     gap: 9px;
-    margin-top: 22px;
+    margin-top: 16px;
 }
 
 .detalle-chip {
@@ -466,29 +467,30 @@ button:hover {
     flex-wrap: wrap;
     align-items: center;
     gap: 13px;
-    margin-top: 35px;
+    margin-top: 22px;
 }
 
 .boton-reproducir,
 .boton-secundario {
-    min-height: 52px;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 11px;
 
-    padding: 0 25px;
+    height: 44px;
+    margin: 0;
+    padding: 0 18px;
+
     border-radius: 8px;
 
-    text-decoration: none;
     font-family: inherit;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
+    line-height: 1;
 
-    transition:
-        transform 0.2s ease,
-        background 0.2s ease,
-        border-color 0.2s ease;
+    text-decoration: none;
+    white-space: nowrap;
+
+    box-sizing: border-box;
 }
 
 .boton-reproducir {
@@ -507,7 +509,7 @@ button:hover {
 }
 
 .boton-secundario {
-    border: 1px solid rgba(255, 255, 255, 0.25);
+    border: 1px solid rgba(255,255,255,.22);
     background: rgba(255, 255, 255, 0.11);
     color: #ffffff;
     backdrop-filter: blur(12px);
@@ -735,12 +737,14 @@ button:hover {
 @media (max-width: 1000px) {
 
     .detalle-hero {
-        min-height: 680px;
+        min-height: 540px;
     }
 
     .detalle-hero-contenido {
         padding-right: 40px;
         padding-left: 40px;
+        padding-top: 90px;
+        padding-bottom: 45px;
     }
 
     .detalle-seccion {
@@ -783,7 +787,7 @@ button:hover {
     }
 
     .detalle-hero {
-        min-height: 720px;
+        min-height: 520px;
     }
 
     .detalle-fondo {
@@ -801,15 +805,17 @@ button:hover {
     }
 
     .detalle-hero-contenido {
-        padding: 100px 22px 55px;
+        padding: 82px 22px 38px;
+
     }
 
     .volver-inicio {
-        margin-bottom: 210px;
+        margin-bottom: 24px;
     }
 
     .detalle-informacion h1 {
-        font-size: clamp(34px, 11vw, 49px);
+        font-size: clamp(31px, 9vw, 42px);
+    line-height: 1.05;
     }
 
     .detalle-slogan {
@@ -2017,4 +2023,290 @@ html {
 }
 html {
     scroll-behavior: smooth;
+}
+/* ========================================
+   VISOR DE VIDEO TIPO CINE
+======================================== */
+
+.visor-video[hidden] {
+    display: none;
+}
+
+.visor-video {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 28px;
+
+    background: rgba(0, 0, 0, 0.88);
+    backdrop-filter: blur(12px);
+}
+
+.visor-video-fondo {
+    position: absolute;
+    inset: 0;
+}
+
+.visor-video-contenido {
+    position: relative;
+    z-index: 1;
+
+    width: min(96vw, 1500px);
+
+    overflow: hidden;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.14);
+
+    border-radius: 16px;
+
+    background: #05070a;
+
+    box-shadow:
+        0 35px 100px rgba(0, 0, 0, 0.65);
+}
+
+.visor-video-barra {
+    min-height: 58px;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+
+    padding: 0 18px 0 22px;
+
+    border-bottom:
+        1px solid rgba(255, 255, 255, 0.08);
+
+    background:
+        rgba(8, 11, 15, 0.96);
+}
+
+.visor-video-barra p {
+    margin: 0;
+
+    color:
+        rgba(255, 255, 255, 0.82);
+
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.visor-video-cerrar {
+    width: 42px;
+    height: 42px;
+
+    margin: 0;
+    padding: 0;
+
+    border:
+        1px solid rgba(255, 255, 255, 0.14);
+
+    border-radius: 50%;
+
+    background:
+        rgba(255, 255, 255, 0.07);
+
+    color: #ffffff;
+
+    font-size: 27px;
+    font-weight: 400;
+    line-height: 1;
+
+    cursor: pointer;
+}
+
+.visor-video-cerrar:hover {
+    transform: none;
+
+    border-color:
+        rgba(255, 255, 255, 0.32);
+
+    background:
+        rgba(255, 255, 255, 0.13);
+}
+
+.visor-video-reproductor {
+    position: relative;
+
+    width: 100%;
+    aspect-ratio: 16 / 9;
+
+    background: #000000;
+}
+
+.visor-video-reproductor iframe {
+    position: absolute;
+    inset: 0;
+
+    width: 100%;
+    height: 100%;
+
+    border: 0;
+}
+
+body.visor-video-abierto {
+    overflow: hidden;
+}
+
+
+/* ========================================
+   CELULAR
+======================================== */
+
+@media (max-width: 700px) {
+
+    .visor-video {
+        padding: 0;
+        align-items: center;
+    }
+
+    .visor-video-contenido {
+        width: 100%;
+        border-radius: 0;
+    }
+
+    .visor-video-barra {
+        min-height: 52px;
+        padding: 0 10px 0 16px;
+    }
+
+    .visor-video-barra p {
+        max-width: calc(100% - 55px);
+
+        overflow: hidden;
+
+        font-size: 13px;
+
+        white-space: nowrap;
+        text-overflow: ellipsis;
+    }
+
+    .visor-video-cerrar {
+        width: 38px;
+        height: 38px;
+        font-size: 24px;
+    }
+
+}
+/* ========================================
+   VISOR DE VIDEO
+======================================== */
+
+.visor-video[hidden]{
+    display:none;
+}
+
+.visor-video{
+    position:fixed;
+    inset:0;
+    z-index:99999;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+
+    padding:30px;
+
+    background:rgba(0,0,0,.88);
+    backdrop-filter:blur(12px);
+}
+
+.visor-video-fondo{
+    position:absolute;
+    inset:0;
+}
+
+.visor-video-contenido{
+
+    position:relative;
+    z-index:2;
+
+    width:min(95vw,1500px);
+
+    background:#05070a;
+
+    border-radius:16px;
+
+    overflow:hidden;
+
+    box-shadow:0 30px 90px rgba(0,0,0,.6);
+}
+
+.visor-video-barra{
+
+    height:58px;
+
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+
+    padding:0 20px;
+
+    background:#0b1016;
+
+    border-bottom:1px solid rgba(255,255,255,.08);
+}
+
+.visor-video-barra p{
+
+    margin:0;
+
+    color:white;
+
+    font-size:15px;
+    font-weight:700;
+}
+
+.visor-video-cerrar{
+
+    width:42px;
+    height:42px;
+
+    border:none;
+
+    border-radius:50%;
+
+    background:rgba(255,255,255,.08);
+
+    color:white;
+
+    font-size:28px;
+
+    cursor:pointer;
+}
+
+.visor-video-cerrar:hover{
+
+    background:rgba(255,255,255,.18);
+
+    transform:none;
+}
+
+.visor-video-reproductor{
+
+    width:100%;
+
+    aspect-ratio:16/9;
+
+    background:black;
+}
+
+.visor-video-reproductor iframe{
+
+    width:100%;
+    height:100%;
+
+    border:0;
+}
+
+body.visor-video-abierto{
+
+    overflow:hidden;
 }

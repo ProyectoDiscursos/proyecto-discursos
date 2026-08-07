@@ -233,3 +233,4 @@ Lista de mejoras, ideas y tareas pendientes del proyecto.
 - [ ] Mejorar SEO y vista previa al compartir enlaces.
 - [ ] Agregar imagen social para cada discurso.
 - [ ] Crear una versión 1.0 documentada en GitHub Releases.
+- [ ] Sumar otro tipo de material (tweets, posts de facebook, prólogos, cartas, etc.)

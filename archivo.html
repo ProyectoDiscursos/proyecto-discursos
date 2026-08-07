@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Archivo | Proyecto Discursos</title>
+
+    <link
+        rel="preconnect"
+        href="https://fonts.googleapis.com"
+    >
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/archivo.css">
+
+</head>
+
+<body class="pagina-archivo">
+
+<header class="navbar">
+
+    <a
+        class="logo enlace-logo"
+        href="index.html"
+    >
+        Proyecto Discursos
+    </a>
+
+    <nav>
+
+        <a href="index.html">
+            Inicio
+        </a>
+
+        <a
+            href="archivo.html"
+            class="activo"
+        >
+            Archivo
+        </a>
+
+        <a href="estadisticas.html">
+            Estadísticas
+        </a>
+
+        <a href="acerca.html">
+            Acerca
+        </a>
+
+    </nav>
+
+</header>
+
+
+<main>
+
+    <section class="archivo-hero">
+
+        <div class="archivo-hero-fondo"></div>
+
+        <div
+            class="
+                archivo-contenedor
+                archivo-hero-contenido
+            "
+        >
+
+            <p class="archivo-sobrelinea">
+                Archivo documental
+            </p>
+
+            <h1>
+                ¿Qué querés encontrar hoy?
+            </h1>
+
+            <p class="archivo-bajada">
+                Buscá palabras, frases o ideas dentro de
+                casi dos mil discursos públicos de Cristina.
+            </p>
+
+                <form
+                   class="archivo-buscador"
+                    action="buscar.html"
+                    method="get"
+                     role="search"
+            >
+
+                <label
+                    class="archivo-buscador-label"
+                    for="buscar-contenido"
+                >
+                    Buscar en el archivo
+                </label>
+
+                <div class="archivo-buscador-caja">
+
+                    <span
+                        class="archivo-buscador-icono"
+                        aria-hidden="true"
+                    >
+                        🔎
+                    </span>
+
+                    <input
+                        id="buscar-contenido"
+                        name="q"
+                        type="search"
+                        placeholder="¿Qué querés encontrar?"
+                        autocomplete="off"
+                    >
+
+                </div>
+
+            </form>
+
+            
+            <div class="archivo-resumen">
+
+                <div>
+                    <strong>1.988</strong>
+                    <span>discursos</span>
+                </div>
+
+                <div>
+                    <strong>672</strong>
+                    <span>registros audiovisuales</span>
+                </div>
+
+                <div>
+                    <strong>241</strong>
+                    <span>localidades</span>
+                </div>
+
+                <div>
+                    <strong>2005-2025</strong>
+                    <span>período del archivo</span>
+                </div>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <section class="archivo-formas">
+
+        <div class="archivo-contenedor">
+
+            <div class="archivo-seccion-encabezado">
+
+                <p class="archivo-sobrelinea">
+                    Herramientas de consulta
+                </p>
+
+                <h2>
+                    Elegí cómo querés explorar el archivo
+                </h2>
+
+            </div>
+
+            <div class="archivo-opciones">
+
+                
+                <a
+                    class="archivo-opcion"
+                    href="fecha.html"
+                >
+
+                    <span class="archivo-opcion-icono">
+                        📅
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Buscar por fecha
+                        </h3>
+
+                        <p>
+                            Explorá los discursos por día, mes o año
+                            a través de una vista de calendario.
+                        </p>
+
+                    </div>
+
+                    <span class="archivo-opcion-flecha">
+                        →
+                    </span>
+
+                </a>
+
+
+                <a
+                    class="archivo-opcion"
+                    href="lugar.html"
+                >
+
+                    <span class="archivo-opcion-icono">
+                        📍
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Buscar por lugar
+                        </h3>
+
+                        <p>
+                            Explorá por país, provincia, localidad
+                            o lugar específico.
+                        </p>
+
+                    </div>
+
+                    <span class="archivo-opcion-flecha">
+                        →
+                    </span>
+
+                </a>
+
+
+                <a
+                    class="archivo-opcion"
+                    href="colecciones.html"
+                >
+
+                    <span class="archivo-opcion-icono">
+                        🗂️
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Colecciones
+                        </h3>
+
+                        <p>
+                            Recorré los discursos agrupados por
+                            temas, acontecimientos y tipos de acto.
+                        </p>
+
+                    </div>
+
+                    <span class="archivo-opcion-flecha">
+                        →
+                    </span>
+
+                </a>
+
+
+                <a
+                    class="archivo-opcion"
+                    href="mapa.html"
+                >
+
+                    <span class="archivo-opcion-icono">
+                        🗺️
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Explorar en el mapa
+                        </h3>
+
+                        <p>
+                            Descubrí geográficamente dónde fueron
+                            pronunciados los discursos.
+                        </p>
+
+                    </div>
+
+                    <span class="archivo-opcion-flecha">
+                        →
+                    </span>
+
+                </a>
+
+
+                <a
+                    class="archivo-opcion"
+                    href="explorar.html"
+                >
+
+                    <span class="archivo-opcion-icono">
+                        📚
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Ver todos los discursos
+                        </h3>
+
+                        <p>
+                            Consultá el archivo completo y combiná
+                            distintos filtros de búsqueda.
+                        </p>
+
+                    </div>
+
+                    <span class="archivo-opcion-flecha">
+                        →
+                    </span>
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<footer class="archivo-footer">
+
+    <div class="archivo-contenedor">
+
+        <strong>
+            Proyecto Discursos
+        </strong>
+
+        <p>
+            Archivo digital de los discursos públicos de Cristina.
+        </p>
+
+    </div>
+
+</footer>
+
+</body>
+
+</html>

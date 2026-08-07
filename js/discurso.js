@@ -218,48 +218,29 @@ const etiquetasLugaresEspecificos =
             .toUpperCase()
     );
 
-    const botonVideo = tieneVideo
-    ? `
-        <a
-            class="boton-reproducir"
-            href="#video"
-        >
-            <span class="icono-reproducir">▶</span>
-            Reproducir discurso
-        </a>
-    `
-    : "";
+    const urlVideoArchive =
+    tieneVideo
+        ? `https://archive.org/embed/${
+            String(discurso.id).toLowerCase()
+        }`
+        : "";
 
-    const seccionVideo = tieneVideo
-    ? `
-        <section
-            id="video"
-            class="detalle-video"
-        >
-            <div class="detalle-video-contenedor">
+const botonVideo =
+    tieneVideo
+        ? `
+            <button
+                id="abrir-video"
+                class="boton-reproducir"
+                type="button"
+            >
+                <span class="icono-reproducir">
+                    ▶
+                </span>
 
-                <p class="detalle-sobrelinea">
-                    Archivo audiovisual
-                </p>
-
-                <h2>Video</h2>
-
-                <div class="reproductor-archive">
-                    <iframe
-                        src="https://archive.org/embed/${
-                            discurso.id.toLowerCase()
-                        }"
-                        title="Video del discurso"
-                        loading="lazy"
-                        allow="fullscreen"
-                        allowfullscreen
-                    ></iframe>
-                </div>
-
-            </div>
-        </section>
-    `
-    : "";
+                Reproducir discurso
+            </button>
+        `
+        : "";
 
     const enlaceCorreccion =
     `https://docs.google.com/forms/d/e/1FAIpQLSf4N3ip6Smv9yc2DojTPHfXPo1LmqAOj38IYaWADYH2rWdViQ/viewform` +
@@ -474,8 +455,6 @@ ${
 
             </section>
 
-            ${seccionVideo}
-
             <section
     id="transcripcion"
     class="detalle-transcripcion"
@@ -564,8 +543,40 @@ ${
 `;
 
     configurarImagenAlternativa(imagen);
-    actualizarTituloPagina(discurso.titulo);
-    configurarBotonTranscripcion();
+actualizarTituloPagina(discurso.titulo);
+configurarBotonTranscripcion();
+
+configurarVisorVideo(
+    urlVideoArchive,
+    discurso.titulo
+);
+}
+
+function configurarVisorVideo(
+    urlVideo,
+    titulo
+) {
+    const botonAbrirVideo =
+        document.getElementById(
+            "abrir-video"
+        );
+
+    if (
+        !botonAbrirVideo
+        || !urlVideo
+    ) {
+        return;
+    }
+
+    botonAbrirVideo.addEventListener(
+        "click",
+        () => {
+            abrirVisorVideo(
+                urlVideo,
+                titulo
+            );
+        }
+    );
 }
 
 function obtenerImagen(discurso) {
@@ -1084,3 +1095,115 @@ async function alternarTranscripcion() {
 
     transcripcionVisible = true;
 }
+const visorVideo =
+    document.getElementById(
+        "visor-video"
+    );
+
+const visorVideoIframe =
+    document.getElementById(
+        "visor-video-iframe"
+    );
+
+const visorVideoTitulo =
+    document.getElementById(
+        "visor-video-titulo"
+    );
+
+const botonCerrarVisor =
+    document.getElementById(
+        "cerrar-visor-video"
+    );
+
+
+function abrirVisorVideo(
+    urlEmbed,
+    titulo
+) {
+    if (
+        !visorVideo
+        || !visorVideoIframe
+        || !urlEmbed
+    ) {
+        return;
+    }
+
+    visorVideoIframe.src =
+        urlEmbed;
+
+    visorVideoTitulo.textContent =
+        titulo || "Reproducción del discurso";
+
+    visorVideo.hidden = false;
+
+    visorVideo.setAttribute(
+        "aria-hidden",
+        "false"
+    );
+
+    document.body.classList.add(
+        "visor-video-abierto"
+    );
+
+    botonCerrarVisor?.focus();
+}
+
+
+function cerrarVisorVideo() {
+    if (
+        !visorVideo
+        || !visorVideoIframe
+    ) {
+        return;
+    }
+
+    visorVideo.hidden = true;
+
+    visorVideo.setAttribute(
+        "aria-hidden",
+        "true"
+    );
+
+    document.body.classList.remove(
+        "visor-video-abierto"
+    );
+
+    /*
+     * Vaciar el src detiene el video.
+     */
+    visorVideoIframe.src = "";
+}
+
+
+botonCerrarVisor?.addEventListener(
+    "click",
+    cerrarVisorVideo
+);
+
+
+document
+    .querySelectorAll(
+        "[data-cerrar-visor]"
+    )
+    .forEach(
+        elemento => {
+            elemento.addEventListener(
+                "click",
+                cerrarVisorVideo
+            );
+        }
+    );
+
+
+document.addEventListener(
+    "keydown",
+    evento => {
+        if (
+            evento.key === "Escape"
+            && visorVideo
+            && !visorVideo.hidden
+        ) {
+            cerrarVisorVideo();
+        }
+    }
+);

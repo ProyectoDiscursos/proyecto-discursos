@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <title>Buscar por fecha | Proyecto Discursos</title>
+
+    <link
+        rel="preconnect"
+        href="https://fonts.googleapis.com"
+    >
+
+    <link
+        rel="preconnect"
+        href="https://fonts.gstatic.com"
+        crossorigin
+    >
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap"
+        rel="stylesheet"
+    >
+
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/fecha.css">
+
+</head>
+
+<body class="pagina-fecha">
+
+<header class="navbar">
+
+    <a
+        class="logo enlace-logo"
+        href="index.html"
+    >
+        Proyecto Discursos
+    </a>
+
+    <nav>
+
+        <a href="index.html">Inicio</a>
+        <a href="Archivo.html" class="activo">Archivo</a>
+        <a href="estadisticas.html">Estadísticas</a>
+        <a href="acerca.html">Acerca</a>
+
+    </nav>
+
+</header>
+
+
+<main>
+
+    <section class="fecha-encabezado">
+
+        <div class="fecha-contenedor">
+
+            <a
+                class="fecha-volver"
+                href="archivo.html"
+            >
+                ← Volver al archivo
+            </a>
+
+            <p class="fecha-sobrelinea">
+                Explorar por fecha
+            </p>
+
+            <h1>
+                ¿Cuándo fue?
+            </h1>
+
+            <p class="fecha-bajada">
+                Elegí un día, un mes o un año para recorrer
+                cronológicamente los discursos.
+            </p>
+
+        </div>
+
+    </section>
+
+
+    <section class="fecha-herramienta">
+
+        <div class="fecha-contenedor">
+
+            <div class="fecha-panel">
+
+                <!-- ========================================
+                     PANEL IZQUIERDO
+                ========================================= -->
+
+                <div class="fecha-panel-izquierdo">
+
+                    <div class="fecha-modos">
+
+                        
+                        <button
+                            type="button"
+                            class="fecha-modo"
+                            data-modo="anio"
+                        >
+                            Año
+                        </button>
+
+                        <button
+                            type="button"
+                            class="fecha-modo"
+                            data-modo="mes"
+                        >
+                            Mes
+                        </button>
+
+                        <button
+                            type="button"
+                            class="fecha-modo activo"
+                            data-modo="dia"
+                        >
+                            Día
+                        </button>
+
+                        <button
+                            type="button"
+                            class="fecha-modo"
+                            data-modo="etapas"
+                        >
+                            Etapas
+                        </button>
+
+                    </div>
+
+
+                    <!-- ========================================
+                         VISTA DÍA Y MES
+                    ========================================= -->
+
+                    <div id="vista-calendario">
+
+                        <div class="fecha-calendario">
+
+                            <div class="fecha-calendario-cabecera">
+
+                                <button
+                                    type="button"
+                                    class="fecha-navegacion"
+                                    aria-label="Mes anterior"
+                                >
+                                    ←
+                                </button>
+
+                                <div>
+
+                                    <select
+                                        id="fecha-mes"
+                                        aria-label="Mes"
+                                    >
+
+                                        <option value="1">
+                                            Enero
+                                        </option>
+
+                                        <option value="2">
+                                            Febrero
+                                        </option>
+
+                                        <option value="3">
+                                            Marzo
+                                        </option>
+
+                                        <option value="4">
+                                            Abril
+                                        </option>
+
+                                        <option value="5">
+                                            Mayo
+                                        </option>
+
+                                        <option value="6">
+                                            Junio
+                                        </option>
+
+                                        <option value="7">
+                                            Julio
+                                        </option>
+
+                                        <option value="8">
+                                            Agosto
+                                        </option>
+
+                                        <option value="9">
+                                            Septiembre
+                                        </option>
+
+                                        <option value="10">
+                                            Octubre
+                                        </option>
+
+                                        <option value="11">
+                                            Noviembre
+                                        </option>
+
+                                        <option value="12">
+                                            Diciembre
+                                        </option>
+
+                                    </select>
+
+
+                                    <select
+                                        id="fecha-anio"
+                                        aria-label="Año"
+                                    >
+
+                                        <option value="2025">
+                                            2025
+                                        </option>
+
+                                        <option value="2024">
+                                            2024
+                                        </option>
+
+                                        <option value="2023">
+                                            2023
+                                        </option>
+
+                                        <option value="2022">
+                                            2022
+                                        </option>
+
+                                        <option value="2021">
+                                            2021
+                                        </option>
+
+                                        <option value="2020">
+                                            2020
+                                        </option>
+
+                                        <option value="2019">
+                                            2019
+                                        </option>
+
+                                        <option value="2018">
+                                            2018
+                                        </option>
+
+                                        <option value="2017">
+                                            2017
+                                        </option>
+
+                                        <option value="2016">
+                                            2016
+                                        </option>
+
+                                        <option value="2015">
+                                            2015
+                                        </option>
+
+                                        <option value="2014">
+                                            2014
+                                        </option>
+
+                                        <option value="2013">
+                                            2013
+                                        </option>
+
+                                        <option value="2012">
+                                            2012
+                                        </option>
+
+                                        <option value="2011">
+                                            2011
+                                        </option>
+
+                                        <option value="2010">
+                                            2010
+                                        </option>
+
+                                        <option value="2009">
+                                            2009
+                                        </option>
+
+                                        <option value="2008">
+                                            2008
+                                        </option>
+
+                                        <option value="2007">
+                                            2007
+                                        </option>
+
+                                        <option value="2005">
+                                            2005
+                                        </option>
+
+                                    </select>
+
+                                </div>
+
+                                <button
+                                    type="button"
+                                    class="fecha-navegacion"
+                                    aria-label="Mes siguiente"
+                                >
+                                    →
+                                </button>
+
+                            </div>
+
+
+                            <div class="fecha-dias-semana">
+
+                                <span>Lun</span>
+                                <span>Mar</span>
+                                <span>Mié</span>
+                                <span>Jue</span>
+                                <span>Vie</span>
+                                <span>Sáb</span>
+                                <span>Dom</span>
+
+                            </div>
+
+
+                            <div class="fecha-dias">
+
+                                <!-- Los días se generan con js/fecha.js -->
+
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- ========================================
+                         VISTA AÑO
+                    ========================================= -->
+
+                    <div
+                        id="vista-anio"
+                        class="fecha-vista-anio"
+                        hidden
+                    >
+
+                        <div class="fecha-anio-cabecera">
+
+                            <button
+                                id="anio-anterior"
+                                type="button"
+                                class="fecha-navegacion"
+                                aria-label="Año anterior"
+                            >
+                                ←
+                            </button>
+
+                            <select
+                                id="fecha-anio-vista"
+                                aria-label="Año para explorar"
+                            >
+
+                                <option value="2025">2025</option>
+                                <option value="2024">2024</option>
+                                <option value="2023">2023</option>
+                                <option value="2022">2022</option>
+                                <option value="2021">2021</option>
+                                <option value="2020">2020</option>
+                                <option value="2019">2019</option>
+                                <option value="2018">2018</option>
+                                <option value="2017">2017</option>
+                                <option value="2016">2016</option>
+                                <option value="2015">2015</option>
+                                <option value="2014">2014</option>
+                                <option value="2013">2013</option>
+                                <option value="2012">2012</option>
+                                <option value="2011">2011</option>
+                                <option value="2010">2010</option>
+                                <option value="2009">2009</option>
+                                <option value="2008">2008</option>
+                                <option value="2007">2007</option>
+                                <option value="2005">2005</option>
+
+                            </select>
+
+                            <button
+                                id="anio-siguiente"
+                                type="button"
+                                class="fecha-navegacion"
+                                aria-label="Año siguiente"
+                            >
+                                →
+                            </button>
+
+                        </div>
+
+
+                        <div
+                            id="fecha-meses-grilla"
+                            class="fecha-meses-grilla"
+                        >
+
+                            <!-- Los doce meses se generan con js/fecha.js -->
+
+                        </div>
+
+                    </div>
+
+
+                    <!-- ========================================
+                         VISTA ETAPAS
+                    ========================================= -->
+
+                    <div
+                        id="vista-etapas"
+                        class="fecha-vista-etapas"
+                        hidden
+                    >
+
+                        <div class="fecha-etapas-vacio">
+
+                            <p>
+                                La navegación por etapas históricas
+                                se incorporará después de completar
+                                la vista anual.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+
+                <!-- ========================================
+                     PANEL DERECHO
+                ========================================= -->
+
+                <aside class="fecha-resultados-panel">
+
+                    <div class="fecha-resultados-encabezado">
+
+                        <div>
+
+                            <p class="fecha-sobrelinea">
+                                Discursos encontrados
+                            </p>
+
+                            <h2 id="fecha-resultados-titulo">
+                                Elegí una fecha
+                            </h2>
+
+                            <p
+                                id="fecha-resultados-cantidad"
+                                class="fecha-resultados-cantidad"
+                            >
+                                Seleccioná un día del calendario.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+
+                    <div
+                        id="fecha-resultados-lista"
+                        class="fecha-resultados-lista"
+                    >
+
+                        <div class="fecha-resultados-vacio">
+
+                            <p>
+                                Cuando elijas una fecha,
+                                los discursos aparecerán acá.
+                            </p>
+
+                        </div>
+
+                    </div>
+
+                </aside>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <section class="fecha-accesos">
+
+        <div class="fecha-contenedor">
+
+            <div class="fecha-accesos-encabezado">
+
+                <p class="fecha-sobrelinea">
+                    Accesos rápidos
+                </p>
+
+                <h2>
+                    También podés explorar por períodos
+                </h2>
+
+            </div>
+
+
+            <div class="fecha-accesos-grilla">
+
+                <button
+                    type="button"
+                    class="fecha-acceso"
+                    data-anio-acceso="2012"
+                >
+
+                    <span>
+                        2012
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Ver todo el año
+                        </h3>
+
+                        <p>
+                            Todos los discursos registrados en 2012.
+                        </p>
+
+                    </div>
+
+                </button>
+
+
+                <button
+                    type="button"
+                    class="fecha-acceso"
+                    data-etapa-desde="2005-01-01"
+                    data-etapa-hasta="2007-12-09"
+                >
+
+                    <span>
+                        2005–2007
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Senadora nacional
+                        </h3>
+
+                        <p>
+                            Discursos del período anterior
+                            a la primera presidencia.
+                        </p>
+
+                    </div>
+
+                </button>
+
+
+                <button
+                    type="button"
+                    class="fecha-acceso"
+                    data-etapa-desde="2007-12-10"
+                    data-etapa-hasta="2011-12-09"
+                >
+
+                    <span>
+                        2007–2011
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Primer mandato presidencial
+                        </h3>
+
+                        <p>
+                            Discursos del primer período presidencial.
+                        </p>
+
+                    </div>
+
+                </button>
+
+
+                <button
+                    type="button"
+                    class="fecha-acceso"
+                    data-etapa-desde="2011-12-10"
+                    data-etapa-hasta="2015-12-09"
+                >
+
+                    <span>
+                        2011–2015
+                    </span>
+
+                    <div>
+
+                        <h3>
+                            Segundo mandato presidencial
+                        </h3>
+
+                        <p>
+                            Discursos del segundo período presidencial.
+                        </p>
+
+                    </div>
+
+                </button>
+
+            </div>
+
+        </div>
+
+    </section>
+
+</main>
+
+
+<footer class="fecha-footer">
+
+    <div class="fecha-contenedor">
+
+        <strong>
+            Proyecto Discursos
+        </strong>
+
+        <p>
+            Archivo digital de los discursos públicos de Cristina.
+        </p>
+
+    </div>
+
+</footer>
+
+
+<script src="js/fecha.js"></script>
+
+</body>
+
+</html>
