@@ -168,24 +168,40 @@ def extraer_transcripcion(contenido):
         "titulo",
         "título",
         "fecha",
+
+        # Geografía
+        "pais",
+        "país",
+        "provincia",
+        "localidad",
         "lugar",
+        "lugar especifico",
+        "lugar específico",
+
+        # Colecciones
         "coleccion",
         "colección",
         "colecciones",
+        "evento",
+        "evento/colecciones",
+
+        # Video
         "estado audiovisual",
         "ax video",
         "ax video (estado)",
-        "verificado",
         "video",
         "videoxxx",
         "url",
         "url od",
+
+        # Contenido
         "miniatura",
         "slogan",
         "descripcion",
         "descripción",
-        "evento",
-        "evento/colecciones",
+
+        # Control interno
+        "verificado",
     }
 
     indice = 0

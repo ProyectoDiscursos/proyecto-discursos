@@ -10,3 +10,9 @@ data/archive_subidas.jsonl
 
 # Backups
 backup/
+
+# Archivos de Windows
+desktop.ini
+
+# Reportes locales de auditoría
+data/auditoria/

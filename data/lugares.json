@@ -1560,6 +1560,14 @@
     "nombreEncontrado": "San Salvador, San Salvador Centro, San Salvador, El Salvador"
   },
   {
+    "pais": "Emiratos Árabes Unidos",
+    "provincia": "",
+    "localidad": "Abu Dhabi",
+    "lat": 24.4538352,
+    "lng": 54.3774014,
+    "nombreEncontrado": "Abu Dabi, أبوظبي, Abu Dabi, Emiratos Árabes Unidos"
+  },
+  {
     "pais": "España",
     "provincia": "",
     "localidad": "Barcelona",
@@ -1712,6 +1720,14 @@
     "nombreEncontrado": "Venecia, Véneto, 30121-30176, Italia"
   },
   {
+    "pais": "Kuwait",
+    "provincia": "",
+    "localidad": "Kuwait",
+    "lat": 29.3796532,
+    "lng": 47.9734174,
+    "nombreEncontrado": "Kuwait, القبلة, Al Asimah, 15005, Kuwait"
+  },
+  {
     "pais": "Libia",
     "provincia": "",
     "localidad": "Trípoli",
@@ -1830,6 +1846,22 @@
     "lat": 10.6572678,
     "lng": -61.5180173,
     "nombreEncontrado": "Puerto España, Trinidad y Tobago"
+  },
+  {
+    "pais": "Túnez",
+    "provincia": "",
+    "localidad": "Cártago, Túnez",
+    "lat": 36.8548083,
+    "lng": 10.3309924,
+    "nombreEncontrado": "Cartago, Túnez, Gobernación de Túnez, 2016, Túnez"
+  },
+  {
+    "pais": "Túnez",
+    "provincia": "",
+    "localidad": "Túnez",
+    "lat": 36.8002068,
+    "lng": 10.1857757,
+    "nombreEncontrado": "Túnez, Gobernación de Túnez, Túnez"
   },
   {
     "pais": "Turquía",
