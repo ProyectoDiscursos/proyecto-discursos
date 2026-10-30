@@ -338,21 +338,9 @@ function mostrarHero(discurso) {
         discurso.miniatura ||
         "images/miniaturas/sin-miniatura.jpg";
 
-    fondo.style.backgroundImage = `
-        linear-gradient(
-            90deg,
-            rgba(5, 8, 18, 0.98) 0%,
-            rgba(5, 8, 18, 0.82) 38%,
-            rgba(5, 8, 18, 0.35) 70%,
-            rgba(5, 8, 18, 0.55) 100%
-        ),
-        linear-gradient(
-            0deg,
-            rgba(5, 8, 18, 1) 0%,
-            rgba(5, 8, 18, 0) 45%
-        ),
-        url("${escaparURLCSS(imagenHero)}")
-    `;
+    // La imagen queda limpia: el degradado claro y la legibilidad
+    // se resuelven desde CSS para mantener una identidad visual coherente.
+    fondo.style.backgroundImage = `url("${escaparURLCSS(imagenHero)}")`;
 }
 
 
