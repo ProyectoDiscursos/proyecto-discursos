@@ -2310,10 +2310,12 @@ body.visor-video-abierto{
 
     overflow:hidden;
 }
-/* Corrección: pestaña activa de la navegación */
-nav a.active,
-nav .nav-link.active,
-.navbar a.active,
-header nav a[aria-current="page"] {
+/* Color de los enlaces de navegación */
+.nav-link {
+    color: #173B68 !important;
+}
+
+/* Color de la sección activa */
+.nav-link.active {
     color: #173B68 !important;
 }
