@@ -899,3 +899,10 @@ body {
         padding: 30px 18px;
     }
 }
+/* Corrección: pestaña activa de la navegación */
+nav a.active,
+nav .nav-link.active,
+.navbar a.active,
+header nav a[aria-current="page"] {
+    color: #173B68 !important;
+}
